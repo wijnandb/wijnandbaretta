@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI on Wijnand Baretta</title><link>https://wijnandbaretta.nl/tags/ai/</link><description>Recent content in AI on Wijnand Baretta</description><generator>Hugo -- 0.152.2</generator><language>en</language><lastBuildDate>Tue, 04 Nov 2025 11:57:58 +0100</lastBuildDate><atom:link href="https://wijnandbaretta.nl/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>A writing system for a nonlinear brain</title><link>https://wijnandbaretta.nl/posts/a-writing-system-for-a-nonlinear-brain/</link><pubDate>Tue, 04 Nov 2025 11:57:58 +0100</pubDate><guid>https://wijnandbaretta.nl/posts/a-writing-system-for-a-nonlinear-brain/</guid><description>I don&amp;#39;t want to force myself into perfect structure before creating. I want a system where messy thoughts go in, meaningful writing comes out — powered by AI that knows my voice and my purpose.</description></item><item><title>Glossary of LLM related terms</title><link>https://wijnandbaretta.nl/posts/2025/03/glossary-of-llm-related-terms/</link><pubDate>Tue, 25 Mar 2025 15:09:39 +0100</pubDate><guid>https://wijnandbaretta.nl/posts/2025/03/glossary-of-llm-related-terms/</guid><description>&lt;h1 id="-glossary"&gt;📚 Glossary&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id="-general-terms"&gt;🧠 General Terms&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;LLM (Large Language Model)&lt;/strong&gt;&lt;br&gt;
+A machine learning model trained on vast amounts of text data to understand and generate human-like language. Examples include ChatGPT, Claude, Gemini, and Mistral.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Token&lt;/strong&gt;&lt;br&gt;
+A unit of text (word, part of a word, or symbol) used by LLMs for processing language.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Prompt&lt;/strong&gt;&lt;br&gt;
+A textual input given to an LLM to instruct or query it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Context Window&lt;/strong&gt;&lt;br&gt;
+The amount of text (in tokens) an LLM can consider at once.&lt;/p&gt;</description></item><item><title>Asking a single agent to assemble a multi-agent crew</title><link>https://wijnandbaretta.nl/posts/2025/03/asking-a-single-agent-to-assemble-a-multi-agent-crew/</link><pubDate>Tue, 25 Mar 2025 12:36:12 +0100</pubDate><guid>https://wijnandbaretta.nl/posts/2025/03/asking-a-single-agent-to-assemble-a-multi-agent-crew/</guid><description>&lt;p&gt;I am doing a little experiment and at the moment of writing, I don&amp;rsquo;t know the outcome yet.
+First, I ask ChatGPT 4 the follwing (quite elaborate) question:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I know there are a million different fitness apps out there and hardly any on eof them actually &amp;ldquo;works&amp;rdquo; in the sense that it automagically gets people to work out.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;So before even considering building something, we need to analyze what an app&amp;rsquo;s actual job is.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Using AI to lead a happier life?</title><link>https://wijnandbaretta.nl/posts/2025/03/using-ai-to-lead-a-happier-life/</link><pubDate>Mon, 24 Mar 2025 17:16:23 +0100</pubDate><guid>https://wijnandbaretta.nl/posts/2025/03/using-ai-to-lead-a-happier-life/</guid><description>&lt;p&gt;&lt;em&gt;(And Not Lose My Mind in the Process)&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Let’s be honest. I’m not a monk meditating on a mountaintop. I’m not waking up at 5 a.m. for cold plunges and journaling. (Okay, I tried journaling once. Lost the notebook. Still looking for it.)&lt;/p&gt;
+&lt;p&gt;What I &lt;em&gt;am&lt;/em&gt; doing is trying to figure out something that’s been bugging me for a while:&lt;br&gt;
+👉 &lt;strong&gt;How can I use AI to lead a happier life?&lt;/strong&gt;&lt;br&gt;
+Because, if you’re anything like me, life can feel like a never-ending ping-pong game where you’re both players, the ball, and somehow also the table.&lt;/p&gt;</description></item></channel></rss>

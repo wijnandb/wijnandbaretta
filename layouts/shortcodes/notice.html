@@ -1,0 +1,5 @@
+{{ $type := .Get 0 | default "info" }}
+<div class="notice notice-{{ $type }}" style="padding: 1rem; margin: 1rem 0; border-radius: 4px; border-left: 4px solid {{ cond (eq $type "warning") "#f0ad4e" (cond (eq $type "tip") "#5cb85c" (cond (eq $type "note") "#5bc0de" (cond (eq $type "question") "#d9534f" (cond (eq $type "example") "#337ab7" "#5bc0de"))))}}; background: {{ cond (eq $type "warning") "#fcf8e3" (cond (eq $type "tip") "#dff0d8" (cond (eq $type "note") "#d9edf7" (cond (eq $type "question") "#f2dede" (cond (eq $type "example") "#e7f1fa" "#d9edf7"))))}};">
+  <strong style="text-transform: capitalize;">{{ $type }}:</strong>
+  {{ .Inner | markdownify }}
+</div>

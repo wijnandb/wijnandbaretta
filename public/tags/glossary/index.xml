@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Glossary on Wijnand Baretta</title><link>https://wijnandbaretta.nl/tags/glossary/</link><description>Recent content in Glossary on Wijnand Baretta</description><generator>Hugo -- 0.152.2</generator><language>en</language><lastBuildDate>Tue, 25 Mar 2025 15:09:39 +0100</lastBuildDate><atom:link href="https://wijnandbaretta.nl/tags/glossary/index.xml" rel="self" type="application/rss+xml"/><item><title>Glossary of LLM related terms</title><link>https://wijnandbaretta.nl/posts/2025/03/glossary-of-llm-related-terms/</link><pubDate>Tue, 25 Mar 2025 15:09:39 +0100</pubDate><guid>https://wijnandbaretta.nl/posts/2025/03/glossary-of-llm-related-terms/</guid><description>&lt;h1 id="-glossary"&gt;📚 Glossary&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id="-general-terms"&gt;🧠 General Terms&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;LLM (Large Language Model)&lt;/strong&gt;&lt;br&gt;
+A machine learning model trained on vast amounts of text data to understand and generate human-like language. Examples include ChatGPT, Claude, Gemini, and Mistral.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Token&lt;/strong&gt;&lt;br&gt;
+A unit of text (word, part of a word, or symbol) used by LLMs for processing language.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Prompt&lt;/strong&gt;&lt;br&gt;
+A textual input given to an LLM to instruct or query it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Context Window&lt;/strong&gt;&lt;br&gt;
+The amount of text (in tokens) an LLM can consider at once.&lt;/p&gt;</description></item></channel></rss>
