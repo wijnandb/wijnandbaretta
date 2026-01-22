@@ -103,6 +103,12 @@ url = "/ideas/"
 weight = 30
 
 [[menu.main]]
+identifier = "books"
+name = "Books"
+url = "/books/"
+weight = 35
+
+[[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
