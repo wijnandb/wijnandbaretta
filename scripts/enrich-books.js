@@ -2,8 +2,11 @@
 const fs = require('fs');
 const path = require('path');
 
+// Project root (one level up from scripts/)
+const projectRoot = path.resolve(__dirname, '..');
+
 // Read books.json
-const booksJson = JSON.parse(fs.readFileSync('/home/wijnandb/sites/wijnandbaretta/static/data/books.json', 'utf8'));
+const booksJson = JSON.parse(fs.readFileSync(path.join(projectRoot, 'static/data/books.json'), 'utf8'));
 
 // Create ASIN lookup from JSON
 const booksByAsin = {};
@@ -12,7 +15,8 @@ booksJson.forEach(book => {
 });
 
 // Read markdown files and extract metadata
-const booksDir = '/home/wijnandb/sites/15-a-day/content/books';
+// Note: This reads from a separate project (15-a-day) - update path as needed
+const booksDir = path.resolve(projectRoot, '../15-a-day/content/books');
 const mdFiles = fs.readdirSync(booksDir).filter(f => f.endsWith('.md'));
 
 const enrichedBooks = [];
@@ -76,5 +80,5 @@ const output = {
   tags: Array.from(allTags).sort()
 };
 
-fs.writeFileSync('/home/wijnandb/sites/wijnandbaretta/static/data/books-enriched.json', JSON.stringify(output, null, 2));
+fs.writeFileSync(path.join(projectRoot, 'static/data/books-enriched.json'), JSON.stringify(output, null, 2));
 console.log(`Processed ${enrichedBooks.length} books with ${allTags.size} unique tags`);
