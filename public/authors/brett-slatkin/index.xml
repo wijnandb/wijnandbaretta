@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Brett, Slatkin on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/brett-slatkin/</link>
+    <description>Recent content in Brett, Slatkin on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/brett-slatkin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effective Python: 90 Specific Ways to Write Better Python (Effective Software Development Series)</title>
+      <link>http://localhost:1313/books/effective-python-90-specific-ways-to-write-better-python-effective-software-development-series/</link>
+      <pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/effective-python-90-specific-ways-to-write-better-python-effective-software-development-series/</guid>
+      <description>&lt;h1 id=&#34;effective-python-90-specific-ways-to-write-better-python&#34;&gt;Effective Python: 90 Specific Ways to Write Better Python&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Effective Python: 90 Specific Ways to Write Better Python&amp;rdquo; by Brett Slatkin is a practical guide aimed at helping Python developers enhance their coding skills. The book is part of the Effective Software Development Series and is structured around specific recommendations for writing clear and Pythonic code. It provides actionable insights into various aspects of Python programming, with an emphasis on leveraging Python&amp;rsquo;s unique features to produce more efficient and maintainable code. The 90 specific ways cover a broad range of topics, from traditional language features to more modern idioms.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

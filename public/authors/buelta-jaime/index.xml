@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Buelta, Jaime on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/buelta-jaime/</link>
+    <description>Recent content in Buelta, Jaime on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/buelta-jaime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Automation Cookbook: 75 Python automation ideas for web scraping, data wrangling, and processing Excel, reports, emails, and more, 2nd Edition</title>
+      <link>http://localhost:1313/books/python-automation-cookbook-75-python-automation-ideas-for-web-scraping-data-wrangling-and-processing-excel-reports-emails-and-more-2nd-edition/</link>
+      <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-automation-cookbook-75-python-automation-ideas-for-web-scraping-data-wrangling-and-processing-excel-reports-emails-and-more-2nd-edition/</guid>
+      <description>&lt;h1 id=&#34;python-automation-cookbook-75-python-automation-ideas-for-web-scraping-data-wrangling-and-processing-excel-reports-emails-and-more-2nd-edition&#34;&gt;Python Automation Cookbook: 75 Python automation ideas for web scraping, data wrangling, and processing Excel, reports, emails, and more, 2nd Edition&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Python Automation Cookbook, 2nd Edition&amp;rdquo; by Jaime Buelta is a practical guide focused on automating a variety of tasks using Python. The book covers a wide range of use cases such as web scraping, data wrangling, and the manipulation of data in formats like Excel, handling of emails, and report automation. It is designed for readers who wish to gain hands-on experience with Python scripting to streamline routine tasks efficiently. Each chapter is structured to introduce a particular automation problem followed by detailed solutions leveraging Python&amp;rsquo;s capabilities.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

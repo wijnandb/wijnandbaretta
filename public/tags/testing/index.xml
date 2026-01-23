@@ -2,20 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Testing on Wijnand Baretta</title>
-    <link>http://localhost:41571/tags/testing/</link>
+    <link>http://localhost:1313/tags/testing/</link>
     <description>Recent content in Testing on Wijnand Baretta</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Sep 2021 10:24:07 +0200</lastBuildDate>
-    <atom:link href="http://localhost:41571/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/testing/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creating fixtures for testing Brede School</title>
-      <link>http://localhost:41571/posts/creating-fixtures-for-testing-brede-school/</link>
-      <pubDate>Tue, 14 Sep 2021 10:24:07 +0200</pubDate>
-      <guid>http://localhost:41571/posts/creating-fixtures-for-testing-brede-school/</guid>
-      <description>&lt;p&gt;We need fake content for the Brede School, and probably for other projects as well. This content is both needed for the Development environment as for testing purposes.&lt;/p&gt;
-&lt;p&gt;There are different methods to be used. I quite like the idea that we load the development environment with fake data, that we create from the command line (via a script).&lt;/p&gt;
-&lt;p&gt;This would mean generating schools, students, parents, teachers, schoolmanagers, companies, activities, schedules and participations (I might have forgotten something, but you get the gist, generate all necessary data).&lt;/p&gt;</description>
+      <title>Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More</title>
+      <link>http://localhost:1313/books/serious-python-black-belt-advice-on-deployment-scalability-testing-and-more/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/serious-python-black-belt-advice-on-deployment-scalability-testing-and-more/</guid>
+      <description>&lt;h1 id=&#34;serious-python-black-belt-advice-on-deployment-scalability-testing-and-more&#34;&gt;Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More&amp;rdquo; by Julien Danjou is a pragmatic guide aimed at intermediate to advanced Python programmers looking to deepen their understanding of the language and improve their coding practices. The book delves into complex topics such as deployment, scalability, and testing, offering readers strategic advice and techniques to master professional Python programming. It covers best practices that enable efficient coding, robust testing mechanisms, seamless deployment strategies, and ways to scale applications effectively.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python Testing with pytest: Simple, Rapid, Effective, and Scalable</title>
+      <link>http://localhost:1313/books/python-testing-with-pytest-simple-rapid-effective-and-scalable/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-testing-with-pytest-simple-rapid-effective-and-scalable/</guid>
+      <description>&lt;h1 id=&#34;python-testing-with-pytest-simple-rapid-effective-and-scalable&#34;&gt;Python Testing with pytest: Simple, Rapid, Effective, and Scalable&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Python Testing with pytest&lt;/em&gt; is an informative guide written by Brian Okken, focusing on the usage of the pytest framework for testing Python code. The book covers various aspects of testing using pytest, including installation, basic usage, and advanced features. It offers a comprehensive introduction to the methodology and philosophy of pytest, highlighting its simplicity and effectiveness. The book addresses setting up your test environment, writing effective test cases, and leveraging pytest&amp;rsquo;s features such as fixtures, parameterization, and plugins to write scalable and maintainable test suites.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

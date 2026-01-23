@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zeratsky, John on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/zeratsky-john/</link>
+    <description>Recent content in Zeratsky, John on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/zeratsky-john/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days</title>
+      <link>http://localhost:1313/books/sprint-how-to-solve-big-problems-and-test-new-ideas-in-just-five-days/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/sprint-how-to-solve-big-problems-and-test-new-ideas-in-just-five-days/</guid>
+      <description>&lt;h1 id=&#34;overview-of-sprint-how-to-solve-big-problems-and-test-new-ideas-in-just-five-days&#34;&gt;Overview of &amp;ldquo;Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days&amp;rdquo;&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days&amp;rdquo; is a practical guide that outlines a unique five-day process developed by the authors—Jake Knapp, John Zeratsky, and Braden Kowitz—while working at Google Ventures. The book provides a step-by-step framework for solving tough challenges, exploring new ideas, and accelerating performance. It&amp;rsquo;s designed to help teams focus their energy and creativity on prototyping and testing solutions within a set timeframe, thereby minimizing risk and maximizing efficiency. The sprint process consists of stages: understanding the problem, ideation, decision-making, prototyping, and finally, testing with real users.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

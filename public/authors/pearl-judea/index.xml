@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pearl, Judea on Wijnand Baretta</title>
+    <link>http://localhost:1314/authors/pearl-judea/</link>
+    <description>Recent content in Pearl, Judea on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 31 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1314/authors/pearl-judea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Book of Why: The New Science of Cause and Effect</title>
+      <link>http://localhost:1314/books/the-book-of-why-the-new-science-of-cause-and-effect/</link>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/books/the-book-of-why-the-new-science-of-cause-and-effect/</guid>
+      <description>&lt;h1 id=&#34;the-book-of-why-the-new-science-of-cause-and-effect&#34;&gt;The Book of Why: The New Science of Cause and Effect&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Judea Pearl and Dana Mackenzie&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;The Book of Why: The New Science of Cause and Effect&amp;rdquo; by Judea Pearl and Dana Mackenzie explores the concept of causality and its crucial role in scientific inquiry and everyday decision-making. The book delves into the limitations of traditional statistical methods, which often focus on correlations rather than causative relationships, and presents a new approach to understanding cause and effect through Pearl&amp;rsquo;s pioneering work on causal diagrams and the mathematics of causal inference.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

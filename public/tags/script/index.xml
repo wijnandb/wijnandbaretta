@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Script on Wijnand Baretta</title>
-    <link>http://localhost:41571/tags/script/</link>
+    <link>http://localhost:1314/tags/script/</link>
     <description>Recent content in Script on Wijnand Baretta</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 Nov 2021 11:44:49 +0100</lastBuildDate>
-    <atom:link href="http://localhost:41571/tags/script/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/script/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shell command to run Hugo server</title>
-      <link>http://localhost:41571/posts/shell-command-to-run-hugo-server/</link>
+      <link>http://localhost:1314/posts/shell-command-to-run-hugo-server/</link>
       <pubDate>Fri, 19 Nov 2021 11:44:49 +0100</pubDate>
-      <guid>http://localhost:41571/posts/shell-command-to-run-hugo-server/</guid>
+      <guid>http://localhost:1314/posts/shell-command-to-run-hugo-server/</guid>
       <description>&lt;p&gt;I want to be able to start up my personal site on my computer with a simple commmand.
 I already create a shortcut to create a new post, which also starts up the Hugo server and opens my site, now I want to be able to start the site without having to write a new post.&lt;/p&gt;
 &lt;p&gt;So, how do I want it to work?

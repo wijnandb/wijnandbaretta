@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vincent, William on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/vincent-william/</link>
+    <description>Recent content in Vincent, William on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/vincent-william/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Django for Professionals: Production websites with Python &amp; Django</title>
+      <link>http://localhost:1313/books/django-for-professionals-production-websites-with-python-django/</link>
+      <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/django-for-professionals-production-websites-with-python-django/</guid>
+      <description>&lt;h1 id=&#34;overview-of-django-for-professionals-production-websites-with-python--django-by-william-vincent&#34;&gt;Overview of &lt;em&gt;Django for Professionals: Production websites with Python &amp;amp; Django&lt;/em&gt; by William Vincent&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Django for Professionals&amp;rdquo; is a comprehensive guide designed to help readers build production-ready web applications using the Django framework with Python. The book delves into advanced topics needed for developing high-performing and secure Django applications, emphasizing best practices in software development and deployment. It covers aspects such as setting up a proper development environment, managing databases, deploying on hosting platforms, handling user authentication, and optimizing performance to create scalable, maintainable web applications.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

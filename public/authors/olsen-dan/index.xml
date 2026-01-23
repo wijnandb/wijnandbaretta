@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Olsen, Dan on Wijnand Baretta</title>
+    <link>http://localhost:1314/authors/olsen-dan/</link>
+    <description>Recent content in Olsen, Dan on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1314/authors/olsen-dan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback</title>
+      <link>http://localhost:1314/books/the-lean-product-playbook-how-to-innovate-with-minimum-viable-products-and-rapid-customer-feedback/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/books/the-lean-product-playbook-how-to-innovate-with-minimum-viable-products-and-rapid-customer-feedback/</guid>
+      <description>&lt;h1 id=&#34;the-lean-product-playbook-how-to-innovate-with-minimum-viable-products-and-rapid-customer-feedback-by-dan-olsen&#34;&gt;The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback by Dan Olsen&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;The Lean Product Playbook&amp;rdquo; by Dan Olsen is a comprehensive guide focused on the application of lean startup principles specifically to product development. The book outlines a step-by-step approach to creating successful products through the use of Minimum Viable Products (MVPs) and obtaining rapid customer feedback. Olsen introduces the Lean Product Process, which is designed to help teams systematically and efficiently achieve product-market fit. The framework emphasizes understanding customer needs, defining value propositions, and applying iterative product cycles to refine products based on user feedback, ultimately reducing the risks and costs associated with product development.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

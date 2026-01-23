@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Molina, Alessandro on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/molina-alessandro/</link>
+    <description>Recent content in Molina, Alessandro on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/molina-alessandro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crafting Test-Driven Software with Python: Write test suites that scale with your applications&#39; needs and complexity using Python and PyTest</title>
+      <link>http://localhost:1313/books/crafting-test-driven-software-with-python-write-test-suites-that-scale-with-your-applications-needs-and-complexity-using-python-and-pytest/</link>
+      <pubDate>Tue, 14 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/crafting-test-driven-software-with-python-write-test-suites-that-scale-with-your-applications-needs-and-complexity-using-python-and-pytest/</guid>
+      <description>&lt;h1 id=&#34;crafting-test-driven-software-with-python&#34;&gt;Crafting Test-Driven Software with Python&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Crafting Test-Driven Software with Python&amp;rdquo; by Alessandro Molina is a comprehensive guide that teaches developers how to implement Test-Driven Development (TDD) using Python and the pytest framework. The book begins by introducing the fundamentals of TDD and why it&amp;rsquo;s a valuable approach for producing reliable and maintainable code. It then delves into writing effective test suites that can scale with the complexity of real-world applications.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

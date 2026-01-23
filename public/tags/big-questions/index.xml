@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Big Questions on Wijnand Baretta</title>
+    <link>http://localhost:1313/tags/big-questions/</link>
+    <description>Recent content in Big Questions on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/big-questions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brief Answers to the Big Questions</title>
+      <link>http://localhost:1313/books/brief-answers-to-the-big-questions/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/brief-answers-to-the-big-questions/</guid>
+      <description>&lt;h1 id=&#34;overview-of-brief-answers-to-the-big-questions-by-stephen-hawking&#34;&gt;Overview of &amp;ldquo;Brief Answers to the Big Questions&amp;rdquo; by Stephen Hawking&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Brief Answers to the Big Questions&amp;rdquo; is a posthumous book by renowned physicist Stephen Hawking, offering his insights on pressing scientific and philosophical questions. The book is divided into ten chapters, each addressing a fundamental question about the universe, science, and humanity&amp;rsquo;s future. Key topics include the existence of God, the beginning of the universe, the nature of black holes, the potential for time travel, and the prospects of human survival on Earth and in space. Hawking uses his expertise to explain complex scientific principles in an accessible manner, focusing on the importance of curiosity and the role of science in understanding our world.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

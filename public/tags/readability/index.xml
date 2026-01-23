@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Readability on Wijnand Baretta</title>
-    <link>http://localhost:41571/tags/readability/</link>
+    <link>http://localhost:1314/tags/readability/</link>
     <description>Recent content in Readability on Wijnand Baretta</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <lastBuildDate>Fri, 03 Sep 2021 09:17:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:41571/tags/readability/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/readability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Determine readability score of a text</title>
-      <link>http://localhost:41571/posts/determine-readability-score-of-a-text/</link>
+      <link>http://localhost:1314/posts/determine-readability-score-of-a-text/</link>
       <pubDate>Fri, 03 Sep 2021 09:17:00 +0200</pubDate>
-      <guid>http://localhost:41571/posts/determine-readability-score-of-a-text/</guid>
+      <guid>http://localhost:1314/posts/determine-readability-score-of-a-text/</guid>
       <description>&lt;p&gt;To determine the &lt;a href=&#34;https://en.wikipedia.org/wiki/Readability&#34;&gt;readability&lt;/a&gt; score of a text (how easy or difficult is the text), there are different methods.
 Factors on which te readability is calculated are:&lt;/p&gt;
 &lt;ul&gt;

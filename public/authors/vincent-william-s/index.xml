@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vincent, William S on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/vincent-william-s/</link>
+    <description>Recent content in Vincent, William S on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/vincent-william-s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Django for APIs: Build web APIs with Python and Django</title>
+      <link>http://localhost:1313/books/django-for-apis-build-web-apis-with-python-and-django/</link>
+      <pubDate>Sat, 12 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/django-for-apis-build-web-apis-with-python-and-django/</guid>
+      <description>&lt;h1 id=&#34;django-for-apis-build-web-apis-with-python-and-django-by-william-s-vincent&#34;&gt;Django for APIs: Build web APIs with Python and Django by William S. Vincent&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Django for APIs&amp;rdquo; by William S. Vincent is a technical guide designed to help developers create web APIs using Python and the Django framework. The book provides a comprehensive walkthrough of setting up Django to develop RESTful web services, integrating with front-end frameworks, and deploying APIs efficiently. Aimed at both beginners and experienced developers, it covers API fundamentals, database optimization, and advanced topics such as authentication and permissions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

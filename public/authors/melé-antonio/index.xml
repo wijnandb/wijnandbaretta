@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Melé, Antonio on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/mel%C3%A9-antonio/</link>
+    <description>Recent content in Melé, Antonio on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/mel%C3%A9-antonio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Django 3 By Example: Build powerful and reliable Python web applications from scratch, 3rd Edition</title>
+      <link>http://localhost:1313/books/django-3-by-example-build-powerful-and-reliable-python-web-applications-from-scratch-3rd-edition/</link>
+      <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/django-3-by-example-build-powerful-and-reliable-python-web-applications-from-scratch-3rd-edition/</guid>
+      <description>&lt;h1 id=&#34;django-3-by-example-build-powerful-and-reliable-python-web-applications-from-scratch-3rd-edition&#34;&gt;Django 3 By Example: Build powerful and reliable Python web applications from scratch, 3rd Edition&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Django 3 By Example&amp;rdquo; by Antonio Melé is a comprehensive guide designed to help developers build robust web applications using Django 3. The book is structured to progressively introduce readers to the framework, starting from the basics and moving towards more advanced topics. Throughout the book, readers build four real-world projects, including a blogging platform, an e-commerce application, an e-learning system, and a personal finance app. These projects help demonstrate Django&amp;rsquo;s core functionalities, including form handling, user authentication, database interactions, and deployment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Django 5 By Example: Build powerful and reliable Python web applications from scratch</title>
+      <link>http://localhost:1313/books/django-5-by-example-build-powerful-and-reliable-python-web-applications-from-scratch/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/django-5-by-example-build-powerful-and-reliable-python-web-applications-from-scratch/</guid>
+      <description>&lt;h1 id=&#34;django-5-by-example-build-powerful-and-reliable-python-web-applications-from-scratch&#34;&gt;Django 5 By Example: Build powerful and reliable Python web applications from scratch&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;This book teaches by example. It walks in detail through development of a sample application, illustrating each step via complete working code and either screenshots or console snippets. The cumbersome and time consuming task of debugging will be a cake walk with this book. If you are a Django application developer who wants to create robust applications quickly that work well and are easy to maintain in the long term, this book is for you. This book is the right pick if you want to be smartly tutored to make best use of Django&amp;rsquo;s rich testing and debugging support and make testing an effortless task. Basic knowledge of Python, Django, and the overall structure of a database-driven web application is assumed. However, the code samples are fully explained so that even beginners who are new to the area can learn a great deal from this book.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

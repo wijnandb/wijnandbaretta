@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vaughan, Lee on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/vaughan-lee/</link>
+    <description>Recent content in Vaughan, Lee on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 30 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/vaughan-lee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impractical Python Projects: Playful Programming Activities to Make You Smarter</title>
+      <link>http://localhost:1313/books/impractical-python-projects-playful-programming-activities-to-make-you-smarter/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/impractical-python-projects-playful-programming-activities-to-make-you-smarter/</guid>
+      <description>&lt;h1 id=&#34;impractical-python-projects-playful-programming-activities-to-make-you-smarter&#34;&gt;Impractical Python Projects: Playful Programming Activities to Make You Smarter&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Impractical Python Projects: Playful Programming Activities to Make You Smarter&amp;rdquo; by Lee Vaughan is a creative and engaging book that introduces readers to the world of programming through a series of quirky and fun projects. These projects, designed for programmers of all levels, focus on solving unlikely and whimsical problems using Python. The book covers diverse subjects, including mathematics, science, simulation, and more, with each chapter providing hands-on challenges that encourage readers to think critically and creatively.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Real-World Python: A Hacker&#39;s Guide to Solving Problems with Code</title>
+      <link>http://localhost:1313/books/real-world-python-a-hacker-s-guide-to-solving-problems-with-code/</link>
+      <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/real-world-python-a-hacker-s-guide-to-solving-problems-with-code/</guid>
+      <description>&lt;h1 id=&#34;real-world-python-a-hackers-guide-to-solving-problems-with-code&#34;&gt;Real-World Python: A Hacker&amp;rsquo;s Guide to Solving Problems with Code&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Real-World Python: A Hacker&amp;rsquo;s Guide to Solving Problems with Code&amp;rdquo; by Lee Vaughan is a practical guide designed to enhance your Python programming skills through solving real-world problems. The book focuses on applying Python to a wide array of tasks and challenges that one might encounter in various domains, from data analysis to automation. Throughout the chapters, Vaughan provides insightful examples and exercises that encourage readers to engage with Python programming on a deeper level and apply their knowledge in practical contexts.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

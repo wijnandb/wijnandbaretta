@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Microservices on Wijnand Baretta</title>
+    <link>http://localhost:1313/tags/microservices/</link>
+    <description>Recent content in Microservices on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/microservices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing Microservices Using Django: Structuring, Deploying and Managing the Microservices Architecture with Django (English Edition)</title>
+      <link>http://localhost:1313/books/designing-microservices-using-django-structuring-deploying-and-managing-the-microservices-architecture-with-django-english-edition/</link>
+      <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/designing-microservices-using-django-structuring-deploying-and-managing-the-microservices-architecture-with-django-english-edition/</guid>
+      <description>&lt;h1 id=&#34;designing-microservices-using-django-by-shayank-jain&#34;&gt;Designing Microservices Using Django by Shayank Jain&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Designing Microservices Using Django&amp;rdquo;&lt;/em&gt; by Shayank Jain explores the principles and best practices for building microservices architectures specifically within the Django framework. The book covers how Django&amp;rsquo;s capabilities can be leveraged to create scalable, modular services that can be developed, deployed, and maintained independently. It delves into key aspects of microservices design, such as service decomposition, inter-service communication, and effective use of Django’s REST framework. The book also emphasizes the importance of security, testing, and monitoring to ensure a resilient architecture.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

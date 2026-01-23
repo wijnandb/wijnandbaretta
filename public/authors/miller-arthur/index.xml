@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Miller, Arthur on Wijnand Baretta</title>
+    <link>http://localhost:1314/authors/miller-arthur/</link>
+    <description>Recent content in Miller, Arthur on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1314/authors/miller-arthur/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Death of a Salesman</title>
+      <link>http://localhost:1314/books/death-of-a-salesman/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/books/death-of-a-salesman/</guid>
+      <description>&lt;h1 id=&#34;death-of-a-salesman-by-arthur-miller&#34;&gt;Death of a Salesman by Arthur Miller&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary:&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Death of a Salesman&amp;rdquo; is a classic American play written by Arthur Miller, first performed in 1949. It explores the life of Willy Loman, an aging and struggling salesman who is grappling with the reality of his unfulfilled dreams and the pressure of societal expectations. The play delves into themes such as the American Dream, identity, reality versus illusion, and family dynamics. Willy’s interactions with his wife Linda, his sons Biff and Happy, and other characters highlight his deteriorating mental state and his obsession with success and validation. The narrative unfolds through a mix of present interactions and recollections of the past, illustrating Willy&amp;rsquo;s mental collapse and the impact of his unattainable aspirations on his family.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

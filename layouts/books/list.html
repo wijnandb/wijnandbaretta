@@ -1,0 +1,336 @@
+{{ define "main" }}
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p>{{ . }}</p>{{ end }}
+</header>
+
+<!-- Controls -->
+<div class="books-controls">
+  <div class="controls-row">
+    <!-- Search -->
+    <div class="control-group search-group">
+      <input type="text" id="search-input" placeholder="Search books..." autocomplete="off">
+    </div>
+
+    <!-- Sort -->
+    <div class="control-group">
+      <select id="sort-select">
+        <option value="title-asc">Title A-Z</option>
+        <option value="title-desc">Title Z-A</option>
+        <option value="author-asc">Author A-Z</option>
+        <option value="date-desc">Recently Read</option>
+      </select>
+    </div>
+
+    <!-- Tag Filter -->
+    <div class="control-group">
+      <select id="tag-filter">
+        <option value="all">All Tags</option>
+        {{ $tagCounts := dict }}
+        {{ range .Pages }}
+          {{ range .Params.tags }}
+            {{ $tagCounts = merge $tagCounts (dict . 1) }}
+          {{ end }}
+        {{ end }}
+        {{ range $tag, $_ := $tagCounts }}
+          <option value="{{ $tag }}">{{ $tag }}</option>
+        {{ end }}
+      </select>
+    </div>
+  </div>
+
+  <!-- Stats -->
+  {{ $bookCount := len (where .Pages "Params.ASIN" "!=" nil) }}
+  <div id="stats" class="books-stats">
+    <span id="showing-count">{{ $bookCount }}</span> of {{ $bookCount }} books
+  </div>
+</div>
+
+<!-- Featured Section -->
+{{ $featured := where .Pages "Params.featured" true }}
+{{ if $featured }}
+<section class="featured-books">
+  <h2>Featured</h2>
+  <div class="books-grid featured-grid">
+    {{ range $featured }}
+    <a href="{{ .RelPermalink }}" class="book-item" data-title="{{ lower .Title }}" data-authors="{{ with .Params.authors }}{{ lower (delimit . " ") }}{{ end }}" data-tags="{{ with .Params.tags }}{{ lower (delimit . " ") }}{{ end }}" data-date="{{ .Date.Format "2006-01-02" }}">
+      <div class="book-cover-container">
+        {{ $cover := .Params.bookcover }}
+        {{ if $cover }}
+        <div class="book-cover-blur" style="background-image: url('{{ $cover }}')"></div>
+        <img class="book-cover" src="{{ $cover }}" alt="{{ .Title }}" loading="lazy">
+        {{ else }}
+        <div class="book-cover-placeholder">
+          <span>{{ substr .Title 0 1 }}</span>
+        </div>
+        {{ end }}
+        <div class="book-hover-info">
+          <div class="book-title">{{ .Title }}</div>
+          {{ with .Params.authors }}<div class="book-author">{{ delimit . ", " }}</div>{{ end }}
+          {{ with .Date }}{{ if not .IsZero }}<div class="book-date">{{ .Format "Jan 2006" }}</div>{{ end }}{{ end }}
+        </div>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+<!-- All Books Grid -->
+{{ $books := where .Pages "Params.ASIN" "!=" nil }}
+<section class="all-books">
+  <div class="books-grid" id="books-grid">
+    {{ range $books }}
+    <a href="{{ .RelPermalink }}" class="book-item" data-title="{{ lower .Title }}" data-authors="{{ with .Params.authors }}{{ lower (delimit . " ") }}{{ end }}" data-tags="{{ with .Params.tags }}{{ lower (delimit . " ") }}{{ end }}" data-date="{{ .Date.Format "2006-01-02" }}">
+      <div class="book-cover-container">
+        {{ $cover := .Params.bookcover }}
+        {{ if $cover }}
+        <div class="book-cover-blur" style="background-image: url('{{ $cover }}')"></div>
+        <img class="book-cover" src="{{ $cover }}" alt="{{ .Title }}" loading="lazy">
+        {{ else }}
+        <div class="book-cover-placeholder">
+          <span>{{ substr .Title 0 1 }}</span>
+        </div>
+        {{ end }}
+        <div class="book-hover-info">
+          <div class="book-title">{{ .Title }}</div>
+          {{ with .Params.authors }}<div class="book-author">{{ delimit . ", " }}</div>{{ end }}
+          {{ with .Date }}{{ if not .IsZero }}<div class="book-date">{{ .Format "Jan 2006" }}</div>{{ end }}{{ end }}
+        </div>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</section>
+
+<style>
+/* Controls */
+.books-controls {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: var(--code-bg);
+  border-radius: 8px;
+}
+.controls-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+}
+.control-group {
+  flex: 1;
+  min-width: 150px;
+}
+.search-group {
+  flex: 2;
+  min-width: 200px;
+}
+.control-group input,
+.control-group select {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--theme);
+  color: var(--primary);
+}
+.books-stats {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: var(--secondary);
+}
+
+/* Featured Section */
+.featured-books {
+  margin-bottom: 2rem;
+}
+.featured-books h2 {
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+/* Books Grid - Responsive */
+.books-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+}
+
+@media (max-width: 1200px) {
+  .books-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .books-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .books-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Book Item */
+.book-item {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.book-cover-container {
+  position: relative;
+  aspect-ratio: 2/3;
+  border-radius: 4px;
+  overflow: hidden;
+  background: var(--code-bg);
+}
+
+/* Blur-up placeholder */
+.book-cover-blur {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  filter: blur(20px);
+  transform: scale(1.1);
+  opacity: 0.5;
+}
+
+.book-cover {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.book-cover-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, var(--border) 0%, var(--code-bg) 100%);
+  font-size: 3rem;
+  font-weight: bold;
+  color: var(--secondary);
+}
+
+/* Hover Info Overlay */
+.book-hover-info {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.book-item:hover .book-hover-info,
+.book-item:focus .book-hover-info {
+  opacity: 1;
+}
+
+.book-item:hover .book-cover {
+  transform: scale(1.05);
+}
+
+.book-hover-info .book-title {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: white;
+  margin-bottom: 0.25rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.book-hover-info .book-author {
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 0.25rem;
+}
+
+.book-hover-info .book-date {
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+/* Hidden state for filtered books */
+.book-item.hidden {
+  display: none;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const searchInput = document.getElementById('search-input');
+  const sortSelect = document.getElementById('sort-select');
+  const tagFilter = document.getElementById('tag-filter');
+  const booksGrid = document.getElementById('books-grid');
+  const showingCount = document.getElementById('showing-count');
+  const allBooks = Array.from(booksGrid.querySelectorAll('.book-item'));
+
+  function applyFilters() {
+    const searchTerm = searchInput.value.toLowerCase();
+    const selectedTag = tagFilter.value;
+    let visibleCount = 0;
+
+    allBooks.forEach(book => {
+      const title = book.dataset.title;
+      const authors = book.dataset.authors;
+      const tags = book.dataset.tags;
+
+      const matchesSearch = !searchTerm ||
+        title.includes(searchTerm) ||
+        authors.includes(searchTerm) ||
+        tags.includes(searchTerm);
+
+      const matchesTag = selectedTag === 'all' || tags.includes(selectedTag.toLowerCase());
+
+      if (matchesSearch && matchesTag) {
+        book.classList.remove('hidden');
+        visibleCount++;
+      } else {
+        book.classList.add('hidden');
+      }
+    });
+
+    showingCount.textContent = visibleCount;
+  }
+
+  function sortBooks() {
+    const sortValue = sortSelect.value;
+    const sorted = [...allBooks].sort((a, b) => {
+      switch(sortValue) {
+        case 'title-asc':
+          return a.dataset.title.localeCompare(b.dataset.title);
+        case 'title-desc':
+          return b.dataset.title.localeCompare(a.dataset.title);
+        case 'author-asc':
+          return a.dataset.authors.localeCompare(b.dataset.authors);
+        case 'date-desc':
+          return b.dataset.date.localeCompare(a.dataset.date);
+        default:
+          return 0;
+      }
+    });
+
+    sorted.forEach(book => booksGrid.appendChild(book));
+    applyFilters();
+  }
+
+  searchInput.addEventListener('input', applyFilters);
+  tagFilter.addEventListener('change', applyFilters);
+  sortSelect.addEventListener('change', sortBooks);
+});
+</script>
+{{ end }}

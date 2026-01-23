@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sierra, Kathy on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/sierra-kathy/</link>
+    <description>Recent content in Sierra, Kathy on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/sierra-kathy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Badass: Making Users Awesome</title>
+      <link>http://localhost:1313/books/badass-making-users-awesome/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/badass-making-users-awesome/</guid>
+      <description>&lt;h1 id=&#34;badass-making-users-awesome&#34;&gt;Badass: Making Users Awesome&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Badass: Making Users Awesome&amp;rdquo; by Kathy Sierra is a guide focused on empowering users by enhancing their skills and experiences with products. Instead of merely making better products, Sierra emphasizes the importance of making users feel competent and confident, thereby enhancing user satisfaction and retention. The book argues that the most successful companies are those that empower their users to become &amp;lsquo;badass&amp;rsquo; in the tasks they want or need to perform. Through a combination of engaging narratives, illustrations, and practical exercises, Sierra offers insights into human learning and motivation, encouraging product developers to shift their focus from the product itself to the users&amp;rsquo; success.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

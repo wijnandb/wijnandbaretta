@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rigby, Darrell on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/rigby-darrell/</link>
+    <description>Recent content in Rigby, Darrell on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/rigby-darrell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doing Agile Right: Transformation Without Chaos</title>
+      <link>http://localhost:1313/books/doing-agile-right-transformation-without-chaos/</link>
+      <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/doing-agile-right-transformation-without-chaos/</guid>
+      <description>&lt;h1 id=&#34;doing-agile-right-transformation-without-chaos&#34;&gt;Doing Agile Right: Transformation Without Chaos&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Doing Agile Right: Transformation Without Chaos&amp;rdquo; by Steve Berez, Sarah Elk, and Darrell Rigby is a comprehensive guide on how to successfully implement Agile methodologies within an organization while avoiding common pitfalls and chaos. The book emphasizes the importance of understanding that Agile is not just a set of practices or tools but a mindset that can transform how companies operate and deliver value. It outlines how organizations can balance Agile processes with traditional management practices, leverage Agile for strategic advantage, and develop a culture that supports continuous learning and adaptability.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

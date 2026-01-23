@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CrewAI on Wijnand Baretta</title>
-    <link>http://localhost:41571/tags/crewai/</link>
+    <link>http://localhost:1314/tags/crewai/</link>
     <description>Recent content in CrewAI on Wijnand Baretta</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <lastBuildDate>Sun, 04 May 2025 11:15:45 +0200</lastBuildDate>
-    <atom:link href="http://localhost:41571/tags/crewai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/crewai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Website mission and start of creating custom AI tools and workflows</title>
-      <link>http://localhost:41571/posts/2025/05/website-mission-and-start-of-creating-custom-ai-tools-and-workflows/</link>
+      <link>http://localhost:1314/posts/2025/05/website-mission-and-start-of-creating-custom-ai-tools-and-workflows/</link>
       <pubDate>Sun, 04 May 2025 11:15:45 +0200</pubDate>
-      <guid>http://localhost:41571/posts/2025/05/website-mission-and-start-of-creating-custom-ai-tools-and-workflows/</guid>
+      <guid>http://localhost:1314/posts/2025/05/website-mission-and-start-of-creating-custom-ai-tools-and-workflows/</guid>
       <description>&lt;h2 id=&#34;-problem-definition-the-mind-behind-the-mission&#34;&gt;🎯 Problem Definition: The Mind Behind the Mission&lt;/h2&gt;
 &lt;p&gt;I have a mind full of ideas, energy, and the ability to shift gears quickly — but also one that’s easily pulled in different directions. I can make huge progress in bursts, but when I work alone or lose momentum, projects can quietly slip through the cracks. The isolation of solo work, especially remote, makes it harder. I miss the real-time interaction and co-creation that comes from sharing physical space with someone.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deploy a Crew of AI Agents</title>
-      <link>http://localhost:41571/posts/2025/03/deploy-a-crew-of-ai-agents/</link>
+      <link>http://localhost:1314/posts/2025/03/deploy-a-crew-of-ai-agents/</link>
       <pubDate>Tue, 25 Mar 2025 14:06:54 +0100</pubDate>
-      <guid>http://localhost:41571/posts/2025/03/deploy-a-crew-of-ai-agents/</guid>
+      <guid>http://localhost:1314/posts/2025/03/deploy-a-crew-of-ai-agents/</guid>
       <description></description>
     </item>
     <item>
       <title>Single agent vs. multi-agent. </title>
-      <link>http://localhost:41571/posts/2025/03/single-agent-vs-multi-agent/</link>
+      <link>http://localhost:1314/posts/2025/03/single-agent-vs-multi-agent/</link>
       <pubDate>Tue, 25 Mar 2025 10:46:22 +0100</pubDate>
-      <guid>http://localhost:41571/posts/2025/03/single-agent-vs-multi-agent/</guid>
+      <guid>http://localhost:1314/posts/2025/03/single-agent-vs-multi-agent/</guid>
       <description>&lt;h1 id=&#34;single-agent-vs-multi-agent-whats-best-for-you&#34;&gt;Single Agent vs. Multi-Agent: What’s Best for You?&lt;/h1&gt;
 &lt;h2 id=&#34;tldr&#34;&gt;TL;DR&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Think of it like hiring people.&lt;/strong&gt;&lt;br&gt;

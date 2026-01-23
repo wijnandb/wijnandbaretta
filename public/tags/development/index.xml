@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Development on Wijnand Baretta</title>
-    <link>http://localhost:41571/tags/development/</link>
+    <link>http://localhost:1314/tags/development/</link>
     <description>Recent content in Development on Wijnand Baretta</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <lastBuildDate>Tue, 03 Dec 2024 13:23:03 +0100</lastBuildDate>
-    <atom:link href="http://localhost:41571/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overzicht per school genereren</title>
-      <link>http://localhost:41571/posts/2024/12/overzicht-per-school-genereren/</link>
+      <link>http://localhost:1314/posts/2024/12/overzicht-per-school-genereren/</link>
       <pubDate>Tue, 03 Dec 2024 13:23:03 +0100</pubDate>
-      <guid>http://localhost:41571/posts/2024/12/overzicht-per-school-genereren/</guid>
+      <guid>http://localhost:1314/posts/2024/12/overzicht-per-school-genereren/</guid>
       <description>&lt;p&gt;Spreadsheet om aantal aangevraagd activiteigten per school te zien: &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1cNZnigI7Ri8IX21YnVfysiZbpjXhA7hszAg1OmO7oMs/&#34;&gt;https://docs.google.com/spreadsheets/d/1cNZnigI7Ri8IX21YnVfysiZbpjXhA7hszAg1OmO7oMs/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Management command &amp;ldquo;overview_per_school.py&amp;rdquo; aanpassen en elke dag draaien.&lt;/p&gt;
 &lt;ul&gt;
@@ -26,9 +26,9 @@
     </item>
     <item>
       <title>Werkzaamheden Brede School: aanbieders en docenten zoeken</title>
-      <link>http://localhost:41571/posts/2024/12/werkzaamheden-brede-school-aanbieders-en-docenten-zoeken/</link>
+      <link>http://localhost:1314/posts/2024/12/werkzaamheden-brede-school-aanbieders-en-docenten-zoeken/</link>
       <pubDate>Tue, 03 Dec 2024 11:43:05 +0100</pubDate>
-      <guid>http://localhost:41571/posts/2024/12/werkzaamheden-brede-school-aanbieders-en-docenten-zoeken/</guid>
+      <guid>http://localhost:1314/posts/2024/12/werkzaamheden-brede-school-aanbieders-en-docenten-zoeken/</guid>
       <description>&lt;p&gt;We willen voor alle overeenkomsten waar we nog geen akkoord op hebben ontvangen of waarvoor nog geen docent is aangewezen of zelfs waarvan de docent nog geen geldig VOG heeft, de optie bieden voor andere aanbieders om zich hiervoor in te schrijven/aan te melden.&lt;/p&gt;
 &lt;p&gt;Hoe pakken we dit aan?&lt;/p&gt;
 &lt;ul&gt;
@@ -50,9 +50,9 @@
     </item>
     <item>
       <title>Creating a roadmap for sales, marketing and development</title>
-      <link>http://localhost:41571/posts/2024/11/creating-a-roadmap-for-sales-marketing-and-development/</link>
+      <link>http://localhost:1314/posts/2024/11/creating-a-roadmap-for-sales-marketing-and-development/</link>
       <pubDate>Wed, 27 Nov 2024 16:29:31 +0100</pubDate>
-      <guid>http://localhost:41571/posts/2024/11/creating-a-roadmap-for-sales-marketing-and-development/</guid>
+      <guid>http://localhost:1314/posts/2024/11/creating-a-roadmap-for-sales-marketing-and-development/</guid>
       <description>&lt;p&gt;By creating a roadmap for IkTel and break down the work to be done by area (Sales, Marketing and Development), I hope to achieve more focus and productivity.&lt;/p&gt;
 &lt;p&gt;Obviously, I asked the help of ChatGPT. This was their response:&lt;/p&gt;
 &lt;h1 id=&#34;ideal-future-plan-for-the-after-school-activities-platform&#34;&gt;Ideal Future Plan for the After-School Activities Platform&lt;/h1&gt;
@@ -72,9 +72,9 @@
     </item>
     <item>
       <title>Brede school/Iktel nieuwe site: programma samenstellen</title>
-      <link>http://localhost:41571/posts/2024/11/brede-school-iktel-nieuwe-site-programma-samenstellen/</link>
+      <link>http://localhost:1314/posts/2024/11/brede-school-iktel-nieuwe-site-programma-samenstellen/</link>
       <pubDate>Wed, 20 Nov 2024 13:43:58 +0100</pubDate>
-      <guid>http://localhost:41571/posts/2024/11/brede-school-iktel-nieuwe-site-programma-samenstellen/</guid>
+      <guid>http://localhost:1314/posts/2024/11/brede-school-iktel-nieuwe-site-programma-samenstellen/</guid>
       <description>&lt;p&gt;Besproken met Dachar:&lt;/p&gt;
 &lt;p&gt;Op dit moment bepalen scholen op welke dag een bepaalde activiteit plaatsvindt. Dit leidt er (soms) toe, dat er geen match is met een aanbieder, omdat die bewsute aanbieder toevallig niet beschikbaar is op die specifieke dag. Logisch, maar vaak ook vermijdbaar. Het is voor een school belangrijk dat er gedurende de week activiteiten plaatsvinden. Idealiter is het aantal activiteiten netjes verdeeld over de verschillende dagen en leeftijdsgroepen. Ook de beschikbaarheid van locaties (lokaal, keuken, sporthal) kan bepalend zijn voor de mogelijkheden: een sporthal kan meestal maar voor een activiteit tegelijkertijd gebruikt worden.&lt;/p&gt;</description>
     </item>

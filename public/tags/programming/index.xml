@@ -6,7 +6,621 @@
     <description>Recent content in Programming on Wijnand Baretta</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 08:36:24 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project: V-Bucks</title>
+      <link>http://localhost:1313/projects/v-bucks/</link>
+      <pubDate>Thu, 16 Sep 2021 08:36:24 +0200</pubDate>
+      <guid>http://localhost:1313/projects/v-bucks/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;You haven&amp;rsquo;t made your bed.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Who will set the table?&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Can anyone please take the trash out?&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Parents all over the world have experienced this kind of annoyances on a daily basis. So it is time to find a solution to this.&lt;/p&gt;
+&lt;p&gt;To find a solution, we have to study the problem.&lt;/p&gt;
+&lt;p&gt;Teenagers are glued to their phone and are ()&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rework</title>
+      <link>http://localhost:1313/books/rework/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/rework/</guid>
+      <description>&lt;h1 id=&#34;rework-by-jason-fried-and-david-heinemeier-hansson&#34;&gt;Rework by Jason Fried and David Heinemeier Hansson&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Rework&lt;/em&gt; is a business book that challenges traditional business principles and introduces a new way of thinking about work, productivity, and entrepreneurship. Written by the founders of Basecamp, a successful software company, the book emphasizes simplicity, efficiency, and a no-nonsense approach to running a business. It dispels myths about what it takes to start and maintain a successful company and focuses on the practicalities of making progress and achieving goals.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition</title>
+      <link>http://localhost:1313/books/hackers-heroes-of-the-computer-revolution-25th-anniversary-edition/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/hackers-heroes-of-the-computer-revolution-25th-anniversary-edition/</guid>
+      <description>&lt;h1 id=&#34;hackers-heroes-of-the-computer-revolution---25th-anniversary-edition&#34;&gt;Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition&lt;/h1&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;The 25th Anniversary Edition of &lt;em&gt;Hackers: Heroes of the Computer Revolution&lt;/em&gt; by Steven Levy revisits the captivating journey through the early years of the computer revolution. Levy delves into the lives and contributions of some of the most influential figures in the hacker community from the 1950s through the 1980s. This book explores the culture and ethos of hackers, highlighting their shared passion for exploring digital frontiers, their creative ingenuity, and their collaborative yet competitive spirit. It is organized into three parts: the early days at MIT, the advent of hardware hackers in Northern California, and the rise of game hackers. In this edition, Levy also addresses the evolution of the hacker ethic and its lasting impact on the digital world and broader culture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Program or Be Programmed</title>
+      <link>http://localhost:1313/books/program-or-be-programmed/</link>
+      <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/program-or-be-programmed/</guid>
+      <description>&lt;h1 id=&#34;program-or-be-programmed-by-douglas-rushkoff&#34;&gt;Program or Be Programmed by Douglas Rushkoff&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Program or Be Programmed: Ten Commands for a Digital Age&amp;rdquo; by Douglas Rushkoff is a thought-provoking examination of how digital technology influences our lives and how we should respond to these changes. Rushkoff outlines ten &amp;ldquo;commands,&amp;rdquo; which are essentially guiding principles to help navigate the digital landscape. These commands address the impact of technology on various aspects of our lives, such as time, location, choice, complexity, scale, identity, social interaction, and the way we perceive reality. The book emphasizes the importance of understanding and engaging with the programming that drives digital technologies, arguing that those who do not understand programming are at risk of being controlled by those who do.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>jQuery Pocket Reference: Read Less, Learn More</title>
+      <link>http://localhost:1313/books/jquery-pocket-reference-read-less-learn-more/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/jquery-pocket-reference-read-less-learn-more/</guid>
+      <description>&lt;h1 id=&#34;jquery-pocket-reference-read-less-learn-more-by-david-flanagan&#34;&gt;jQuery Pocket Reference: Read Less, Learn More by David Flanagan&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;jQuery Pocket Reference: Read Less, Learn More&amp;rdquo; by David Flanagan is a concise guide tailored for web developers who want to harness the power of jQuery, a popular JavaScript library. The book serves as both a quick introduction and a handy reference, detailing essential jQuery features, functions, and techniques to simplify and enhance JavaScript programming. It covers fundamental jQuery concepts such as event handling, DOM manipulation, animations, and AJAX functionality, providing clear examples and succinct explanations to facilitate quick learning and implementation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today&#39;s Computers</title>
+      <link>http://localhost:1313/books/nine-algorithms-that-changed-the-future-the-ingenious-ideas-that-drive-today-s-computers/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/nine-algorithms-that-changed-the-future-the-ingenious-ideas-that-drive-today-s-computers/</guid>
+      <description>&lt;h1 id=&#34;nine-algorithms-that-changed-the-future-the-ingenious-ideas-that-drive-todays-computers&#34;&gt;Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today&amp;rsquo;s Computers&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today&amp;rsquo;s Computers&amp;rdquo; by John MacCormick provides an accessible exploration into the foundational algorithms that underpin modern computing technology. The book succeeds in unpacking complex computational concepts for a general audience, offering a journey through the history, significance, and mechanics of pivotal algorithms. Each chapter is dedicated to a specific algorithm, such as Google PageRank, public key cryptography, and data compression, explaining how these ingenious ideas have reshaped our digital future.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python for Kids: A Playful Introduction To Programming</title>
+      <link>http://localhost:1313/books/python-for-kids-a-playful-introduction-to-programming/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-for-kids-a-playful-introduction-to-programming/</guid>
+      <description>&lt;h1 id=&#34;python-for-kids-a-playful-introduction-to-programming&#34;&gt;Python for Kids: A Playful Introduction To Programming&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary:&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Python for Kids: A Playful Introduction to Programming&amp;rdquo; by Jason Briggs is a beginner-friendly guide designed to introduce children and young readers to the world of programming through the Python language. The book covers fundamental programming concepts such as variables, loops, functions, and data structures in an engaging and accessible manner. It uses simple language and fun examples to explain coding principles, encouraging kids to experiment and build their own projects. The book is structured with a combination of explanations, illustrations, and practical exercises, making it easy for young learners to follow along and apply their newly acquired skills.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python Cookbook: Recipes for Mastering Python 3</title>
+      <link>http://localhost:1313/books/python-cookbook-recipes-for-mastering-python-3/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-cookbook-recipes-for-mastering-python-3/</guid>
+      <description>&lt;h1 id=&#34;python-cookbook-recipes-for-mastering-python-3&#34;&gt;Python Cookbook: Recipes for Mastering Python 3&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Python Cookbook: Recipes for Mastering Python 3&amp;rdquo; by Brian K. Jones and David Beazley is a comprehensive guide for intermediate to advanced Python programmers who want to delve deeper into the language. The book is structured around practical recipes that address common programming challenges and tasks. Each recipe provides a detailed solution along with a discussion of how it works and potential variations. The book covers a wide range of topics, including data structures, algorithms, strings, files, networking, and concurrency, emphasizing idiomatic Python 3 usage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half</title>
+      <link>http://localhost:1313/books/a-smarter-way-to-learn-javascript-the-new-approach-that-uses-technology-to-cut-your-effort-in-half/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/a-smarter-way-to-learn-javascript-the-new-approach-that-uses-technology-to-cut-your-effort-in-half/</guid>
+      <description>&lt;h1 id=&#34;a-smarter-way-to-learn-javascript-the-new-approach-that-uses-technology-to-cut-your-effort-in-half&#34;&gt;A Smarter Way to Learn JavaScript: The New Approach That Uses Technology to Cut Your Effort in Half&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;A Smarter Way to Learn JavaScript&amp;rdquo; by Mark Myers is a beginner-friendly programming guide designed to simplify the process of learning JavaScript. The book employs a unique approach that leverages interactive exercises on a companion website to reinforce concepts as they are introduced. This method is intended to help readers retain information better by combining reading with practice. Each chapter in the book is concise and focused on specific JavaScript features, ensuring learners can grasp and apply concepts progressively.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3D Game Programming for Kids: Create Interactive Worlds with JavaScript (Pragmatic Programmers)</title>
+      <link>http://localhost:1313/books/3d-game-programming-for-kids-create-interactive-worlds-with-javascript-pragmatic-programmers/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/3d-game-programming-for-kids-create-interactive-worlds-with-javascript-pragmatic-programmers/</guid>
+      <description>&lt;h1 id=&#34;3d-game-programming-for-kids-create-interactive-worlds-with-javascript&#34;&gt;3D Game Programming for Kids: Create Interactive Worlds with JavaScript&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;3D Game Programming for Kids: Create Interactive Worlds with JavaScript&amp;rdquo; by Chris Strom is an educational guide focused on teaching young readers the fundamentals of programming through the development of 3D games. The book leverages JavaScript and a web-based platform to introduce basic programming concepts and 3D graphics principles. It is designed to be a hands-on learning experience, encouraging readers to experiment and create their own interactive game worlds. The step-by-step instructions aim to make complex topics accessible and engaging for a younger audience, fostering both creativity and technical skills.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Learn to Program with Scratch: A Visual Introduction to Programming with Games, Art, Science, and Math</title>
+      <link>http://localhost:1313/books/learn-to-program-with-scratch-a-visual-introduction-to-programming-with-games-art-science-and-math/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/learn-to-program-with-scratch-a-visual-introduction-to-programming-with-games-art-science-and-math/</guid>
+      <description>&lt;h1 id=&#34;learn-to-program-with-scratch-a-visual-introduction-to-programming-with-games-art-science-and-math&#34;&gt;Learn to Program with Scratch: A Visual Introduction to Programming with Games, Art, Science, and Math&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Learn to Program with Scratch&amp;rdquo; by Majed Marji is an educational guide designed to introduce readers to the basics of computer programming using Scratch, a visual programming language. The book covers the fundamental principles of programming through engaging projects that involve games, art, science, and math. It is structured to aid beginners, particularly young learners, in understanding how logical thinking and creativity can be applied to coding. The book provides step-by-step instructions and uses a plethora of visuals to facilitate learning.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Flask Web Development: Developing Web Applications with Python</title>
+      <link>http://localhost:1313/books/flask-web-development-developing-web-applications-with-python/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/flask-web-development-developing-web-applications-with-python/</guid>
+      <description>&lt;h1 id=&#34;flask-web-development-developing-web-applications-with-python&#34;&gt;Flask Web Development: Developing Web Applications with Python&lt;/h1&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Flask Web Development: Developing Web Applications with Python&amp;rdquo; by Miguel Grinberg is a comprehensive guide to building web applications using the Flask framework and the Python programming language. The book is structured to cater to both beginners and intermediate developers, providing a step-by-step approach to creating robust web applications. It covers the essentials of Flask, such as templates, forms, and databases, and delves into advanced topics like deployment, testing, and application structure. The book includes numerous hands-on projects that help solidify the reader&amp;rsquo;s understanding of Flask&amp;rsquo;s capabilities and best practices.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python for Informatics: Exploring Information: Exploring Information</title>
+      <link>http://localhost:1313/books/python-for-informatics-exploring-information-exploring-information/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-for-informatics-exploring-information-exploring-information/</guid>
+      <description>&lt;h1 id=&#34;python-for-informatics-exploring-information&#34;&gt;Python for Informatics: Exploring Information&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Python for Informatics: Exploring Information&amp;rdquo; by Charles Russell Severance is an educational guide intended for beginners to learn programming through Python, specifically designed for those interested in information sciences. The book covers elementary programming concepts and techniques, using Python as the language of instruction. It emphasizes data processing, manipulation, and extraction, equipping readers with the skills needed to work with information effectively. The book progresses through various topics starting from the basics of Python, working towards more complex subjects such as web data retrieval and databases.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fluent Python: Clear, Concise, and Effective Programming</title>
+      <link>http://localhost:1313/books/fluent-python-clear-concise-and-effective-programming/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/fluent-python-clear-concise-and-effective-programming/</guid>
+      <description>&lt;h1 id=&#34;fluent-python-clear-concise-and-effective-programming&#34;&gt;Fluent Python: Clear, Concise, and Effective Programming&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Fluent Python: Clear, Concise, and Effective Programming&amp;rdquo; by Luciano Ramalho is a comprehensive guide to mastering Python 3 by leveraging its most powerful features and idioms. The book aims to help experienced Python programmers write more efficient and readable code by delving into the inner workings of Python. It covers a wide range of topics, including data structures, object-oriented programming, functions, metaprogramming, and concurrency. Ramalho focuses on writing Pythonic code—code that embraces the strengths and quirks of the language rather than simulating styles from other languages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Smarter Way to Learn jQuery: Learn it faster. Remember it longer.</title>
+      <link>http://localhost:1313/books/a-smarter-way-to-learn-jquery-learn-it-faster-remember-it-longer/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/a-smarter-way-to-learn-jquery-learn-it-faster-remember-it-longer/</guid>
+      <description>&lt;h1 id=&#34;a-smarter-way-to-learn-jquery-learn-it-faster-remember-it-longer&#34;&gt;A Smarter Way to Learn jQuery: Learn it faster. Remember it longer.&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;A Smarter Way to Learn jQuery&amp;rdquo; by Mark Myers serves as a practical guide for those looking to grasp the essentials of jQuery efficiently. The book is designed for beginners and uses a hands-on, interactive approach to solidify jQuery concepts, helping readers learn faster and retain information longer. It breaks down complex programming topics into small, manageable chunks and employs exercises to reinforce understanding. The book aims to make learning accessible and user-friendly, enabling readers to build dynamic, interactive web pages with ease.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Learning the Pandas Library: Python Tools for Data Munging, Analysis, and Visualization (Treading on Python Book 3)</title>
+      <link>http://localhost:1313/books/learning-the-pandas-library-python-tools-for-data-munging-analysis-and-visualization-treading-on-python-book-3/</link>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/learning-the-pandas-library-python-tools-for-data-munging-analysis-and-visualization-treading-on-python-book-3/</guid>
+      <description>&lt;h1 id=&#34;learning-the-pandas-library-python-tools-for-data-munging-analysis-and-visualization&#34;&gt;Learning the Pandas Library: Python Tools for Data Munging, Analysis, and Visualization&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Learning the Pandas Library: Python Tools for Data Munging, Analysis, and Visualization&amp;rdquo; by Matt Harrison is a practical guide for data scientists, analysts, and enthusiasts who seek to harness the power of the pandas library in Python. The book covers the essential features and functionalities of pandas, providing comprehensive insights into data manipulation, cleaning, transformation, analysis, and visualization. Through a series of examples and hands-on exercises, readers are taught how to efficiently handle large datasets and derive meaningful insights using pandas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python for Everybody: Exploring Data in Python 3</title>
+      <link>http://localhost:1313/books/python-for-everybody-exploring-data-in-python-3/</link>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-for-everybody-exploring-data-in-python-3/</guid>
+      <description>&lt;h1 id=&#34;python-for-everybody-exploring-data-in-python-3&#34;&gt;Python for Everybody: Exploring Data in Python 3&lt;/h1&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Python for Everybody: Exploring Data in Python 3&amp;rdquo; by Charles Severance is an introductory textbook that focuses on teaching the basics of Python programming with an emphasis on data exploration. The book is designed to be accessible to beginners and covers fundamental programming concepts such as variables, expressions, functions, loops, and data structures. It gradually introduces more advanced topics such as web scraping, using web services, and working with databases. The book&amp;rsquo;s practical approach involves real-world examples and exercises, which help readers understand how to utilize Python for data manipulation and analysis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python: Programming: Your Step By Step Guide To Easily Learn Python in 7 Days (Python for Beginners, Python Programming for Beginners, Learn Python, Python Language)</title>
+      <link>http://localhost:1313/books/python-programming-your-step-by-step-guide-to-easily-learn-python-in-7-days-python-for-beginners-python-programming-for-beginners-learn-python-python-language/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-programming-your-step-by-step-guide-to-easily-learn-python-in-7-days-python-for-beginners-python-programming-for-beginners-learn-python-python-language/</guid>
+      <description>&lt;h1 id=&#34;python-programming-your-step-by-step-guide-to-easily-learn-python-in-7-days&#34;&gt;Python: Programming: Your Step By Step Guide To Easily Learn Python in 7 Days&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Python: Programming: Your Step By Step Guide To Easily Learn Python in 7 Days&amp;rdquo; by iCode Academy aims to introduce beginners to the world of Python programming. The book breaks down complex programming concepts into manageable chunks, enabling readers to grasp Python&amp;rsquo;s fundamentals quickly. With a focus on practical examples, the book covers basic concepts such as data types, variables, control structures, functions, and error handling. Additionally, it provides an overview of more advanced topics like file handling and simple data structures, with each chapter designed to build upon the last to solidify understanding.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python Data Science Handbook: Essential Tools for Working with Data</title>
+      <link>http://localhost:1313/books/python-data-science-handbook-essential-tools-for-working-with-data/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-data-science-handbook-essential-tools-for-working-with-data/</guid>
+      <description>&lt;h1 id=&#34;python-data-science-handbook-essential-tools-for-working-with-data&#34;&gt;Python Data Science Handbook: Essential Tools for Working with Data&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;The &amp;ldquo;Python Data Science Handbook&amp;rdquo; by Jake VanderPlas is a comprehensive guide that equips readers with essential tools and techniques for data science using the Python programming language. The book covers a range of topics crucial for data analysis, including IPython, NumPy, pandas, matplotlib, Scikit-Learn, and more. It is structured to be both a reference and a tutorial, providing practical insights and examples that demonstrate how to leverage these tools effectively. The author assumes readers have some familiarity with Python, but the book is crafted in a way to guide them from the basics to more complex tasks in data science.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pandas Cookbook: Recipes for Scientific Computing, Time Series Analysis and Data Visualization using Python</title>
+      <link>http://localhost:1313/books/pandas-cookbook-recipes-for-scientific-computing-time-series-analysis-and-data-visualization-using-python/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/pandas-cookbook-recipes-for-scientific-computing-time-series-analysis-and-data-visualization-using-python/</guid>
+      <description>&lt;h1 id=&#34;pandas-cookbook-recipes-for-scientific-computing-time-series-analysis-and-data-visualization-using-python&#34;&gt;Pandas Cookbook: Recipes for Scientific Computing, Time Series Analysis and Data Visualization using Python&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Pandas Cookbook&amp;rdquo; by Theodore Petrou is a comprehensive guide designed for data analysts and enthusiasts who aim to leverage the power of the pandas library in Python. The book offers a collection of practical recipes structured around real-world scenarios that demonstrate how to utilize pandas for scientific computing, time series analysis, and data visualization. It emphasizes transforming raw data into insightful analysis through the effective use of pandas&amp;rsquo; functionalities, covering essential aspects like data cleaning, manipulation, aggregation, and visualization.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems</title>
+      <link>http://localhost:1313/books/hands-on-machine-learning-with-scikit-learn-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/hands-on-machine-learning-with-scikit-learn-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems/</guid>
+      <description>&lt;h1 id=&#34;hands-on-machine-learning-with-scikit-learn-and-tensorflow&#34;&gt;Hands-On Machine Learning with Scikit-Learn and TensorFlow&lt;/h1&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Hands-On Machine Learning with Scikit-Learn and TensorFlow&amp;rdquo; by Aurélien Géron provides a comprehensive guide to the practical aspects of machine learning. The book is designed to take the reader from basic principles to more advanced topics, offering hands-on experience with two powerful libraries: Scikit-Learn and TensorFlow. It includes detailed explanations of essential concepts such as supervised learning, unsupervised learning, neural networks, deep learning, and many other machine learning techniques. The book is structured to facilitate the understanding and application of machine learning concepts through numerous examples and exercises.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaw&#39;s Hard Way Series)</title>
+      <link>http://localhost:1313/books/learn-python-3-the-hard-way-a-very-simple-introduction-to-the-terrifyingly-beautiful-world-of-computers-and-code-zed-shaw-s-hard-way-series/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/learn-python-3-the-hard-way-a-very-simple-introduction-to-the-terrifyingly-beautiful-world-of-computers-and-code-zed-shaw-s-hard-way-series/</guid>
+      <description>&lt;h1 id=&#34;learn-python-3-the-hard-way-a-very-simple-introduction-to-the-terrifyingly-beautiful-world-of-computers-and-code&#34;&gt;Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Learn Python 3 the Hard Way&amp;rdquo; by Zed A. Shaw offers a straightforward introduction to programming in Python 3. The book eschews lecture-style teaching in favor of hand-on exercises. It guides readers through a series of exercises designed to develop coding skills through practice and repetition. Each exercise targets a specific aspect of programming, such as basic syntax, data structures, and functions, aiming to build competence through active engagement with the material.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition</title>
+      <link>http://localhost:1313/books/python-machine-learning-machine-learning-and-deep-learning-with-python-scikit-learn-and-tensorflow-2nd-edition/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-machine-learning-machine-learning-and-deep-learning-with-python-scikit-learn-and-tensorflow-2nd-edition/</guid>
+      <description>&lt;h1 id=&#34;python-machine-learning-machine-learning-and-deep-learning-with-python-scikit-learn-and-tensorflow-2nd-edition&#34;&gt;Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Sebastian Raschka, Vahid Mirjalili&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Python Machine Learning&amp;rdquo; by Sebastian Raschka and Vahid Mirjalili is a comprehensive guide for those looking to delve into the fields of machine learning and deep learning using Python. The book covers an array of fundamental and advanced topics, starting from basic concepts of machine learning, moving towards more sophisticated techniques like deep learning with different libraries and tools, specifically scikit-learn and TensorFlow. It illustrates practical implementations, providing hands-on experience by guiding the reader through coding examples that solve real-world problems. It also includes explanations of algorithms and models in a way that aims to make machine learning accessible for practitioners at various levels of expertise.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coding as a Playground: Programming and Computational Thinking in the Early Childhood Classroom</title>
+      <link>http://localhost:1313/books/coding-as-a-playground-programming-and-computational-thinking-in-the-early-childhood-classroom/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/coding-as-a-playground-programming-and-computational-thinking-in-the-early-childhood-classroom/</guid>
+      <description>&lt;h1 id=&#34;overview-of-coding-as-a-playground-programming-and-computational-thinking-in-the-early-childhood-classroom-by-marina-umaschi-bers&#34;&gt;Overview of &amp;ldquo;Coding as a Playground: Programming and Computational Thinking in the Early Childhood Classroom&amp;rdquo; by Marina Umaschi Bers&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary:&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Coding as a Playground&amp;rdquo; explores the integration of programming and computational thinking into early childhood education. The author, Marina Umaschi Bers, presents an educational framework that views coding as a developmentally appropriate activity for young children. The book emphasizes the concept of coding as a &amp;ldquo;playground,&amp;rdquo; where children can explore, create, and learn through interactive play. Key themes include the use of technology to support cognitive and social development, the role of educators in facilitating this learning, and the importance of creating an inclusive and accessible coding environment for all children.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More</title>
+      <link>http://localhost:1313/books/serious-python-black-belt-advice-on-deployment-scalability-testing-and-more/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/serious-python-black-belt-advice-on-deployment-scalability-testing-and-more/</guid>
+      <description>&lt;h1 id=&#34;serious-python-black-belt-advice-on-deployment-scalability-testing-and-more&#34;&gt;Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More&amp;rdquo; by Julien Danjou is a pragmatic guide aimed at intermediate to advanced Python programmers looking to deepen their understanding of the language and improve their coding practices. The book delves into complex topics such as deployment, scalability, and testing, offering readers strategic advice and techniques to master professional Python programming. It covers best practices that enable efficient coding, robust testing mechanisms, seamless deployment strategies, and ways to scale applications effectively.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Learn More Python 3 the Hard Way: The Next Step for New Python Programmers (Zed Shaw&#39;s Hard Way Series)</title>
+      <link>http://localhost:1313/books/learn-more-python-3-the-hard-way-the-next-step-for-new-python-programmers-zed-shaw-s-hard-way-series/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/learn-more-python-3-the-hard-way-the-next-step-for-new-python-programmers-zed-shaw-s-hard-way-series/</guid>
+      <description>&lt;h1 id=&#34;learn-more-python-3-the-hard-way-the-next-step-for-new-python-programmers&#34;&gt;Learn More Python 3 the Hard Way: The Next Step for New Python Programmers&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Learn More Python 3 the Hard Way&amp;rdquo; by Zed A. Shaw is a continuation of the &amp;ldquo;Hard Way&amp;rdquo; series aimed at helping new Python programmers advance their skills. The book focuses on deeper concepts in Python programming through a series of exercises and projects. The reader is guided to explore data structures, object-oriented programming, and software testing, enhancing their coding practices and problem-solving capabilities. Shaw emphasizes hands-on learning by encouraging readers to manually type out code and work through practical examples to solidify their understanding.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building Progressive Web Apps: Bringing the Power of Native to the Browser</title>
+      <link>http://localhost:1313/books/building-progressive-web-apps-bringing-the-power-of-native-to-the-browser/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/building-progressive-web-apps-bringing-the-power-of-native-to-the-browser/</guid>
+      <description>&lt;h1 id=&#34;building-progressive-web-apps-bringing-the-power-of-native-to-the-browser&#34;&gt;Building Progressive Web Apps: Bringing the Power of Native to the Browser&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Building Progressive Web Apps: Bringing the Power of Native to the Browser,&amp;rdquo; authored by Tal Ater, delves into the world of Progressive Web Apps (PWAs), aiming to bridge the gap between web and native applications. The book offers comprehensive insights into building PWAs that are capable of running offline and providing a native-like user experience. It covers essential technologies and concepts such as service workers, the App Shell model, and Web App Manifests. The focus is on leveraging modern web capabilities to enhance performance and reliability across all devices and networks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython</title>
+      <link>http://localhost:1313/books/python-for-data-analysis-data-wrangling-with-pandas-numpy-and-ipython/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-for-data-analysis-data-wrangling-with-pandas-numpy-and-ipython/</guid>
+      <description>&lt;h1 id=&#34;overview-of-python-for-data-analysis-data-wrangling-with-pandas-numpy-and-ipython-by-wes-mckinney&#34;&gt;Overview of &lt;em&gt;Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython&lt;/em&gt; by Wes McKinney&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Python for Data Analysis&lt;/em&gt; by Wes McKinney is a comprehensive guide aimed at providing readers with the necessary skills to perform data analysis using Python. The book primarily focuses on the libraries Pandas, NumPy, and IPython, which are powerful tools for data manipulation and analysis. It covers a range of topics from data cleaning, preparation, and transformation to data visualization. McKinney, who is also the creator of the Pandas library, introduces readers to efficient techniques for handling data, offering a hands-on approach with practical examples.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Two Scoops of Django 1.11: Best Practices for the Django Web Framework</title>
+      <link>http://localhost:1313/books/two-scoops-of-django-1-11-best-practices-for-the-django-web-framework/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/two-scoops-of-django-1-11-best-practices-for-the-django-web-framework/</guid>
+      <description>&lt;h1 id=&#34;overview-of-two-scoops-of-django-111-best-practices-for-the-django-web-framework&#34;&gt;Overview of &lt;em&gt;Two Scoops of Django 1.11: Best Practices for the Django Web Framework&lt;/em&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Two Scoops of Django 1.11: Best Practices for the Django Web Framework&amp;rdquo;&lt;/em&gt; is a comprehensive guide aimed at providing developers with the best practices for working with the Django web framework, focusing specifically on version 1.11. Authored by Audrey Roy Greenfeld and Daniel Roy Greenfeld, it covers a wide range of topics including project setup, application structure, working with models, forms, views, and templates, as well as testing and deployment strategies. The book is designed for both intermediate and experienced Django developers who wish to deepen their understanding of Django and improve their coding practices.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python Testing with pytest: Simple, Rapid, Effective, and Scalable</title>
+      <link>http://localhost:1313/books/python-testing-with-pytest-simple-rapid-effective-and-scalable/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-testing-with-pytest-simple-rapid-effective-and-scalable/</guid>
+      <description>&lt;h1 id=&#34;python-testing-with-pytest-simple-rapid-effective-and-scalable&#34;&gt;Python Testing with pytest: Simple, Rapid, Effective, and Scalable&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Python Testing with pytest&lt;/em&gt; is an informative guide written by Brian Okken, focusing on the usage of the pytest framework for testing Python code. The book covers various aspects of testing using pytest, including installation, basic usage, and advanced features. It offers a comprehensive introduction to the methodology and philosophy of pytest, highlighting its simplicity and effectiveness. The book addresses setting up your test environment, writing effective test cases, and leveraging pytest&amp;rsquo;s features such as fixtures, parameterization, and plugins to write scalable and maintainable test suites.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impractical Python Projects: Playful Programming Activities to Make You Smarter</title>
+      <link>http://localhost:1313/books/impractical-python-projects-playful-programming-activities-to-make-you-smarter/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/impractical-python-projects-playful-programming-activities-to-make-you-smarter/</guid>
+      <description>&lt;h1 id=&#34;impractical-python-projects-playful-programming-activities-to-make-you-smarter&#34;&gt;Impractical Python Projects: Playful Programming Activities to Make You Smarter&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Impractical Python Projects: Playful Programming Activities to Make You Smarter&amp;rdquo; by Lee Vaughan is a creative and engaging book that introduces readers to the world of programming through a series of quirky and fun projects. These projects, designed for programmers of all levels, focus on solving unlikely and whimsical problems using Python. The book covers diverse subjects, including mathematics, science, simulation, and more, with each chapter providing hands-on challenges that encourage readers to think critically and creatively.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Smarter Way to Learn Python: Learn it faster. Remember it longer.</title>
+      <link>http://localhost:1313/books/a-smarter-way-to-learn-python-learn-it-faster-remember-it-longer/</link>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/a-smarter-way-to-learn-python-learn-it-faster-remember-it-longer/</guid>
+      <description>&lt;h1 id=&#34;a-smarter-way-to-learn-python-learn-it-faster-remember-it-longer-by-mark-myers&#34;&gt;A Smarter Way to Learn Python: Learn it faster. Remember it longer by Mark Myers&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;A Smarter Way to Learn Python&amp;rdquo; by Mark Myers is an instructional guide designed for beginners who are new to Python programming. The book is part of a series known for its unique approach to teaching coding in a digestible and engaging way. Myers utilizes a method that breaks lessons into manageable chunks, which are followed by exercises to reinforce learning. The book covers fundamental Python programming concepts, including variables, loops, functions, data structures, and file handling, all while promoting practical application through frequent coding practice.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python Tricks: A Buffet of Awesome Python Features</title>
+      <link>http://localhost:1313/books/python-tricks-a-buffet-of-awesome-python-features/</link>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-tricks-a-buffet-of-awesome-python-features/</guid>
+      <description>&lt;h1 id=&#34;overview-of-python-tricks-a-buffet-of-awesome-python-features-by-dan-bader&#34;&gt;Overview of &lt;em&gt;Python Tricks: A Buffet of Awesome Python Features&lt;/em&gt; by Dan Bader&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Python Tricks: A Buffet of Awesome Python Features&lt;/em&gt; by Dan Bader is a resource designed to enrich Python developers with practical knowledge and advanced techniques. The book aims to transform basic Python skills into proficient, real-world problem-solving abilities. It covers a variety of topics such as Pythonic thinking, common best practices, and lesser-known features of the language that can make coding more efficient and effective. The book is structured around concise and focused sections, each offering insights into specific Python functionalities and practices, thereby enabling developers to write cleaner, more efficient, and idiomatic Python code.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pandas for Everyone: Python Data Analysis (Addison-Wesley Data &amp; Analytics Series)</title>
+      <link>http://localhost:1313/books/pandas-for-everyone-python-data-analysis-addison-wesley-data-analytics-series/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/pandas-for-everyone-python-data-analysis-addison-wesley-data-analytics-series/</guid>
+      <description>&lt;h1 id=&#34;pandas-for-everyone-python-data-analysis&#34;&gt;Pandas for Everyone: Python Data Analysis&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Pandas for Everyone: Python Data Analysis&amp;rdquo; by Daniel Y. Chen is a comprehensive guide aimed at introducing and advancing one&amp;rsquo;s capabilities with the Pandas library in Python, an essential tool for data analysis tasks. The book focuses on providing a deep understanding of how to analyze and manipulate structured data with Pandas. It covers essential concepts such as dataset structures, advanced data cleaning, indexing, reshaping, aggregation, time series analysis, and merging datasets. Additionally, the book touches on more advanced topics like visualization and optimizing performance for large datasets. The content is structured to benefit everyone from beginners with a basic understanding of Python to more advanced users looking to refine their Pandas proficiency.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Web Scraping with Python: Collecting More Data from the Modern Web</title>
+      <link>http://localhost:1313/books/web-scraping-with-python-collecting-more-data-from-the-modern-web/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/web-scraping-with-python-collecting-more-data-from-the-modern-web/</guid>
+      <description>&lt;h1 id=&#34;web-scraping-with-python-collecting-more-data-from-the-modern-web&#34;&gt;Web Scraping with Python: Collecting More Data from the Modern Web&lt;/h1&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Web Scraping with Python: Collecting More Data from the Modern Web&amp;rdquo; by Ryan Mitchell is a comprehensive guide that delves into the techniques and tools needed to extract data from websites efficiently. This book covers various aspects of web scraping, including simple techniques for beginners and more complex methods for advanced users. It explains how to work with different web technologies, handle data types, format the scraped data, and ensure ethical and legal compliance. The book emphasizes practical implementation, using Python as the primary language for examples, and it discusses libraries and frameworks like Beautiful Soup, Scrapy, and Selenium.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Practical Web Scraping for Data Science: Best Practices and Examples with Python</title>
+      <link>http://localhost:1313/books/practical-web-scraping-for-data-science-best-practices-and-examples-with-python/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/practical-web-scraping-for-data-science-best-practices-and-examples-with-python/</guid>
+      <description>&lt;h1 id=&#34;practical-web-scraping-for-data-science-best-practices-and-examples-with-python&#34;&gt;Practical Web Scraping for Data Science: Best Practices and Examples with Python&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Practical Web Scraping for Data Science: Best Practices and Examples with Python&amp;rdquo; by Bart Baesens and Seppe vanden Broucke provides a comprehensive guide to web scraping using Python, tailored specifically for data science applications. The book offers a systematic approach to extracting valuable data from the web, emphasizing best practices, ethical considerations, and efficient techniques. It covers various tools and libraries, such as BeautifulSoup, Scrapy, and Selenium, and demonstrates how to navigate through common challenges in web scraping. The authors aim to arm readers with the skills to retrieve, clean, and analyze web data to derive actionable insights and support data-driven decision-making.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jenkins 2: Up and Running: Evolve Your Deployment Pipeline for Next Generation Automation</title>
+      <link>http://localhost:1313/books/jenkins-2-up-and-running-evolve-your-deployment-pipeline-for-next-generation-automation/</link>
+      <pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/jenkins-2-up-and-running-evolve-your-deployment-pipeline-for-next-generation-automation/</guid>
+      <description>&lt;h1 id=&#34;jenkins-2-up-and-running-evolve-your-deployment-pipeline-for-next-generation-automation&#34;&gt;Jenkins 2: Up and Running: Evolve Your Deployment Pipeline for Next Generation Automation&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Jenkins 2: Up and Running&amp;rdquo; by Brent Laster is a comprehensive guide focused on the upgraded features and capabilities of Jenkins 2, emphasizing its role in automating deployment pipelines. The book covers the enhanced functionalities provided by Jenkins 2, including the integration of the Pipeline plugin, which facilitates a more advanced and streamlined way to manage CI/CD processes. It addresses setting up Jenkins, configuring pipelines using both code and graphical interfaces, and integrating Jenkins with other tools and platforms for efficient automation and continuous delivery.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hands-On Natural Language Processing with Python: A practical guide to applying deep learning architectures to your NLP applications</title>
+      <link>http://localhost:1313/books/hands-on-natural-language-processing-with-python-a-practical-guide-to-applying-deep-learning-architectures-to-your-nlp-applications/</link>
+      <pubDate>Sun, 13 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/hands-on-natural-language-processing-with-python-a-practical-guide-to-applying-deep-learning-architectures-to-your-nlp-applications/</guid>
+      <description>&lt;h1 id=&#34;hands-on-natural-language-processing-with-python&#34;&gt;Hands-On Natural Language Processing with Python&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Hands-On Natural Language Processing with Python&amp;rdquo; by Rajalingappaa Shanmugamani and Rajesh Arumugam is a comprehensive guide designed to help practitioners and enthusiasts dive deep into the world of Natural Language Processing (NLP) using Python. The book covers various deep learning architectures and their application in NLP tasks, offering practical insights and examples. It provides a step-by-step journey from basic NLP concepts to implementing advanced techniques using libraries like TensorFlow and Keras. The authors aim to make complex NLP models and applications accessible by offering hands-on exercises and demonstrations suitable for those looking to practically apply NLP in real-world scenarios.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting to Know Vue.js: Learn to Build Single Page Applications in Vue from Scratch</title>
+      <link>http://localhost:1313/books/getting-to-know-vue-js-learn-to-build-single-page-applications-in-vue-from-scratch/</link>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/getting-to-know-vue-js-learn-to-build-single-page-applications-in-vue-from-scratch/</guid>
+      <description>&lt;h1 id=&#34;getting-to-know-vuejs-learn-to-build-single-page-applications-in-vue-from-scratch&#34;&gt;Getting to Know Vue.js: Learn to Build Single Page Applications in Vue from Scratch&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Getting to Know Vue.js: Learn to Build Single Page Applications in Vue from Scratch&amp;rdquo; by Brett Nelson is a technical guide aimed at helping developers understand and implement Vue.js, a progressive JavaScript framework. The book focuses on building single-page applications (SPAs) from the ground up using Vue.js. It provides a comprehensive walkthrough of core Vue.js concepts, such as Vue components, directives, state management, and routing. The author emphasizes practical learning through hands-on examples and tutorials, making it easier for readers to grasp the fundamental principles and apply them in real-world projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Refactoring: Improving the Design of Existing Code (Addison-Wesley Signature Series (Fowler))</title>
+      <link>http://localhost:1313/books/refactoring-improving-the-design-of-existing-code-addison-wesley-signature-series-fowler/</link>
+      <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/refactoring-improving-the-design-of-existing-code-addison-wesley-signature-series-fowler/</guid>
+      <description>&lt;h1 id=&#34;refactoring-improving-the-design-of-existing-code&#34;&gt;Refactoring: Improving the Design of Existing Code&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Refactoring: Improving the Design of Existing Code&amp;rdquo; by Martin Fowler is a seminal work in the field of software engineering that focuses on the techniques and principles of refactoring—systematically improving the design of existing code without altering its functionality. The book provides a comprehensive catalog of refactoring techniques, explaining when and why they should be applied. Fowler introduces the concept of &amp;ldquo;code smells,&amp;rdquo; which are indicators of potential issues in code architecture that can be made cleaner and more efficient through refactoring. This process enhances code readability, maintainability, and extensibility, making it easier for developers to add features, fix bugs, and improve performance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>React Explained: Your Step-by-Step Guide to React (2020 Edition)</title>
+      <link>http://localhost:1313/books/react-explained-your-step-by-step-guide-to-react-2020-edition/</link>
+      <pubDate>Fri, 10 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/react-explained-your-step-by-step-guide-to-react-2020-edition/</guid>
+      <description>&lt;h1 id=&#34;react-explained-your-step-by-step-guide-to-react-2020-edition&#34;&gt;React Explained: Your Step-by-Step Guide to React (2020 Edition)&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;React Explained: Your Step-by-Step Guide to React&amp;rdquo; by Zac Gordon is an instructional guide designed for both beginners and those with prior programming experience. The book provides a comprehensive walkthrough of React, a popular JavaScript library for building user interfaces. It covers fundamental concepts such as components, props, state, lifecycle methods, hooks, and context API in a logical and easy-to-understand sequence. The guide is structured to help readers gradually build their skills, using practical examples and exercises to reinforce learning and provide hands-on experience with React development.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code</title>
+      <link>http://localhost:1313/books/beyond-the-basic-stuff-with-python-best-practices-for-writing-clean-code/</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/beyond-the-basic-stuff-with-python-best-practices-for-writing-clean-code/</guid>
+      <description>&lt;h1 id=&#34;beyond-the-basic-stuff-with-python-best-practices-for-writing-clean-code&#34;&gt;Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code&amp;rdquo; by Al Sweigart is a guide designed to help intermediate Python programmers refine their coding skills and adopt best practices. Moving past foundational concepts, the book introduces readers to more sophisticated techniques for writing clean, efficient, and maintainable Python code. Key themes include code readability, the use of debugging tools, and the importance of documentation. Through a variety of examples and exercises, Sweigart aims to equip readers with the skills necessary to write professional-level code.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition</title>
+      <link>http://localhost:1313/books/the-pragmatic-programmer-your-journey-to-mastery-20th-anniversary-edition/</link>
+      <pubDate>Sun, 03 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/the-pragmatic-programmer-your-journey-to-mastery-20th-anniversary-edition/</guid>
+      <description>&lt;h1 id=&#34;the-pragmatic-programmer-your-journey-to-mastery-20th-anniversary-edition&#34;&gt;The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition&amp;rdquo; by David Thomas and Andrew Hunt is a seminal work in the field of software development. Originally published in 1999 and comprehensively updated for its 20th anniversary, the book offers timeless principles and practical advice for programmers of all levels. It emphasizes a pragmatic approach to software development, focusing on personal responsibility, adaptability, and continuous self-improvement. Key themes include the importance of craftsmanship in coding, problem-solving strategies, and effective project management. The book is structured as a series of tips and anecdotes designed to help programmers become more resourceful and innovative.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners</title>
+      <link>http://localhost:1313/books/automate-the-boring-stuff-with-python-2nd-edition-practical-programming-for-total-beginners/</link>
+      <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/automate-the-boring-stuff-with-python-2nd-edition-practical-programming-for-total-beginners/</guid>
+      <description>&lt;h2 id=&#34;overview-of-automate-the-boring-stuff-with-python-2nd-edition-practical-programming-for-total-beginners&#34;&gt;Overview of &lt;em&gt;Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners&lt;/em&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Automate the Boring Stuff with Python, 2nd Edition&lt;/em&gt; by Al Sweigart provides a practical introduction to Python programming for beginners. This book focuses on automating everyday tasks such as organizing files, managing spreadsheets, scraping websites, and working with online forms through clear-cut explanations and robust examples. It aims to make programming accessible, providing readers with the skills to automate repetitive tasks and improve efficiency in various aspects of work and personal life.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems</title>
+      <link>http://localhost:1313/books/hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems/</link>
+      <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems/</guid>
+      <description>&lt;h1 id=&#34;overview-of-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems-by-aurélien-géron&#34;&gt;Overview of &lt;em&gt;Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems&lt;/em&gt; by Aurélien Géron&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow&lt;/em&gt; by Aurélien Géron is a comprehensive guide to machine learning using practical Python-based tools and libraries. This book covers a wide range of machine learning topics, from fundamental concepts to more advanced deep learning and neural networks. The focus is on applying these concepts directly using popular libraries such as Scikit-Learn for traditional machine learning and Keras and TensorFlow for deep learning. Through hands-on projects and examples, Géron demystifies the process of building intelligent systems, making it accessible to readers with varying levels of expertise.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Effective Python: 90 Specific Ways to Write Better Python (Effective Software Development Series)</title>
+      <link>http://localhost:1313/books/effective-python-90-specific-ways-to-write-better-python-effective-software-development-series/</link>
+      <pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/effective-python-90-specific-ways-to-write-better-python-effective-software-development-series/</guid>
+      <description>&lt;h1 id=&#34;effective-python-90-specific-ways-to-write-better-python&#34;&gt;Effective Python: 90 Specific Ways to Write Better Python&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Effective Python: 90 Specific Ways to Write Better Python&amp;rdquo; by Brett Slatkin is a practical guide aimed at helping Python developers enhance their coding skills. The book is part of the Effective Software Development Series and is structured around specific recommendations for writing clear and Pythonic code. It provides actionable insights into various aspects of Python programming, with an emphasis on leveraging Python&amp;rsquo;s unique features to produce more efficient and maintainable code. The 90 specific ways cover a broad range of topics, from traditional language features to more modern idioms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python One-Liners: Write Concise, Eloquent Python Like a Professional</title>
+      <link>http://localhost:1313/books/python-one-liners-write-concise-eloquent-python-like-a-professional/</link>
+      <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-one-liners-write-concise-eloquent-python-like-a-professional/</guid>
+      <description>&lt;h1 id=&#34;python-one-liners-write-concise-eloquent-python-like-a-professional&#34;&gt;Python One-Liners: Write Concise, Eloquent Python Like a Professional&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Python One-Liners: Write Concise, Eloquent Python Like a Professional&amp;rdquo; by Christian Mayer focuses on the art of writing Python programs using one-liners. The book aims to teach readers how to condense complex code into simpler, more readable, and efficient one-liners. It explores various Python constructs and provides practical examples across different domains like data science, machine learning, and automation. By doing so, it highlights Python&amp;rsquo;s versatility and encourages the reader to develop cleaner and more efficient code.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python: 2 Books in 1: Introduction Guide &#43; Advanced Guide - The Complete guide to Learn Python Programming Language</title>
+      <link>http://localhost:1313/books/python-2-books-in-1-introduction-guide-advanced-guide-the-complete-guide-to-learn-python-programming-language/</link>
+      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-2-books-in-1-introduction-guide-advanced-guide-the-complete-guide-to-learn-python-programming-language/</guid>
+      <description>&lt;h1 id=&#34;python-2-books-in-1-introduction-guide--advanced-guide---the-complete-guide-to-learn-python-programming-language&#34;&gt;Python: 2 Books in 1: Introduction Guide + Advanced Guide - The Complete Guide to Learn Python Programming Language&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Python: 2 Books in 1&amp;rdquo; by Jason Crash serves as a comprehensive guide to mastering Python programming. The book is structured into two main parts: an Introduction Guide and an Advanced Guide. The Introduction Guide covers fundamental concepts such as variables, data types, control structures, functions, and basic object-oriented programming. It is designed to help beginners establish a solid foundation in Python. The Advanced Guide delves into more complex topics including advanced data structures, file manipulation, error handling, and sophisticated aspects of Python&amp;rsquo;s object-oriented features. Together, these sections aim to empower readers to confidently tackle both basic and advanced programming challenges using Python.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python for DevOps: Learn Ruthlessly Effective Automation</title>
+      <link>http://localhost:1313/books/python-for-devops-learn-ruthlessly-effective-automation/</link>
+      <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-for-devops-learn-ruthlessly-effective-automation/</guid>
+      <description>&lt;h1 id=&#34;python-for-devops-learn-ruthlessly-effective-automation&#34;&gt;Python for DevOps: Learn Ruthlessly Effective Automation&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Python for DevOps: Learn Ruthlessly Effective Automation&amp;rdquo; is a comprehensive guide that explores how Python programming can be effectively used to automate various aspects of DevOps processes. The book is co-authored by Kennedy Behrman, Alfredo Deza, Noah Gift, and Grig Gheorghiu. It delves into leveraging Python to streamline tasks such as configuration management, monitoring, building requirements and deployment scripts, and testing. The authors focus on practical applications of Python in the DevOps lifecycle, offering readers insight into real-world scenarios and examples. The book serves as both a tutorial and a reference for those looking to integrate Python into their DevOps workflow.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Build a Website With Django 3: A complete introduction to Django 3</title>
+      <link>http://localhost:1313/books/build-a-website-with-django-3-a-complete-introduction-to-django-3/</link>
+      <pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/build-a-website-with-django-3-a-complete-introduction-to-django-3/</guid>
+      <description>&lt;h1 id=&#34;build-a-website-with-django-3-a-complete-introduction-to-django-3&#34;&gt;Build a Website With Django 3: A complete introduction to Django 3&lt;/h1&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Build a Website With Django 3: A complete introduction to Django 3&amp;rdquo; by Nigel George serves as a comprehensive guide for developers eager to delve into building web applications using the Django framework. The book aims to provide readers with the skills necessary to create robust web sites by offering an in-depth introduction to Django 3. It covers foundational concepts, such as setting up a project, creating models, views, and templates, and handling forms and users. Additionally, the book touches on more advanced topics, including testing and deploying Django applications. Through practical examples and step-by-step tutorials, George facilitates an engaging learning experience for beginner to intermediate developers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dive Into Algorithms: A Pythonic Adventure for the Intrepid Beginner</title>
+      <link>http://localhost:1313/books/dive-into-algorithms-a-pythonic-adventure-for-the-intrepid-beginner/</link>
+      <pubDate>Fri, 25 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/dive-into-algorithms-a-pythonic-adventure-for-the-intrepid-beginner/</guid>
+      <description>&lt;h1 id=&#34;dive-into-algorithms-a-pythonic-adventure-for-the-intrepid-beginner&#34;&gt;Dive Into Algorithms: A Pythonic Adventure for the Intrepid Beginner&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Dive Into Algorithms: A Pythonic Adventure for the Intrepid Beginner&amp;rdquo; by Bradford Tuckfield is an educational work aimed at introducing readers to the fundamental concepts of algorithms. Using Python as the primary language for examples, the book simplifies complex algorithmic ideas for beginners. It covers a wide range of topics, including sorting and searching algorithms, dynamic programming, graph algorithms, and computational complexity, all while emphasizing practical implementation and problem-solving skills. The book is designed to engage readers through interactive examples and exercises, enhancing both their theoretical understanding and coding proficiency.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Django 3 Web Development Cookbook: Actionable solutions to common problems in Python web development, 4th Edition</title>
+      <link>http://localhost:1313/books/django-3-web-development-cookbook-actionable-solutions-to-common-problems-in-python-web-development-4th-edition/</link>
+      <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/django-3-web-development-cookbook-actionable-solutions-to-common-problems-in-python-web-development-4th-edition/</guid>
+      <description>&lt;h2 id=&#34;overview-of-django-3-web-development-cookbook-actionable-solutions-to-common-problems-in-python-web-development-4th-edition&#34;&gt;Overview of &lt;em&gt;Django 3 Web Development Cookbook: Actionable Solutions to Common Problems in Python Web Development, 4th Edition&lt;/em&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Django 3 Web Development Cookbook&lt;/em&gt; by Aidas Bendoraitis and Jake Kronika offers practical solutions to a variety of common challenges faced in Django web development. The book emphasizes actionable recipes in Python, focusing on Django 3, and providing developers with tasks and problems they’re likely to encounter in real-world projects. Topics range from initial setup, database migrations, and security practices to deployment strategies and performance optimization.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Real-World Python: A Hacker&#39;s Guide to Solving Problems with Code</title>
+      <link>http://localhost:1313/books/real-world-python-a-hacker-s-guide-to-solving-problems-with-code/</link>
+      <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/real-world-python-a-hacker-s-guide-to-solving-problems-with-code/</guid>
+      <description>&lt;h1 id=&#34;real-world-python-a-hackers-guide-to-solving-problems-with-code&#34;&gt;Real-World Python: A Hacker&amp;rsquo;s Guide to Solving Problems with Code&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Real-World Python: A Hacker&amp;rsquo;s Guide to Solving Problems with Code&amp;rdquo; by Lee Vaughan is a practical guide designed to enhance your Python programming skills through solving real-world problems. The book focuses on applying Python to a wide array of tasks and challenges that one might encounter in various domains, from data analysis to automation. Throughout the chapters, Vaughan provides insightful examples and exercises that encourage readers to engage with Python programming on a deeper level and apply their knowledge in practical contexts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices</title>
+      <link>http://localhost:1313/books/architecture-patterns-with-python-enabling-test-driven-development-domain-driven-design-and-event-driven-microservices/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/architecture-patterns-with-python-enabling-test-driven-development-domain-driven-design-and-event-driven-microservices/</guid>
+      <description>&lt;h1 id=&#34;overview-of-architecture-patterns-with-python-enabling-test-driven-development-domain-driven-design-and-event-driven-microservices&#34;&gt;Overview of &lt;em&gt;Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices&lt;/em&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices&lt;/em&gt; is a technical guide by Bob Gregory and Harry Percival that explores the intersection of several advanced software development practices within the Python programming environment. The book primarily focuses on demonstrating how patterns from Domain-Driven Design (DDD), Test-Driven Development (TDD), and Event-Driven Architecture can be leveraged to build robust and scalable systems. It provides an in-depth look at structuring Python applications using these methodologies to ensure maintainability and scalability. The narrative uses practical, real-world examples to illustrate how these principles can be applied effectively in the development lifecycle.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>40 Algorithms Every Programmer Should Know: Hone your problem-solving skills by learning different algorithms and their implementation in Python</title>
+      <link>http://localhost:1313/books/40-algorithms-every-programmer-should-know-hone-your-problem-solving-skills-by-learning-different-algorithms-and-their-implementation-in-python/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/40-algorithms-every-programmer-should-know-hone-your-problem-solving-skills-by-learning-different-algorithms-and-their-implementation-in-python/</guid>
+      <description>&lt;h1 id=&#34;40-algorithms-every-programmer-should-know-hone-your-problem-solving-skills-by-learning-different-algorithms-and-their-implementation-in-python&#34;&gt;40 Algorithms Every Programmer Should Know: Hone your problem-solving skills by learning different algorithms and their implementation in Python&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;&lt;strong&gt;40 Algorithms Every Programmer Should Know&lt;/strong&gt;&amp;rdquo; by Imran Ahmad provides a comprehensive guide to essential algorithms vital for modern software development and computer science. The book focuses on enhancing problem-solving skills by teaching the implementation of these algorithms in Python. Topics include classic algorithms, such as sorting and searching, as well as more complex concepts like graph theory, dynamic programming, and machine learning algorithms. Through practical examples and implementations, the book aims to equip readers with the fundamental knowledge to apply these algorithms effectively in real-world applications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Django 3 By Example: Build powerful and reliable Python web applications from scratch, 3rd Edition</title>
+      <link>http://localhost:1313/books/django-3-by-example-build-powerful-and-reliable-python-web-applications-from-scratch-3rd-edition/</link>
+      <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/django-3-by-example-build-powerful-and-reliable-python-web-applications-from-scratch-3rd-edition/</guid>
+      <description>&lt;h1 id=&#34;django-3-by-example-build-powerful-and-reliable-python-web-applications-from-scratch-3rd-edition&#34;&gt;Django 3 By Example: Build powerful and reliable Python web applications from scratch, 3rd Edition&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Django 3 By Example&amp;rdquo; by Antonio Melé is a comprehensive guide designed to help developers build robust web applications using Django 3. The book is structured to progressively introduce readers to the framework, starting from the basics and moving towards more advanced topics. Throughout the book, readers build four real-world projects, including a blogging platform, an e-commerce application, an e-learning system, and a personal finance app. These projects help demonstrate Django&amp;rsquo;s core functionalities, including form handling, user authentication, database interactions, and deployment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Designing Microservices Using Django: Structuring, Deploying and Managing the Microservices Architecture with Django (English Edition)</title>
+      <link>http://localhost:1313/books/designing-microservices-using-django-structuring-deploying-and-managing-the-microservices-architecture-with-django-english-edition/</link>
+      <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/designing-microservices-using-django-structuring-deploying-and-managing-the-microservices-architecture-with-django-english-edition/</guid>
+      <description>&lt;h1 id=&#34;designing-microservices-using-django-by-shayank-jain&#34;&gt;Designing Microservices Using Django by Shayank Jain&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Designing Microservices Using Django&amp;rdquo;&lt;/em&gt; by Shayank Jain explores the principles and best practices for building microservices architectures specifically within the Django framework. The book covers how Django&amp;rsquo;s capabilities can be leveraged to create scalable, modular services that can be developed, deployed, and maintained independently. It delves into key aspects of microservices design, such as service decomposition, inter-service communication, and effective use of Django’s REST framework. The book also emphasizes the importance of security, testing, and monitoring to ensure a resilient architecture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>High Performance Python: Practical Performant Programming for Humans</title>
+      <link>http://localhost:1313/books/high-performance-python-practical-performant-programming-for-humans/</link>
+      <pubDate>Sat, 07 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/high-performance-python-practical-performant-programming-for-humans/</guid>
+      <description>&lt;h1 id=&#34;high-performance-python-practical-performant-programming-for-humans&#34;&gt;High Performance Python: Practical Performant Programming for Humans&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;High Performance Python: Practical Performant Programming for Humans&amp;rdquo; by Micha Gorelick and Ian Ozsvald is a technical guide focused on optimizing Python programs for better performance. The book addresses common bottlenecks encountered by developers and offers practical strategies to enhance the efficiency of Python code. It explores various aspects of performance, including profiling techniques, data structures, concurrency, and parallelism, as well as the use of external libraries and tools to enhance speed. This book is structured to guide readers from foundational concepts to advanced optimization techniques, making it suitable for a wide range of Python developers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python Automation Cookbook: 75 Python automation ideas for web scraping, data wrangling, and processing Excel, reports, emails, and more, 2nd Edition</title>
+      <link>http://localhost:1313/books/python-automation-cookbook-75-python-automation-ideas-for-web-scraping-data-wrangling-and-processing-excel-reports-emails-and-more-2nd-edition/</link>
+      <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-automation-cookbook-75-python-automation-ideas-for-web-scraping-data-wrangling-and-processing-excel-reports-emails-and-more-2nd-edition/</guid>
+      <description>&lt;h1 id=&#34;python-automation-cookbook-75-python-automation-ideas-for-web-scraping-data-wrangling-and-processing-excel-reports-emails-and-more-2nd-edition&#34;&gt;Python Automation Cookbook: 75 Python automation ideas for web scraping, data wrangling, and processing Excel, reports, emails, and more, 2nd Edition&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Python Automation Cookbook, 2nd Edition&amp;rdquo; by Jaime Buelta is a practical guide focused on automating a variety of tasks using Python. The book covers a wide range of use cases such as web scraping, data wrangling, and the manipulation of data in formats like Excel, handling of emails, and report automation. It is designed for readers who wish to gain hands-on experience with Python scripting to streamline routine tasks efficiently. Each chapter is structured to introduce a particular automation problem followed by detailed solutions leveraging Python&amp;rsquo;s capabilities.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript: The Definitive Guide: Master the World&#39;s Most-Used Programming Language</title>
+      <link>http://localhost:1313/books/javascript-the-definitive-guide-master-the-world-s-most-used-programming-language/</link>
+      <pubDate>Thu, 22 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/javascript-the-definitive-guide-master-the-world-s-most-used-programming-language/</guid>
+      <description>&lt;h1 id=&#34;overview-of-javascript-the-definitive-guide-by-david-flanagan&#34;&gt;Overview of &amp;ldquo;JavaScript: The Definitive Guide&amp;rdquo; by David Flanagan&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;JavaScript: The Definitive Guide&amp;rdquo; by David Flanagan is widely regarded as one of the most comprehensive resources for mastering JavaScript. The book covers all aspects of the JavaScript programming language, from basic syntax to advanced features. Readers will find in-depth discussions on functions, objects, arrays, modules, and classes. It also covers modern JavaScript features driven by ECMAScript standards, asynchronous programming with promises and async/await, and provides extensive information on JavaScript’s integration with HTML and the DOM API.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GIT: The Ultimate Guide for Beginners: Learn Git Version Control</title>
+      <link>http://localhost:1313/books/git-the-ultimate-guide-for-beginners-learn-git-version-control/</link>
+      <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/git-the-ultimate-guide-for-beginners-learn-git-version-control/</guid>
+      <description>&lt;h1 id=&#34;git-the-ultimate-guide-for-beginners-learn-git-version-control-by-jameson-garner&#34;&gt;GIT: The Ultimate Guide for Beginners: Learn Git Version Control by Jameson Garner&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;GIT: The Ultimate Guide for Beginners&lt;/em&gt; by Jameson Garner is a beginner-friendly introduction to Git, designed to help new users understand and effectively utilize version control. The book covers the basics of Git, including setup, creating repositories, and fundamental commands like commit, push, pull, and branch. Garner emphasizes a straightforward approach, with clear explanations and examples, making the content accessible even for those without prior experience in version control.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Django for APIs: Build web APIs with Python and Django</title>
+      <link>http://localhost:1313/books/django-for-apis-build-web-apis-with-python-and-django/</link>
+      <pubDate>Sat, 12 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/django-for-apis-build-web-apis-with-python-and-django/</guid>
+      <description>&lt;h1 id=&#34;django-for-apis-build-web-apis-with-python-and-django-by-william-s-vincent&#34;&gt;Django for APIs: Build web APIs with Python and Django by William S. Vincent&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Django for APIs&amp;rdquo; by William S. Vincent is a technical guide designed to help developers create web APIs using Python and the Django framework. The book provides a comprehensive walkthrough of setting up Django to develop RESTful web services, integrating with front-end frameworks, and deploying APIs efficiently. Aimed at both beginners and experienced developers, it covers API fundamentals, database optimization, and advanced topics such as authentication and permissions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Django for Professionals: Production websites with Python &amp; Django</title>
+      <link>http://localhost:1313/books/django-for-professionals-production-websites-with-python-django/</link>
+      <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/django-for-professionals-production-websites-with-python-django/</guid>
+      <description>&lt;h1 id=&#34;overview-of-django-for-professionals-production-websites-with-python--django-by-william-vincent&#34;&gt;Overview of &lt;em&gt;Django for Professionals: Production websites with Python &amp;amp; Django&lt;/em&gt; by William Vincent&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Django for Professionals&amp;rdquo; is a comprehensive guide designed to help readers build production-ready web applications using the Django framework with Python. The book delves into advanced topics needed for developing high-performing and secure Django applications, emphasizing best practices in software development and deployment. It covers aspects such as setting up a proper development environment, managing databases, deploying on hosting platforms, handling user authentication, and optimizing performance to create scalable, maintainable web applications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Web Development with Django: Learn to build modern web applications with a Python-based framework</title>
+      <link>http://localhost:1313/books/web-development-with-django-learn-to-build-modern-web-applications-with-a-python-based-framework/</link>
+      <pubDate>Thu, 30 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/web-development-with-django-learn-to-build-modern-web-applications-with-a-python-based-framework/</guid>
+      <description>&lt;h1 id=&#34;web-development-with-django-learn-to-build-modern-web-applications-with-a-python-based-framework-by-ben-shaw-saurabh-badhwar-andrew-bird-bharath-chandra-k-s-and-chris-guest&#34;&gt;&lt;strong&gt;Web Development with Django: Learn to Build Modern Web Applications with a Python-Based Framework&lt;/strong&gt; by Ben Shaw, Saurabh Badhwar, Andrew Bird, Bharath Chandra K S, and Chris Guest&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Web Development with Django&amp;rdquo; is a comprehensive guide designed to equip readers with the knowledge and confidence to build real-world applications using the Django framework. The book adopts a hands-on approach, guiding readers through the creation of &amp;ldquo;Bookr,&amp;rdquo; a book review website, to illustrate Django&amp;rsquo;s core features and functionalities. :contentReference[oaicite:0]{index=0}&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Security Engineering: A Guide to Building Dependable Distributed Systems</title>
+      <link>http://localhost:1313/books/security-engineering-a-guide-to-building-dependable-distributed-systems/</link>
+      <pubDate>Wed, 22 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/security-engineering-a-guide-to-building-dependable-distributed-systems/</guid>
+      <description>&lt;h1 id=&#34;security-engineering-a-guide-to-building-dependable-distributed-systems-by-ross-anderson&#34;&gt;Security Engineering: A Guide to Building Dependable Distributed Systems by Ross Anderson&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Security Engineering: A Guide to Building Dependable Distributed Systems&amp;rdquo; by Ross Anderson is a comprehensive guide that explores the principles, strategies, and practices involved in designing secure and reliable distributed systems. The book covers a wide range of topics, including the basics of security and cryptography, specific security challenges in different environments, and methodologies to protect against various types of threats. It delves into the technical details of the engineering process, emphasizing the importance of understanding the social systems within which technology operates. The third edition adds updates to cover new advancements and challenges in security engineering, reflecting on modern threats and defenses.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crafting Test-Driven Software with Python: Write test suites that scale with your applications&#39; needs and complexity using Python and PyTest</title>
+      <link>http://localhost:1313/books/crafting-test-driven-software-with-python-write-test-suites-that-scale-with-your-applications-needs-and-complexity-using-python-and-pytest/</link>
+      <pubDate>Tue, 14 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/crafting-test-driven-software-with-python-write-test-suites-that-scale-with-your-applications-needs-and-complexity-using-python-and-pytest/</guid>
+      <description>&lt;h1 id=&#34;crafting-test-driven-software-with-python&#34;&gt;Crafting Test-Driven Software with Python&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Crafting Test-Driven Software with Python&amp;rdquo; by Alessandro Molina is a comprehensive guide that teaches developers how to implement Test-Driven Development (TDD) using Python and the pytest framework. The book begins by introducing the fundamentals of TDD and why it&amp;rsquo;s a valuable approach for producing reliable and maintainable code. It then delves into writing effective test suites that can scale with the complexity of real-world applications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Git for Programmers: Master Git for effective implementation of version control for your programming projects</title>
+      <link>http://localhost:1313/books/git-for-programmers-master-git-for-effective-implementation-of-version-control-for-your-programming-projects/</link>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/git-for-programmers-master-git-for-effective-implementation-of-version-control-for-your-programming-projects/</guid>
+      <description>&lt;h1 id=&#34;git-for-programmers-master-git-for-effective-implementation-of-version-control-for-your-programming-projects-by-jessy-liberty&#34;&gt;Git for Programmers: Master Git for Effective Implementation of Version Control for Your Programming Projects by Jessy Liberty&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Git for Programmers&lt;/em&gt; by Jessy Liberty is a comprehensive guide to using Git for version control in programming projects. Aimed at developers looking to enhance their workflow, the book covers fundamental and advanced Git concepts, from setting up a repository and basic commit commands to branching strategies, merging conflicts, and advanced features like rebasing and cherry-picking. Liberty provides practical examples and step-by-step instructions, making Git accessible for beginners while offering insights for experienced developers to deepen their skills.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

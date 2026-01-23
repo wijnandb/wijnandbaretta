@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto" data-theme="auto">
 
-<head><meta charset="utf-8">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
@@ -11,10 +11,10 @@
 <meta name="author" content="Wijnand Baretta">
 <link rel="canonical" href="http://localhost:1313/tags/scripts/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.da3211e5ef867bf2b75fd5a6515cfed7195c011e8ab735694e203810a827097b.css" integrity="sha256-2jIR5e&#43;Ge/K3X9WmUVz&#43;1xlcAR6KtzVpTiA4EKgnCXs=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="icon" href="http://localhost:1313/favicon.svg">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon.svg">
+<link rel="apple-touch-icon" href="http://localhost:1313/favicon.svg">
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
@@ -135,34 +135,213 @@
         </ul>
     </nav>
 </header>
-<main class="main"> 
-<header class="page-header"><div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/tags/">Tags</a></div>
-  <h1>
-    Scripts
-    <a href="/tags/scripts/index.xml" title="RSS" aria-label="RSS">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-        stroke-linecap="round" stroke-linejoin="round" height="23">
-        <path d="M4 11a9 9 0 0 1 9 9" />
-        <path d="M4 4a16 16 0 0 1 16 16" />
-        <circle cx="5" cy="19" r="1" />
-      </svg>
-    </a>
-  </h1>
+<main class="main">
+<header class="page-header">
+  <h1>#Scripts</h1>
+  <p>1 item tagged with "Scripts"</p>
 </header>
 
-<article class="post-entry tag-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Command line shortcuts
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Why not create shortcuts/shell scripts to open a project, similar to the script to create a new post?
-I could make it so that if I want to open a project, I cd into the directory belonging to the project, activate the environment and start up a server. I could even make it so that all projects start a server on their own port, so multiple projects could have a simultaneously running server.
-...</p>
+
+
+
+
+
+
+<section class="tagged-section">
+  <h2>Blog Posts</h2>
+  <div class="posts-list">
+    
+    <article class="post-entry">
+      <header class="entry-header">
+        <h3><a href="/posts/command-line-shortcuts/">Command line shortcuts</a></h3>
+      </header>
+      
+      <footer class="entry-footer">
+        <span>Oct 8, 2021</span>
+        
+      </footer>
+    </article>
+    
   </div>
-  <footer class="entry-footer"><span title='2021-10-08 08:12:29 +0200 CEST'>October 8, 2021</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
-  <a class="entry-link" aria-label="post link to Command line shortcuts" href="http://localhost:1313/posts/command-line-shortcuts/"></a>
-</article>
+</section>
+
+
+
+
+
+
+
+
+<nav class="back-nav">
+  <a href="/tags/">&larr; All tags</a>
+</nav>
+
+<style>
+.tagged-section {
+  margin-bottom: 3rem;
+}
+
+.tagged-section h2 {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.posts-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.post-entry {
+  padding: 1rem;
+  background: var(--code-bg);
+  border-radius: 8px;
+}
+
+.post-entry h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1.1rem;
+}
+
+.post-entry h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.post-entry h3 a:hover {
+  color: var(--primary);
+}
+
+.entry-content p {
+  margin: 0;
+  color: var(--secondary);
+  font-size: 0.95rem;
+}
+
+.entry-footer {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: var(--secondary);
+}
+
+.books-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 1200px) {
+  .books-grid { grid-template-columns: repeat(3, 1fr); }
+}
+@media (max-width: 768px) {
+  .books-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 480px) {
+  .books-grid { grid-template-columns: 1fr; }
+}
+
+.book-item {
+  text-decoration: none;
+  color: inherit;
+}
+
+.book-cover-container {
+  position: relative;
+  aspect-ratio: 2/3;
+  border-radius: 4px;
+  overflow: hidden;
+  background: var(--code-bg);
+}
+
+.book-cover-blur {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  filter: blur(20px);
+  transform: scale(1.1);
+  opacity: 0.5;
+}
+
+.book-cover {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.book-cover-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, var(--border) 0%, var(--code-bg) 100%);
+  font-size: 3rem;
+  font-weight: bold;
+  color: var(--secondary);
+}
+
+.book-hover-info {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.book-item:hover .book-hover-info {
+  opacity: 1;
+}
+
+.book-item:hover .book-cover {
+  transform: scale(1.05);
+}
+
+.book-hover-info .book-title {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: white;
+  margin-bottom: 0.25rem;
+}
+
+.book-hover-info .book-author {
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 0.25rem;
+}
+
+.book-hover-info .book-date {
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.back-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.back-nav a {
+  color: var(--secondary);
+  text-decoration: none;
+}
+
+.back-nav a:hover {
+  color: var(--primary);
+}
+</style>
+
     </main>
     
 <footer class="footer">

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Payne, Bryson on Wijnand Baretta</title>
+    <link>http://localhost:1314/authors/payne-bryson/</link>
+    <description>Recent content in Payne, Bryson on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1314/authors/payne-bryson/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teach Your Kids to Code: A Parent-Friendly Guide to Python Programming</title>
+      <link>http://localhost:1314/books/teach-your-kids-to-code-a-parent-friendly-guide-to-python-programming/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/books/teach-your-kids-to-code-a-parent-friendly-guide-to-python-programming/</guid>
+      <description>&lt;h1 id=&#34;overview-of-teach-your-kids-to-code-a-parent-friendly-guide-to-python-programming&#34;&gt;Overview of &amp;ldquo;Teach Your Kids to Code: A Parent-Friendly Guide to Python Programming&amp;rdquo;&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Teach Your Kids to Code: A Parent-Friendly Guide to Python Programming&amp;rdquo; by Bryson Payne is a practical introduction to programming for young learners. It focuses on using Python, one of the most accessible and widely-used programming languages, to teach core coding concepts such as loops, variables, functions, and conditionals. The book is designed for parents and educators with little to no background in computer science, providing step-by-step instructions, playful projects, and a supportive learning environment. By blending technical knowledge with engaging exercises, Payne aims to make coding both educational and fun for children.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -23,6 +23,11 @@ ShowCodeCopyButtons = true
 ShowWordCount = false
 ShowRssButtonInSectionTermList = true
 UseHugoToc = true
+
+  [params.editPost]
+  URL = "https://github.com/wijnandb/wijnandbaretta/edit/main/content"
+  Text = "Edit on GitHub"
+  appendFilePath = true
 disableSpecialCharacterCaption = false
 disableScrollToTop = false
 comments = false
@@ -55,6 +60,12 @@ tocopen = false
   imageWidth = 120
   imageHeight = 120
 
+  [params.assets]
+  favicon = "/favicon.svg"
+  favicon16x16 = "/favicon.svg"
+  favicon32x32 = "/favicon.svg"
+  apple_touch_icon = "/favicon.svg"
+
   [params.cover]
   hidden = false
   hiddenInList = false
@@ -83,6 +94,7 @@ tocopen = false
 category = "categories"
 tag = "tags"
 series = "series"
+author = "authors"
 
 [[menu.main]]
 identifier = "blog"

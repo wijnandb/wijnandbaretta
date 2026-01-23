@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Christian, Brian on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/christian-brian/</link>
+    <description>Recent content in Christian, Brian on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/christian-brian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithms to Live By: The Computer Science of Human Decisions</title>
+      <link>http://localhost:1313/books/algorithms-to-live-by-the-computer-science-of-human-decisions/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/algorithms-to-live-by-the-computer-science-of-human-decisions/</guid>
+      <description>&lt;h1 id=&#34;overview-of-algorithms-to-live-by-the-computer-science-of-human-decisions&#34;&gt;Overview of &lt;em&gt;Algorithms to Live By: The Computer Science of Human Decisions&lt;/em&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Algorithms to Live By: The Computer Science of Human Decisions&lt;/em&gt;, written by Brian Christian and Tom Griffiths, explores how fundamental concepts from computer science can be applied to human decision-making in everyday life. The book delves into a range of algorithms and examines their utility in solving real-world problems, offering insights from fields such as operations research, mathematics, and cognitive science. The authors discuss various topics like optimal stopping, explore/exploit trade-offs, caching, and scheduling, illuminating how these principles can efficiently guide personal and professional decisions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

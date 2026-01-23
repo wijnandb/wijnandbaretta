@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Machine Learning on Wijnand Baretta</title>
+    <link>http://localhost:1313/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 22 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems</title>
+      <link>http://localhost:1313/books/hands-on-machine-learning-with-scikit-learn-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/hands-on-machine-learning-with-scikit-learn-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems/</guid>
+      <description>&lt;h1 id=&#34;hands-on-machine-learning-with-scikit-learn-and-tensorflow&#34;&gt;Hands-On Machine Learning with Scikit-Learn and TensorFlow&lt;/h1&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Hands-On Machine Learning with Scikit-Learn and TensorFlow&amp;rdquo; by Aurélien Géron provides a comprehensive guide to the practical aspects of machine learning. The book is designed to take the reader from basic principles to more advanced topics, offering hands-on experience with two powerful libraries: Scikit-Learn and TensorFlow. It includes detailed explanations of essential concepts such as supervised learning, unsupervised learning, neural networks, deep learning, and many other machine learning techniques. The book is structured to facilitate the understanding and application of machine learning concepts through numerous examples and exercises.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition</title>
+      <link>http://localhost:1313/books/python-machine-learning-machine-learning-and-deep-learning-with-python-scikit-learn-and-tensorflow-2nd-edition/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-machine-learning-machine-learning-and-deep-learning-with-python-scikit-learn-and-tensorflow-2nd-edition/</guid>
+      <description>&lt;h1 id=&#34;python-machine-learning-machine-learning-and-deep-learning-with-python-scikit-learn-and-tensorflow-2nd-edition&#34;&gt;Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Sebastian Raschka, Vahid Mirjalili&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Python Machine Learning&amp;rdquo; by Sebastian Raschka and Vahid Mirjalili is a comprehensive guide for those looking to delve into the fields of machine learning and deep learning using Python. The book covers an array of fundamental and advanced topics, starting from basic concepts of machine learning, moving towards more sophisticated techniques like deep learning with different libraries and tools, specifically scikit-learn and TensorFlow. It illustrates practical implementations, providing hands-on experience by guiding the reader through coding examples that solve real-world problems. It also includes explanations of algorithms and models in a way that aims to make machine learning accessible for practitioners at various levels of expertise.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Decision Trees and Random Forests: A Visual Introduction For Beginners: A Simple Guide to Machine Learning with Decision Trees</title>
+      <link>http://localhost:1313/books/decision-trees-and-random-forests-a-visual-introduction-for-beginners-a-simple-guide-to-machine-learning-with-decision-trees/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/decision-trees-and-random-forests-a-visual-introduction-for-beginners-a-simple-guide-to-machine-learning-with-decision-trees/</guid>
+      <description>&lt;h1 id=&#34;decision-trees-and-random-forests-a-visual-introduction-for-beginners&#34;&gt;Decision Trees and Random Forests: A Visual Introduction For Beginners&lt;/h1&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary:&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Decision Trees and Random Forests: A Visual Introduction For Beginners&amp;rdquo; by Chris Smith and Mark Koning is designed as an accessible guide to understanding machine learning, particularly focused on decision trees and random forests. The book walks readers through fundamental concepts of these algorithms, demystifying the process with visual aids and simple explanations. It provides practical insights into how decision trees are structured, how random forests improve upon them, and how these techniques can be applied to solve real-world problems in data science.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Artificial Intelligence and Machine Learning for Business: A No-Nonsense Guide to Data Driven Technologies</title>
+      <link>http://localhost:1313/books/artificial-intelligence-and-machine-learning-for-business-a-no-nonsense-guide-to-data-driven-technologies/</link>
+      <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/artificial-intelligence-and-machine-learning-for-business-a-no-nonsense-guide-to-data-driven-technologies/</guid>
+      <description>&lt;h1 id=&#34;artificial-intelligence-and-machine-learning-for-business-a-no-nonsense-guide-to-data-driven-technologies-by-steven-finlay&#34;&gt;Artificial Intelligence and Machine Learning for Business: A No-Nonsense Guide to Data Driven Technologies by Steven Finlay&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Artificial Intelligence and Machine Learning for Business: A No-Nonsense Guide to Data Driven Technologies&amp;rdquo; by Steven Finlay serves as a practical guide for business professionals eager to understand and leverage AI and machine learning technologies. The book focuses on demystifying these complex topics by breaking down the concepts into digestible insights and practical applications. It explains how businesses can harness data-driven technologies to gain competitive advantages, improve decision-making, and drive innovation. Finlay covers various aspects of AI and machine learning, including their potential uses in different industries, the common pitfalls, and the strategic considerations necessary for successful implementation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems</title>
+      <link>http://localhost:1313/books/hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems/</link>
+      <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems/</guid>
+      <description>&lt;h1 id=&#34;overview-of-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems-by-aurélien-géron&#34;&gt;Overview of &lt;em&gt;Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems&lt;/em&gt; by Aurélien Géron&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow&lt;/em&gt; by Aurélien Géron is a comprehensive guide to machine learning using practical Python-based tools and libraries. This book covers a wide range of machine learning topics, from fundamental concepts to more advanced deep learning and neural networks. The focus is on applying these concepts directly using popular libraries such as Scikit-Learn for traditional machine learning and Keras and TensorFlow for deep learning. Through hands-on projects and examples, Géron demystifies the process of building intelligent systems, making it accessible to readers with varying levels of expertise.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

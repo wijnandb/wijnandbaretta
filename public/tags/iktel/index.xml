@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Iktel on Wijnand Baretta</title>
-    <link>http://localhost:41571/tags/iktel/</link>
+    <link>http://localhost:1314/tags/iktel/</link>
     <description>Recent content in Iktel on Wijnand Baretta</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <lastBuildDate>Fri, 06 Dec 2024 10:09:05 +0100</lastBuildDate>
-    <atom:link href="http://localhost:41571/tags/iktel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/iktel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Breaking down the project, Brede School/IkTel</title>
-      <link>http://localhost:41571/posts/2024/12/breaking-down-the-project-brede-school-iktel/</link>
+      <link>http://localhost:1314/posts/2024/12/breaking-down-the-project-brede-school-iktel/</link>
       <pubDate>Fri, 06 Dec 2024 10:09:05 +0100</pubDate>
-      <guid>http://localhost:41571/posts/2024/12/breaking-down-the-project-brede-school-iktel/</guid>
+      <guid>http://localhost:1314/posts/2024/12/breaking-down-the-project-brede-school-iktel/</guid>
       <description>&lt;p&gt;Hard to get more people on the bus, hard to consistently move the project forward, hard to get new customers on board.&lt;/p&gt;
 &lt;p&gt;So, I turned to Chad: &lt;a href=&#34;https://chatgpt.com/share/6752c06f-4078-800a-b586-bb650ba0056d&#34;&gt;https://chatgpt.com/share/6752c06f-4078-800a-b586-bb650ba0056d&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Brede school/Iktel nieuwe site: programma samenstellen</title>
-      <link>http://localhost:41571/posts/2024/11/brede-school-iktel-nieuwe-site-programma-samenstellen/</link>
+      <link>http://localhost:1314/posts/2024/11/brede-school-iktel-nieuwe-site-programma-samenstellen/</link>
       <pubDate>Wed, 20 Nov 2024 13:43:58 +0100</pubDate>
-      <guid>http://localhost:41571/posts/2024/11/brede-school-iktel-nieuwe-site-programma-samenstellen/</guid>
+      <guid>http://localhost:1314/posts/2024/11/brede-school-iktel-nieuwe-site-programma-samenstellen/</guid>
       <description>&lt;p&gt;Besproken met Dachar:&lt;/p&gt;
 &lt;p&gt;Op dit moment bepalen scholen op welke dag een bepaalde activiteit plaatsvindt. Dit leidt er (soms) toe, dat er geen match is met een aanbieder, omdat die bewsute aanbieder toevallig niet beschikbaar is op die specifieke dag. Logisch, maar vaak ook vermijdbaar. Het is voor een school belangrijk dat er gedurende de week activiteiten plaatsvinden. Idealiter is het aantal activiteiten netjes verdeeld over de verschillende dagen en leeftijdsgroepen. Ook de beschikbaarheid van locaties (lokaal, keuken, sporthal) kan bepalend zijn voor de mogelijkheden: een sporthal kan meestal maar voor een activiteit tegelijkertijd gebruikt worden.&lt;/p&gt;</description>
     </item>

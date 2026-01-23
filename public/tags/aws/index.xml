@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AWS on Wijnand Baretta</title>
+    <link>http://localhost:1313/tags/aws/</link>
+    <description>Recent content in AWS on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS Elastic Beanstalk: Developer Guide</title>
+      <link>http://localhost:1313/books/aws-elastic-beanstalk-developer-guide/</link>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/aws-elastic-beanstalk-developer-guide/</guid>
+      <description>&lt;h1 id=&#34;aws-elastic-beanstalk-developer-guide-by-amazon-web-services&#34;&gt;AWS Elastic Beanstalk: Developer Guide by Amazon Web Services&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;The &amp;ldquo;AWS Elastic Beanstalk: Developer Guide&amp;rdquo; is a comprehensive resource authored by Amazon Web Services. This guide is designed to help developers understand and effectively utilize AWS Elastic Beanstalk, a service that enables the quick deployment and management of applications in the cloud. The book covers the primary functions of AWS Elastic Beanstalk, including deploying, managing, and scaling applications. It focuses on key concepts such as environment management, platform options, application health monitoring, and integration with other AWS services.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

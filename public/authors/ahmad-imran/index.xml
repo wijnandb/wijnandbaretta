@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ahmad, Imran on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/ahmad-imran/</link>
+    <description>Recent content in Ahmad, Imran on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/ahmad-imran/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>40 Algorithms Every Programmer Should Know: Hone your problem-solving skills by learning different algorithms and their implementation in Python</title>
+      <link>http://localhost:1313/books/40-algorithms-every-programmer-should-know-hone-your-problem-solving-skills-by-learning-different-algorithms-and-their-implementation-in-python/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/40-algorithms-every-programmer-should-know-hone-your-problem-solving-skills-by-learning-different-algorithms-and-their-implementation-in-python/</guid>
+      <description>&lt;h1 id=&#34;40-algorithms-every-programmer-should-know-hone-your-problem-solving-skills-by-learning-different-algorithms-and-their-implementation-in-python&#34;&gt;40 Algorithms Every Programmer Should Know: Hone your problem-solving skills by learning different algorithms and their implementation in Python&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;&lt;strong&gt;40 Algorithms Every Programmer Should Know&lt;/strong&gt;&amp;rdquo; by Imran Ahmad provides a comprehensive guide to essential algorithms vital for modern software development and computer science. The book focuses on enhancing problem-solving skills by teaching the implementation of these algorithms in Python. Topics include classic algorithms, such as sorting and searching, as well as more complex concepts like graph theory, dynamic programming, and machine learning algorithms. Through practical examples and implementations, the book aims to equip readers with the fundamental knowledge to apply these algorithms effectively in real-world applications.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

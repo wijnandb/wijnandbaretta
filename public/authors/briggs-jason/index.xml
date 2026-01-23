@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Briggs, Jason on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/briggs-jason/</link>
+    <description>Recent content in Briggs, Jason on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/briggs-jason/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python for Kids: A Playful Introduction To Programming</title>
+      <link>http://localhost:1313/books/python-for-kids-a-playful-introduction-to-programming/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-for-kids-a-playful-introduction-to-programming/</guid>
+      <description>&lt;h1 id=&#34;python-for-kids-a-playful-introduction-to-programming&#34;&gt;Python for Kids: A Playful Introduction To Programming&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary:&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Python for Kids: A Playful Introduction to Programming&amp;rdquo; by Jason Briggs is a beginner-friendly guide designed to introduce children and young readers to the world of programming through the Python language. The book covers fundamental programming concepts such as variables, loops, functions, and data structures in an engaging and accessible manner. It uses simple language and fun examples to explain coding principles, encouraging kids to experiment and build their own projects. The book is structured with a combination of explanations, illustrations, and practical exercises, making it easy for young learners to follow along and apply their newly acquired skills.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

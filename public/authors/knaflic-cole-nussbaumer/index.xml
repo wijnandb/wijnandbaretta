@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Knaflic, Cole Nussbaumer on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/knaflic-cole-nussbaumer/</link>
+    <description>Recent content in Knaflic, Cole Nussbaumer on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 08 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/knaflic-cole-nussbaumer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Storytelling with Data: A Data Visualization Guide for Business Professionals</title>
+      <link>http://localhost:1313/books/storytelling-with-data-a-data-visualization-guide-for-business-professionals/</link>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/storytelling-with-data-a-data-visualization-guide-for-business-professionals/</guid>
+      <description>&lt;h1 id=&#34;storytelling-with-data-a-data-visualization-guide-for-business-professionals&#34;&gt;Storytelling with Data: A Data Visualization Guide for Business Professionals&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Storytelling with Data: A Data Visualization Guide for Business Professionals&amp;rdquo; by Cole Nussbaumer Knaflic serves as a comprehensive resource for individuals seeking to improve their data visualization skills with a focus on storytelling. The book emphasizes the importance of effectively communicating data insights in a manner that is both engaging and impactful. It covers key concepts such as understanding the narrative of data, choosing the right type of visuals, and designing for clarity and audience comprehension. Knaflic shares practical advice and techniques to help readers tell stories with data, ensuring that the intended message is both clear and meaningful.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

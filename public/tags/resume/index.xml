@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Resume on Wijnand Baretta</title>
-    <link>http://localhost:41571/tags/resume/</link>
+    <link>http://localhost:1314/tags/resume/</link>
     <description>Recent content in Resume on Wijnand Baretta</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 15 Sep 2021 13:37:41 +0200</lastBuildDate>
-    <atom:link href="http://localhost:41571/tags/resume/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/resume/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a job searching profile and resume</title>
-      <link>http://localhost:41571/posts/creating-a-job-searching-profile-and-resume/</link>
+      <link>http://localhost:1314/posts/creating-a-job-searching-profile-and-resume/</link>
       <pubDate>Wed, 15 Sep 2021 13:37:41 +0200</pubDate>
-      <guid>http://localhost:41571/posts/creating-a-job-searching-profile-and-resume/</guid>
+      <guid>http://localhost:1314/posts/creating-a-job-searching-profile-and-resume/</guid>
       <description></description>
     </item>
   </channel>

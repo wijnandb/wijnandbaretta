@@ -2,48 +2,163 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Marketing on Wijnand Baretta</title>
-    <link>http://localhost:41571/tags/marketing/</link>
+    <link>http://localhost:1313/tags/marketing/</link>
     <description>Recent content in Marketing on Wijnand Baretta</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Nov 2024 16:29:31 +0100</lastBuildDate>
-    <atom:link href="http://localhost:41571/tags/marketing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/marketing/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creating a roadmap for sales, marketing and development</title>
-      <link>http://localhost:41571/posts/2024/11/creating-a-roadmap-for-sales-marketing-and-development/</link>
-      <pubDate>Wed, 27 Nov 2024 16:29:31 +0100</pubDate>
-      <guid>http://localhost:41571/posts/2024/11/creating-a-roadmap-for-sales-marketing-and-development/</guid>
-      <description>&lt;p&gt;By creating a roadmap for IkTel and break down the work to be done by area (Sales, Marketing and Development), I hope to achieve more focus and productivity.&lt;/p&gt;
-&lt;p&gt;Obviously, I asked the help of ChatGPT. This was their response:&lt;/p&gt;
-&lt;h1 id=&#34;ideal-future-plan-for-the-after-school-activities-platform&#34;&gt;Ideal Future Plan for the After-School Activities Platform&lt;/h1&gt;
-&lt;h2 id=&#34;a-year-from-now-the-ideal-situation&#34;&gt;&lt;strong&gt;A Year from Now: The Ideal Situation&lt;/strong&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;what-does-the-business-look-like&#34;&gt;&lt;strong&gt;What Does the Business Look Like?&lt;/strong&gt;&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Platform Adoption and Scale&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The platform is widely recognized and used by schools across several regions in the Netherlands.&lt;/li&gt;
-&lt;li&gt;Schools, school boards, and activity providers actively recommend the platform.&lt;/li&gt;
-&lt;li&gt;The platform serves a growing user base, with regular improvements driven by feedback.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Efficient Operations&lt;/strong&gt;&lt;/p&gt;</description>
+      <title>Poke the Box</title>
+      <link>http://localhost:1313/books/poke-the-box/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/poke-the-box/</guid>
+      <description>&lt;h1 id=&#34;poke-the-box-by-seth-godin&#34;&gt;Poke the Box by Seth Godin&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Poke the Box&amp;rdquo; by Seth Godin is a motivational book that encourages readers to take initiative and start projects without waiting for permission or perfect conditions. Godin emphasizes the importance of innovation, proactivity, and the willingness to experiment. He uses the metaphor of &amp;ldquo;poking the box&amp;rdquo; as a call to action, urging individuals to confront fear and embrace the possibility of failure as a pathway to success.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Sales and marketing</title>
-      <link>http://localhost:41571/posts/2024/11/sales-and-marketing/</link>
-      <pubDate>Tue, 26 Nov 2024 16:03:46 +0100</pubDate>
-      <guid>http://localhost:41571/posts/2024/11/sales-and-marketing/</guid>
-      <description>&lt;p&gt;Great step to have appointed Amusat as Chief Technology Officer.
-It has changed how I see my role, giving me the freedom to focus more on Sales and Marketing.&lt;/p&gt;
-&lt;p&gt;What does that mean?&lt;/p&gt;
-&lt;p&gt;There is a number of schools that have applied and have been granted money for the &amp;ldquo;Rijke Schooldag&amp;rdquo;.
-I have a spreadsheet containing them all, task 1:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Look up spreadsheet with schools with Rijke Schooldag funds&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/14DJkXEbB3n25EztfaR3EJa5U7B7bIX-YO8p4-P2lPDA/edit?gid=1772953117#gid=1772953117&#34;&gt;Spreadsheet School en omgeving subsidies&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Webinar Manifesto: Never design, deliver, or sell lousy webinars again</title>
+      <link>http://localhost:1313/books/webinar-manifesto-never-design-deliver-or-sell-lousy-webinars-again/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/webinar-manifesto-never-design-deliver-or-sell-lousy-webinars-again/</guid>
+      <description>&lt;h1 id=&#34;webinar-manifesto-never-design-deliver-or-sell-lousy-webinars-again&#34;&gt;Webinar Manifesto: Never Design, Deliver, or Sell Lousy Webinars Again&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Webinar Manifesto: Never Design, Deliver, or Sell Lousy Webinars Again&amp;rdquo; presents a comprehensive guide on enhancing the quality and effectiveness of webinars. The authors, Treion Muller and Matthew Murdoch, draw upon their extensive experience to provide actionable strategies for creating engaging and impactful webinars. The book focuses on the entire lifecycle of a webinar, from conceptualization and design to delivery and sales strategies. Key themes include improving audience interaction, leveraging technology effectively, and maximizing the marketing potential of webinars.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Viral Startup: A Guide to Designing Viral Loops</title>
+      <link>http://localhost:1313/books/the-viral-startup-a-guide-to-designing-viral-loops/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/the-viral-startup-a-guide-to-designing-viral-loops/</guid>
+      <description>&lt;h1 id=&#34;the-viral-startup-a-guide-to-designing-viral-loops&#34;&gt;The Viral Startup: A Guide to Designing Viral Loops&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;The Viral Startup: A Guide to Designing Viral Loops&amp;rdquo; by Andrew Chen focuses on understanding and implementing viral loops within startup growth strategies. The book provides insights into how companies can harness the power of user-to-user interactions to accelerate growth and build sustainable business models. Through case studies and detailed analysis, Chen breaks down the mechanics of viral growth, explaining how startups can design, test, and iterate on viral loops to achieve significant user acquisition efficiently.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers (Collins Business Essentials)</title>
+      <link>http://localhost:1313/books/crossing-the-chasm-3rd-edition-marketing-and-selling-disruptive-products-to-mainstream-customers-collins-business-essentials/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/crossing-the-chasm-3rd-edition-marketing-and-selling-disruptive-products-to-mainstream-customers-collins-business-essentials/</guid>
+      <description>&lt;h1 id=&#34;overview-of-crossing-the-chasm-3rd-edition-marketing-and-selling-disruptive-products-to-mainstream-customers&#34;&gt;Overview of &amp;ldquo;Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers&amp;rdquo;&lt;/h1&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Crossing the Chasm&amp;rdquo; by Geoffrey A. Moore is a seminal work on marketing and selling disruptive technological products to mainstream customers. The book identifies and analyzes a key challenge for innovative companies: the transition from early adopters to the early majority, which entails crossing a metaphorical &amp;lsquo;chasm.&amp;rsquo; This chasm represents the gap between a product&amp;rsquo;s initial adoption by technology enthusiasts and its broader acceptance by pragmatic consumers. Moore outlines a strategic framework that helps companies navigate this challenging phase, emphasizing the importance of targeting specific market segments and using a focused, strategic approach to accelerate growth.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising</title>
+      <link>http://localhost:1313/books/growth-hacker-marketing-a-primer-on-the-future-of-pr-marketing-and-advertising/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/growth-hacker-marketing-a-primer-on-the-future-of-pr-marketing-and-advertising/</guid>
+      <description>&lt;h1 id=&#34;growth-hacker-marketing-a-primer-on-the-future-of-pr-marketing-and-advertising&#34;&gt;Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Growth Hacker Marketing&amp;rdquo; by Ryan Holiday explores the modern strategies of marketing adopted by tech startups and compares them with traditional marketing methods. Holiday introduces the concept of &amp;ldquo;growth hacking,&amp;rdquo; a data-driven approach focused on achieving rapid growth by using innovative, low-cost strategies. The book outlines how these tactics differ from conventional marketing and emphasizes the importance of product-market fit, customer feedback, and iterative product changes in driving growth. It includes case studies of successful companies that have used growth hacking to build their brands.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Startup Growth Engines: Case Studies of How Today’s Most Successful Startups Unlock Extraordinary Growth</title>
+      <link>http://localhost:1313/books/startup-growth-engines-case-studies-of-how-todays-most-successful-startups-unlock-extraordinary-growth/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/startup-growth-engines-case-studies-of-how-todays-most-successful-startups-unlock-extraordinary-growth/</guid>
+      <description>&lt;h1 id=&#34;startup-growth-engines-case-studies-of-how-todays-most-successful-startups-unlock-extraordinary-growth-by-sean-ellis-and-morgan-brown&#34;&gt;Startup Growth Engines: Case Studies of How Today’s Most Successful Startups Unlock Extraordinary Growth by Sean Ellis and Morgan Brown&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Startup Growth Engines&amp;rdquo; explores the strategies and methodologies that some of the world&amp;rsquo;s most successful startups have used to drive exceptional growth. The book presents a series of case studies that analyze how companies like Dropbox, Airbnb, Evernote, and Uber achieved rapid expansion by leveraging innovative growth mechanisms. The authors focus on the concept of &amp;ldquo;growth hacking,&amp;rdquo; a practice that combines marketing, product development, and data analysis to create scalable and sustainable growth. Through detailed examples, Sean Ellis and Morgan Brown illustrate how startups can implement these strategies to grow their user base and achieve success in competitive markets.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Marketing: A Love Story: How to Matter to Your Customers</title>
+      <link>http://localhost:1313/books/marketing-a-love-story-how-to-matter-to-your-customers/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/marketing-a-love-story-how-to-matter-to-your-customers/</guid>
+      <description>&lt;h1 id=&#34;marketing-a-love-story-how-to-matter-to-your-customers&#34;&gt;Marketing: A Love Story: How to Matter to Your Customers&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Marketing: A Love Story: How to Matter to Your Customers&amp;rdquo; by Bernadette Jiwa is a book that explores the emotional and human aspects of marketing. Jiwa argues that successful marketing is not just about selling products but about creating meaningful connections with customers. Throughout the book, she emphasizes the importance of understanding customer needs, crafting compelling stories, and building trust. Jiwa encourages marketers to focus on authenticity and the value they can provide, rather than traditional marketing tactics that often lack genuine engagement.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome to the Funnel: Proven Tactics to Turn Your Social and Content Marketing up to 11</title>
+      <link>http://localhost:1313/books/welcome-to-the-funnel-proven-tactics-to-turn-your-social-and-content-marketing-up-to-11/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/welcome-to-the-funnel-proven-tactics-to-turn-your-social-and-content-marketing-up-to-11/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-the-funnel-proven-tactics-to-turn-your-social-and-content-marketing-up-to-11&#34;&gt;Welcome to the Funnel: Proven Tactics to Turn Your Social and Content Marketing up to 11&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Welcome to the Funnel&amp;rdquo; by Jason Miller provides a practical guide for businesses looking to enhance their social media and content marketing strategies. The book focuses on real-world tactics and strategies that help marketers to better engage their audiences, drive traffic, and convert leads. Miller draws from his extensive experience in the marketing field to offer insights on creating and distributing content that resonates with target demographics. The book addresses a range of topics, including the integration of social media platforms with content marketing efforts, measuring the success of campaigns, and optimizing strategies for better returns on investment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Brand Flip: Why customers now run companies and how to profit from it (Voices That Matter)</title>
+      <link>http://localhost:1313/books/the-brand-flip-why-customers-now-run-companies-and-how-to-profit-from-it-voices-that-matter/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/the-brand-flip-why-customers-now-run-companies-and-how-to-profit-from-it-voices-that-matter/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;The Brand Flip&amp;rdquo; by Marty Neumeier explores the shift in brand dynamics where customers, rather than companies, steer the market. Neumeier argues that the traditional top-down approach to branding has changed, with consumers now holding significant power through their preferences and shared experiences. The book discusses how this change challenges companies to pivot their strategies, focusing on building brand communities and creating customer experiences that inspire loyalty and advocacy. Neumeier emphasizes the importance of mission-driven brands that enable a participatory culture, co-creation, and leveraging customer influence as primary drivers for growth and success.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Content Machine: Use Content Marketing to Build a 7-figure Business With Zero Advertising</title>
+      <link>http://localhost:1313/books/content-machine-use-content-marketing-to-build-a-7-figure-business-with-zero-advertising/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/content-machine-use-content-marketing-to-build-a-7-figure-business-with-zero-advertising/</guid>
+      <description>&lt;h1 id=&#34;content-machine-use-content-marketing-to-build-a-7-figure-business-with-zero-advertising&#34;&gt;Content Machine: Use Content Marketing to Build a 7-figure Business With Zero Advertising&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Content Machine&amp;rdquo; by Dan Norris focuses on leveraging content marketing strategies to build a successful business without relying on traditional advertising methods. Norris shares his personal journey and insights into how he transformed his businesses by creating engaging and valuable content. The book outlines a systematic approach to content marketing, emphasizing the importance of producing high-quality content to attract and retain a loyal audience, ultimately driving business growth.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meaningful: The Story of Ideas That Fly</title>
+      <link>http://localhost:1313/books/meaningful-the-story-of-ideas-that-fly/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/meaningful-the-story-of-ideas-that-fly/</guid>
+      <description>&lt;h1 id=&#34;meaningful-the-story-of-ideas-that-fly-by-bernadette-jiwa&#34;&gt;Meaningful: The Story of Ideas That Fly by Bernadette Jiwa&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Meaningful: The Story of Ideas That Fly&amp;rdquo; by Bernadette Jiwa explores what makes an idea gain traction and stand out in a saturated market. The book delves into the concept that connecting emotionally with people is crucial for an idea&amp;rsquo;s success. Jiwa emphasizes the importance of understanding customers&amp;rsquo; needs and creating meaningful experiences rather than just focusing on product features.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pre-Suasion: A Revolutionary Way to Influence and Persuade</title>
+      <link>http://localhost:1313/books/pre-suasion-a-revolutionary-way-to-influence-and-persuade/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/pre-suasion-a-revolutionary-way-to-influence-and-persuade/</guid>
+      <description>&lt;h1 id=&#34;overview-of-pre-suasion-a-revolutionary-way-to-influence-and-persuade-by-robert-b-cialdini&#34;&gt;Overview of &amp;ldquo;Pre-Suasion: A Revolutionary Way to Influence and Persuade&amp;rdquo; by Robert B. Cialdini&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Pre-Suasion&amp;rdquo; is a compelling exploration into the art of influence, authored by renowned psychologist Robert B. Cialdini. This book builds on the foundation of Cialdini’s previous work, diving into the power of setting the stage for persuasion before any message is actually delivered. The central premise is that the moments before delivering a message significantly impact the recipient&amp;rsquo;s receptivity to it. Cialdini introduces the concept of &amp;ldquo;pre-suasion,&amp;rdquo; emphasizing the strategic preparatory actions and context-setting that enhance persuasibility. Through a blend of research studies, anecdotes, and practical examples, Cialdini illustrates how subtle adjustments in timing, focus, and environment can dramatically boost the effectiveness of persuasive efforts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hacking Growth: How Today&#39;s Fastest-Growing Companies Drive Breakout Success</title>
+      <link>http://localhost:1313/books/hacking-growth-how-today-s-fastest-growing-companies-drive-breakout-success/</link>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/hacking-growth-how-today-s-fastest-growing-companies-drive-breakout-success/</guid>
+      <description>&lt;h1 id=&#34;hacking-growth-how-todays-fastest-growing-companies-drive-breakout-success&#34;&gt;Hacking Growth: How Today&amp;rsquo;s Fastest-Growing Companies Drive Breakout Success&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Hacking Growth&amp;rdquo; by Sean Ellis and Morgan Brown is a comprehensive guide to the strategies and tactics behind the rapid success of some of today’s most high-growth companies. The book delves into the concept of &amp;ldquo;growth hacking,&amp;rdquo; a practice that fuses marketing, product development, and data analysis to drive significant growth in a highly efficient manner. Ellis and Brown outline the framework and processes that companies use to enrich, engage, and retain customers while scaling rapidly. With a focus on experimentation and analytics-driven decision-making, the book provides actionable methodologies for implementing growth hacking in any organization.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>KNOWN: The Handbook for Building and Unleashing Your Personal Brand in the Digital Age</title>
+      <link>http://localhost:1313/books/known-the-handbook-for-building-and-unleashing-your-personal-brand-in-the-digital-age/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/known-the-handbook-for-building-and-unleashing-your-personal-brand-in-the-digital-age/</guid>
+      <description>&lt;h1 id=&#34;known-the-handbook-for-building-and-unleashing-your-personal-brand-in-the-digital-age&#34;&gt;KNOWN: The Handbook for Building and Unleashing Your Personal Brand in the Digital Age&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;KNOWN: The Handbook for Building and Unleashing Your Personal Brand in the Digital Age&amp;rdquo; by Mark Schaefer is a practical guide aimed at individuals who aspire to cultivate a successful personal brand in the digital era. The book distills the essence of building a personal brand through a systematic approach, emphasizing the importance of consistency, dedication, and authenticity. Schaefer outlines a structured process involving four distinct stages—Place, Space, Map, and a series of steps to evolve one’s personal brand into a recognizable and influential entity. The book is filled with real-world case studies and interviews with people who have successfully become &amp;ldquo;known&amp;rdquo; in their respective fields, illustrating diverse strategies across different platforms and industries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building a StoryBrand: Clarify Your Message So Customers Will Listen</title>
+      <link>http://localhost:1313/books/building-a-storybrand-clarify-your-message-so-customers-will-listen/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/building-a-storybrand-clarify-your-message-so-customers-will-listen/</guid>
+      <description>&lt;h1 id=&#34;building-a-storybrand-clarify-your-message-so-customers-will-listen&#34;&gt;Building a StoryBrand: Clarify Your Message So Customers Will Listen&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Building a StoryBrand&amp;rdquo; by Donald Miller provides a framework for businesses to clarify their messaging by using the principles of storytelling. Miller emphasizes the importance of making the customer, not the company, the hero of the story. The book is structured around a seven-part framework that helps brands communicate their value clearly and engagingly. This involves defining a customer&amp;rsquo;s problem, presenting the brand as a guide, offering a clear plan, and calling the customer to action, ultimately leading to their success and avoiding failure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The New Rules of Marketing and PR: How to Use Social Media, Online Video, Mobile Applications, Blogs, Newsjacking, and Viral Marketing to Reach Buyers Directly</title>
+      <link>http://localhost:1313/books/the-new-rules-of-marketing-and-pr-how-to-use-social-media-online-video-mobile-applications-blogs-newsjacking-and-viral-marketing-to-reach-buyers-directly/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/the-new-rules-of-marketing-and-pr-how-to-use-social-media-online-video-mobile-applications-blogs-newsjacking-and-viral-marketing-to-reach-buyers-directly/</guid>
+      <description>&lt;h1 id=&#34;the-new-rules-of-marketing-and-pr-by-david-meerman-scott&#34;&gt;The New Rules of Marketing and PR by David Meerman Scott&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;The New Rules of Marketing and PR&amp;rdquo; by David Meerman Scott is a comprehensive guide detailing how businesses and marketers can leverage modern digital tools to reach their audiences directly. The book emphasizes the shift from traditional marketing methods to the strategies involving social media, online video, blogs, newsjacking, and viral marketing. Scott discusses how the internet’s accessibility allows companies of all sizes to communicate directly with customers, creating a more democratic landscape where even small businesses can compete with larger corporations if they embrace these new strategies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>This Is Marketing: You Can&#39;t Be Seen Until You Learn to See</title>
+      <link>http://localhost:1313/books/this-is-marketing-you-can-t-be-seen-until-you-learn-to-see/</link>
+      <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/this-is-marketing-you-can-t-be-seen-until-you-learn-to-see/</guid>
+      <description>&lt;h1 id=&#34;this-is-marketing-you-cant-be-seen-until-you-learn-to-see&#34;&gt;This Is Marketing: You Can&amp;rsquo;t Be Seen Until You Learn to See&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;This Is Marketing: You Can&amp;rsquo;t Be Seen Until You Learn to See&amp;rdquo; by Seth Godin is a comprehensive guide on the modern principles of marketing. The book delves into how traditional marketing practices have shifted in the digital age, focusing on building trust and creating meaningful interactions rather than just pushing products. Godin emphasizes the importance of understanding and empathizing with the audience, honing in on the idea that successful marketing is about solving problems and fulfilling the needs of a particular community rather than targeting the masses. Central themes include the art of storytelling, the power of connection, and the necessity of being authentic and generous in marketing efforts.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

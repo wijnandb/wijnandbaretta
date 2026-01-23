@@ -1,0 +1,1241 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Two Scoops of Django 1.11: Best Practices for the Django Web Framework | Wijnand Baretta</title>
+<meta name="keywords" content="django, python, programming">
+<meta name="description" content="Overview of Two Scoops of Django 1.11: Best Practices for the Django Web Framework
+Summary
+&ldquo;Two Scoops of Django 1.11: Best Practices for the Django Web Framework&rdquo; is a comprehensive guide aimed at providing developers with the best practices for working with the Django web framework, focusing specifically on version 1.11. Authored by Audrey Roy Greenfeld and Daniel Roy Greenfeld, it covers a wide range of topics including project setup, application structure, working with models, forms, views, and templates, as well as testing and deployment strategies. The book is designed for both intermediate and experienced Django developers who wish to deepen their understanding of Django and improve their coding practices.">
+<meta name="author" content="Wijnand Baretta">
+<link rel="canonical" href="http://localhost:1313/books/two-scoops-of-django-1-11-best-practices-for-the-django-web-framework/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.da3211e5ef867bf2b75fd5a6515cfed7195c011e8ab735694e203810a827097b.css" integrity="sha256-2jIR5e&#43;Ge/K3X9WmUVz&#43;1xlcAR6KtzVpTiA4EKgnCXs=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.svg">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon.svg">
+<link rel="apple-touch-icon" href="http://localhost:1313/favicon.svg">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/books/two-scoops-of-django-1-11-best-practices-for-the-django-web-framework/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+        @media (prefers-color-scheme: light) {
+            .list::-webkit-scrollbar-thumb {
+                border-color: var(--code-bg);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body id="top">
+    <header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Wijnand Baretta (Alt + H)">Wijnand Baretta</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/posts/" title="Blog">
+                    <span>Blog</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/projects/" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/ideas/" title="Ideas">
+                    <span>Ideas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/books/" title="Books">
+                    <span>Books</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+<article class="book-detail">
+  <div class="book-detail-header">
+    
+    <div class="book-detail-cover">
+      
+      <img src="/images/bookcovers/small/B076D5FKFX.jpg" alt="Two Scoops of Django 1.11: Best Practices for the Django Web Framework">
+      
+    </div>
+
+    
+    <div class="book-detail-meta">
+      <h1>Two Scoops of Django 1.11: Best Practices for the Django Web Framework</h1>
+
+      
+      <p class="book-authors">
+        
+        
+        <a href="/authors/greenfeld-audrey-roy/">Greenfeld, Audrey Roy</a>
+        
+        , 
+        <a href="/authors/greenfeld-daniel-roy/">Greenfeld, Daniel Roy</a>
+        
+      </p>
+      
+
+      
+      
+      <p class="book-date">Read: June 2017</p>
+      
+      
+
+      
+      <div class="book-tags">
+        
+        <a href="/tags/django/" class="book-tag">django</a>
+        
+        <a href="/tags/python/" class="book-tag">python</a>
+        
+        <a href="/tags/programming/" class="book-tag">programming</a>
+        
+      </div>
+      
+
+      <div class="book-actions">
+        
+        <a href="https://read.amazon.com/?asin=B076D5FKFX" target="_blank" rel="noopener" class="btn btn-primary">Read on Kindle</a>
+        
+        
+        <a href="https://www.amazon.com/dp/B076D5FKFX" target="_blank" rel="noopener" class="btn btn-secondary">View on Amazon</a>
+        
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="book-content">
+    <h1 id="overview-of-two-scoops-of-django-111-best-practices-for-the-django-web-framework">Overview of <em>Two Scoops of Django 1.11: Best Practices for the Django Web Framework</em></h1>
+<h2 id="summary">Summary</h2>
+<p><em>&ldquo;Two Scoops of Django 1.11: Best Practices for the Django Web Framework&rdquo;</em> is a comprehensive guide aimed at providing developers with the best practices for working with the Django web framework, focusing specifically on version 1.11. Authored by Audrey Roy Greenfeld and Daniel Roy Greenfeld, it covers a wide range of topics including project setup, application structure, working with models, forms, views, and templates, as well as testing and deployment strategies. The book is designed for both intermediate and experienced Django developers who wish to deepen their understanding of Django and improve their coding practices.</p>
+<h2 id="review">Review</h2>
+<p>The book is well-regarded within the Django community for its thoroughness and practical approach. It is lauded for its clear explanations and actionable advice, which are based on the authors&rsquo; extensive experience in web development. Its structure, with numerous code examples and real-world scenarios, helps reinforce the concepts discussed. A potential critique is that the book is tied to version 1.11, which might not cover features in later Django versions. Nevertheless, many of the principles and practices discussed are applicable across different versions.</p>
+<h2 id="key-takeaways">Key Takeaways</h2>
+<ul>
+<li><strong>Project Setup</strong>: Emphasizes organizing projects using the most effective directory structures and configuration practices to facilitate scalability.</li>
+<li><strong>Models and Database Management</strong>: Covers best practices in designing Django models and interacting with databases to ensure efficient data processing.</li>
+<li><strong>Forms and Views</strong>: Offers advice on optimizing forms and handling them in views, emphasizing security and user experience.</li>
+<li><strong>Templates</strong>: Advocates for clean and maintainable template usage, along with leveraging Django&rsquo;s built-in template features.</li>
+<li><strong>Testing</strong>: Highlights the importance of testing in Django applications and suggests techniques for writing effective tests.</li>
+<li><strong>Deployment</strong>: Provides strategies for deploying Django applications in production environments, ensuring reliability and performance.</li>
+</ul>
+<h2 id="recommendation">Recommendation</h2>
+<p><em>&ldquo;Two Scoops of Django 1.11&rdquo;</em> is highly recommended for Django developers who are past the beginner stage and looking to refine their skills. It is particularly useful for those working on projects in Django 1.11 who are keen on adopting industry-standard practices to build robust, scalable web applications. Despite its focus on a specific version, developers working on other versions of Django can also benefit from many of the underlying principles discussed.</p>
+
+  </div>
+
+  
+  
+  
+  
+  
+  
+    
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+  
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+  
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+  
+  
+  
+  <section class="related-books">
+    <h2>Related Books</h2>
+    <div class="related-grid">
+      
+      <a href="/books/build-your-first-website-with-python-and-django-build-and-deploy-a-website-with-python-3-6-and-django-1-11/" class="book-item" data-title="build your first website with python and django: build and deploy a website with python 3.6 and django 1.11" data-authors="george, nigel" data-tags="python django web" data-date="2017-06-01">
+        <div class="book-cover-container">
+          
+          
+          <div class="book-cover-blur" style="background-image: url('/images/bookcovers/small/B07776RRYR.jpg')"></div>
+          <img class="book-cover" src="/images/bookcovers/small/B07776RRYR.jpg" alt="Build your first website with Python and Django: Build and Deploy a website with Python 3.6 and Django 1.11" loading="lazy">
+          
+          <div class="book-hover-info">
+            <div class="book-title">Build your first website with Python and Django: Build and Deploy a website with Python 3.6 and Django 1.11</div>
+            <div class="book-author">George, Nigel</div>
+            <div class="book-date">Jun 2017</div>
+          </div>
+        </div>
+      </a>
+      
+      <a href="/books/build-a-website-with-django-3-a-complete-introduction-to-django-3/" class="book-item" data-title="build a website with django 3: a complete introduction to django 3" data-authors="george, nigel" data-tags="python programming django web" data-date="2016-01-10">
+        <div class="book-cover-container">
+          
+          
+          <div class="book-cover-blur" style="background-image: url('/images/bookcovers/small/B082Z9KBVT.jpg')"></div>
+          <img class="book-cover" src="/images/bookcovers/small/B082Z9KBVT.jpg" alt="Build a Website With Django 3: A complete introduction to Django 3" loading="lazy">
+          
+          <div class="book-hover-info">
+            <div class="book-title">Build a Website With Django 3: A complete introduction to Django 3</div>
+            <div class="book-author">George, Nigel</div>
+            <div class="book-date">Jan 2016</div>
+          </div>
+        </div>
+      </a>
+      
+      <a href="/books/django-3-web-development-cookbook-actionable-solutions-to-common-problems-in-python-web-development-4th-edition/" class="book-item" data-title="django 3 web development cookbook: actionable solutions to common problems in python web development, 4th edition" data-authors="bendoraitis, aidas kronika, jake" data-tags="python programming django" data-date="2015-12-21">
+        <div class="book-cover-container">
+          
+          
+          <div class="book-cover-blur" style="background-image: url('/images/bookcovers/small/B084WRLDSB.jpg')"></div>
+          <img class="book-cover" src="/images/bookcovers/small/B084WRLDSB.jpg" alt="Django 3 Web Development Cookbook: Actionable solutions to common problems in Python web development, 4th Edition" loading="lazy">
+          
+          <div class="book-hover-info">
+            <div class="book-title">Django 3 Web Development Cookbook: Actionable solutions to common problems in Python web development, 4th Edition</div>
+            <div class="book-author">Bendoraitis, Aidas, Kronika, Jake</div>
+            <div class="book-date">Dec 2015</div>
+          </div>
+        </div>
+      </a>
+      
+      <a href="/books/django-3-by-example-build-powerful-and-reliable-python-web-applications-from-scratch-3rd-edition/" class="book-item" data-title="django 3 by example: build powerful and reliable python web applications from scratch, 3rd edition" data-authors="melé, antonio" data-tags="python programming django" data-date="2015-11-27">
+        <div class="book-cover-container">
+          
+          
+          <div class="book-cover-blur" style="background-image: url('/images/bookcovers/small/B0868SN6HF.jpg')"></div>
+          <img class="book-cover" src="/images/bookcovers/small/B0868SN6HF.jpg" alt="Django 3 By Example: Build powerful and reliable Python web applications from scratch, 3rd Edition" loading="lazy">
+          
+          <div class="book-hover-info">
+            <div class="book-title">Django 3 By Example: Build powerful and reliable Python web applications from scratch, 3rd Edition</div>
+            <div class="book-author">Melé, Antonio</div>
+            <div class="book-date">Nov 2015</div>
+          </div>
+        </div>
+      </a>
+      
+      <a href="/books/designing-microservices-using-django-structuring-deploying-and-managing-the-microservices-architecture-with-django-english-edition/" class="book-item" data-title="designing microservices using django: structuring, deploying and managing the microservices architecture with django (english edition)" data-authors="jain, shayank" data-tags="python programming django microservices" data-date="2015-11-23">
+        <div class="book-cover-container">
+          
+          
+          <div class="book-cover-blur" style="background-image: url('/images/bookcovers/small/B08739XSF4.jpg')"></div>
+          <img class="book-cover" src="/images/bookcovers/small/B08739XSF4.jpg" alt="Designing Microservices Using Django: Structuring, Deploying and Managing the Microservices Architecture with Django (English Edition)" loading="lazy">
+          
+          <div class="book-hover-info">
+            <div class="book-title">Designing Microservices Using Django: Structuring, Deploying and Managing the Microservices Architecture with Django (English Edition)</div>
+            <div class="book-author">Jain, Shayank</div>
+            <div class="book-date">Nov 2015</div>
+          </div>
+        </div>
+      </a>
+      
+      <a href="/books/django-for-apis-build-web-apis-with-python-and-django/" class="book-item" data-title="django for apis: build web apis with python and django" data-authors="vincent, william s" data-tags="python programming django api" data-date="2015-09-12">
+        <div class="book-cover-container">
+          
+          
+          <div class="book-cover-blur" style="background-image: url('/images/bookcovers/small/B08FMVYVFR.jpg')"></div>
+          <img class="book-cover" src="/images/bookcovers/small/B08FMVYVFR.jpg" alt="Django for APIs: Build web APIs with Python and Django" loading="lazy">
+          
+          <div class="book-hover-info">
+            <div class="book-title">Django for APIs: Build web APIs with Python and Django</div>
+            <div class="book-author">Vincent, William S</div>
+            <div class="book-date">Sep 2015</div>
+          </div>
+        </div>
+      </a>
+      
+    </div>
+  </section>
+  
+  
+
+  
+  <nav class="book-nav">
+    <a href="/books/">&larr; Back to all books</a>
+  </nav>
+</article>
+
+<style>
+.book-detail {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.book-detail-header {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 600px) {
+  .book-detail-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+.book-detail-cover {
+  flex-shrink: 0;
+  width: 200px;
+}
+
+.book-detail-cover img {
+  width: 100%;
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.book-detail-cover .book-cover-placeholder {
+  width: 100%;
+  aspect-ratio: 2/3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--code-bg);
+  border-radius: 4px;
+  font-size: 4rem;
+  font-weight: bold;
+  color: var(--secondary);
+}
+
+.book-detail-meta h1 {
+  margin: 0 0 0.5rem;
+  font-size: 1.8rem;
+  line-height: 1.2;
+}
+
+.book-authors {
+  font-size: 1.1rem;
+  color: var(--secondary);
+  margin-bottom: 0.5rem;
+}
+
+.book-authors a {
+  color: var(--secondary);
+  text-decoration: none;
+}
+
+.book-authors a:hover {
+  color: var(--primary);
+  text-decoration: underline;
+}
+
+.book-date {
+  font-size: 0.9rem;
+  color: var(--secondary);
+  margin-bottom: 1rem;
+}
+
+.book-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.book-tag {
+  padding: 0.25rem 0.75rem;
+  background: var(--code-bg);
+  border-radius: 20px;
+  font-size: 0.85rem;
+  color: var(--secondary);
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.book-tag:hover {
+  background: var(--primary);
+  color: var(--theme);
+}
+
+.book-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+}
+
+.btn-primary {
+  background: var(--primary);
+  color: white;
+}
+
+.btn-primary:hover {
+  opacity: 0.9;
+}
+
+.btn-secondary {
+  background: var(--code-bg);
+  color: var(--primary);
+  border: 1px solid var(--border);
+}
+
+.btn-secondary:hover {
+  background: var(--border);
+}
+
+ 
+.book-content {
+  line-height: 1.7;
+  margin-bottom: 3rem;
+}
+
+.book-content h1, .book-content h2, .book-content h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.book-content ul, .book-content ol {
+  margin-left: 1.5rem;
+}
+
+.book-content li {
+  margin-bottom: 0.5rem;
+}
+
+ 
+.related-books {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+}
+
+.related-books h2 {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+}
+
+.related-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .related-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .related-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+ 
+.book-item {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.book-cover-container {
+  position: relative;
+  aspect-ratio: 2/3;
+  border-radius: 4px;
+  overflow: hidden;
+  background: var(--code-bg);
+}
+
+.book-cover-blur {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  filter: blur(20px);
+  transform: scale(1.1);
+  opacity: 0.5;
+}
+
+.book-cover {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.book-cover-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, var(--border) 0%, var(--code-bg) 100%);
+  font-size: 3rem;
+  font-weight: bold;
+  color: var(--secondary);
+}
+
+.book-hover-info {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.book-item:hover .book-hover-info,
+.book-item:focus .book-hover-info {
+  opacity: 1;
+}
+
+.book-item:hover .book-cover {
+  transform: scale(1.05);
+}
+
+.book-hover-info .book-title {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: white;
+  margin-bottom: 0.25rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.book-hover-info .book-author {
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 0.25rem;
+}
+
+.book-hover-info .book-date {
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+ 
+.book-nav {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.book-nav a {
+  color: var(--secondary);
+  text-decoration: none;
+}
+
+.book-nav a:hover {
+  color: var(--primary);
+}
+</style>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "\"Two Scoops of Django 1.11: Best Practices for the Django Web Framework\"",
+  "author": [
+    
+    {
+      "@type": "Person",
+      "name": "\"Greenfeld, Audrey Roy\""
+    }
+    ,
+    {
+      "@type": "Person",
+      "name": "\"Greenfeld, Daniel Roy\""
+    }
+    
+  ],
+  "isbn": "\"B076D5FKFX\"",
+  "image": "\"http://localhost:1313/images/bookcovers/small/B076D5FKFX.jpg\"",
+  "url": "\"http://localhost:1313/books/two-scoops-of-django-1-11-best-practices-for-the-django-web-framework/\""
+}
+</script>
+
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/">Wijnand Baretta</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>

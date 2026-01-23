@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Todaro, Dave on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/todaro-dave/</link>
+    <description>Recent content in Todaro, Dave on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 May 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/todaro-dave/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Epic Guide to Agile: More Business Value on a Predictable Schedule with Scrum</title>
+      <link>http://localhost:1313/books/the-epic-guide-to-agile-more-business-value-on-a-predictable-schedule-with-scrum/</link>
+      <pubDate>Tue, 17 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/the-epic-guide-to-agile-more-business-value-on-a-predictable-schedule-with-scrum/</guid>
+      <description>&lt;h1 id=&#34;the-epic-guide-to-agile-more-business-value-on-a-predictable-schedule-with-scrum&#34;&gt;The Epic Guide to Agile: More Business Value on a Predictable Schedule with Scrum&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;The Epic Guide to Agile: More Business Value on a Predictable Schedule with Scrum&amp;rdquo; by Dave Todaro is a comprehensive resource aimed at helping businesses leverage the Agile framework, specifically Scrum, to enhance productivity and predictability. The book elucidates strategies to deliver greater business value through improved workflow efficiency and team collaboration. Todaro breaks down the Scrum methodology into actionable steps and provides insights on how to overcome common challenges faced by teams and organizations transitioning to Agile practices.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

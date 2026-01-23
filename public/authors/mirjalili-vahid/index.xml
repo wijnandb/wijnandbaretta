@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mirjalili, Vahid on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/mirjalili-vahid/</link>
+    <description>Recent content in Mirjalili, Vahid on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/mirjalili-vahid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition</title>
+      <link>http://localhost:1313/books/python-machine-learning-machine-learning-and-deep-learning-with-python-scikit-learn-and-tensorflow-2nd-edition/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-machine-learning-machine-learning-and-deep-learning-with-python-scikit-learn-and-tensorflow-2nd-edition/</guid>
+      <description>&lt;h1 id=&#34;python-machine-learning-machine-learning-and-deep-learning-with-python-scikit-learn-and-tensorflow-2nd-edition&#34;&gt;Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Sebastian Raschka, Vahid Mirjalili&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Python Machine Learning&amp;rdquo; by Sebastian Raschka and Vahid Mirjalili is a comprehensive guide for those looking to delve into the fields of machine learning and deep learning using Python. The book covers an array of fundamental and advanced topics, starting from basic concepts of machine learning, moving towards more sophisticated techniques like deep learning with different libraries and tools, specifically scikit-learn and TensorFlow. It illustrates practical implementations, providing hands-on experience by guiding the reader through coding examples that solve real-world problems. It also includes explanations of algorithms and models in a way that aims to make machine learning accessible for practitioners at various levels of expertise.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

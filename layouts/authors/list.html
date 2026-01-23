@@ -1,0 +1,48 @@
+{{ define "main" }}
+<header class="page-header">
+  <h1>Authors</h1>
+  <p>Browse books by author</p>
+</header>
+
+<div class="authors-list">
+  {{ range .Data.Terms.Alphabetical }}
+  <a href="{{ .Page.RelPermalink }}" class="author-item">
+    <span class="author-name">{{ .Page.Title }}</span>
+    <span class="author-count">{{ .Count }} {{ if eq .Count 1 }}book{{ else }}books{{ end }}</span>
+  </a>
+  {{ end }}
+</div>
+
+<style>
+.authors-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.author-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background: var(--code-bg);
+  border-radius: 4px;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.2s;
+}
+
+.author-item:hover {
+  background: var(--border);
+}
+
+.author-name {
+  font-weight: 500;
+}
+
+.author-count {
+  font-size: 0.85rem;
+  color: var(--secondary);
+}
+</style>
+{{ end }}

@@ -7,5 +7,13 @@
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/tags/brede-school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Brede school Zuidoost</title>
+      <link>http://localhost:1313/projects/bredeschoolzuidoost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/bredeschoolzuidoost/</guid>
+      <description>&lt;p&gt;Lots to say about this one.
+Let&amp;rsquo;s start showing all the posts with the tag &lt;em&gt;bredeschool&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

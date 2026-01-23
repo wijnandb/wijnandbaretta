@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wieruch, Robin on Wijnand Baretta</title>
+    <link>http://localhost:1314/authors/wieruch-robin/</link>
+    <description>Recent content in Wieruch, Robin on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1314/authors/wieruch-robin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Road to React: Your journey to master plain yet pragmatic React.js (2020 Edition)</title>
+      <link>http://localhost:1314/books/the-road-to-react-your-journey-to-master-plain-yet-pragmatic-react-js-2020-edition/</link>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/books/the-road-to-react-your-journey-to-master-plain-yet-pragmatic-react-js-2020-edition/</guid>
+      <description>&lt;h1 id=&#34;the-road-to-react-your-journey-to-master-plain-yet-pragmatic-reactjs-2020-edition&#34;&gt;The Road to React: Your Journey to Master Plain Yet Pragmatic React.js (2020 Edition)&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Author&lt;/strong&gt;: Robin Wieruch&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;The Road to React&amp;rdquo; by Robin Wieruch serves as a comprehensive guide for learning and mastering the fundamentals of React.js, a popular JavaScript library for building user interfaces. The book targets beginners and aims to provide a deep understanding of React.js through practical examples and project-based learning. It covers essential concepts such as React components, state and props, lifecycle methods, hooks, and advanced patterns. Readers start their journey with a simple setup and gradually advance to more sophisticated applications, solidifying their understanding of core principles in React development.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

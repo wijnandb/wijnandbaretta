@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Astrophysics on Wijnand Baretta</title>
+    <link>http://localhost:1313/tags/astrophysics/</link>
+    <description>Recent content in Astrophysics on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/astrophysics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Astrophysics for People in a Hurry</title>
+      <link>http://localhost:1313/books/astrophysics-for-people-in-a-hurry/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/astrophysics-for-people-in-a-hurry/</guid>
+      <description>&lt;h1 id=&#34;astrophysics-for-people-in-a-hurry-by-neil-degrasse-tyson&#34;&gt;Astrophysics for People in a Hurry by Neil deGrasse Tyson&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Astrophysics for People in a Hurry&amp;rdquo; offers a succinct and engaging introduction to complex concepts within the field of astrophysics. Written by celebrated astrophysicist Neil deGrasse Tyson, the book covers a wide range of topics, from the nature of time and space, the Big Bang, dark matter, and dark energy, to the intricacies of the known universe. Tyson aims to provide a quick yet comprehensive overview for readers who are curious about the cosmos but may not have the time or background to delve deeply into the science. His approachable writing style makes challenging subjects accessible to a broad audience.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

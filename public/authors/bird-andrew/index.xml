@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bird, Andrew on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/bird-andrew/</link>
+    <description>Recent content in Bird, Andrew on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/bird-andrew/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Development with Django: Learn to build modern web applications with a Python-based framework</title>
+      <link>http://localhost:1313/books/web-development-with-django-learn-to-build-modern-web-applications-with-a-python-based-framework/</link>
+      <pubDate>Thu, 30 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/web-development-with-django-learn-to-build-modern-web-applications-with-a-python-based-framework/</guid>
+      <description>&lt;h1 id=&#34;web-development-with-django-learn-to-build-modern-web-applications-with-a-python-based-framework-by-ben-shaw-saurabh-badhwar-andrew-bird-bharath-chandra-k-s-and-chris-guest&#34;&gt;&lt;strong&gt;Web Development with Django: Learn to Build Modern Web Applications with a Python-Based Framework&lt;/strong&gt; by Ben Shaw, Saurabh Badhwar, Andrew Bird, Bharath Chandra K S, and Chris Guest&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Web Development with Django&amp;rdquo; is a comprehensive guide designed to equip readers with the knowledge and confidence to build real-world applications using the Django framework. The book adopts a hands-on approach, guiding readers through the creation of &amp;ldquo;Bookr,&amp;rdquo; a book review website, to illustrate Django&amp;rsquo;s core features and functionalities. :contentReference[oaicite:0]{index=0}&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

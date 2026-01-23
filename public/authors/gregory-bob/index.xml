@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gregory, Bob on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/gregory-bob/</link>
+    <description>Recent content in Gregory, Bob on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/gregory-bob/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices</title>
+      <link>http://localhost:1313/books/architecture-patterns-with-python-enabling-test-driven-development-domain-driven-design-and-event-driven-microservices/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/architecture-patterns-with-python-enabling-test-driven-development-domain-driven-design-and-event-driven-microservices/</guid>
+      <description>&lt;h1 id=&#34;overview-of-architecture-patterns-with-python-enabling-test-driven-development-domain-driven-design-and-event-driven-microservices&#34;&gt;Overview of &lt;em&gt;Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices&lt;/em&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices&lt;/em&gt; is a technical guide by Bob Gregory and Harry Percival that explores the intersection of several advanced software development practices within the Python programming environment. The book primarily focuses on demonstrating how patterns from Domain-Driven Design (DDD), Test-Driven Development (TDD), and Event-Driven Architecture can be leveraged to build robust and scalable systems. It provides an in-depth look at structuring Python applications using these methodologies to ensure maintainability and scalability. The narrative uses practical, real-world examples to illustrate how these principles can be applied effectively in the development lifecycle.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

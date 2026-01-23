@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Webdevelopment on Wijnand Baretta</title>
-    <link>http://localhost:41571/tags/webdevelopment/</link>
+    <link>http://localhost:1314/tags/webdevelopment/</link>
     <description>Recent content in Webdevelopment on Wijnand Baretta</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <lastBuildDate>Mon, 02 Dec 2024 10:37:52 +0100</lastBuildDate>
-    <atom:link href="http://localhost:41571/tags/webdevelopment/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/webdevelopment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bookcollection. Enriching data via APIs</title>
-      <link>http://localhost:41571/posts/2024/12/bookcollection-enriching-data-via-apis/</link>
+      <link>http://localhost:1314/posts/2024/12/bookcollection-enriching-data-via-apis/</link>
       <pubDate>Mon, 02 Dec 2024 10:37:52 +0100</pubDate>
-      <guid>http://localhost:41571/posts/2024/12/bookcollection-enriching-data-via-apis/</guid>
+      <guid>http://localhost:1314/posts/2024/12/bookcollection-enriching-data-via-apis/</guid>
       <description>&lt;p&gt;I have a collection of books that I showcase on my website.
 I want to add new books.
 What does it take to do that?&lt;/p&gt;

@@ -1,0 +1,144 @@
+{{ define "main" }}
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  <p>{{ len .Pages }} {{ if eq (len .Pages) 1 }}book{{ else }}books{{ end }} by this author</p>
+</header>
+
+<div class="books-grid">
+  {{ range .Pages }}
+  <a href="{{ .RelPermalink }}" class="book-item">
+    <div class="book-cover-container">
+      {{ $cover := .Params.bookcover }}
+      {{ if $cover }}
+      <div class="book-cover-blur" style="background-image: url('{{ $cover }}')"></div>
+      <img class="book-cover" src="{{ $cover }}" alt="{{ .Title }}" loading="lazy">
+      {{ else }}
+      <div class="book-cover-placeholder">
+        <span>{{ substr .Title 0 1 }}</span>
+      </div>
+      {{ end }}
+      <div class="book-hover-info">
+        <div class="book-title">{{ .Title }}</div>
+        {{ with .Date }}{{ if not .IsZero }}<div class="book-date">{{ .Format "Jan 2006" }}</div>{{ end }}{{ end }}
+      </div>
+    </div>
+  </a>
+  {{ end }}
+</div>
+
+<nav class="back-nav">
+  <a href="{{ "/authors/" | relURL }}">&larr; All authors</a>
+  <a href="{{ "/books/" | relURL }}">All books &rarr;</a>
+</nav>
+
+<style>
+.books-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 1200px) {
+  .books-grid { grid-template-columns: repeat(3, 1fr); }
+}
+@media (max-width: 768px) {
+  .books-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 480px) {
+  .books-grid { grid-template-columns: 1fr; }
+}
+
+.book-item {
+  text-decoration: none;
+  color: inherit;
+}
+
+.book-cover-container {
+  position: relative;
+  aspect-ratio: 2/3;
+  border-radius: 4px;
+  overflow: hidden;
+  background: var(--code-bg);
+}
+
+.book-cover-blur {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  filter: blur(20px);
+  transform: scale(1.1);
+  opacity: 0.5;
+}
+
+.book-cover {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.book-cover-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, var(--border) 0%, var(--code-bg) 100%);
+  font-size: 3rem;
+  font-weight: bold;
+  color: var(--secondary);
+}
+
+.book-hover-info {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.book-item:hover .book-hover-info {
+  opacity: 1;
+}
+
+.book-item:hover .book-cover {
+  transform: scale(1.05);
+}
+
+.book-hover-info .book-title {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: white;
+  margin-bottom: 0.25rem;
+}
+
+.book-hover-info .book-date {
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.back-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.back-nav a {
+  color: var(--secondary);
+  text-decoration: none;
+}
+
+.back-nav a:hover {
+  color: var(--primary);
+}
+</style>
+{{ end }}

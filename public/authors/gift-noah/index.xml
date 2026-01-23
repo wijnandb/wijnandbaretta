@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gift, Noah on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/gift-noah/</link>
+    <description>Recent content in Gift, Noah on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/gift-noah/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python for DevOps: Learn Ruthlessly Effective Automation</title>
+      <link>http://localhost:1313/books/python-for-devops-learn-ruthlessly-effective-automation/</link>
+      <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-for-devops-learn-ruthlessly-effective-automation/</guid>
+      <description>&lt;h1 id=&#34;python-for-devops-learn-ruthlessly-effective-automation&#34;&gt;Python for DevOps: Learn Ruthlessly Effective Automation&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Python for DevOps: Learn Ruthlessly Effective Automation&amp;rdquo; is a comprehensive guide that explores how Python programming can be effectively used to automate various aspects of DevOps processes. The book is co-authored by Kennedy Behrman, Alfredo Deza, Noah Gift, and Grig Gheorghiu. It delves into leveraging Python to streamline tasks such as configuration management, monitoring, building requirements and deployment scripts, and testing. The authors focus on practical applications of Python in the DevOps lifecycle, offering readers insight into real-world scenarios and examples. The book serves as both a tutorial and a reference for those looking to integrate Python into their DevOps workflow.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

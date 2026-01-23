@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ward, Dan on Wijnand Baretta</title>
+    <link>http://localhost:1314/authors/ward-dan/</link>
+    <description>Recent content in Ward, Dan on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1314/authors/ward-dan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Simplicity Cycle: A Field Guide to Making Things Better Without Making Them Worse</title>
+      <link>http://localhost:1314/books/the-simplicity-cycle-a-field-guide-to-making-things-better-without-making-them-worse/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/books/the-simplicity-cycle-a-field-guide-to-making-things-better-without-making-them-worse/</guid>
+      <description>&lt;h1 id=&#34;the-simplicity-cycle-a-field-guide-to-making-things-better-without-making-them-worse&#34;&gt;The Simplicity Cycle: A Field Guide to Making Things Better Without Making Them Worse&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The Simplicity Cycle&lt;/strong&gt; by Dan Ward explores the intricate balance between complexity and simplicity in design and innovation. Ward emphasizes the notion that achieving simplicity without sacrificing functionality or adding unnecessary complexity is key to creating useful and effective products. The book provides a framework for understanding how complexity and simplicity interact and offers guidance on navigating the transition from one to the other, especially in the context of systems and projects. Through illustrations and examples, Ward outlines the &amp;ldquo;Simplicity Cycle&amp;rdquo; and proposes strategies to &amp;ldquo;make things better without making them worse.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

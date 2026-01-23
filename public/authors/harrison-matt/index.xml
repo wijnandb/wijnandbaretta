@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Harrison, Matt on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/harrison-matt/</link>
+    <description>Recent content in Harrison, Matt on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 19 May 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/harrison-matt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning the Pandas Library: Python Tools for Data Munging, Analysis, and Visualization (Treading on Python Book 3)</title>
+      <link>http://localhost:1313/books/learning-the-pandas-library-python-tools-for-data-munging-analysis-and-visualization-treading-on-python-book-3/</link>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/learning-the-pandas-library-python-tools-for-data-munging-analysis-and-visualization-treading-on-python-book-3/</guid>
+      <description>&lt;h1 id=&#34;learning-the-pandas-library-python-tools-for-data-munging-analysis-and-visualization&#34;&gt;Learning the Pandas Library: Python Tools for Data Munging, Analysis, and Visualization&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Learning the Pandas Library: Python Tools for Data Munging, Analysis, and Visualization&amp;rdquo; by Matt Harrison is a practical guide for data scientists, analysts, and enthusiasts who seek to harness the power of the pandas library in Python. The book covers the essential features and functionalities of pandas, providing comprehensive insights into data manipulation, cleaning, transformation, analysis, and visualization. Through a series of examples and hands-on exercises, readers are taught how to efficiently handle large datasets and derive meaningful insights using pandas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

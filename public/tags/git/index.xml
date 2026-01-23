@@ -23,5 +23,23 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I need to set the upstream branch on Github and get the .gitignore and the LICENSE that were  created when setting up the repo on Github:
 repository:&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>GIT: The Ultimate Guide for Beginners: Learn Git Version Control</title>
+      <link>http://localhost:1313/books/git-the-ultimate-guide-for-beginners-learn-git-version-control/</link>
+      <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/git-the-ultimate-guide-for-beginners-learn-git-version-control/</guid>
+      <description>&lt;h1 id=&#34;git-the-ultimate-guide-for-beginners-learn-git-version-control-by-jameson-garner&#34;&gt;GIT: The Ultimate Guide for Beginners: Learn Git Version Control by Jameson Garner&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;GIT: The Ultimate Guide for Beginners&lt;/em&gt; by Jameson Garner is a beginner-friendly introduction to Git, designed to help new users understand and effectively utilize version control. The book covers the basics of Git, including setup, creating repositories, and fundamental commands like commit, push, pull, and branch. Garner emphasizes a straightforward approach, with clear explanations and examples, making the content accessible even for those without prior experience in version control.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Git for Programmers: Master Git for effective implementation of version control for your programming projects</title>
+      <link>http://localhost:1313/books/git-for-programmers-master-git-for-effective-implementation-of-version-control-for-your-programming-projects/</link>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/git-for-programmers-master-git-for-effective-implementation-of-version-control-for-your-programming-projects/</guid>
+      <description>&lt;h1 id=&#34;git-for-programmers-master-git-for-effective-implementation-of-version-control-for-your-programming-projects-by-jessy-liberty&#34;&gt;Git for Programmers: Master Git for Effective Implementation of Version Control for Your Programming Projects by Jessy Liberty&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Git for Programmers&lt;/em&gt; by Jessy Liberty is a comprehensive guide to using Git for version control in programming projects. Aimed at developers looking to enhance their workflow, the book covers fundamental and advanced Git concepts, from setting up a repository and basic commit commands to branching strategies, merging conflicts, and advanced features like rebasing and cherry-picking. Liberty provides practical examples and step-by-step instructions, making Git accessible for beginners while offering insights for experienced developers to deepen their skills.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

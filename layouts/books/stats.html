@@ -1,0 +1,238 @@
+{{ define "main" }}
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p>{{ . }}</p>{{ end }}
+</header>
+
+{{ $books := where .Site.RegularPages "Section" "books" }}
+{{ $fullBooks := where $books "Params.resourceType" "EBOOK" }}
+{{ $samples := where $books "Params.resourceType" "EBOOK_SAMPLE" }}
+
+<div class="stats-grid">
+  <!-- Total Stats -->
+  <div class="stat-card">
+    <div class="stat-number">{{ len $books }}</div>
+    <div class="stat-label">Total Books</div>
+  </div>
+
+  <div class="stat-card">
+    <div class="stat-number">{{ len $fullBooks }}</div>
+    <div class="stat-label">Full Books</div>
+  </div>
+
+  <div class="stat-card">
+    <div class="stat-number">{{ len $samples }}</div>
+    <div class="stat-label">Samples</div>
+  </div>
+
+  {{ $authors := slice }}
+  {{ range $books }}
+    {{ with .Params.authors }}
+      {{ range . }}
+        {{ $authors = $authors | append . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ $uniqueAuthors := $authors | uniq }}
+
+  <div class="stat-card">
+    <div class="stat-number">{{ len $uniqueAuthors }}</div>
+    <div class="stat-label">Authors</div>
+  </div>
+</div>
+
+<!-- Books by Year -->
+<section class="stats-section">
+  <h2>Books by Year Read</h2>
+  <div class="year-chart">
+    {{ $years := dict }}
+    {{ range $books }}
+      {{ $year := .Date.Year }}
+      {{ if and $year (gt $year 2000) }}
+        {{ $count := index $years (string $year) | default 0 }}
+        {{ $years = merge $years (dict (string $year) (add $count 1)) }}
+      {{ end }}
+    {{ end }}
+
+    {{ range $year, $count := $years }}
+    <div class="year-bar">
+      <span class="year-label">{{ $year }}</span>
+      <div class="year-fill" style="width: {{ mul (div (float $count) 100.0) 100 }}%">
+        <span class="year-count">{{ $count }}</span>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+<!-- Top Tags -->
+<section class="stats-section">
+  <h2>Top Tags</h2>
+  {{ $tagCounts := dict }}
+  {{ range $books }}
+    {{ range .Params.tags }}
+      {{ $count := index $tagCounts . | default 0 }}
+      {{ $tagCounts = merge $tagCounts (dict . (add $count 1)) }}
+    {{ end }}
+  {{ end }}
+
+  <div class="tags-list">
+    {{ range $tag, $count := $tagCounts }}
+    <a href="{{ "/tags/" | relURL }}{{ $tag | urlize }}/" class="stat-tag">
+      {{ $tag }}
+      <span class="tag-count">{{ $count }}</span>
+    </a>
+    {{ end }}
+  </div>
+</section>
+
+<!-- Top Authors -->
+<section class="stats-section">
+  <h2>Top Authors</h2>
+  {{ $authorCounts := dict }}
+  {{ range $books }}
+    {{ range .Params.authors }}
+      {{ if and . (ne . "") }}
+        {{ $count := index $authorCounts . | default 0 }}
+        {{ $authorCounts = merge $authorCounts (dict . (add $count 1)) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  <div class="authors-list">
+    {{ range $author, $count := $authorCounts }}
+      {{ if gt $count 1 }}
+      <a href="{{ "/authors/" | relURL }}{{ $author | urlize }}/" class="stat-author">
+        {{ $author }}
+        <span class="author-count">{{ $count }}</span>
+      </a>
+      {{ end }}
+    {{ end }}
+  </div>
+</section>
+
+<nav class="back-nav">
+  <a href="{{ "/books/" | relURL }}">&larr; Back to all books</a>
+</nav>
+
+<style>
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.stat-card {
+  background: var(--code-bg);
+  padding: 1.5rem;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.stat-number {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--primary);
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  color: var(--secondary);
+  margin-top: 0.5rem;
+}
+
+.stats-section {
+  margin-bottom: 3rem;
+}
+
+.stats-section h2 {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+}
+
+.year-chart {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.year-bar {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.year-label {
+  width: 50px;
+  font-size: 0.9rem;
+  color: var(--secondary);
+}
+
+.year-fill {
+  background: var(--primary);
+  height: 24px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  min-width: 40px;
+}
+
+.year-count {
+  padding: 0 0.5rem;
+  font-size: 0.8rem;
+  color: white;
+}
+
+.tags-list, .authors-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.stat-tag, .stat-author {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0.8rem;
+  background: var(--code-bg);
+  border-radius: 20px;
+  text-decoration: none;
+  color: inherit;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+}
+
+.stat-tag:hover, .stat-author:hover {
+  background: var(--primary);
+  color: var(--theme);
+}
+
+.tag-count, .author-count {
+  font-size: 0.75rem;
+  padding: 0.1rem 0.4rem;
+  background: var(--border);
+  border-radius: 10px;
+}
+
+.stat-tag:hover .tag-count,
+.stat-author:hover .author-count {
+  background: rgba(255,255,255,0.2);
+}
+
+.back-nav {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.back-nav a {
+  color: var(--secondary);
+  text-decoration: none;
+}
+
+.back-nav a:hover {
+  color: var(--primary);
+}
+</style>
+{{ end }}

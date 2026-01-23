@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sweigart, Al on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/sweigart-al/</link>
+    <description>Recent content in Sweigart, Al on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/sweigart-al/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Programming Exercises, Gently Explained</title>
+      <link>http://localhost:1313/books/python-programming-exercises-gently-explained/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-programming-exercises-gently-explained/</guid>
+      <description>&lt;h1 id=&#34;python-programming-exercises-gently-explained&#34;&gt;Python Programming Exercises, Gently Explained&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Introduction &amp;ndash; Programming with numbers and strings &amp;ndash; Decsions &amp;ndash; Loops &amp;ndash; Functions &amp;ndash; Lists &amp;ndash; Files and exceptions &amp;ndash; Sets and dictionaries &amp;ndash; Objects and classes &amp;ndash; Inheritance &amp;ndash; Recursion &amp;ndash; Sorting and searching.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code</title>
+      <link>http://localhost:1313/books/beyond-the-basic-stuff-with-python-best-practices-for-writing-clean-code/</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/beyond-the-basic-stuff-with-python-best-practices-for-writing-clean-code/</guid>
+      <description>&lt;h1 id=&#34;beyond-the-basic-stuff-with-python-best-practices-for-writing-clean-code&#34;&gt;Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code&amp;rdquo; by Al Sweigart is a guide designed to help intermediate Python programmers refine their coding skills and adopt best practices. Moving past foundational concepts, the book introduces readers to more sophisticated techniques for writing clean, efficient, and maintainable Python code. Key themes include code readability, the use of debugging tools, and the importance of documentation. Through a variety of examples and exercises, Sweigart aims to equip readers with the skills necessary to write professional-level code.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners</title>
+      <link>http://localhost:1313/books/automate-the-boring-stuff-with-python-2nd-edition-practical-programming-for-total-beginners/</link>
+      <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/automate-the-boring-stuff-with-python-2nd-edition-practical-programming-for-total-beginners/</guid>
+      <description>&lt;h2 id=&#34;overview-of-automate-the-boring-stuff-with-python-2nd-edition-practical-programming-for-total-beginners&#34;&gt;Overview of &lt;em&gt;Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners&lt;/em&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Automate the Boring Stuff with Python, 2nd Edition&lt;/em&gt; by Al Sweigart provides a practical introduction to Python programming for beginners. This book focuses on automating everyday tasks such as organizing files, managing spreadsheets, scraping websites, and working with online forms through clear-cut explanations and robust examples. It aims to make programming accessible, providing readers with the skills to automate repetitive tasks and improve efficiency in various aspects of work and personal life.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Big Book of Small Python Projects: 81 Easy Practice Programs</title>
+      <link>http://localhost:1313/books/the-big-book-of-small-python-projects-81-easy-practice-programs/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/the-big-book-of-small-python-projects-81-easy-practice-programs/</guid>
+      <description>&lt;h1 id=&#34;the-big-book-of-small-python-projects-81-easy-practice-programs&#34;&gt;The Big Book of Small Python Projects: 81 Easy Practice Programs&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Summary not available.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

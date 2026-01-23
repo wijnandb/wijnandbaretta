@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kahneman, Daniel on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/kahneman-daniel/</link>
+    <description>Recent content in Kahneman, Daniel on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/kahneman-daniel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thinking, Fast and Slow</title>
+      <link>http://localhost:1313/books/thinking-fast-and-slow/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/thinking-fast-and-slow/</guid>
+      <description>&lt;h1 id=&#34;thinking-fast-and-slow-by-daniel-kahneman&#34;&gt;Thinking, Fast and Slow by Daniel Kahneman&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;&lt;strong&gt;Thinking, Fast and Slow&lt;/strong&gt;&amp;rdquo; is a comprehensive exploration of human thought processes, written by Nobel laureate Daniel Kahneman. The book delves into the dual system theory of cognition: System 1, which is fast, intuitive, and emotional; and System 2, which is slower, more deliberative, and logical. Through a variety of studies and experiments, Kahneman illustrates how these systems sometimes work together and at other times conflict, leading to errors in judgment and decision making. The book covers concepts such as cognitive biases, the illusion of validity, prospect theory, and the dichotomy between experiencing self and remembering self, painting a detailed picture of why humans think and make decisions the way they do.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Noise: A Flaw in Human Judgment</title>
+      <link>http://localhost:1313/books/noise-a-flaw-in-human-judgment/</link>
+      <pubDate>Fri, 07 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/noise-a-flaw-in-human-judgment/</guid>
+      <description>&lt;h1 id=&#34;noise-a-flaw-in-human-judgment&#34;&gt;Noise: A Flaw in Human Judgment&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Noise: A Flaw in Human Judgment,&amp;rdquo; written by Daniel Kahneman, Cass R. Sunstein, and Olivier Sibony, explores the pervasive presence of &amp;ldquo;noise&amp;rdquo; in human decision-making. The authors define &amp;ldquo;noise&amp;rdquo; as the unwanted variability in judgments made by individuals or groups faced with similar problems. Unlike bias, which consistently pulls judgments in one direction, noise represents a random scatter of judgments. The book delves into various domains, such as criminal justice, medicine, and business, illustrating how noise can distort decisions. The authors advocate for &amp;ldquo;decision hygiene&amp;rdquo; practices to reduce noise and improve judgment quality.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

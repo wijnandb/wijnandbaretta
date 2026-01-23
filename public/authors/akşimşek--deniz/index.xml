@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Akşimşek , Deniz on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/ak%C5%9Fim%C5%9Fek--deniz/</link>
+    <description>Recent content in Akşimşek , Deniz on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 1995 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/ak%C5%9Fim%C5%9Fek--deniz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hypermedia Systems</title>
+      <link>http://localhost:1313/books/hypermedia-systems/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/hypermedia-systems/</guid>
+      <description>&lt;h1 id=&#34;hypermedia-systems&#34;&gt;Hypermedia Systems&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;This teacher guide and activity book helps students build hypermedia skills as they learn in subject areas across the curriculum. Using the technology of computers to engage students, the book offers a variety of learning projects for language arts, mathematics, science, social studies and foreign language. Based on the active involvement of students in the learning process, these activities also promote co-operative and collaborative learning experiences.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

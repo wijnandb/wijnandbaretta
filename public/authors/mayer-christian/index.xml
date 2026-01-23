@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mayer, Christian on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/mayer-christian/</link>
+    <description>Recent content in Mayer, Christian on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/mayer-christian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python One-Liners: Write Concise, Eloquent Python Like a Professional</title>
+      <link>http://localhost:1313/books/python-one-liners-write-concise-eloquent-python-like-a-professional/</link>
+      <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/python-one-liners-write-concise-eloquent-python-like-a-professional/</guid>
+      <description>&lt;h1 id=&#34;python-one-liners-write-concise-eloquent-python-like-a-professional&#34;&gt;Python One-Liners: Write Concise, Eloquent Python Like a Professional&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Python One-Liners: Write Concise, Eloquent Python Like a Professional&amp;rdquo; by Christian Mayer focuses on the art of writing Python programs using one-liners. The book aims to teach readers how to condense complex code into simpler, more readable, and efficient one-liners. It explores various Python constructs and provides practical examples across different domains like data science, machine learning, and automation. By doing so, it highlights Python&amp;rsquo;s versatility and encourages the reader to develop cleaner and more efficient code.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

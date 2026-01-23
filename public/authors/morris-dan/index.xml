@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Morris, Dan on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/morris-dan/</link>
+    <description>Recent content in Morris, Dan on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/morris-dan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bayes&#39; Theorem: A Visual Introduction For Beginners with Examples</title>
+      <link>http://localhost:1313/books/bayes-theorem-a-visual-introduction-for-beginners-with-examples/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/bayes-theorem-a-visual-introduction-for-beginners-with-examples/</guid>
+      <description>&lt;h1 id=&#34;bayes-theorem-a-visual-introduction-for-beginners-with-examples-by-dan-morris&#34;&gt;Bayes&amp;rsquo; Theorem: A Visual Introduction For Beginners with Examples by Dan Morris&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Bayes&amp;rsquo; Theorem: A Visual Introduction For Beginners with Examples&amp;rdquo; by Dan Morris is an educational guide that aims to introduce readers to the fundamental concepts of Bayesian probability. The book emphasizes visualization and real-world examples to make Bayes&amp;rsquo; theorem accessible to beginners. It breaks down complex statistical ideas into manageable sections, helping readers understand how to apply Bayes&amp;rsquo; theorem in various contexts. The focus is on providing intuitive understanding through diagrams and step-by-step explanations.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

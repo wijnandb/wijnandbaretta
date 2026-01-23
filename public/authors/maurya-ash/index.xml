@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Maurya, Ash on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/maurya-ash/</link>
+    <description>Recent content in Maurya, Ash on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/maurya-ash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running Lean: Iterate from Plan A to a Plan That Works (Lean (O&#39;Reilly))</title>
+      <link>http://localhost:1313/books/running-lean-iterate-from-plan-a-to-a-plan-that-works-lean-o-reilly/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/running-lean-iterate-from-plan-a-to-a-plan-that-works-lean-o-reilly/</guid>
+      <description>&lt;h1 id=&#34;running-lean-iterate-from-plan-a-to-a-plan-that-works&#34;&gt;Running Lean: Iterate from Plan A to a Plan That Works&lt;/h1&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Running Lean&amp;rdquo; offers a systematic approach to developing successful products by aligning with the principles of Lean Startup methodology. Authored by Ash Maurya, the book focuses on iterating a business plan until you achieve a version that works. It provides practical techniques for identifying a viable business model and emphasizes the importance of validating ideas through real-world testing and customer feedback. This approach aims to minimize risk and resources typically involved in launching a startup.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

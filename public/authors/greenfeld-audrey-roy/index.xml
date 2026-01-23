@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Greenfeld, Audrey Roy on Wijnand Baretta</title>
+    <link>http://localhost:1313/authors/greenfeld-audrey-roy/</link>
+    <description>Recent content in Greenfeld, Audrey Roy on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/greenfeld-audrey-roy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two Scoops of Django 1.11: Best Practices for the Django Web Framework</title>
+      <link>http://localhost:1313/books/two-scoops-of-django-1-11-best-practices-for-the-django-web-framework/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/two-scoops-of-django-1-11-best-practices-for-the-django-web-framework/</guid>
+      <description>&lt;h1 id=&#34;overview-of-two-scoops-of-django-111-best-practices-for-the-django-web-framework&#34;&gt;Overview of &lt;em&gt;Two Scoops of Django 1.11: Best Practices for the Django Web Framework&lt;/em&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Two Scoops of Django 1.11: Best Practices for the Django Web Framework&amp;rdquo;&lt;/em&gt; is a comprehensive guide aimed at providing developers with the best practices for working with the Django web framework, focusing specifically on version 1.11. Authored by Audrey Roy Greenfeld and Daniel Roy Greenfeld, it covers a wide range of topics including project setup, application structure, working with models, forms, views, and templates, as well as testing and deployment strategies. The book is designed for both intermediate and experienced Django developers who wish to deepen their understanding of Django and improve their coding practices.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
