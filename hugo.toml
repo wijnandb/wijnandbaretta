@@ -13,6 +13,11 @@ pagerSize = 10
 author = "Wijnand Baretta"
 description = "Builder, educator, AI-augmented human. Exploring how technology can help us live better."
 keywords = ["AI", "entrepreneurship", "education", "ADHD", "startups", "building in public"]
+images = ["/images/og-default.png"]
+env = "production"
+
+  [params.schema]
+  publisherType = "Person"
 dateFormat = "January 2, 2006"
 defaultTheme = "auto"
 ShowReadingTime = true
@@ -134,6 +139,14 @@ weight = 50
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+section = ["HTML", "RSS"]
+taxonomy = ["HTML", "RSS"]
+term = ["HTML", "RSS"]
+
+[sitemap]
+changefreq = "weekly"
+filename = "sitemap.xml"
+priority = 0.5
 
 [related]
 includeNewer = true

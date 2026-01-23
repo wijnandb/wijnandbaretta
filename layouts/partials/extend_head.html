@@ -3,3 +3,71 @@
 
 <!-- Vercel Speed Insights -->
 <script defer src="/_vercel/speed-insights/script.js"></script>
+
+<!-- SEO Meta Tags -->
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1">
+
+<!-- Canonical URL -->
+<link rel="canonical" href="{{ .Permalink }}">
+
+<!-- Additional OpenGraph -->
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:locale" content="en_US">
+
+<!-- Twitter/X Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@wijnandb">
+<meta name="twitter:creator" content="@wijnandb">
+
+<!-- Author -->
+<meta name="author" content="Wijnand Baretta">
+
+<!-- JSON-LD Schema for Person/Website -->
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "author": {
+    "@type": "Person",
+    "name": "Wijnand Baretta",
+    "url": "{{ .Site.BaseURL }}about/",
+    "sameAs": [
+      "https://github.com/wijnandb/",
+      "https://www.linkedin.com/in/wijnandbaretta/",
+      "https://x.com/wijnandb/"
+    ]
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ .Site.BaseURL }}search/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{ end }}
+
+{{ if and (not .IsHome) (not .IsSection) }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "url": "{{ .Permalink }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Person",
+    "name": "Wijnand Baretta"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Wijnand Baretta"
+  }{{ with .Description }},
+  "description": "{{ . }}"{{ end }}
+}
+</script>
+{{ end }}
