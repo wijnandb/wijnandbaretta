@@ -1,3 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Static Site Generator on Wijnand Baretta</title><link>https://wijnandbaretta.nl/tags/static-site-generator/</link><description>Recent content in Static Site Generator on Wijnand Baretta</description><generator>Hugo -- 0.152.2</generator><language>en</language><lastBuildDate>Wed, 01 Sep 2021 09:21:24 +0000</lastBuildDate><atom:link href="https://wijnandbaretta.nl/tags/static-site-generator/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo: better suited static site generator?</title><link>https://wijnandbaretta.nl/posts/hugo-better-suited-static-site-generator/</link><pubDate>Wed, 01 Sep 2021 09:21:24 +0000</pubDate><guid>https://wijnandbaretta.nl/posts/hugo-better-suited-static-site-generator/</guid><description>&lt;p&gt;There are several static site generators that I have tried, and &lt;a href="https://gohugo.io/"&gt;Hugo&lt;/a&gt; is now up for review.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Static Site Generator on Wijnand Baretta</title>
+    <link>http://localhost:1313/tags/static-site-generator/</link>
+    <description>Recent content in Static Site Generator on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Sep 2021 09:21:24 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/static-site-generator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo: better suited static site generator?</title>
+      <link>http://localhost:1313/posts/hugo-better-suited-static-site-generator/</link>
+      <pubDate>Wed, 01 Sep 2021 09:21:24 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hugo-better-suited-static-site-generator/</guid>
+      <description>&lt;p&gt;There are several static site generators that I have tried, and &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is now up for review.&lt;/p&gt;
 &lt;p&gt;It claimms to be the fastest, with pagebuilds of 1 ms per page. That is certainly impressive, but there are other aspects of Hugo that appeal to me.&lt;/p&gt;
-&lt;p&gt;I have looked at &lt;a href="%5BPelican%5D:"&gt;Jekyll&lt;/a&gt; and [Pelican]. I like Jekyll because it is tightly integrated with Github pages, making it easy to launch a site. What I don&amp;rsquo;t like about Jekyl is that it is written in Ruby, mainly because I don&amp;rsquo;t know Ruby well enough.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;I have looked at &lt;a href=&#34;%5BPelican%5D:&#34;&gt;Jekyll&lt;/a&gt; and [Pelican]. I like Jekyll because it is tightly integrated with Github pages, making it easy to launch a site. What I don&amp;rsquo;t like about Jekyl is that it is written in Ruby, mainly because I don&amp;rsquo;t know Ruby well enough.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

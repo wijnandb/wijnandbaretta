@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>API on Wijnand Baretta</title>
+    <link>http://localhost:41571/tags/api/</link>
+    <description>Recent content in API on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Dec 2024 10:37:52 +0100</lastBuildDate>
+    <atom:link href="http://localhost:41571/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bookcollection. Enriching data via APIs</title>
+      <link>http://localhost:41571/posts/2024/12/bookcollection-enriching-data-via-apis/</link>
+      <pubDate>Mon, 02 Dec 2024 10:37:52 +0100</pubDate>
+      <guid>http://localhost:41571/posts/2024/12/bookcollection-enriching-data-via-apis/</guid>
+      <description>&lt;p&gt;I have a collection of books that I showcase on my website.
+I want to add new books.
+What does it take to do that?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;download the complete collection from Amazon, &lt;a href=&#34;https://read.kindle.com&#34;&gt;https://read.kindle.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;visit the books to download the cover and store it locally&lt;/li&gt;
+&lt;li&gt;create markdown files for the books that don&amp;rsquo;t exist on the site yet&lt;/li&gt;
+&lt;li&gt;add information to the markdown files, e.g. from Google Books API&lt;/li&gt;
+&lt;li&gt;maybe the actions are not in the right order yet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What I am getting from Amazon is the asin, title of book, authors, link to read the book and the url of the cover image.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

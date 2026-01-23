@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pomodoro on Wijnand Baretta</title>
+    <link>http://localhost:41571/tags/pomodoro/</link>
+    <description>Recent content in Pomodoro on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Nov 2021 08:54:53 +0100</lastBuildDate>
+    <atom:link href="http://localhost:41571/tags/pomodoro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pomodoro technique to improve productivity</title>
+      <link>http://localhost:41571/posts/pomodoro-technique-to-improve-productivity/</link>
+      <pubDate>Thu, 25 Nov 2021 08:54:53 +0100</pubDate>
+      <guid>http://localhost:41571/posts/pomodoro-technique-to-improve-productivity/</guid>
+      <description>&lt;p&gt;I am struggling with an assignment. I have to write a plan and it&amp;rsquo;s taking me forever. I exhibit clear procrastination behaviour and I am looking for a way to get going and finish the plan.&lt;/p&gt;
+&lt;p&gt;So, I came up with the idea of declaring it would take me another 32 hours to finish writing the plan and than focus on the hours I am putting in, assuming I will have finished the plan once I put in another 32 hours. This would solve one of my problems, which is that I am not even starting to work on it, just keep postponoing the actual sitting down and working on it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

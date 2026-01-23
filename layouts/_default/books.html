@@ -10,7 +10,7 @@
     <div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: center;">
       <!-- Search -->
       <div style="flex: 2; min-width: 200px;">
-        <input type="text" id="search-input" placeholder="Search books..."
+        <input type="text" id="search-input" placeholder="Search books by title, author, or tag..."
           style="width: 100%; padding: 0.5rem; border: 1px solid var(--border); border-radius: 4px; background: var(--theme); color: var(--primary);">
       </div>
 
@@ -20,8 +20,6 @@
           <option value="title-asc">Title A-Z</option>
           <option value="title-desc">Title Z-A</option>
           <option value="author-asc">Author A-Z</option>
-          <option value="progress-desc">Most Read</option>
-          <option value="progress-asc">Least Read</option>
         </select>
       </div>
 
@@ -34,19 +32,24 @@
         </select>
       </div>
 
-      <!-- Filter by reading status -->
+      <!-- Filter by tag -->
       <div style="flex: 1; min-width: 150px;">
-        <select id="status-filter" style="width: 100%; padding: 0.5rem; border: 1px solid var(--border); border-radius: 4px; background: var(--theme); color: var(--primary);">
-          <option value="all">All Status</option>
-          <option value="reading">Reading (1-99%)</option>
-          <option value="finished">Finished (100%)</option>
-          <option value="unread">Unread (0%)</option>
+        <select id="tag-filter" style="width: 100%; padding: 0.5rem; border: 1px solid var(--border); border-radius: 4px; background: var(--theme); color: var(--primary);">
+          <option value="all">All Tags</option>
         </select>
       </div>
     </div>
 
     <!-- Stats -->
     <div id="stats" style="margin-top: 1rem; font-size: 0.9rem; color: var(--secondary);"></div>
+  </div>
+
+  <!-- Book Detail Modal -->
+  <div id="book-modal" class="book-modal" style="display: none;">
+    <div class="book-modal-content">
+      <span class="book-modal-close">&times;</span>
+      <div id="book-modal-body"></div>
+    </div>
   </div>
 
   <!-- Books Grid -->
@@ -62,6 +65,7 @@
   overflow: hidden;
   transition: transform 0.2s, box-shadow 0.2s;
   background: var(--theme);
+  cursor: pointer;
 }
 .book-card:hover {
   transform: translateY(-2px);
@@ -92,83 +96,165 @@
   color: var(--secondary);
   margin-bottom: 0.5rem;
 }
-.book-progress {
-  height: 4px;
-  background: var(--border);
-  border-radius: 2px;
-  overflow: hidden;
+.book-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
   margin-top: 0.5rem;
 }
-.book-progress-bar {
-  height: 100%;
-  background: var(--primary);
-  transition: width 0.3s;
-}
-.book-type {
-  font-size: 0.75rem;
-  padding: 0.2rem 0.5rem;
+.book-tag {
+  font-size: 0.7rem;
+  padding: 0.15rem 0.4rem;
   border-radius: 3px;
   background: var(--code-bg);
+  color: var(--secondary);
+  cursor: pointer;
+}
+.book-tag:hover {
+  background: var(--primary);
+  color: var(--theme);
+}
+.book-type {
+  font-size: 0.7rem;
+  padding: 0.15rem 0.4rem;
+  border-radius: 3px;
+  background: var(--border);
   display: inline-block;
-  margin-top: 0.5rem;
+}
+
+/* Modal styles */
+.book-modal {
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.book-modal-content {
+  background: var(--theme);
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 700px;
+  max-height: 80vh;
+  overflow-y: auto;
+  position: relative;
+  margin: 1rem;
+}
+.book-modal-close {
+  position: absolute;
+  right: 1rem;
+  top: 0.5rem;
+  font-size: 2rem;
+  cursor: pointer;
+  color: var(--secondary);
+}
+.book-modal-close:hover {
+  color: var(--primary);
+}
+.modal-cover {
+  max-width: 150px;
+  float: left;
+  margin-right: 1.5rem;
+  margin-bottom: 1rem;
+}
+.modal-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+.modal-author {
+  color: var(--secondary);
+  margin-bottom: 1rem;
+}
+.modal-summary {
+  line-height: 1.6;
+  margin-top: 1rem;
+  clear: both;
+}
+.modal-actions {
+  margin-top: 1.5rem;
+  display: flex;
+  gap: 1rem;
+}
+.modal-btn {
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+}
+.modal-btn-primary {
+  background: var(--primary);
+  color: white;
+}
+.modal-btn-secondary {
+  background: var(--code-bg);
+  color: var(--primary);
 }
 </style>
 
 <script>
-let allBooks = [];
+let booksData = { books: [], tags: [] };
 let filteredBooks = [];
 
 async function loadBooks() {
   try {
-    const response = await fetch('/data/books.json');
-    allBooks = await response.json();
+    const response = await fetch('/data/books-enriched.json');
+    booksData = await response.json();
+    populateTagFilter();
     applyFilters();
   } catch (error) {
     document.getElementById('books-grid').innerHTML = '<p>Error loading books: ' + error.message + '</p>';
   }
 }
 
+function populateTagFilter() {
+  const select = document.getElementById('tag-filter');
+  // Get top 50 tags by frequency
+  const tagCounts = {};
+  booksData.books.forEach(book => {
+    (book.tags || []).forEach(tag => {
+      tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+    });
+  });
+  const sortedTags = Object.entries(tagCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 50);
+
+  sortedTags.forEach(([tag, count]) => {
+    const option = document.createElement('option');
+    option.value = tag;
+    option.textContent = `${tag} (${count})`;
+    select.appendChild(option);
+  });
+}
+
 function applyFilters() {
   const search = document.getElementById('search-input').value.toLowerCase();
   const sort = document.getElementById('sort-select').value;
   const typeFilter = document.getElementById('type-filter').value;
-  const statusFilter = document.getElementById('status-filter').value;
+  const tagFilter = document.getElementById('tag-filter').value;
 
-  // Filter
-  filteredBooks = allBooks.filter(book => {
-    // Search filter
+  filteredBooks = booksData.books.filter(book => {
     const title = (book.title || '').toLowerCase();
     const authors = (book.authors || []).join(' ').toLowerCase();
-    const matchesSearch = !search || title.includes(search) || authors.includes(search);
-
-    // Type filter
+    const tags = (book.tags || []).join(' ').toLowerCase();
+    const matchesSearch = !search || title.includes(search) || authors.includes(search) || tags.includes(search);
     const matchesType = typeFilter === 'all' || book.resourceType === typeFilter;
-
-    // Status filter
-    const progress = book.percentageRead || 0;
-    let matchesStatus = true;
-    if (statusFilter === 'reading') matchesStatus = progress > 0 && progress < 100;
-    else if (statusFilter === 'finished') matchesStatus = progress >= 100;
-    else if (statusFilter === 'unread') matchesStatus = progress === 0;
-
-    return matchesSearch && matchesType && matchesStatus;
+    const matchesTag = tagFilter === 'all' || (book.tags || []).includes(tagFilter);
+    return matchesSearch && matchesType && matchesTag;
   });
 
-  // Sort
   filteredBooks.sort((a, b) => {
     switch (sort) {
-      case 'title-asc':
-        return (a.title || '').localeCompare(b.title || '');
-      case 'title-desc':
-        return (b.title || '').localeCompare(a.title || '');
-      case 'author-asc':
-        return ((a.authors || [])[0] || '').localeCompare((b.authors || [])[0] || '');
-      case 'progress-desc':
-        return (b.percentageRead || 0) - (a.percentageRead || 0);
-      case 'progress-asc':
-        return (a.percentageRead || 0) - (b.percentageRead || 0);
-      default:
-        return 0;
+      case 'title-asc': return (a.title || '').localeCompare(b.title || '');
+      case 'title-desc': return (b.title || '').localeCompare(a.title || '');
+      case 'author-asc': return ((a.authors || [])[0] || '').localeCompare((b.authors || [])[0] || '');
+      default: return 0;
     }
   });
 
@@ -178,46 +264,74 @@ function applyFilters() {
 
 function renderBooks() {
   const grid = document.getElementById('books-grid');
-
   if (filteredBooks.length === 0) {
     grid.innerHTML = '<p>No books found matching your criteria.</p>';
     return;
   }
 
-  grid.innerHTML = filteredBooks.map(book => {
-    const authors = (book.authors || []).map(a => a.replace(/:$/, '')).join(', ');
-    const progress = book.percentageRead || 0;
-    const typeLabel = book.resourceType === 'EBOOK_SAMPLE' ? 'Sample' : 'Full Book';
+  grid.innerHTML = filteredBooks.map((book, idx) => {
+    const authors = (book.authors || []).join(', ');
+    const typeLabel = book.resourceType === 'EBOOK_SAMPLE' ? 'Sample' : '';
+    const tagsHtml = (book.tags || []).slice(0, 3).map(tag =>
+      `<span class="book-tag" onclick="event.stopPropagation(); filterByTag('${tag}')">${tag}</span>`
+    ).join('');
 
     return `
-      <div class="book-card">
-        <img class="book-cover" src="${book.productUrl || ''}" alt="${book.title}" loading="lazy" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 150%22><rect fill=%22%23ddd%22 width=%22100%22 height=%22150%22/><text x=%2250%22 y=%2275%22 text-anchor=%22middle%22 fill=%22%23999%22>No Cover</text></svg>'">
+      <div class="book-card" onclick="showBookDetail(${idx})">
+        <img class="book-cover" src="${book.cover || ''}" alt="${book.title}" loading="lazy"
+          onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 150%22><rect fill=%22%23ddd%22 width=%22100%22 height=%22150%22/><text x=%2250%22 y=%2275%22 text-anchor=%22middle%22 fill=%22%23999%22>No Cover</text></svg>'">
         <div class="book-info">
           <div class="book-title" title="${book.title}">${book.title}</div>
           <div class="book-author">${authors || 'Unknown Author'}</div>
-          <span class="book-type">${typeLabel}</span>
-          <div class="book-progress">
-            <div class="book-progress-bar" style="width: ${progress}%"></div>
-          </div>
-          <div style="font-size: 0.75rem; color: var(--secondary); margin-top: 0.25rem;">${progress}% read</div>
+          ${typeLabel ? `<span class="book-type">${typeLabel}</span>` : ''}
+          ${tagsHtml ? `<div class="book-tags">${tagsHtml}</div>` : ''}
         </div>
       </div>
     `;
   }).join('');
 }
 
+function showBookDetail(idx) {
+  const book = filteredBooks[idx];
+  const authors = (book.authors || []).join(', ');
+  const tagsHtml = (book.tags || []).map(tag =>
+    `<span class="book-tag" onclick="filterByTag('${tag}'); closeModal()">${tag}</span>`
+  ).join(' ');
+
+  document.getElementById('book-modal-body').innerHTML = `
+    <img class="modal-cover" src="${book.cover || ''}" alt="${book.title}">
+    <div class="modal-title">${book.title}</div>
+    <div class="modal-author">${authors || 'Unknown Author'}</div>
+    ${tagsHtml ? `<div class="book-tags" style="margin-bottom: 1rem;">${tagsHtml}</div>` : ''}
+    ${book.summary ? `<div class="modal-summary">${book.summary}</div>` : ''}
+    <div class="modal-actions">
+      ${book.readlink ? `<a href="${book.readlink}" target="_blank" class="modal-btn modal-btn-primary">Read on Kindle</a>` : ''}
+      ${book.asin ? `<a href="https://www.amazon.com/dp/${book.asin}" target="_blank" class="modal-btn modal-btn-secondary">View on Amazon</a>` : ''}
+    </div>
+  `;
+  document.getElementById('book-modal').style.display = 'flex';
+}
+
+function closeModal() {
+  document.getElementById('book-modal').style.display = 'none';
+}
+
+function filterByTag(tag) {
+  document.getElementById('tag-filter').value = tag;
+  applyFilters();
+}
+
 function updateStats() {
-  const total = allBooks.length;
+  const total = booksData.books.length;
   const showing = filteredBooks.length;
-  const fullBooks = allBooks.filter(b => b.resourceType === 'EBOOK').length;
-  const samples = allBooks.filter(b => b.resourceType === 'EBOOK_SAMPLE').length;
-  const reading = allBooks.filter(b => (b.percentageRead || 0) > 0 && (b.percentageRead || 0) < 100).length;
-  const finished = allBooks.filter(b => (b.percentageRead || 0) >= 100).length;
+  const fullBooks = booksData.books.filter(b => b.resourceType === 'EBOOK').length;
+  const samples = booksData.books.filter(b => b.resourceType === 'EBOOK_SAMPLE').length;
+  const withTags = booksData.books.filter(b => (b.tags || []).length > 0).length;
 
   document.getElementById('stats').innerHTML = `
     Showing <strong>${showing}</strong> of <strong>${total}</strong> books |
     ${fullBooks} full books, ${samples} samples |
-    ${reading} reading, ${finished} finished
+    ${withTags} with tags
   `;
 }
 
@@ -225,9 +339,17 @@ function updateStats() {
 document.getElementById('search-input').addEventListener('input', applyFilters);
 document.getElementById('sort-select').addEventListener('change', applyFilters);
 document.getElementById('type-filter').addEventListener('change', applyFilters);
-document.getElementById('status-filter').addEventListener('change', applyFilters);
+document.getElementById('tag-filter').addEventListener('change', applyFilters);
 
-// Load books on page load
+// Modal close
+document.querySelector('.book-modal-close').addEventListener('click', closeModal);
+document.getElementById('book-modal').addEventListener('click', (e) => {
+  if (e.target.id === 'book-modal') closeModal();
+});
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') closeModal();
+});
+
 loadBooks();
 </script>
 {{ end }}

@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Personal on Wijnand Baretta</title><link>https://wijnandbaretta.nl/tags/personal/</link><description>Recent content in Personal on Wijnand Baretta</description><generator>Hugo -- 0.152.2</generator><language>en</language><lastBuildDate>Tue, 07 Sep 2021 09:07:47 +0200</lastBuildDate><atom:link href="https://wijnandbaretta.nl/tags/personal/index.xml" rel="self" type="application/rss+xml"/><item><title>I'm so easily distracted</title><link>https://wijnandbaretta.nl/posts/i-m-so-easily-distracted/</link><pubDate>Tue, 07 Sep 2021 09:07:47 +0200</pubDate><guid>https://wijnandbaretta.nl/posts/i-m-so-easily-distracted/</guid><description>&lt;p&gt;Yeah, no need to complain about it. It is the same as falling down; just make sure to get up again. Or in case of distraction: make sure you get back to the thing you were doing (or aiming to do).&lt;/p&gt;
-&lt;p&gt;I have found that there are ways to make it easier to get back to the thing(s) I want or need to do. Creating a list of things I want to do really helps. It is however, very important to curate that list on a daily basis. If I work with a list that contains more items than I can handle, it really doesn&amp;rsquo;t help me.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Personal on Wijnand Baretta</title>
+    <link>http://localhost:1313/tags/personal/</link>
+    <description>Recent content in Personal on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Sep 2021 09:07:47 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I&#39;m so easily distracted</title>
+      <link>http://localhost:1313/posts/i-m-so-easily-distracted/</link>
+      <pubDate>Tue, 07 Sep 2021 09:07:47 +0200</pubDate>
+      <guid>http://localhost:1313/posts/i-m-so-easily-distracted/</guid>
+      <description>&lt;p&gt;Yeah, no need to complain about it. It is the same as falling down; just make sure to get up again. Or in case of distraction: make sure you get back to the thing you were doing (or aiming to do).&lt;/p&gt;
+&lt;p&gt;I have found that there are ways to make it easier to get back to the thing(s) I want or need to do. Creating a list of things I want to do really helps. It is however, very important to curate that list on a daily basis. If I work with a list that contains more items than I can handle, it really doesn&amp;rsquo;t help me.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

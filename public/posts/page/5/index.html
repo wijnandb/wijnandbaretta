@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=41571&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Blog | Wijnand Baretta</title>
+<meta name="keywords" content="">
+<meta name="description" content="Thoughts on AI, entrepreneurship, education, and building things">
+<meta name="author" content="Wijnand Baretta">
+<link rel="canonical" href="http://localhost:41571/posts/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.da3211e5ef867bf2b75fd5a6515cfed7195c011e8ab735694e203810a827097b.css" integrity="sha256-2jIR5e&#43;Ge/K3X9WmUVz&#43;1xlcAR6KtzVpTiA4EKgnCXs=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:41571/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:41571/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:41571/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:41571/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:41571/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:41571/posts/index.xml" title="rss">
+<link rel="alternate" hreflang="en" href="http://localhost:41571/posts/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+        @media (prefers-color-scheme: light) {
+            .list::-webkit-scrollbar-thumb {
+                border-color: var(--code-bg);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:41571/" accesskey="h" title="Wijnand Baretta (Alt + H)">Wijnand Baretta</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:41571/posts/" title="Blog">
+                    <span class="active">Blog</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:41571/projects/" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:41571/ideas/" title="Ideas">
+                    <span>Ideas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:41571/books/" title="Books">
+                    <span>Books</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:41571/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:41571/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<header class="page-header"><div class="breadcrumbs"><a href="http://localhost:41571/">Home</a></div>
+  <h1>
+    Blog
+    <a href="/posts/index.xml" title="RSS" aria-label="RSS">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" height="23">
+        <path d="M4 11a9 9 0 0 1 9 9" />
+        <path d="M4 4a16 16 0 0 1 16 16" />
+        <circle cx="5" cy="19" r="1" />
+      </svg>
+    </a>
+  </h1>
+  <div class="post-description">
+    Thoughts on AI, entrepreneurship, education, and building things
+  </div>
+</header>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Overview, priorities and status update(s)
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Pffff, I’m getting a bit stuck here. Started the day well, by taking Molly for a walk on the beach. Even had a nice cup of coffee afterwards. Now sitting down to figure out how to get going. There is a number of projects that seem to never end. In a different post, I even concluded that I shouldn’t look at it that way, a project wasn’t about ending it, finishing it, it was a process in which I had to constantly improve the product while getting paid for it.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2021-12-13 10:27:41 +0100 CET'>December 13, 2021</span>&nbsp;·&nbsp;<span>4 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Overview, priorities and status update(s)" href="http://localhost:41571/posts/overview-priorities-and-status-update-s/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Pomodoro technique to improve productivity
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>I am struggling with an assignment. I have to write a plan and it’s taking me forever. I exhibit clear procrastination behaviour and I am looking for a way to get going and finish the plan.
+So, I came up with the idea of declaring it would take me another 32 hours to finish writing the plan and than focus on the hours I am putting in, assuming I will have finished the plan once I put in another 32 hours. This would solve one of my problems, which is that I am not even starting to work on it, just keep postponoing the actual sitting down and working on it.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2021-11-25 08:54:53 +0100 CET'>November 25, 2021</span>&nbsp;·&nbsp;<span>4 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Pomodoro technique to improve productivity" href="http://localhost:41571/posts/pomodoro-technique-to-improve-productivity/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Rethinking work: what&#39;s my next step?
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>The issue I am dealing with is choosing between being an entrepreneur or getting a job. Being an entrepreneur has been both a succes and a failure, although the success has been way bigger than the failure (financially), although in terms of learning I think the failure has taught me more.
+As for “getting a job”, there are some issues there for me as well. I keep putting it off, although every now and then I really seem to want to work at an actual company ;-).
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2021-11-22 20:40:56 +0100 CET'>November 22, 2021</span>&nbsp;·&nbsp;<span>3 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Rethinking work: what&#39;s my next step?" href="http://localhost:41571/posts/rethinking-work-what-s-my-next-step/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Shell command to run Hugo server
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>I want to be able to start up my personal site on my computer with a simple commmand. I already create a shortcut to create a new post, which also starts up the Hugo server and opens my site, now I want to be able to start the site without having to write a new post.
+So, how do I want it to work? I can either use the existing script and add an option to it, for instance leaving out the title of a new post will cause the script to
+</p>
+  </div>
+  <footer class="entry-footer"><span title='2021-11-19 11:44:49 +0100 CET'>November 19, 2021</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Shell command to run Hugo server" href="http://localhost:41571/posts/shell-command-to-run-hugo-server/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Mindset for work
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>An important thought occurred to me. There are several projects of which I’m thinking of in terms of “finishing the project”, in a sense that I’m thinking about how all the work has been done and there is nothing left to do. In a way, that is the goal that I have in mind. And I have come to the conclusion that it’s a wrong mindset to be thinking about projects. The reason(s) for why it is wrong are:
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2021-11-19 11:18:07 +0100 CET'>November 19, 2021</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Mindset for work" href="http://localhost:41571/posts/mindset-for-work/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Rust zacht Arne
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Seizoen 2021. Een virtuele veiling. Op afstand, van achter de computer, een ploeg bij elkaar rapen. Ach, niet zo’n probleem, we zien elkaar allemaal later in het jaar wel weer. Misschien kunnen we wel met z’n allen naar een koers, dat hebben we in al die jaren eigenlijk nog nooit gedaan. Zometeen wordt het zomer, dan kunnen we met elkaar afspreken, elkaar weer zien.
+Het loopt anders. Waar we al jaren morbide grappen over maken, gebeurt plotseling echt. We zijn niet meer met vijftien. We missen iemand. Hij staat dan wel fier bovenaan, maar we horen niet dat hij met z’n gezondheid tobt.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2021-11-15 21:14:48 +0100 CET'>November 15, 2021</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Rust zacht Arne" href="http://localhost:41571/posts/wielerspel-2021/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Projects - which ones are interesting enough?
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>So, which projects do I want to work one, which projects are both interesting and promising?
+First off, there are my current projects, Brede School and Scotch Whisky Investments (SWI). It looks as if Brede School is about to be finished, although I expect there will be some maintenance to be done in the coming year, but it might be limited to the 1 day poer month I’m getting paid for.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2021-11-01 09:21:16 +0100 CET'>November 1, 2021</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Projects - which ones are interesting enough?" href="http://localhost:41571/posts/projects-which-ones-are-interesting-enough/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Command line shortcuts
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Why not create shortcuts/shell scripts to open a project, similar to the script to create a new post?
+I could make it so that if I want to open a project, I cd into the directory belonging to the project, activate the environment and start up a server. I could even make it so that all projects start a server on their own port, so multiple projects could have a simultaneously running server.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2021-10-08 08:12:29 +0200 CEST'>October 8, 2021</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Command line shortcuts" href="http://localhost:41571/posts/command-line-shortcuts/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Financiële zaken
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Ok, spannende ontwikkelingen op het gebied van financiële zaken. Aandelen worden overgenomen, we kopen een appartement en nieuwe opdrachten/mogelijkheden dienen zich aan. Wat betkent dat, wat moet er zoal gebeuren, hoe regel je je zaakjes financieel?
+V.w.b. de aandelen is het plan om de rekening-courant schuld af te lossen door een gedeelte uit te keren. Ten aanzien van de te verwachten hogere maandlasten, kan ik kiezen tussen mezelf een hoger salaris uitkeren of een winstuitkering te doen. Ik vraag dit na aan mijn contactpersoon Ruud bij Van den Broek.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2021-09-29 08:45:52 +0200 CEST'>September 29, 2021</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Financiële zaken" href="http://localhost:41571/posts/financiele-zaken/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Scraping data for Schotch Whisky International
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Because I tend to be all over the place, I need to find a good method of scraping al the data of the different sites.
+By splitting up the different tasks in functions, it might be easier for me to do a little work everytime and making progress. I think starting with the last piece, the scraping on the productpage, I can make the fastest progress. I can send a (or some) examples of scraped items to Niels, who can then comment on them, so I can make adjustments. Splitting up the ‘soup creation’ (or the selenium task) from the scraping, makes the code less redundant and better to read/maintain.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2021-09-24 13:52:28 +0200 CEST'>September 24, 2021</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Scraping data for Schotch Whisky International" href="http://localhost:41571/posts/scraping-data-for-schotch-whisky-international/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:41571/posts/page/4/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:41571/posts/page/6/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:41571/">Wijnand Baretta</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

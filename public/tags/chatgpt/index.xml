@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ChatGPT on Wijnand Baretta</title>
+    <link>http://localhost:41571/tags/chatgpt/</link>
+    <description>Recent content in ChatGPT on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Feb 2025 10:28:03 +0100</lastBuildDate>
+    <atom:link href="http://localhost:41571/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Working smart with LLM&#39;s</title>
+      <link>http://localhost:41571/posts/2025/02/working-smart-with-llm-s/</link>
+      <pubDate>Fri, 14 Feb 2025 10:28:03 +0100</pubDate>
+      <guid>http://localhost:41571/posts/2025/02/working-smart-with-llm-s/</guid>
+      <description>&lt;p&gt;How can I work smarter, achieve more, be less stressed, by utilising AI?&lt;/p&gt;
+&lt;p&gt;When creating an application, using Saas Pegasus so I have the basic functionality covered, I want to create a workflow which is fast, reliable, scalable and high-quality.&lt;/p&gt;
+&lt;p&gt;The idea I have around this, is using both (remote) developers and AI.&lt;/p&gt;
+&lt;p&gt;The code will be on Github, where we can use the Wiki, the discussions and the issues.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

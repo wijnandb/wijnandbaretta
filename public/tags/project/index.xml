@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Project on Wijnand Baretta</title><link>https://wijnandbaretta.nl/tags/project/</link><description>Recent content in Project on Wijnand Baretta</description><generator>Hugo -- 0.152.2</generator><language>en</language><lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wijnandbaretta.nl/tags/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Personal trAIner</title><link>https://wijnandbaretta.nl/projects/personal-trainer/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><guid>https://wijnandbaretta.nl/projects/personal-trainer/</guid><description>AI-assisted personal training experiments.</description></item><item><title>V-Bucks explained</title><link>https://wijnandbaretta.nl/posts/a-post-about-vbucks/</link><pubDate>Thu, 16 Sep 2021 09:59:24 +0200</pubDate><guid>https://wijnandbaretta.nl/posts/a-post-about-vbucks/</guid><description>&lt;p&gt;November 2024 update. Read below for the idea of V-bucks.
-Revisiting this old post, I ask ChatGPT to help: &lt;a href="https://chatgpt.com/share/67351ff2-8f14-800a-a499-0120b9518c78"&gt;https://chatgpt.com/share/67351ff2-8f14-800a-a499-0120b9518c78&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Project on Wijnand Baretta</title>
+    <link>http://localhost:1313/tags/project/</link>
+    <description>Recent content in Project on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal trAIner</title>
+      <link>http://localhost:1313/projects/personal-trainer/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/personal-trainer/</guid>
+      <description>AI-assisted personal training experiments.</description>
+    </item>
+    <item>
+      <title>V-Bucks explained</title>
+      <link>http://localhost:1313/posts/a-post-about-vbucks/</link>
+      <pubDate>Thu, 16 Sep 2021 09:59:24 +0200</pubDate>
+      <guid>http://localhost:1313/posts/a-post-about-vbucks/</guid>
+      <description>&lt;p&gt;November 2024 update. Read below for the idea of V-bucks.
+Revisiting this old post, I ask ChatGPT to help: &lt;a href=&#34;https://chatgpt.com/share/67351ff2-8f14-800a-a499-0120b9518c78&#34;&gt;https://chatgpt.com/share/67351ff2-8f14-800a-a499-0120b9518c78&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This is still an interesting and nice idea to build a MVP for.&lt;/p&gt;
-&lt;p&gt;The V-Bucks project (or better yet, in this phase: idea) has originated at home, because my sons would like to earn money (to spend on V-bucks, the virtual currency used in Fortnite) and I would like them to do some chores in and around the house.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;The V-Bucks project (or better yet, in this phase: idea) has originated at home, because my sons would like to earn money (to spend on V-bucks, the virtual currency used in Fortnite) and I would like them to do some chores in and around the house.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

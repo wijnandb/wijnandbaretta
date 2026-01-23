@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dachar on Wijnand Baretta</title>
+    <link>http://localhost:41571/tags/dachar/</link>
+    <description>Recent content in Dachar on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Dec 2024 11:21:40 +0100</lastBuildDate>
+    <atom:link href="http://localhost:41571/tags/dachar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overzicht aanbieders per talentgebied</title>
+      <link>http://localhost:41571/posts/2024/12/overzicht-aanbieders-per-talentgebied/</link>
+      <pubDate>Tue, 10 Dec 2024 11:21:40 +0100</pubDate>
+      <guid>http://localhost:41571/posts/2024/12/overzicht-aanbieders-per-talentgebied/</guid>
+      <description>&lt;p&gt;Dachar wil een overzicht van aanbieders per talentgebied.
+Hij is niet geinteresseerd in de docenten per aanbieder, maar doordat er bij te nemen kunnen we eindelijk de aanbieder-pagina&amp;rsquo;s maken die we willen.&lt;/p&gt;
+&lt;p&gt;Wat ga je maken?&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;pagina met talentgebieden, geannoteerd met aantal aanbieders, activiteiten en docenten&lt;/li&gt;
+&lt;li&gt;lijst met aanbieders per talentgebied, geannoteerd met laatst actief? Actief en niet actief tonen?&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Wat wil je allemaal op kunnen zoeken?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;docenten per aanbieder: VOG, aantal keer actief, laatst actief, actief per periode of per jaartal&lt;/li&gt;
+&lt;li&gt;overeenkomsten per aanbieder&lt;/li&gt;
+&lt;li&gt;overeenkomsten per docent&lt;/li&gt;
+&lt;li&gt;activiteiten per aanbieder&lt;/li&gt;
+&lt;li&gt;activiteiten per docent&lt;/li&gt;
+&lt;li&gt;verdiensten per aanbieder&lt;/li&gt;
+&lt;li&gt;verdiensten per aanbieder per jaar&lt;/li&gt;
+&lt;li&gt;verdiensten per docent&lt;/li&gt;
+&lt;li&gt;verdiensten per docent per jaar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Eigenlijk wil je dus Schedules kunnen filteren op school, (school)jaar, aanbieder, docent, activiteit, talentgebied&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

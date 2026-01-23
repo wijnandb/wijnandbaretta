@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Private on Wijnand Baretta</title>
+    <link>http://localhost:41571/tags/private/</link>
+    <description>Recent content in Private on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Nov 2021 11:18:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:41571/tags/private/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mindset for work</title>
+      <link>http://localhost:41571/posts/mindset-for-work/</link>
+      <pubDate>Fri, 19 Nov 2021 11:18:07 +0100</pubDate>
+      <guid>http://localhost:41571/posts/mindset-for-work/</guid>
+      <description>&lt;p&gt;An important thought occurred to me. There are several projects of which I&amp;rsquo;m thinking of in terms of &amp;ldquo;&lt;em&gt;finishing the project&lt;/em&gt;&amp;rdquo;, in a sense that I&amp;rsquo;m thinking about how all the work has been done and there is nothing left to do. In a way, that is the goal that I have in mind. And I have come to the conclusion that it&amp;rsquo;s a wrong  mindset to be thinking about projects. The reason(s) for why it is wrong are:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects - which ones are interesting enough?</title>
+      <link>http://localhost:41571/posts/projects-which-ones-are-interesting-enough/</link>
+      <pubDate>Mon, 01 Nov 2021 09:21:16 +0100</pubDate>
+      <guid>http://localhost:41571/posts/projects-which-ones-are-interesting-enough/</guid>
+      <description>&lt;p&gt;So, which projects do I want to work one, which projects are both interesting and promising?&lt;/p&gt;
+&lt;p&gt;First off, there are my current projects, Brede School and Scotch Whisky Investments (SWI). It looks as if Brede School is about to be finished, although I expect there will be some maintenance to be done in the coming year, but it might be limited to the 1 day poer month I&amp;rsquo;m getting paid for.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Financiële zaken</title>
+      <link>http://localhost:41571/posts/financiele-zaken/</link>
+      <pubDate>Wed, 29 Sep 2021 08:45:52 +0200</pubDate>
+      <guid>http://localhost:41571/posts/financiele-zaken/</guid>
+      <description>&lt;p&gt;Ok, spannende ontwikkelingen op het gebied van financiële zaken. Aandelen worden overgenomen, we kopen een appartement en nieuwe opdrachten/mogelijkheden dienen zich aan. Wat betkent dat, wat moet er zoal gebeuren, hoe regel je je zaakjes financieel?&lt;/p&gt;
+&lt;p&gt;V.w.b. de aandelen is het plan om de rekening-courant schuld af te lossen door een gedeelte uit te keren. Ten aanzien van de te verwachten hogere maandlasten, kan ik kiezen tussen mezelf een hoger salaris uitkeren of een winstuitkering te doen. Ik vraag dit na aan mijn contactpersoon Ruud bij Van den Broek.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bredeschool bugs</title>
+      <link>http://localhost:41571/posts/bredeschool-bugs/</link>
+      <pubDate>Wed, 08 Sep 2021 11:13:36 +0200</pubDate>
+      <guid>http://localhost:41571/posts/bredeschool-bugs/</guid>
+      <description>&lt;p&gt;There are a number of bugs to be solved in the Bredeschool project. To work on them effectively, I need structure. And to get thta structure, I&amp;rsquo;ll start describing the bug and the way I want to fix that bug.&lt;/p&gt;
+&lt;h3 id=&#34;children-are-not-added-to-the-parents-account&#34;&gt;Children are not added to the Parent&amp;rsquo;s account&lt;/h3&gt;
+&lt;p&gt;If a parent creates an account, there is a check (via a signal) if there are children who are listed with the same e-mail address. If that is the case, the child is added to the parent&amp;rsquo;s account, so they see their child when they login. This works fine, unless the casing of the e-mail address is different, for innstance if one of addresses contain uppercase letters.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

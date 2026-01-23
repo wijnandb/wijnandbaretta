@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Development on Wijnand Baretta</title>
+    <link>http://localhost:41571/tags/development/</link>
+    <description>Recent content in Development on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Dec 2024 13:23:03 +0100</lastBuildDate>
+    <atom:link href="http://localhost:41571/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overzicht per school genereren</title>
+      <link>http://localhost:41571/posts/2024/12/overzicht-per-school-genereren/</link>
+      <pubDate>Tue, 03 Dec 2024 13:23:03 +0100</pubDate>
+      <guid>http://localhost:41571/posts/2024/12/overzicht-per-school-genereren/</guid>
+      <description>&lt;p&gt;Spreadsheet om aantal aangevraagd activiteigten per school te zien: &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1cNZnigI7Ri8IX21YnVfysiZbpjXhA7hszAg1OmO7oMs/&#34;&gt;https://docs.google.com/spreadsheets/d/1cNZnigI7Ri8IX21YnVfysiZbpjXhA7hszAg1OmO7oMs/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Management command &amp;ldquo;overview_per_school.py&amp;rdquo; aanpassen en elke dag draaien.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; headers aanpassen, Nederlandstalig&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; kolommen toevoegen, elke status aparte kolom&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; schedulen, elke nacht draaien + donderdagochtend 10 uur&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; als schedule volledig compleet is (akkoord, aanbieder, docent met goedgekeurd VOG), inschrijving openen&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; nooit inschrijving openen voor interne activiteit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Welke kolommen moeten er komen?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Werkzaamheden Brede School: aanbieders en docenten zoeken</title>
+      <link>http://localhost:41571/posts/2024/12/werkzaamheden-brede-school-aanbieders-en-docenten-zoeken/</link>
+      <pubDate>Tue, 03 Dec 2024 11:43:05 +0100</pubDate>
+      <guid>http://localhost:41571/posts/2024/12/werkzaamheden-brede-school-aanbieders-en-docenten-zoeken/</guid>
+      <description>&lt;p&gt;We willen voor alle overeenkomsten waar we nog geen akkoord op hebben ontvangen of waarvoor nog geen docent is aangewezen of zelfs waarvan de docent nog geen geldig VOG heeft, de optie bieden voor andere aanbieders om zich hiervoor in te schrijven/aan te melden.&lt;/p&gt;
+&lt;p&gt;Hoe pakken we dit aan?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; uitdraai maken van alle overeenkomsten uit blok 2 waar geen akkoord voor is&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; pagina waar deze overeenkomsten getoond worden
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; view aanmaken&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; url aanmaken&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; template aanmaken&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; nieuwe tabel aanmaken, waarin de aanbieders zich kunnen aanbieden om de Schedule te verzorgen&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; pagina waar we per Schedule de mogelijkheid bieden om als aanbieder aan te melden, inclusief toewijzen aan docent&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; pagina waar we per Schedule tonen welke aanbieders zich hebben aangemeld, mogelijkheid om 1 te kiezen&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; op voorgaande pagina, bij aanbieders die aan voorwaarden voldoen, na druk op knop &amp;ldquo;akkoord&amp;rdquo;, aanbieder en docent in overeenkomst opnemen&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; na click en toevoegen aanbieder en docent, overeenkomst op akkoord zetten.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Eerste stap, filteren van Schedules.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Creating a roadmap for sales, marketing and development</title>
+      <link>http://localhost:41571/posts/2024/11/creating-a-roadmap-for-sales-marketing-and-development/</link>
+      <pubDate>Wed, 27 Nov 2024 16:29:31 +0100</pubDate>
+      <guid>http://localhost:41571/posts/2024/11/creating-a-roadmap-for-sales-marketing-and-development/</guid>
+      <description>&lt;p&gt;By creating a roadmap for IkTel and break down the work to be done by area (Sales, Marketing and Development), I hope to achieve more focus and productivity.&lt;/p&gt;
+&lt;p&gt;Obviously, I asked the help of ChatGPT. This was their response:&lt;/p&gt;
+&lt;h1 id=&#34;ideal-future-plan-for-the-after-school-activities-platform&#34;&gt;Ideal Future Plan for the After-School Activities Platform&lt;/h1&gt;
+&lt;h2 id=&#34;a-year-from-now-the-ideal-situation&#34;&gt;&lt;strong&gt;A Year from Now: The Ideal Situation&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;what-does-the-business-look-like&#34;&gt;&lt;strong&gt;What Does the Business Look Like?&lt;/strong&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Platform Adoption and Scale&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The platform is widely recognized and used by schools across several regions in the Netherlands.&lt;/li&gt;
+&lt;li&gt;Schools, school boards, and activity providers actively recommend the platform.&lt;/li&gt;
+&lt;li&gt;The platform serves a growing user base, with regular improvements driven by feedback.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Efficient Operations&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brede school/Iktel nieuwe site: programma samenstellen</title>
+      <link>http://localhost:41571/posts/2024/11/brede-school-iktel-nieuwe-site-programma-samenstellen/</link>
+      <pubDate>Wed, 20 Nov 2024 13:43:58 +0100</pubDate>
+      <guid>http://localhost:41571/posts/2024/11/brede-school-iktel-nieuwe-site-programma-samenstellen/</guid>
+      <description>&lt;p&gt;Besproken met Dachar:&lt;/p&gt;
+&lt;p&gt;Op dit moment bepalen scholen op welke dag een bepaalde activiteit plaatsvindt. Dit leidt er (soms) toe, dat er geen match is met een aanbieder, omdat die bewsute aanbieder toevallig niet beschikbaar is op die specifieke dag. Logisch, maar vaak ook vermijdbaar. Het is voor een school belangrijk dat er gedurende de week activiteiten plaatsvinden. Idealiter is het aantal activiteiten netjes verdeeld over de verschillende dagen en leeftijdsgroepen. Ook de beschikbaarheid van locaties (lokaal, keuken, sporthal) kan bepalend zijn voor de mogelijkheden: een sporthal kan meestal maar voor een activiteit tegelijkertijd gebruikt worden.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

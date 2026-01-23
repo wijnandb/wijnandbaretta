@@ -1,21 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Productivity on Wijnand Baretta</title><link>https://wijnandbaretta.nl/tags/productivity/</link><description>Recent content in Productivity on Wijnand Baretta</description><generator>Hugo -- 0.152.2</generator><language>en</language><lastBuildDate>Tue, 25 Mar 2025 12:36:12 +0100</lastBuildDate><atom:link href="https://wijnandbaretta.nl/tags/productivity/index.xml" rel="self" type="application/rss+xml"/><item><title>Asking a single agent to assemble a multi-agent crew</title><link>https://wijnandbaretta.nl/posts/2025/03/asking-a-single-agent-to-assemble-a-multi-agent-crew/</link><pubDate>Tue, 25 Mar 2025 12:36:12 +0100</pubDate><guid>https://wijnandbaretta.nl/posts/2025/03/asking-a-single-agent-to-assemble-a-multi-agent-crew/</guid><description>&lt;p&gt;I am doing a little experiment and at the moment of writing, I don&amp;rsquo;t know the outcome yet.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Productivity on Wijnand Baretta</title>
+    <link>http://localhost:1313/tags/productivity/</link>
+    <description>Recent content in Productivity on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Mar 2025 12:36:12 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asking a single agent to assemble a multi-agent crew</title>
+      <link>http://localhost:1313/posts/2025/03/asking-a-single-agent-to-assemble-a-multi-agent-crew/</link>
+      <pubDate>Tue, 25 Mar 2025 12:36:12 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2025/03/asking-a-single-agent-to-assemble-a-multi-agent-crew/</guid>
+      <description>&lt;p&gt;I am doing a little experiment and at the moment of writing, I don&amp;rsquo;t know the outcome yet.
 First, I ask ChatGPT 4 the follwing (quite elaborate) question:&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;I know there are a million different fitness apps out there and hardly any on eof them actually &amp;ldquo;works&amp;rdquo; in the sense that it automagically gets people to work out.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;So before even considering building something, we need to analyze what an app&amp;rsquo;s actual job is.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Using AI to lead a happier life?</title><link>https://wijnandbaretta.nl/posts/2025/03/using-ai-to-lead-a-happier-life/</link><pubDate>Mon, 24 Mar 2025 17:16:23 +0100</pubDate><guid>https://wijnandbaretta.nl/posts/2025/03/using-ai-to-lead-a-happier-life/</guid><description>&lt;p&gt;&lt;em&gt;(And Not Lose My Mind in the Process)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;So before even considering building something, we need to analyze what an app&amp;rsquo;s actual job is.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Using AI to lead a happier life?</title>
+      <link>http://localhost:1313/posts/2025/03/using-ai-to-lead-a-happier-life/</link>
+      <pubDate>Mon, 24 Mar 2025 17:16:23 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2025/03/using-ai-to-lead-a-happier-life/</guid>
+      <description>&lt;p&gt;&lt;em&gt;(And Not Lose My Mind in the Process)&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Let’s be honest. I’m not a monk meditating on a mountaintop. I’m not waking up at 5 a.m. for cold plunges and journaling. (Okay, I tried journaling once. Lost the notebook. Still looking for it.)&lt;/p&gt;
 &lt;p&gt;What I &lt;em&gt;am&lt;/em&gt; doing is trying to figure out something that’s been bugging me for a while:&lt;br&gt;
 👉 &lt;strong&gt;How can I use AI to lead a happier life?&lt;/strong&gt;&lt;br&gt;
-Because, if you’re anything like me, life can feel like a never-ending ping-pong game where you’re both players, the ball, and somehow also the table.&lt;/p&gt;</description></item><item><title>Command line shortcuts</title><link>https://wijnandbaretta.nl/posts/command-line-shortcuts/</link><pubDate>Fri, 08 Oct 2021 08:12:29 +0200</pubDate><guid>https://wijnandbaretta.nl/posts/command-line-shortcuts/</guid><description>&lt;p&gt;Why not create shortcuts/shell scripts to open a project, similar to the script to create a new post?&lt;/p&gt;
+Because, if you’re anything like me, life can feel like a never-ending ping-pong game where you’re both players, the ball, and somehow also the table.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Command line shortcuts</title>
+      <link>http://localhost:1313/posts/command-line-shortcuts/</link>
+      <pubDate>Fri, 08 Oct 2021 08:12:29 +0200</pubDate>
+      <guid>http://localhost:1313/posts/command-line-shortcuts/</guid>
+      <description>&lt;p&gt;Why not create shortcuts/shell scripts to open a project, similar to the script to create a new post?&lt;/p&gt;
 &lt;p&gt;I could make it so that if I want to open a project, I cd into the directory belonging to the project, activate the environment and start up a server.
-I could even make it so that all projects start a server on their own port, so multiple projects could have a simultaneously running server.&lt;/p&gt;</description></item><item><title>Creating a new Git repository on Github and synching to it</title><link>https://wijnandbaretta.nl/posts/creating-a-new-git-repository-on-github-and-synching-to-it/</link><pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate><guid>https://wijnandbaretta.nl/posts/creating-a-new-git-repository-on-github-and-synching-to-it/</guid><description>&lt;p&gt;I want to create a new Git repo and write down the commands to add new content or create a script which does that for me.&lt;/p&gt;
+I could even make it so that all projects start a server on their own port, so multiple projects could have a simultaneously running server.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Creating a new Git repository on Github and synching to it</title>
+      <link>http://localhost:1313/posts/creating-a-new-git-repository-on-github-and-synching-to-it/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creating-a-new-git-repository-on-github-and-synching-to-it/</guid>
+      <description>&lt;p&gt;I want to create a new Git repo and write down the commands to add new content or create a script which does that for me.&lt;/p&gt;
 &lt;p&gt;First, I go to the root directory of my (local) project and initiate a new Git repository:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;$ git init
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ git init
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;We now have an empty git repository. Add all files to it with&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;$ git add .
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ git add .
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Setting up a repo on Github:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;$ gh repo create project-name
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I need to set the upstream branch on Github and get the .gitignore and the LICENSE that were created when setting up the repo on Github:
-repository:&lt;/p&gt;</description></item><item><title>Creating a new post from the command line</title><link>https://wijnandbaretta.nl/posts/creating-a-new-post-from-the-command-line/</link><pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate><guid>https://wijnandbaretta.nl/posts/creating-a-new-post-from-the-command-line/</guid><description>&lt;p&gt;Ok, that worked. I can now create new posts from the command line by simply calling the bash script I have created.
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ gh repo create project-name
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I need to set the upstream branch on Github and get the .gitignore and the LICENSE that were  created when setting up the repo on Github:
+repository:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Creating a new post from the command line</title>
+      <link>http://localhost:1313/posts/creating-a-new-post-from-the-command-line/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creating-a-new-post-from-the-command-line/</guid>
+      <description>&lt;p&gt;Ok, that worked. I can now create new posts from the command line by simply calling the bash script I have created.
 Calling ./new-post.sh asks for a title and keywords (tags) and creates a new post for me in the desired directory (~/15-a-day/posts).&lt;/p&gt;
-&lt;p&gt;This is a good beginning, there are however some steps left. First, let me document what I have created by adding the contents of the bash script to this post.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;This is a good beginning, there are however some steps left. First, let me document what I have created by adding the contents of the bash script to this post.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

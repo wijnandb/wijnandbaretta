@@ -1,1 +1,75 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Projects on Wijnand Baretta</title><link>https://wijnandbaretta.nl/projects/</link><description>Recent content in Projects on Wijnand Baretta</description><generator>Hugo -- 0.152.2</generator><language>en</language><lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://wijnandbaretta.nl/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Eredivisie voorspelling</title><link>https://wijnandbaretta.nl/projects/eredivisie-voorspelling/</link><pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate><guid>https://wijnandbaretta.nl/projects/eredivisie-voorspelling/</guid><description>Welke club eindigt op welke positie op de ranglijst</description></item><item><title>Brede School Zuidoost</title><link>https://wijnandbaretta.nl/projects/brede-school-zuidoost/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><guid>https://wijnandbaretta.nl/projects/brede-school-zuidoost/</guid><description>After-school program support and tools.</description></item><item><title>Codecult</title><link>https://wijnandbaretta.nl/projects/codecult/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><guid>https://wijnandbaretta.nl/projects/codecult/</guid><description>Coding workshops and learning experiments.</description></item><item><title>Game Development</title><link>https://wijnandbaretta.nl/projects/game-development/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><guid>https://wijnandbaretta.nl/projects/game-development/</guid><description>Prototyping small games and mechanics.</description></item><item><title>Khan Academie</title><link>https://wijnandbaretta.nl/projects/khan-academie/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><guid>https://wijnandbaretta.nl/projects/khan-academie/</guid><description>Learning experiments inspired by Khan Academy.</description></item><item><title>Personal trAIner</title><link>https://wijnandbaretta.nl/projects/personal-trainer/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><guid>https://wijnandbaretta.nl/projects/personal-trainer/</guid><description>AI-assisted personal training experiments.</description></item><item><title>Sample Project</title><link>https://wijnandbaretta.nl/projects/sample-project/</link><pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate><guid>https://wijnandbaretta.nl/projects/sample-project/</guid><description>A short example project to demonstrate the Projects section.</description></item><item><title/><link>https://wijnandbaretta.nl/projects/idea-validation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wijnandbaretta.nl/projects/idea-validation/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Wijnand Baretta</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eredivisie voorspelling</title>
+      <link>http://localhost:1313/projects/eredivisie-voorspelling/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/eredivisie-voorspelling/</guid>
+      <description>Welke club eindigt op welke positie op de ranglijst</description>
+    </item>
+    <item>
+      <title>Brede School Zuidoost</title>
+      <link>http://localhost:1313/projects/brede-school-zuidoost/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/brede-school-zuidoost/</guid>
+      <description>After-school program support and tools.</description>
+    </item>
+    <item>
+      <title>Codecult</title>
+      <link>http://localhost:1313/projects/codecult/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/codecult/</guid>
+      <description>Coding workshops and learning experiments.</description>
+    </item>
+    <item>
+      <title>Game Development</title>
+      <link>http://localhost:1313/projects/game-development/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/game-development/</guid>
+      <description>Prototyping small games and mechanics.</description>
+    </item>
+    <item>
+      <title>IkTel</title>
+      <link>http://localhost:1313/projects/iktel/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/iktel/</guid>
+      <description>Project page placeholder.</description>
+    </item>
+    <item>
+      <title>Khan Academie</title>
+      <link>http://localhost:1313/projects/khan-academie/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/khan-academie/</guid>
+      <description>Learning experiments inspired by Khan Academy.</description>
+    </item>
+    <item>
+      <title>Personal trAIner</title>
+      <link>http://localhost:1313/projects/personal-trainer/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/personal-trainer/</guid>
+      <description>AI-assisted personal training experiments.</description>
+    </item>
+    <item>
+      <title>Sample Project</title>
+      <link>http://localhost:1313/projects/sample-project/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/sample-project/</guid>
+      <description>A short example project to demonstrate the Projects section.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/idea-validation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/idea-validation/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

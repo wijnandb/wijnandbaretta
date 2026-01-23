@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Django on Wijnand Baretta</title>
+    <link>http://localhost:41571/tags/django/</link>
+    <description>Recent content in Django on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Dec 2021 14:06:02 +0100</lastBuildDate>
+    <atom:link href="http://localhost:41571/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting up a new Django project</title>
+      <link>http://localhost:41571/posts/setting-up-a-new-django-project/</link>
+      <pubDate>Mon, 20 Dec 2021 14:06:02 +0100</pubDate>
+      <guid>http://localhost:41571/posts/setting-up-a-new-django-project/</guid>
+      <description>&lt;p&gt;I have looked into Cookiecutter, as a way to create new Django projects.&lt;/p&gt;
+&lt;p&gt;Problem is that I still haven&amp;rsquo;t mastered working with Virtual Environments.&lt;/p&gt;
+&lt;p&gt;I am using Pipenv instead, which works fine, but I don&amp;rsquo;t really understand how it works. Besides that, it isn&amp;rsquo;t actively maintained, which is a problem.&lt;/p&gt;
+&lt;p&gt;So, venv.&lt;/p&gt;
+&lt;p&gt;Questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Which Python version is being used on Heroku?
+&lt;ul&gt;
+&lt;li&gt;3.10.1&lt;/li&gt;
+&lt;li&gt;Locally installed that version as well, Python3.10&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Which Django version can be run on Heroku?&lt;/li&gt;
+&lt;li&gt;Which Postgres version can be run on Heroku?&lt;/li&gt;
+&lt;li&gt;How can I choose between different versions of Python locally?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Well, this little exercise has gotten me in all kinds of shit. I can&amp;rsquo;t get my existing Django projects to run locally, I have really messed up.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Creating fixtures for testing Brede School</title>
+      <link>http://localhost:41571/posts/creating-fixtures-for-testing-brede-school/</link>
+      <pubDate>Tue, 14 Sep 2021 10:24:07 +0200</pubDate>
+      <guid>http://localhost:41571/posts/creating-fixtures-for-testing-brede-school/</guid>
+      <description>&lt;p&gt;We need fake content for the Brede School, and probably for other projects as well. This content is both needed for the Development environment as for testing purposes.&lt;/p&gt;
+&lt;p&gt;There are different methods to be used. I quite like the idea that we load the development environment with fake data, that we create from the command line (via a script).&lt;/p&gt;
+&lt;p&gt;This would mean generating schools, students, parents, teachers, schoolmanagers, companies, activities, schedules and participations (I might have forgotten something, but you get the gist, generate all necessary data).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Setting up Amazon S3 for user-uploaded files on Django Heroku</title>
+      <link>http://localhost:41571/posts/setting-up-amazon-s3-for-user-uploaded-files-on-django-heroku/</link>
+      <pubDate>Fri, 03 Sep 2021 13:33:13 +0200</pubDate>
+      <guid>http://localhost:41571/posts/setting-up-amazon-s3-for-user-uploaded-files-on-django-heroku/</guid>
+      <description>&lt;p&gt;For the Bredeschool project, we need teachers to upload a document proving that are allowed to teach kids (in Dutch: VOG, literally translated &amp;ldquo;Declaration about behavior&amp;rdquo;).&lt;/p&gt;
+&lt;p&gt;The application is hosted on Heroku with Whitenoise installed, but that doesn&amp;rsquo;t support uploaded content. The advice is to use Amazon S3. So, assuming I will do this more often in the future, I decided to take notes. You are looking at them &amp;#x1f603;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

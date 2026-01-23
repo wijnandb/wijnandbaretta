@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Linux on Wijnand Baretta</title><link>https://wijnandbaretta.nl/tags/linux/</link><description>Recent content in Linux on Wijnand Baretta</description><generator>Hugo -- 0.152.2</generator><language>en</language><lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://wijnandbaretta.nl/tags/linux/index.xml" rel="self" type="application/rss+xml"/><item><title>Create post via shell script</title><link>https://wijnandbaretta.nl/posts/create-post-via-shell-script/</link><pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate><guid>https://wijnandbaretta.nl/posts/create-post-via-shell-script/</guid><description>&lt;p&gt;I want to write posts via the command line and I want it to be as effortless as possible.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux on Wijnand Baretta</title>
+    <link>http://localhost:1313/tags/linux/</link>
+    <description>Recent content in Linux on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create post via shell script</title>
+      <link>http://localhost:1313/posts/create-post-via-shell-script/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/create-post-via-shell-script/</guid>
+      <description>&lt;p&gt;I want to write posts via the command line and I want it to be as effortless as possible.
 Every time I want to start writing, I end up in a loop:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;let&amp;rsquo;s create a site to publish my writing&lt;/li&gt;
@@ -9,4 +24,7 @@ Every time I want to start writing, I end up in a loop:&lt;/p&gt;
 &lt;li&gt;it&amp;rsquo;s perfect for what I want&lt;/li&gt;
 &lt;li&gt;can I change the theme/templates?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;After a while, I have yet another nice static site. Sometimes all the way down to a published site, sometimes stuck somewhere half-way. But all of the time, the writing of content stops, doesn&amp;rsquo;t get started, never happens. No matter what the reason for this is, I need to get out of this loop.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;After a while, I have yet another nice static site. Sometimes all the way down to a published site, sometimes stuck somewhere half-way.  But all of the time, the writing of content stops, doesn&amp;rsquo;t get started, never happens. No matter what the reason for this is, I need to get out of this loop.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

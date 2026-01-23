@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Remote Work on Wijnand Baretta</title>
+    <link>http://localhost:41571/tags/remote-work/</link>
+    <description>Recent content in Remote Work on Wijnand Baretta</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 31 Dec 2024 11:09:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:41571/tags/remote-work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Working remotely: communication is key</title>
+      <link>http://localhost:41571/posts/2024/12/working-remotely-communication-is-key/</link>
+      <pubDate>Tue, 31 Dec 2024 11:09:07 +0100</pubDate>
+      <guid>http://localhost:41571/posts/2024/12/working-remotely-communication-is-key/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s see which books are about communication and remote teams.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

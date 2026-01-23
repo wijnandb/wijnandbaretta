@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=41571&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Blog | Wijnand Baretta</title>
+<meta name="keywords" content="">
+<meta name="description" content="Thoughts on AI, entrepreneurship, education, and building things">
+<meta name="author" content="Wijnand Baretta">
+<link rel="canonical" href="http://localhost:41571/posts/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.da3211e5ef867bf2b75fd5a6515cfed7195c011e8ab735694e203810a827097b.css" integrity="sha256-2jIR5e&#43;Ge/K3X9WmUVz&#43;1xlcAR6KtzVpTiA4EKgnCXs=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:41571/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:41571/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:41571/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:41571/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:41571/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:41571/posts/index.xml" title="rss">
+<link rel="alternate" hreflang="en" href="http://localhost:41571/posts/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+        @media (prefers-color-scheme: light) {
+            .list::-webkit-scrollbar-thumb {
+                border-color: var(--code-bg);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:41571/" accesskey="h" title="Wijnand Baretta (Alt + H)">Wijnand Baretta</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:41571/posts/" title="Blog">
+                    <span class="active">Blog</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:41571/projects/" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:41571/ideas/" title="Ideas">
+                    <span>Ideas</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:41571/books/" title="Books">
+                    <span>Books</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:41571/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:41571/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<header class="page-header"><div class="breadcrumbs"><a href="http://localhost:41571/">Home</a></div>
+  <h1>
+    Blog
+    <a href="/posts/index.xml" title="RSS" aria-label="RSS">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" height="23">
+        <path d="M4 11a9 9 0 0 1 9 9" />
+        <path d="M4 4a16 16 0 0 1 16 16" />
+        <circle cx="5" cy="19" r="1" />
+      </svg>
+    </a>
+  </h1>
+  <div class="post-description">
+    Thoughts on AI, entrepreneurship, education, and building things
+  </div>
+</header>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Feeling blue
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Friday. Rainy. Dark. November.
+I have a meeting/presentation on Monday and I’m dreading it. It could be procrastination, it could be fear, I don’t know. Maybe I have been out of it too long (I wanted to write “out of the game”, but it sounded stupid and pretentious. That’s also a thing: I tend to be very critically towards myself. A terrible fear or reluctnace to express myself).
+So, why am I scared or procrastinating or whatever this is?
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-11-22 08:22:39 +0100 CET'>November 22, 2024</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Feeling blue" href="http://localhost:41571/posts/2024/11/feeling-blue/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Empty database, load data
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>IkTel development We want to speed up development as well as testing the new Iktel application. In order to do that, it will help if we can easily populate the database.
+What do we nwant to populate the database with?
+schools companies activities skills rubrics teachers students parent(s) company_owner(s) </p>
+  </div>
+  <footer class="entry-footer"><span title='2024-11-21 13:22:08 +0100 CET'>November 21, 2024</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Empty database, load data" href="http://localhost:41571/posts/2024/11/empty-database-load-data/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Brede school/Iktel nieuwe site: programma samenstellen
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Besproken met Dachar:
+Op dit moment bepalen scholen op welke dag een bepaalde activiteit plaatsvindt. Dit leidt er (soms) toe, dat er geen match is met een aanbieder, omdat die bewsute aanbieder toevallig niet beschikbaar is op die specifieke dag. Logisch, maar vaak ook vermijdbaar. Het is voor een school belangrijk dat er gedurende de week activiteiten plaatsvinden. Idealiter is het aantal activiteiten netjes verdeeld over de verschillende dagen en leeftijdsgroepen. Ook de beschikbaarheid van locaties (lokaal, keuken, sporthal) kan bepalend zijn voor de mogelijkheden: een sporthal kan meestal maar voor een activiteit tegelijkertijd gebruikt worden.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-11-20 13:43:58 +0100 CET'>November 20, 2024</span>&nbsp;·&nbsp;<span>3 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Brede school/Iktel nieuwe site: programma samenstellen" href="http://localhost:41571/posts/2024/11/brede-school-iktel-nieuwe-site-programma-samenstellen/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Improvements I want for this Hugo site
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>There is a number of things I would like to add and improve to this site.
+One of the things I’d like, is to make the creation of a new post more seemless. I have created a shell script, with which I can create a new post. The script can be called from the command line:
+$ ./new-post.sh It creates a new file, in the directory posts/// with the title provided and the “.md” extension. The settings for the file creation are hardcoded in the script, which is fine for now.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-11-20 10:49:03 +0100 CET'>November 20, 2024</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Improvements I want for this Hugo site" href="http://localhost:41571/posts/2024/11/improvements-i-want-for-this-hugo-site/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Bredeschool stand van zaken spreadsheet georganiseerde activiteiten
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Omdat we scholen willen stimuleren om zo snel mogelijk het programma rond te maken, zodat aanbieders en docenten vastgelegd kunnen worden, willen we inzichtelijk maken hoe ver een school staat met het organiseren van activiteiten.
+Omdat de Talentmakelaars en IC-ers geen toegang hebben tot het overzicht met de stand van zakne van alle scholen, maken we een spreadsheet dat we delen met alle Talentmakelaars. Het spreadsheet wordt elke nacht bijgewerkt en bevat de volgende velden:
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-11-19 11:09:24 +0200 +0200'>November 19, 2024</span>&nbsp;·&nbsp;<span>4 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Bredeschool stand van zaken spreadsheet georganiseerde activiteiten" href="http://localhost:41571/posts/bredeschool-stand-van-zaken-spreadsheet-georganiseerde-activiteiten/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Studievoortgang Levi of voorlopig einde rechtenstudie?
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Hoe zit het nou met de studie van Levi? Kan hij het ‘gewoon’ nog halen of is het al te laat, kan het niet meer?
+Ik dacht het volgende te weten:
+alle vakken zijn 6 punten beide semesters zijn ingedeeld in drie periodes periode 1: 2 vakken, periode 2: 2 vakken, periode 3: 1 vak gedurende de eerste twee periodes van een semester is er ook de verplichte deelname aan Amsterdam Law Firm zonder deelname aan Amsterdam Law Firm mag het vak in de derde periode niet gedaan worden, of wel gedaan maar je kunt er geen punten voor verdienen. zonder deelname aan Amsterdam Law Firm in het eerste semester, mag je niet deelnemen aan Amsterdam Law Firm in het tweede semester. Op basis van die kennis danwel veronderstelling, betekent dit voor Levi het volgende:
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-11-19 09:59:24 +0200 +0200'>November 19, 2024</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Studievoortgang Levi of voorlopig einde rechtenstudie?" href="http://localhost:41571/posts/studievoortgang-levi-of-voorlopig-einde-rechtenstudie/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Show books collection dynamic with Javascript
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>On this website, I have a bookcollection. All the books I have on my Kindle, are displayed here. Showing the cover, a summary, key takeaways. In addition to that, I have added tags to each book, so I can filter the collection and only show the books with that specific tag.
+However, these pages with books per tag are a lot more boring than the general collection of books, where we are showing all the covers. So, showing the books with covers on the filtered pages would be nice. But, when thinking about that, it seems that having the content for the book-information in a csv or a JSON is a lot more practical: easier to maintain and update, faster to display and filter.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-11-15 09:05:43 +0200 +0200'>November 15, 2024</span>&nbsp;·&nbsp;<span>5 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Show books collection dynamic with Javascript" href="http://localhost:41571/posts/show-books-collection-dynamic-with-javascript/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">What&#39;s bothering you?
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Information about climate change has an effect on my behaviour and it is not the same effect it has on my family, which causes friction.
+I don’t want to fly short distances for a short period, for instance. This lead to quite a row between my wife and I. Similar things occur when it is about leaving the lights on, turning on the heat and opening a window, eating meat and (not) separating the trash.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2021-12-29 10:50:11 +0100 CET'>December 29, 2021</span>&nbsp;·&nbsp;<span>3 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to What&#39;s bothering you?" href="http://localhost:41571/posts/what-s-bothering-you/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Setting up a new Django project
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>I have looked into Cookiecutter, as a way to create new Django projects.
+Problem is that I still haven’t mastered working with Virtual Environments.
+I am using Pipenv instead, which works fine, but I don’t really understand how it works. Besides that, it isn’t actively maintained, which is a problem.
+So, venv.
+Questions:
+Which Python version is being used on Heroku? 3.10.1 Locally installed that version as well, Python3.10 Which Django version can be run on Heroku? Which Postgres version can be run on Heroku? How can I choose between different versions of Python locally? Well, this little exercise has gotten me in all kinds of shit. I can’t get my existing Django projects to run locally, I have really messed up.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2021-12-20 14:06:02 +0100 CET'>December 20, 2021</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Setting up a new Django project" href="http://localhost:41571/posts/setting-up-a-new-django-project/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Testing new version of Hugo
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>I have just installed a new version of Hugo, version 0.90.1.
+Struggled a bit, because I didn’t fully understand what I was doing. I downloaded the latest version from https://github.com/gohugoio/hugo/releases (taking the linux64bit.tar.gz).
+Unzipped it in the Downloads folder and then moved it to the /usr/local/ folder.
+Moving the file required sudo, because I can’t acccess /usr/local/ without sudo, so it had to be:
+$ sudo mv ~/Downloads/hugo /usr/local/ Checking if it worked by looking up the version:
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2021-12-14 10:03:52 +0100 CET'>December 14, 2021</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>Wijnand Baretta</span></footer>
+  <a class="entry-link" aria-label="post link to Testing new version of Hugo" href="http://localhost:41571/posts/testing-new-version-of-hugo/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:41571/posts/page/3/">
+      «&nbsp;Prev&nbsp;
+    </a>
+    <a class="next" href="http://localhost:41571/posts/page/5/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:41571/">Wijnand Baretta</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
