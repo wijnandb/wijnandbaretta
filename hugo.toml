@@ -49,8 +49,8 @@ tocopen = false
   url = "https://www.linkedin.com/in/wijnandbaretta/"
 
   [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/wijnandb/"
+  name = "x"
+  url = "https://x.com/wijnandb/"
 
   [params.profileMode]
   enabled = false
