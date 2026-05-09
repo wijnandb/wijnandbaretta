@@ -50,11 +50,10 @@
   },
   {
     "name": "AI Report",
-    "type": "blog",
-    "category": "ai",
+    "type": "podcast",
+    "category": "nl",
     "lang": "nl",
-    "feed_url": "",
-    "no_feed": true
+    "feed_url": "https://rss.beehiiv.com/podcasts/019d2587-e790-7b44-bb7a-6eebcaae225c.xml"
   },
   {
     "name": "The Anthropic Stack",

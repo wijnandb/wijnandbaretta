@@ -8,6 +8,7 @@ const ITEMS_PATH = join(ROOT, "data/feed/items.json");
 const TIMEOUT = 10_000;
 const MAX_RETRIES = 2;
 const MAX_ITEMS = 100;
+const MAX_PER_SOURCE = 8;
 
 interface Source {
   name: string;
@@ -154,7 +155,10 @@ async function fetchWithRetry(url: string, retries: number = MAX_RETRIES): Promi
       const timeout = setTimeout(() => controller.abort(), TIMEOUT);
       const res = await fetch(url, {
         signal: controller.signal,
-        headers: { "User-Agent": "wijnandbaretta-feed/1.0" },
+        headers: {
+          "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
+          "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8",
+        },
       });
       clearTimeout(timeout);
       if (!res.ok) {
@@ -230,6 +234,15 @@ async function main() {
 
   // Sort by published desc
   allItems.sort((a, b) => new Date(b.published).getTime() - new Date(a.published).getTime());
+
+  // Cap per-source so high-volume sources don't crowd out hand-picked ones
+  const perSourceCount = new Map<string, number>();
+  allItems = allItems.filter((item) => {
+    const n = perSourceCount.get(item.source) ?? 0;
+    if (n >= MAX_PER_SOURCE) return false;
+    perSourceCount.set(item.source, n + 1);
+    return true;
+  });
 
   // Cap at MAX_ITEMS
   allItems = allItems.slice(0, MAX_ITEMS);
