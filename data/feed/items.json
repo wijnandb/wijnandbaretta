@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Building effective agents with Claude",
+    "summary": "A deep dive into the patterns that make AI agents work well in practice, from tool use to structured output.",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/8/effective-agents/",
+    "published": "2026-05-09T10:00:00Z"
+  },
+  {
+    "id": "b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3",
+    "source": "Anthony Fu",
+    "type": "blog",
+    "category": "design",
+    "lang": "en",
+    "title": "Why I moved from VS Code to a custom editor",
+    "summary": "After years of extending VS Code, I finally built my own editor. Here's what I learned about developer tooling.",
+    "thumbnail": null,
+    "url": "https://antfu.me/posts/custom-editor",
+    "published": "2026-05-09T08:30:00Z"
+  },
+  {
+    "id": "c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "The future of code generation with LLMs",
+    "summary": "We talk to the team behind the latest breakthroughs in code generation, and what it means for developers.",
+    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
+    "url": "https://www.latent.space/p/code-generation-future",
+    "published": "2026-05-08T14:00:00Z"
+  },
+  {
+    "id": "d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add new MCP server integrations section",
+    "summary": "New section documenting MCP server integrations for Claude Code, including database and API connectors.",
+    "thumbnail": null,
+    "url": "https://github.com/anthropics/awesome-claude-code/commit/abc123",
+    "published": "2026-05-08T09:15:00Z"
+  },
+  {
+    "id": "e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6",
+    "source": "Bright NL",
+    "type": "blog",
+    "category": "nl",
+    "lang": "nl",
+    "title": "Nederlandse AI-startups halen recordbedrag op",
+    "summary": "Het eerste kwartaal van 2026 laat een verdubbeling zien van investeringen in Nederlandse AI-bedrijven.",
+    "thumbnail": null,
+    "url": "https://bright.nl/ai-startups-record",
+    "published": "2026-05-07T16:00:00Z"
+  }
+]

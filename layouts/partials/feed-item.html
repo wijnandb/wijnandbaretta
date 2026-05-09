@@ -1,0 +1,41 @@
+{{- $typeLabels := dict "video" "YT" "blog" "BL" "repo" "GH" "podcast" "POD" }}
+{{- $typeLabel := index $typeLabels .type | default (upper .type) }}
+
+{{- /* Calculate age */ -}}
+{{- $pub := time .published }}
+{{- $hours := div (sub now.Unix $pub.Unix) 3600 }}
+{{- $age := "" }}
+{{- if lt $hours 1 }}
+  {{- $age = "now" }}
+{{- else if lt $hours 24 }}
+  {{- $age = printf "%dh" $hours }}
+{{- else }}
+  {{- $days := div $hours 24 }}
+  {{- $age = printf "%dd" $days }}
+{{- end }}
+
+<article class="feed-item">
+  {{- if .thumbnail }}
+  <div class="feed-thumb">
+    <a href="{{ .url }}" target="_blank" rel="noopener">
+      <img src="{{ .thumbnail }}" alt="" loading="lazy" />
+    </a>
+  </div>
+  {{- end }}
+  <div class="feed-body">
+    <h3 class="feed-title">
+      <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
+    </h3>
+    {{- if .summary }}
+    <p class="feed-summary">{{ .summary }}</p>
+    {{- end }}
+    <div class="feed-meta">
+      <span class="feed-source">{{ .source }}</span>
+      <span class="feed-type feed-type--{{ .type }}">{{ $typeLabel }}</span>
+      {{- if eq .lang "nl" }}
+      <span class="feed-lang">NL</span>
+      {{- end }}
+      <span class="feed-age">{{ $age }}</span>
+    </div>
+  </div>
+</article>

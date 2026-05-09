@@ -1,0 +1,44 @@
+{{- define "main" }}
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">{{ .Description }}</div>
+  {{- end }}
+</header>
+
+{{- $items := hugo.Data.feed.items }}
+{{- if not $items }}
+<div class="post-content">
+  <p>No items yet. Feed updates twice daily.</p>
+</div>
+{{- else }}
+
+{{- $now := now }}
+{{- $today := $now.Format "2006-01-02" }}
+{{- $yesterday := ($now.AddDate 0 0 -1).Format "2006-01-02" }}
+
+<div class="feed-river">
+{{- $prevDate := "" }}
+{{- range $items }}
+  {{- $date := (time .published).Format "2006-01-02" }}
+  {{- if ne $date $prevDate }}
+    {{- if ne $prevDate "" }}</div>{{ end }}
+    {{- $label := "" }}
+    {{- if eq $date $today }}
+      {{- $label = "Today" }}
+    {{- else if eq $date $yesterday }}
+      {{- $label = "Yesterday" }}
+    {{- else }}
+      {{- $label = (time $date).Format "Mon 2 Jan" }}
+    {{- end }}
+  <div class="feed-day">
+    <h2 class="feed-day-header">{{ $label }}</h2>
+    {{- $prevDate = $date }}
+  {{- end }}
+    {{ partial "feed-item.html" . }}
+{{- end }}
+  </div>
+</div>
+
+{{- end }}
+{{- end }}

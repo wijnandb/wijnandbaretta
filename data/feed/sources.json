@@ -1,0 +1,187 @@
+[
+  {
+    "name": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "feed_url": "https://github.com/anthropics/awesome-claude-code/commits.atom"
+  },
+  {
+    "name": "Anthony Fu",
+    "type": "blog",
+    "category": "design",
+    "lang": "en",
+    "feed_url": "https://antfu.me/feed.xml"
+  },
+  {
+    "name": "antfu/skills",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "feed_url": "https://github.com/antfu/skills/commits.atom"
+  },
+  {
+    "name": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "feed_url": "https://simonwillison.net/atom/everything/"
+  },
+  {
+    "name": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "feed_url": "https://www.latent.space/feed"
+  },
+  {
+    "name": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "feed_url": "https://github.com/punkpeye/awesome-mcp-servers/commits.atom"
+  },
+  {
+    "name": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "feed_url": "https://newsletter.pragmaticengineer.com/feed"
+  },
+  {
+    "name": "AI Report",
+    "type": "blog",
+    "category": "ai",
+    "lang": "nl",
+    "feed_url": "",
+    "no_feed": true,
+    "_todo": "Check if aireport.email exposes RSS; if not, needs email-bridge"
+  },
+  {
+    "name": "The Anthropic Stack",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "feed_url": "",
+    "handle": "@TheAnthropicStack"
+  },
+  {
+    "name": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "feed_url": "",
+    "handle": "@RileyBrown"
+  },
+  {
+    "name": "Jonny Burger",
+    "type": "video",
+    "category": "video",
+    "lang": "en",
+    "feed_url": "",
+    "handle": "@JonnyBurger"
+  },
+  {
+    "name": "Ras Mic",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "feed_url": "",
+    "handle": "@RasMic"
+  },
+  {
+    "name": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "feed_url": "",
+    "handle": "@ElevenLabs"
+  },
+  {
+    "name": "Every",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "feed_url": "https://every.to/feed.xml"
+  },
+  {
+    "name": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "feed_url": "",
+    "handle": "@CodinginPublic"
+  },
+  {
+    "name": "AI Jason",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "feed_url": "",
+    "handle": "@AIJason"
+  },
+  {
+    "name": "Code with Andrea",
+    "type": "video",
+    "category": "systems",
+    "lang": "en",
+    "feed_url": "",
+    "handle": "@CodeWithAndrea"
+  },
+  {
+    "name": "Emil Kowalski",
+    "type": "blog",
+    "category": "design",
+    "lang": "en",
+    "feed_url": "https://emilkowal.ski/feed.xml"
+  },
+  {
+    "name": "Rauno Freiberg",
+    "type": "blog",
+    "category": "design",
+    "lang": "en",
+    "feed_url": "https://rauno.me/feed.xml"
+  },
+  {
+    "name": "Yusuke Wada",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "feed_url": "https://yusukebe.com/posts/index.xml"
+  },
+  {
+    "name": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "feed_url": "https://astro.build/rss.xml"
+  },
+  {
+    "name": "Bright NL",
+    "type": "blog",
+    "category": "nl",
+    "lang": "nl",
+    "feed_url": "https://bright.nl/rss"
+  },
+  {
+    "name": "Werner Vogels",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "feed_url": "https://www.allthingsdistributed.com/atom.xml"
+  },
+  {
+    "name": "Jhey Tompkins",
+    "type": "blog",
+    "category": "design",
+    "lang": "en",
+    "feed_url": "https://jhey.dev/feed.xml"
+  },
+  {
+    "name": "Directus",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "feed_url": "https://directus.io/blog/rss.xml"
+  }
+]
