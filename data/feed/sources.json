@@ -4,7 +4,7 @@
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "feed_url": "https://github.com/anthropics/awesome-claude-code/commits.atom"
+    "feed_url": "https://github.com/hesreallyhim/awesome-claude-code/commits/main.atom"
   },
   {
     "name": "Anthony Fu",
@@ -54,100 +54,102 @@
     "category": "ai",
     "lang": "nl",
     "feed_url": "",
-    "no_feed": true,
-    "_todo": "Check if aireport.email exposes RSS; if not, needs email-bridge"
+    "no_feed": true
   },
   {
     "name": "The Anthropic Stack",
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "feed_url": "",
-    "handle": "@TheAnthropicStack"
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrDwWp7EBBv4NwvScIpBDOA",
+    "channel_id": "UCrDwWp7EBBv4NwvScIpBDOA"
   },
   {
     "name": "Riley Brown",
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "feed_url": "",
-    "handle": "@RileyBrown"
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMcoud_ZW7cfxeIugBflSBw",
+    "channel_id": "UCMcoud_ZW7cfxeIugBflSBw"
   },
   {
     "name": "Jonny Burger",
     "type": "video",
     "category": "video",
     "lang": "en",
-    "feed_url": "",
-    "handle": "@JonnyBurger"
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBAIv086U4dViuxXJLMJpg",
+    "channel_id": "UCsBAIv086U4dViuxXJLMJpg"
   },
   {
     "name": "Ras Mic",
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "feed_url": "",
-    "handle": "@RasMic"
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIGrb_elkeSOeWinwv7_W6A",
+    "channel_id": "UCIGrb_elkeSOeWinwv7_W6A"
   },
   {
     "name": "ElevenLabs",
     "type": "video",
     "category": "voice",
     "lang": "en",
-    "feed_url": "",
-    "handle": "@ElevenLabs"
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9yH2AvG2IxvsWQkQoLqL0g",
+    "channel_id": "UC9yH2AvG2IxvsWQkQoLqL0g"
   },
   {
     "name": "Every",
     "type": "blog",
     "category": "ai",
     "lang": "en",
-    "feed_url": "https://every.to/feed.xml"
+    "feed_url": "",
+    "no_feed": true
   },
   {
     "name": "Coding in Public",
     "type": "video",
     "category": "design",
     "lang": "en",
-    "feed_url": "",
-    "handle": "@CodinginPublic"
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCW5YeuERMmlnqo4oq8vwUpg",
+    "channel_id": "UCW5YeuERMmlnqo4oq8vwUpg"
   },
   {
     "name": "AI Jason",
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "feed_url": "",
-    "handle": "@AIJason"
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrXSVX9a1mj8l0CMLwKgMVw",
+    "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw"
   },
   {
     "name": "Code with Andrea",
     "type": "video",
     "category": "systems",
     "lang": "en",
-    "feed_url": "",
-    "handle": "@CodeWithAndrea"
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrTnsT4OYZ53l0QGKqLeD5Q",
+    "channel_id": "UCrTnsT4OYZ53l0QGKqLeD5Q"
   },
   {
     "name": "Emil Kowalski",
     "type": "blog",
     "category": "design",
     "lang": "en",
-    "feed_url": "https://emilkowal.ski/feed.xml"
+    "feed_url": "",
+    "no_feed": true
   },
   {
     "name": "Rauno Freiberg",
     "type": "blog",
     "category": "design",
     "lang": "en",
-    "feed_url": "https://rauno.me/feed.xml"
+    "feed_url": "",
+    "no_feed": true
   },
   {
     "name": "Yusuke Wada",
     "type": "blog",
     "category": "systems",
     "lang": "en",
-    "feed_url": "https://yusukebe.com/posts/index.xml"
+    "feed_url": "https://yusukebe.com/index.xml"
   },
   {
     "name": "Astro",
@@ -175,13 +177,14 @@
     "type": "blog",
     "category": "design",
     "lang": "en",
-    "feed_url": "https://jhey.dev/feed.xml"
+    "feed_url": "",
+    "no_feed": true
   },
   {
     "name": "Directus",
     "type": "blog",
     "category": "systems",
     "lang": "en",
-    "feed_url": "https://directus.io/blog/rss.xml"
+    "feed_url": "https://directus.io/rss.xml"
   }
 ]
