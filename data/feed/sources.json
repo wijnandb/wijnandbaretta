@@ -158,13 +158,6 @@
     "feed_url": "https://astro.build/rss.xml"
   },
   {
-    "name": "Bright NL",
-    "type": "blog",
-    "category": "nl",
-    "lang": "nl",
-    "feed_url": "https://bright.nl/rss"
-  },
-  {
     "name": "Werner Vogels",
     "type": "blog",
     "category": "systems",

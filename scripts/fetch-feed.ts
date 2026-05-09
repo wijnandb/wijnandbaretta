@@ -37,15 +37,25 @@ function sha1(input: string): string {
   return createHash("sha1").update(input).digest("hex");
 }
 
-function stripHtml(html: string): string {
-  return html
-    .replace(/<[^>]*>/g, "")
+function decodeEntities(text: string): string {
+  return text
+    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(parseInt(n, 10)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCharCode(parseInt(n, 16)))
     .replace(/&amp;/g, "&")
     .replace(/&lt;/g, "<")
     .replace(/&gt;/g, ">")
     .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'")
     .replace(/&#39;/g, "'")
-    .replace(/&nbsp;/g, " ")
+    .replace(/&nbsp;/g, " ");
+}
+
+function stripHtml(html: string): string {
+  // Decode entities FIRST (entity-encoded feeds like Simon Willison's expose
+  // real <tags> only after decoding). Then strip tags. Decode twice for
+  // double-encoded entities. Finally collapse whitespace.
+  return decodeEntities(decodeEntities(html))
+    .replace(/<[^>]*>/g, "")
     .replace(/\s+/g, " ")
     .trim();
 }
