@@ -132,6 +132,12 @@ url = "/about/"
 weight = 40
 
 [[menu.main]]
+identifier = "feed"
+name = "Feed"
+url = "/feed/"
+weight = 45
+
+[[menu.main]]
 identifier = "search"
 name = "Search"
 url = "/search/"
