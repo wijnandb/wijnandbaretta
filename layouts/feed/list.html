@@ -6,7 +6,7 @@
   {{- end }}
 </header>
 
-{{- $items := hugo.Data.feed.items }}
+{{- $items := site.Data.feed.items }}
 {{- if not $items }}
 <div class="post-content">
   <p>No items yet. Feed updates twice daily.</p>
