@@ -1,5 +1,17 @@
 [
   {
+    "id": "fdaf19544702bb3413cfa1f891bb007d9cc8f738",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting New York Times Editors’ Note",
+    "summary": "This article was updated after The Times learned that a remark attributed to Pierre Poilievre, the Conservative leader, was in fact an A.I.-generated summary of his views about Canadian politics that...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything",
+    "published": "2026-05-10T23:58:49.000Z"
+  },
+  {
     "id": "95424f2dd12061884c3eb327161a55cca6182cd1",
     "source": "Simon Willison",
     "type": "blog",
@@ -190,18 +202,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/anthropic_de_laatste_uitvinding_komt_in_2028_microsoft_copilot_is_opeens_goed_geworden",
     "published": "2026-05-07T15:30:21.000Z"
-  },
-  {
-    "id": "8a1cb49280e464c6aaa15f9e6bef8c3121d77dc0",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "GitHub Repo Stats",
-    "summary": "Tool: GitHub Repo Stats One of the things I always look for when evaluating a new GitHub repository is the number of commits it has... but that number isn't visible on GitHub's mobile site layout. I...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything",
-    "published": "2026-05-07T07:25:14.000Z"
   },
   {
     "id": "8422ffc1b2380f9f8c754fba4067e17c7a999508",
