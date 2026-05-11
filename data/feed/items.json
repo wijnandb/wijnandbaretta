@@ -1,5 +1,17 @@
 [
   {
+    "id": "af3b18e61db2cb7d13e2382e834d20dc88e6b666",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Learning on the Shop floor",
+    "summary": "Learning on the Shop floor Tobias Lütke describes Shopify's internal coding agent tool, River, which operates entirely in public on their Slack: River does not respond to direct messages. She...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything",
+    "published": "2026-05-11T15:46:36.000Z"
+  },
+  {
     "id": "fdaf19544702bb3413cfa1f891bb007d9cc8f738",
     "source": "Simon Willison",
     "type": "blog",
@@ -29,7 +41,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "I used /goals command wrong... Here are all tips & mistakes",
+    "title": "Ralph-loop 2.0? The real autonomous coder is coming...",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/rIs802-bXDY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=rIs802-bXDY",
@@ -154,18 +166,6 @@
     "thumbnail": "https://i.ytimg.com/vi/uhIchPMqoQ8/mqdefault.jpg",
     "url": "https://www.youtube.com/shorts/uhIchPMqoQ8",
     "published": "2026-05-07T17:30:30.000Z"
-  },
-  {
-    "id": "30a6f436192f005b671206baa45cb90bb62f37c9",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Notes on the xAI/Anthropic data center deal",
-    "summary": "There weren't a lot of big new announcements from Anthropic at yesterday's Code w/ Claude event, but the biggest by far was the deal they've struck with SpaceX/xAI to use \"all of the capacity of...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything",
-    "published": "2026-05-07T17:09:28.000Z"
   },
   {
     "id": "2679786a73a762492c7d45de7be976e342be82fd",
