@@ -1,5 +1,65 @@
 [
   {
+    "id": "f053f50df88db16044f0727385179ce29aea8031",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Thinking Machines' Native Interaction Models - TML-Interaction-Small 276B-A12B - advances SOTA Realtime Voice and kills standard VAD",
+    "summary": "well done, Team Thinky.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!LR03!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02190942-3f50-4067-ae03-97c6b504b3a3_1490x1592.png",
+    "url": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
+    "published": "2026-05-12T04:33:46.000Z"
+  },
+  {
+    "id": "b08efaa00443a93f2ada17e88ff02794827495c6",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Thoughts on GitLab's workforce reduction\" and \"structural and strategic decisions\"",
+    "summary": "GitLab Act 2 There's a lot going on in this announcement from GitLab about the \"workforce reduction\" and \"structural and strategic decisions\" they are making with respect to the agentic era. They're...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything",
+    "published": "2026-05-11T23:58:55.000Z"
+  },
+  {
+    "id": "016664074c31501b2face9965e19169b654d96a8",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting James Shore",
+    "summary": "Your AI coding agent, the one you use to write code, needs to reduce your maintenance costs. Not by a little bit, either. You write code twice as quick now? Better hope you’ve halved your maintenance...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/11/james-shore/#atom-everything",
+    "published": "2026-05-11T19:48:32.000Z"
+  },
+  {
+    "id": "608d9206911fec7ca3e7a5879d02a02fb5fefa61",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Your AI Use Is Breaking My Brain",
+    "summary": "Your AI Use Is Breaking My Brain Excellent, angry piece by Jason Koebler on how AI writing online is becoming impossible to avoid, filtering it is mentally exhausting and it's even starting to...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything",
+    "published": "2026-05-11T19:21:27.000Z"
+  },
+  {
+    "id": "d1b0467c32cd4f5e190841c6cb5f3ed454a02297",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Using LLM in the shebang line of a script",
+    "summary": "TIL: Using LLM in the shebang line of a script Kim_Bruning on Hacker News: But seriously, you can put a shebang on an english text file now (if you're sufficiently brave) [...] This inspired me to...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything",
+    "published": "2026-05-11T18:48:57.000Z"
+  },
+  {
     "id": "af3b18e61db2cb7d13e2382e834d20dc88e6b666",
     "source": "Simon Willison",
     "type": "blog",
@@ -72,18 +132,6 @@
     "published": "2026-05-09T01:03:58.000Z"
   },
   {
-    "id": "4603f86027bf6141e57551615a44cae59ea77b36",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Using Claude Code: The Unreasonable Effectiveness of HTML",
-    "summary": "Using Claude Code: The Unreasonable Effectiveness of HTML Thought-provoking piece by Thariq Shihipar (on the Claude Code team at Anthropic) advocating for HTML over Markdown as an output format to...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything",
-    "published": "2026-05-08T21:00:11.000Z"
-  },
-  {
     "id": "7d7b0841e9307efe21f2684c33634982a092ff39",
     "source": "Code with Andrea",
     "type": "video",
@@ -108,52 +156,16 @@
     "published": "2026-05-08T07:11:24.000Z"
   },
   {
-    "id": "0f21b20dc0988ff5de062224004b833d7e9ec840",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm-gemini 0.31",
-    "summary": "Release: llm-gemini 0.31 gemini-3.1-flash-lite is no longer a preview. Here's my write-up of the Gemini 3.1 Flash-Lite Preview model back in March. I don't believe this new non-preview model has...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
-    "published": "2026-05-07T19:57:06.000Z"
-  },
-  {
     "id": "9645c5c4cbf3c8fccbac0a715fc50c39e5fb14de",
     "source": "Riley Brown",
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "AI Coding for Beginners (Full Course 2026)",
+    "title": "Vibe Coding for Beginners (Full Course 2026)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/BpOsHF5Oj_I/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=BpOsHF5Oj_I",
     "published": "2026-05-07T19:28:45.000Z"
-  },
-  {
-    "id": "1fa9b224d7e0fa35e6c34293ac1f661a4c2c8167",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Big Words",
-    "summary": "Tool: Big Words I'm using my vibe coded macOS presentations tool to put together a talk, and I wanted to add a slide with some text on it. The tool only accepts URLs, so I put together a quick page...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/7/big-words/#atom-everything",
-    "published": "2026-05-07T18:47:09.000Z"
-  },
-  {
-    "id": "c7baf15e1fc3f7078e93d09f2820cd1cce77bfce",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
-    "summary": "Behind the Scenes Hardening Firefox with Claude Mythos Preview Fascinating, in-depth details on how Mozilla used their access to the Claude Mythos preview to locate and then fix hundreds of...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
-    "published": "2026-05-07T17:56:25.000Z"
   },
   {
     "id": "eafd4c8a2428a0e30354d97aca47b98c67be3a12",
@@ -442,18 +454,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
     "url": "https://github.com/antfu/skills/commit/50deaeb269d80d92db7a2c5a677290309ae307fc",
     "published": "2026-05-01T16:46:24.000Z"
-  },
-  {
-    "id": "76ebe16cdea626dfaa738860c65f852cff5c1617",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Agents for Everything Else: Codex for Knowledge Work, Claude for Creative Work",
-    "summary": "a quiet day lets us reflect on coding agents \"breaking containment\"",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!iwoI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9c1a69f-4874-43c2-b553-c96e3c543100_1202x1066.png",
-    "url": "https://www.latent.space/p/ainews-agents-for-everything-else",
-    "published": "2026-05-01T04:53:41.000Z"
   },
   {
     "id": "abaede7a9029d8074e411e4c796ae2176ab755a9",
