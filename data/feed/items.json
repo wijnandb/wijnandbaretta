@@ -1,5 +1,17 @@
 [
   {
+    "id": "571b7bcf208e5b0b33f8b858db3f1b3f4eb1bfa3",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Revisiting “No Silver Bullets” in the age of AI",
+    "summary": "Does the noted “No Silver Bullets” paper by the author of a classic engineering book still hold up, 40 years later? Is AI the long-sought single silver bullet – or has one been around for years?",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!fo1L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11e17bb3-f81c-4b30-930b-202e336226a6_800x510.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the",
+    "published": "2026-05-12T17:10:28.000Z"
+  },
+  {
     "id": "f053f50df88db16044f0727385179ce29aea8031",
     "source": "Latent Space",
     "type": "podcast",
@@ -814,18 +826,6 @@
     "thumbnail": "https://i.ytimg.com/vi/PMJ26x2bf2I/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=PMJ26x2bf2I",
     "published": "2026-04-21T14:32:09.000Z"
-  },
-  {
-    "id": "a6eba194e6e7bdf67459d384100e782bbfcd5108",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Learnings from conducting ~1,000 interviews at Amazon",
-    "summary": "Steve Huynh, formerly Principal Engineer at Amazon, shares observations from 10+ years of interviewing software engineers, and an excerpt from his new book, Technical Behavioral Interview",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!_3W5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc215ccd0-2cd3-4ab3-93a5-9ba11a7ba196_2048x1536.jpeg",
-    "url": "https://newsletter.pragmaticengineer.com/p/learnings-from-conducting-1000-interviews",
-    "published": "2026-04-21T12:49:16.000Z"
   },
   {
     "id": "67ed3c7de58489501227976ed49d761f98f03311",
