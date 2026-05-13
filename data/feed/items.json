@@ -1,5 +1,29 @@
 [
   {
+    "id": "8f8db2ee4ba3e6c920d7868d6f0bc30a6ef31d9e",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "TypeScript, C# and Turbo Pascal with Anders Hejlsberg",
+    "summary": "Anders Hejlsberg reflects on building Turbo Pascal, C#, and TypeScript, and shares what AI may change about the future of software engineering.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!YCsL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39bdfbb4-fb73-41d8-83cb-0ca4832aed49_1280x80.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/typescript-c-and-turbo-pascal-with",
+    "published": "2026-05-13T17:06:59.000Z"
+  },
+  {
+    "id": "b549a5489129d6d4d6b9d105a0f9a9ae0f51fa75",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Boris Mann",
+    "summary": "“11 AI agents” is meaningless as a phrase. If I said “I have 11 spreadsheets” or “I have 11 browser tabs” to do my work, it means about the same thing. &mdash; Boris Mann Tags: ai-agents, ai,...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/13/boris-mann/#atom-everything",
+    "published": "2026-05-13T16:15:50.000Z"
+  },
+  {
     "id": "bad92684dadf13c8769ac535c29783864e393ddb",
     "source": "Simon Willison",
     "type": "blog",
@@ -130,18 +154,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/May/11/james-shore/#atom-everything",
     "published": "2026-05-11T19:48:32.000Z"
-  },
-  {
-    "id": "608d9206911fec7ca3e7a5879d02a02fb5fefa61",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Your AI Use Is Breaking My Brain",
-    "summary": "Your AI Use Is Breaking My Brain Excellent, angry piece by Jason Koebler on how AI writing online is becoming impossible to avoid, filtering it is mentally exhausting and it's even starting to...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything",
-    "published": "2026-05-11T19:21:27.000Z"
   },
   {
     "id": "360b19e9d5e43847d8b589083c6797319754481b",
@@ -778,18 +790,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/reson8_bouwt_aan_de_beste_europese_spraakherkenning_ft_thomas_kluiters",
     "published": "2026-04-23T16:46:26.000Z"
-  },
-  {
-    "id": "c7bb9e289488dced23c2fb830f6305dd628daecc",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Designing Data-intensive Applications with Martin Kleppmann",
-    "summary": "Martin Kleppmann on scaling, his updated Designing Data-Intensive Applications, and what’s next for AI-era systems.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Gh57!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9835d46-a4d0-40e1-a16b-dba8068fd6ad_800x70.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/designing-data-intensive-applications",
-    "published": "2026-04-22T16:19:26.000Z"
   },
   {
     "id": "8415a521655539a1530b23dfca098d8419080977",
