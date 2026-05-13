@@ -1,5 +1,89 @@
 [
   {
+    "id": "bad92684dadf13c8769ac535c29783864e393ddb",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "CSP Allow-list Experiment",
+    "summary": "Tool: CSP Allow-list Experiment An experiment that shows that you can load an app in a CSP-protected sandboxed iframe (see previous note) and have a custom fetch() that intercepts CSP errors and...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything",
+    "published": "2026-05-13T04:50:45.000Z"
+  },
+  {
+    "id": "b99040181a658fce7ecde95582dc0777393793c7",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] The End of Finetuning",
+    "summary": "a quiet day lets us reflect on whither finetuning",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!ioj8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6915f95-7d03-4a7d-81b1-df255b9debcb_1192x1422.png",
+    "url": "https://www.latent.space/p/ainews-the-end-of-finetuning",
+    "published": "2026-05-13T02:47:22.000Z"
+  },
+  {
+    "id": "4f7fd3e5d410297e68c4e95e12d459ad84b7a329",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette 1.0a29",
+    "summary": "Release: datasette 1.0a29 New TokenRestrictions.abbreviated(datasette) utility method for creating \"_r\" dictionaries. #2695 Table headers and column options are now visible even if a table contains...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/12/datasette/#atom-everything",
+    "published": "2026-05-12T23:41:06.000Z"
+  },
+  {
+    "id": "dbc4f908477160ee7932a10ac209faaaaacd3434",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Mo Bitar",
+    "summary": "Now, if your CEO has never heard the phrase Ralph Loop, oh man, you are less than 30 days away from your next promotion. I'm not even exaggerating. Walk into his office, close the door, and say, hey...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything",
+    "published": "2026-05-12T22:59:58.000Z"
+  },
+  {
+    "id": "8f1404f549b0547dac4606430f9966b2b4d3e031",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Mitchell Hashimoto",
+    "summary": "The thing about 90% of TDMs [Technical Decision Makers] is that they're motivated primarily by NOT GETTING FIRED. These aren't people who browser Lobsters or push to GH on the weekend. These are...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything",
+    "published": "2026-05-12T22:21:51.000Z"
+  },
+  {
+    "id": "f5b86b7a579f8cc940fa164efefabcdf72b13bd9",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Get started with ElevenLabs Text to Speech",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/W-XF7uo0bpk/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=W-XF7uo0bpk",
+    "published": "2026-05-12T19:15:09.000Z"
+  },
+  {
+    "id": "f6cdc92adccd9f17467e36e054bcff7523c7cd61",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "llm 0.32a2",
+    "summary": "Release: llm 0.32a2 A bunch of useful stuff in this LLM alpha, but the most important detail is this one: Most reasoning-capable OpenAI models now use the /v1/responses endpoint instead of...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/12/llm/#atom-everything",
+    "published": "2026-05-12T17:45:07.000Z"
+  },
+  {
     "id": "571b7bcf208e5b0b33f8b858db3f1b3f4eb1bfa3",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -60,54 +144,6 @@
     "published": "2026-05-11T19:21:27.000Z"
   },
   {
-    "id": "d1b0467c32cd4f5e190841c6cb5f3ed454a02297",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Using LLM in the shebang line of a script",
-    "summary": "TIL: Using LLM in the shebang line of a script Kim_Bruning on Hacker News: But seriously, you can put a shebang on an english text file now (if you're sufficiently brave) [...] This inspired me to...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything",
-    "published": "2026-05-11T18:48:57.000Z"
-  },
-  {
-    "id": "af3b18e61db2cb7d13e2382e834d20dc88e6b666",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Learning on the Shop floor",
-    "summary": "Learning on the Shop floor Tobias Lütke describes Shopify's internal coding agent tool, River, which operates entirely in public on their Slack: River does not respond to direct messages. She...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything",
-    "published": "2026-05-11T15:46:36.000Z"
-  },
-  {
-    "id": "fdaf19544702bb3413cfa1f891bb007d9cc8f738",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting New York Times Editors’ Note",
-    "summary": "This article was updated after The Times learned that a remark attributed to Pierre Poilievre, the Conservative leader, was in fact an A.I.-generated summary of his views about Canadian politics that...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything",
-    "published": "2026-05-10T23:58:49.000Z"
-  },
-  {
-    "id": "95424f2dd12061884c3eb327161a55cca6182cd1",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Andrew Quinn",
-    "summary": "One could say in the first quarter-century of my life, that while I was always fascinated by programming, I could never overcome the guilt of not really knowing whether the tool I am building right...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything",
-    "published": "2026-05-10T14:59:17.000Z"
-  },
-  {
     "id": "360b19e9d5e43847d8b589083c6797319754481b",
     "source": "AI Jason",
     "type": "video",
@@ -130,18 +166,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!tOlW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F021c44bf-dba1-44ad-b3a5-d4de3e6a7644_1728x954.jpeg",
     "url": "https://www.latent.space/p/ainews-anthropic-growing-10xyear",
     "published": "2026-05-09T01:08:28.000Z"
-  },
-  {
-    "id": "3eb04cdf5dff781878dc5d5c228ad725f8822776",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Luke Curley",
-    "summary": "WebRTC is designed to degrade and drop my prompt during poor network conditions. wtf my dude WebRTC aggressively drops audio packets to keep latency low. If you’ve ever heard distorted audio on a...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/9/luke-curley/#atom-everything",
-    "published": "2026-05-09T01:03:58.000Z"
   },
   {
     "id": "7d7b0841e9307efe21f2684c33634982a092ff39",
@@ -442,18 +466,6 @@
     "thumbnail": "https://i.ytimg.com/vi/M_AmPWmkpwA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=M_AmPWmkpwA",
     "published": "2026-05-02T11:45:03.000Z"
-  },
-  {
-    "id": "455953fead03c30d2b1bb6190ab6a2e66f1a7d80",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers",
-    "summary": "a quiet day lets us make a call for speakers!",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!admO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6045585a-7095-4a04-bbef-7f29cbc35fe5_1938x1276.png",
-    "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
-    "published": "2026-05-02T07:21:55.000Z"
   },
   {
     "id": "bddc5fc6781f8eeebd2ec9f8c7ec03b1911e4cd4",
@@ -850,18 +862,6 @@
     "thumbnail": "https://i.ytimg.com/vi/1akdIvoZKvk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=1akdIvoZKvk",
     "published": "2026-04-18T08:32:00.000Z"
-  },
-  {
-    "id": "ce4890c46698d4b52d1d4be0de5ffb9149a7ecc1",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "We built a AI Fact Checker Agent",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/SMp1M1LmYwE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=SMp1M1LmYwE",
-    "published": "2026-04-17T19:04:21.000Z"
   },
   {
     "id": "8c343efbebce3e6a6011ebace2dd64bfab38b27e",
