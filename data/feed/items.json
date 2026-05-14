@@ -1,5 +1,41 @@
 [
   {
+    "id": "c1ec95ebdd86f685ce39389faa8377fc6bbc2afa",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The Pulse: Forward deployed engineering heats up again",
+    "summary": "Also: a look into rising tech job losses, self-reporting 100% AI usage at big companies, vibe coding & agentic engineering merging, and more",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!RbLf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e0e23f7-eda1-4ceb-9cd0-37106afa3828_1202x684.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-forward-deployed-engineering",
+    "published": "2026-05-14T16:09:57.000Z"
+  },
+  {
+    "id": "dc763386775b1b4a41822866a6c94bb56563ddc2",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "What AI Agent Should YOU be Using?",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/CF8sq1kYIOo/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=CF8sq1kYIOo",
+    "published": "2026-05-14T15:39:25.000Z"
+  },
+  {
+    "id": "52ed20ae303a16018048075627687f1056ee33a2",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette-ip-rate-limit 0.1a0",
+    "summary": "Release: datasette-ip-rate-limit 0.1a0 The datasette.io site was being hammered by poorly-behaved crawlers, so I had Codex (GPT-5.5 xhigh) build a configurable rate limiting plugin to block IPs that...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything",
+    "published": "2026-05-14T04:10:23.000Z"
+  },
+  {
     "id": "7bae59d035f334863c5e03930148aa1a6eb4c5db",
     "source": "Latent Space",
     "type": "podcast",
@@ -154,18 +190,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!LR03!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02190942-3f50-4067-ae03-97c6b504b3a3_1490x1592.png",
     "url": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
     "published": "2026-05-12T04:33:46.000Z"
-  },
-  {
-    "id": "b08efaa00443a93f2ada17e88ff02794827495c6",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Thoughts on GitLab's workforce reduction\" and \"structural and strategic decisions\"",
-    "summary": "GitLab Act 2 There's a lot going on in this announcement from GitLab about the \"workforce reduction\" and \"structural and strategic decisions\" they are making with respect to the agentic era. They're...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything",
-    "published": "2026-05-11T23:58:55.000Z"
   },
   {
     "id": "360b19e9d5e43847d8b589083c6797319754481b",
@@ -768,18 +792,6 @@
     "published": "2026-04-24T04:00:59.000Z"
   },
   {
-    "id": "b028293603b97b27c4ec35ab5b97fb5d9bc3e84d",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The Pulse: AI token spending out of control – what’s next?",
-    "summary": "Details from 15 tech companies on the rapid growth of token spend, and their responses to it. Also: AI vendors can’t keep up with demand, plummeting morale at Meta, and more.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!RLFW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66a69a14-0903-4f04-a1d4-13222f40c4ee_1834x1074.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-ai-token-spending-out-of",
-    "published": "2026-04-23T16:51:01.000Z"
-  },
-  {
     "id": "44c4289d7469e6a94e4ee1ff870eb04241aac1a3",
     "source": "AI Report",
     "type": "podcast",
@@ -814,18 +826,6 @@
     "thumbnail": null,
     "url": "https://directus.io/blog/directus-v12-license-change",
     "published": "2026-04-22T09:00:00.000Z"
-  },
-  {
-    "id": "6421d625ec0b1ad9baff2906ea6c4bd7f01e4347",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "ChatGPT Just Became the Best AI Image Model in the World",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/NrKABtmG4zs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=NrKABtmG4zs",
-    "published": "2026-04-22T02:15:03.000Z"
   },
   {
     "id": "ea609977813bb38a8a6ab3837b356e109dea728a",
