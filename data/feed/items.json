@@ -1,5 +1,29 @@
 [
   {
+    "id": "7bae59d035f334863c5e03930148aa1a6eb4c5db",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Codex Rises, Claude Meters Programmatic Usage",
+    "summary": "a quiet day lets us report on a long trend of the major coding agents",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!uqHa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f3bb92f-f1bd-4329-9b9c-64c681eec378_1290x874.png",
+    "url": "https://www.latent.space/p/ainews-codex-rises-claude-meters",
+    "published": "2026-05-14T03:53:26.000Z"
+  },
+  {
+    "id": "f97f65b9b60fb5c6fd63831ec2ab9592df3f5989",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Welcome to the Datasette blog",
+    "summary": "Welcome to the Datasette blog We have a bunch of neat Datasette announcements in the pipeline so we decided it was time the project grew an official blog. I built this using OpenAI Codex desktop,...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything",
+    "published": "2026-05-13T23:59:39.000Z"
+  },
+  {
     "id": "8f8db2ee4ba3e6c920d7868d6f0bc30a6ef31d9e",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -142,18 +166,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything",
     "published": "2026-05-11T23:58:55.000Z"
-  },
-  {
-    "id": "016664074c31501b2face9965e19169b654d96a8",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting James Shore",
-    "summary": "Your AI coding agent, the one you use to write code, needs to reduce your maintenance costs. Not by a little bit, either. You write code twice as quick now? Better hope you’ve halved your maintenance...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/11/james-shore/#atom-everything",
-    "published": "2026-05-11T19:48:32.000Z"
   },
   {
     "id": "360b19e9d5e43847d8b589083c6797319754481b",
@@ -346,18 +358,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!C6W6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09e245ca-cbda-4c91-b38d-36c8074a7800_1310x940.png",
     "url": "https://newsletter.pragmaticengineer.com/p/designing-data-intensive-applications-book-excerpt",
     "published": "2026-05-05T16:46:00.000Z"
-  },
-  {
-    "id": "f7a97962d5c59e72e47420b20cd6e3cdae50549c",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] The Other vs The Utility",
-    "summary": "a quiet day lets us reflect on the nature of AI \"character\" in the Clippy vs Anton debate",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!SLGB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcae188ad-3ef3-4d8c-be2e-3d70cb4bb429_1098x800.png",
-    "url": "https://www.latent.space/p/ainews-the-other-vs-the-utility",
-    "published": "2026-05-04T23:29:05.000Z"
   },
   {
     "id": "abec20eb78829486d842e18ebf5ef889f8ba7970",
