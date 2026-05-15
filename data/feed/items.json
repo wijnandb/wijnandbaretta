@@ -1,11 +1,23 @@
 [
   {
+    "id": "cacc9730059c1be69c6c6b0b085dec679bf0c464",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "QR code generator",
+    "summary": "Tool: QR code generator Claude helped me build this tool for creating QR codes, for both text/URLs and for connecting to WiFi networks. Tags: vibe-coding, tools, generative-ai, ai, llms",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/15/qr-code-generator/#atom-everything",
+    "published": "2026-05-15T04:00:49.000Z"
+  },
+  {
     "id": "2377130530eec7db32c7ec4e1d6ab9d4bb87c70d",
     "source": "Riley Brown",
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Codex Mobile Released and It's Insane",
+    "title": "Codex Mobile Released and It's INSANE",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/4OiLljSo-hw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4OiLljSo-hw",
@@ -166,18 +178,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/May/12/datasette/#atom-everything",
     "published": "2026-05-12T23:41:06.000Z"
-  },
-  {
-    "id": "dbc4f908477160ee7932a10ac209faaaaacd3434",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Mo Bitar",
-    "summary": "Now, if your CEO has never heard the phrase Ralph Loop, oh man, you are less than 30 days away from your next promotion. I'm not even exaggerating. Walk into his office, close the door, and say, hey...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything",
-    "published": "2026-05-12T22:59:58.000Z"
   },
   {
     "id": "f5b86b7a579f8cc940fa164efefabcdf72b13bd9",
