@@ -1,5 +1,65 @@
 [
   {
+    "id": "2377130530eec7db32c7ec4e1d6ab9d4bb87c70d",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Codex Mobile Released and It's Insane",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/4OiLljSo-hw/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=4OiLljSo-hw",
+    "published": "2026-05-15T01:35:52.000Z"
+  },
+  {
+    "id": "a4e4814a5ae77e0ffb4492f604e178468ce5318d",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Everything is Conductor",
+    "summary": "an ultra quiet day lets us highlight a smaller trend.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!-UVS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc44b00aa-b057-4698-a9c6-f8e73c7aaaf7_2289x1342.jpeg",
+    "url": "https://www.latent.space/p/ainews-everything-is-conductor",
+    "published": "2026-05-15T00:30:21.000Z"
+  },
+  {
+    "id": "fe2e6bebeddcebccd58fb8219f9e46ab2cede2bd",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Not so locked in any more",
+    "summary": "This Mitchell Hashimoto quote about Bun migrating from Zig to Rust reminded me of a similar conversation I had at a conference last week. I was talking to someone who worked for a medium sized...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything",
+    "published": "2026-05-14T22:53:49.000Z"
+  },
+  {
+    "id": "0b7bb97ffb071f3ec8eff8aa31c05e285268dd22",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Mitchell Hashimoto",
+    "summary": "[...] On the interesting side is how fungible programming languages are nowadays. Programming languages used to be LOCK IN, and they're increasingly not so. You think the Bun rewrite in Rust is good...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything",
+    "published": "2026-05-14T22:31:20.000Z"
+  },
+  {
+    "id": "4748087d922dda4e19df25f51369205266c05509",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "AI-Native Healthcare: 100M Doctor Visits, 10–20 Hours Saved, Prior Auth in Minutes — Janie Lee & Chai Asawa, Abridge",
+    "summary": "How Abridge is quietly turning the patient and clinician conversation into the operating system of healthcare",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!MX36!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F967bcd77-27ed-4487-bcc1-28c3d66d057c_2018x1576.png",
+    "url": "https://www.latent.space/p/abridge",
+    "published": "2026-05-14T22:05:31.000Z"
+  },
+  {
     "id": "c1ec95ebdd86f685ce39389faa8377fc6bbc2afa",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -10,18 +70,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!RbLf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e0e23f7-eda1-4ceb-9cd0-37106afa3828_1202x684.png",
     "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-forward-deployed-engineering",
     "published": "2026-05-14T16:09:57.000Z"
-  },
-  {
-    "id": "dc763386775b1b4a41822866a6c94bb56563ddc2",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "What AI Agent Should YOU be Using?",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/CF8sq1kYIOo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=CF8sq1kYIOo",
-    "published": "2026-05-14T15:39:25.000Z"
   },
   {
     "id": "52ed20ae303a16018048075627687f1056ee33a2",
@@ -132,18 +180,6 @@
     "published": "2026-05-12T22:59:58.000Z"
   },
   {
-    "id": "8f1404f549b0547dac4606430f9966b2b4d3e031",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Mitchell Hashimoto",
-    "summary": "The thing about 90% of TDMs [Technical Decision Makers] is that they're motivated primarily by NOT GETTING FIRED. These aren't people who browser Lobsters or push to GH on the weekend. These are...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything",
-    "published": "2026-05-12T22:21:51.000Z"
-  },
-  {
     "id": "f5b86b7a579f8cc940fa164efefabcdf72b13bd9",
     "source": "ElevenLabs",
     "type": "video",
@@ -154,18 +190,6 @@
     "thumbnail": "https://i.ytimg.com/vi/W-XF7uo0bpk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=W-XF7uo0bpk",
     "published": "2026-05-12T19:15:09.000Z"
-  },
-  {
-    "id": "f6cdc92adccd9f17467e36e054bcff7523c7cd61",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm 0.32a2",
-    "summary": "Release: llm 0.32a2 A bunch of useful stuff in this LLM alpha, but the most important detail is this one: Most reasoning-capable OpenAI models now use the /v1/responses endpoint instead of...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/12/llm/#atom-everything",
-    "published": "2026-05-12T17:45:07.000Z"
   },
   {
     "id": "571b7bcf208e5b0b33f8b858db3f1b3f4eb1bfa3",
@@ -334,30 +358,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/starlight-039/",
     "published": "2026-05-07T00:00:00.000Z"
-  },
-  {
-    "id": "f86fb84e95f3aa0d61c51564ef38019d469be8b7",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Silicon Valley gets Serious about Services",
-    "summary": "A series of announcements line up to a big theme: Services are the next big opportunity.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!MR33!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0374389-0ce7-4d8c-828c-335d3846130a_889x500.jpeg",
-    "url": "https://www.latent.space/p/ainews-silicon-valley-gets-serious",
-    "published": "2026-05-06T05:40:41.000Z"
-  },
-  {
-    "id": "f738ab468359a7aefe2e17eeef4da034cb3eae81",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "🔬Doing Vibe Physics — Alex Lupsasca, OpenAI",
-    "summary": "The full story of how GPT‑5.x derived new results in theoretical physics and quantum gravity.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!xPdC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e4bb428-23e6-47d2-b229-007983cd5d80_1070x1528.png",
-    "url": "https://www.latent.space/p/lupsasca",
-    "published": "2026-05-05T20:34:11.000Z"
   },
   {
     "id": "a120e1ea56b3d1c4368d993314ad9545e6839c0b",
