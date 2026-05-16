@@ -1,5 +1,53 @@
 [
   {
+    "id": "53a62602c298d9f6d8c065b881d7d0f1d8f3108f",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Cerebras' $60B IPO: Slowly, then All at Once",
+    "summary": "Congrats Big Chip!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!vBnf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5fea6bb8-3298-434e-afef-3eea148ba10c_2048x1263.png",
+    "url": "https://www.latent.space/p/ainews-cerebras-60b-ipo-slowly-then",
+    "published": "2026-05-16T04:36:50.000Z"
+  },
+  {
+    "id": "1d64c0e14e05ec37d0aee808809dd8211c8297ea",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "inaturalist-clumper 0.1",
+    "summary": "Release: inaturalist-clumper 0.1 Part of the infrastructure I use for publishing my iNaturalist sightings on my blog. I've been running this in production for a few weeks now, inspiring some...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything",
+    "published": "2026-05-15T23:53:11.000Z"
+  },
+  {
+    "id": "fb3b20ade03e715d0184e38d70a438f0366475b0",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "OpenAI just released Codex Mobile",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/3mm-hxVtjkM/mqdefault.jpg",
+    "url": "https://www.youtube.com/shorts/3mm-hxVtjkM",
+    "published": "2026-05-15T18:58:56.000Z"
+  },
+  {
+    "id": "fd6f1383b71dfe1f6ed49b74d20ca3652d0f5d72",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Western Gull, Rock Pigeon",
+    "summary": "Western Gull, Rock Pigeon, in Los Angeles Area (custom), CA, USI went for a bird walk in the morning before PyCon, and we spotted a local seagull enjoying a Starbucks.",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything",
+    "published": "2026-05-15T14:42:00.000Z"
+  },
+  {
     "id": "cacc9730059c1be69c6c6b0b085dec679bf0c464",
     "source": "Simon Willison",
     "type": "blog",
@@ -22,6 +70,18 @@
     "thumbnail": "https://i.ytimg.com/vi/4OiLljSo-hw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4OiLljSo-hw",
     "published": "2026-05-15T01:35:52.000Z"
+  },
+  {
+    "id": "c78ac9bb3d1101a9938c47e626787b28efe77ee4",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette-llm-limits 0.1a0",
+    "summary": "Release: datasette-llm-limits 0.1a0 This plugin works in conjunction with datasette-llm and datasette-llm-accountant to let you configure a per-user (or global) spending limit for LLM usage inside of...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything",
+    "published": "2026-05-15T00:42:09.000Z"
   },
   {
     "id": "a4e4814a5ae77e0ffb4492f604e178468ce5318d",
@@ -132,30 +192,6 @@
     "published": "2026-05-13T17:06:59.000Z"
   },
   {
-    "id": "b549a5489129d6d4d6b9d105a0f9a9ae0f51fa75",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Boris Mann",
-    "summary": "“11 AI agents” is meaningless as a phrase. If I said “I have 11 spreadsheets” or “I have 11 browser tabs” to do my work, it means about the same thing. &mdash; Boris Mann Tags: ai-agents, ai,...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/13/boris-mann/#atom-everything",
-    "published": "2026-05-13T16:15:50.000Z"
-  },
-  {
-    "id": "bad92684dadf13c8769ac535c29783864e393ddb",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "CSP Allow-list Experiment",
-    "summary": "Tool: CSP Allow-list Experiment An experiment that shows that you can load an app in a CSP-protected sandboxed iframe (see previous note) and have a custom fetch() that intercepts CSP errors and...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything",
-    "published": "2026-05-13T04:50:45.000Z"
-  },
-  {
     "id": "b99040181a658fce7ecde95582dc0777393793c7",
     "source": "Latent Space",
     "type": "podcast",
@@ -166,18 +202,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!ioj8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6915f95-7d03-4a7d-81b1-df255b9debcb_1192x1422.png",
     "url": "https://www.latent.space/p/ainews-the-end-of-finetuning",
     "published": "2026-05-13T02:47:22.000Z"
-  },
-  {
-    "id": "4f7fd3e5d410297e68c4e95e12d459ad84b7a329",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette 1.0a29",
-    "summary": "Release: datasette 1.0a29 New TokenRestrictions.abbreviated(datasette) utility method for creating \"_r\" dictionaries. #2695 Table headers and column options are now visible even if a table contains...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/12/datasette/#atom-everything",
-    "published": "2026-05-12T23:41:06.000Z"
   },
   {
     "id": "f5b86b7a579f8cc940fa164efefabcdf72b13bd9",
@@ -322,18 +346,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/anthropic_de_laatste_uitvinding_komt_in_2028_microsoft_copilot_is_opeens_goed_geworden",
     "published": "2026-05-07T15:30:21.000Z"
-  },
-  {
-    "id": "8422ffc1b2380f9f8c754fba4067e17c7a999508",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Anthropic-SpaceXai's 300MW/$5B/yr deal for Colossus I, ARR growth is 8000% annualized",
-    "summary": "And the kingmaker picks a side.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Kb-H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1acd7ed-b0f8-4448-ac16-0dc71920093e_1354x872.png",
-    "url": "https://www.latent.space/p/ainews-anthropic-spacexais-300mw5byr",
-    "published": "2026-05-07T05:57:14.000Z"
   },
   {
     "id": "49f7e3b52683f986388027dfc63a691fb2aa9533",
@@ -778,18 +790,6 @@
     "thumbnail": "https://i.ytimg.com/vi/Xdy1vkhSz-M/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Xdy1vkhSz-M",
     "published": "2026-04-24T22:57:23.000Z"
-  },
-  {
-    "id": "9cb6a873df6edf1ba5826b4c450c3d896b59f9ee",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "GPT 5.5 + Codex Just Became the Best Model Ever",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/5XZxmkjsNos/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=5XZxmkjsNos",
-    "published": "2026-04-24T04:00:59.000Z"
   },
   {
     "id": "44c4289d7469e6a94e4ee1ff870eb04241aac1a3",
