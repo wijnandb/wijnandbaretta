@@ -1,5 +1,17 @@
 [
   {
+    "id": "6ce3e6ac5419dfb0e6a159fd999cd957c8fd8cc9",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Julia Evans",
+    "summary": "[...] in the last 10 years I’ve learned to really love and respect CSS as a technology. So I decided years ago that I wanted to react to “CSS is hard” by getting better at CSS and taking it seriously...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything",
+    "published": "2026-05-16T16:45:37.000Z"
+  },
+  {
     "id": "53a62602c298d9f6d8c065b881d7d0f1d8f3108f",
     "source": "Latent Space",
     "type": "podcast",
@@ -166,18 +178,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!uqHa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f3bb92f-f1bd-4329-9b9c-64c681eec378_1290x874.png",
     "url": "https://www.latent.space/p/ainews-codex-rises-claude-meters",
     "published": "2026-05-14T03:53:26.000Z"
-  },
-  {
-    "id": "f97f65b9b60fb5c6fd63831ec2ab9592df3f5989",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Welcome to the Datasette blog",
-    "summary": "Welcome to the Datasette blog We have a bunch of neat Datasette announcements in the pipeline so we decided it was time the project grew an official blog. I built this using OpenAI Codex desktop,...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything",
-    "published": "2026-05-13T23:59:39.000Z"
   },
   {
     "id": "8f8db2ee4ba3e6c920d7868d6f0bc30a6ef31d9e",
