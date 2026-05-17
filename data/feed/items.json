@@ -1,5 +1,17 @@
 [
   {
+    "id": "d8cb63d017bb6c9561772061de792c0be48aab5b",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Warelay -> OpenClaw",
+    "summary": "In preparation for a lightning talk I'm giving at PyCon US this afternoon I decided to figure out how many names OpenClaw has actually had since that first commit back in November. Thanks to this...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
+    "published": "2026-05-16T20:23:30.000Z"
+  },
+  {
     "id": "6ce3e6ac5419dfb0e6a159fd999cd957c8fd8cc9",
     "source": "Simon Willison",
     "type": "blog",
@@ -154,18 +166,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!RbLf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e0e23f7-eda1-4ceb-9cd0-37106afa3828_1202x684.png",
     "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-forward-deployed-engineering",
     "published": "2026-05-14T16:09:57.000Z"
-  },
-  {
-    "id": "52ed20ae303a16018048075627687f1056ee33a2",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette-ip-rate-limit 0.1a0",
-    "summary": "Release: datasette-ip-rate-limit 0.1a0 The datasette.io site was being hammered by poorly-behaved crawlers, so I had Codex (GPT-5.5 xhigh) build a configurable rate limiting plugin to block IPs that...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything",
-    "published": "2026-05-14T04:10:23.000Z"
   },
   {
     "id": "7bae59d035f334863c5e03930148aa1a6eb4c5db",
