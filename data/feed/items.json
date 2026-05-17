@@ -1,5 +1,17 @@
 [
   {
+    "id": "cd10f9ca291ae3477fb3a27b4612e7ddb1ab00ac",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
+    "summary": "GDS weighs in on the NHS's decision to retreat from Open Source Terence Eden continues his coverage of the NHS' poorly considered decision to close down access to their open source repositories in...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
+    "published": "2026-05-17T15:59:41.000Z"
+  },
+  {
     "id": "d8cb63d017bb6c9561772061de792c0be48aab5b",
     "source": "Simon Willison",
     "type": "blog",
@@ -130,18 +142,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything",
     "published": "2026-05-14T22:53:49.000Z"
-  },
-  {
-    "id": "0b7bb97ffb071f3ec8eff8aa31c05e285268dd22",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Mitchell Hashimoto",
-    "summary": "[...] On the interesting side is how fungible programming languages are nowadays. Programming languages used to be LOCK IN, and they're increasingly not so. You think the Bun rewrite in Rust is good...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything",
-    "published": "2026-05-14T22:31:20.000Z"
   },
   {
     "id": "4748087d922dda4e19df25f51369205266c05509",
