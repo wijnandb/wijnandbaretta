@@ -1,5 +1,77 @@
 [
   {
+    "id": "c14228fa7fdf95f27c8a4fe8c15dcfbf05a39517",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Codex: Build Your Full AI Marketing Team (Agents + Skills)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/sL_KBnYB17I/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=sL_KBnYB17I",
+    "published": "2026-05-18T15:31:53.000Z"
+  },
+  {
+    "id": "41b2a2f6dff1ea5743f48330494aff8a8dd5ea76",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose",
+    "summary": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose, in Los Angeles River, CA, USI'm heading home from PyCon US today so I went on a last morning walk to try and spot a pelican. I saw one!...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything",
+    "published": "2026-05-18T14:51:00.000Z"
+  },
+  {
+    "id": "964f9151fcaf3b6aa7d2851d28f4053dff067dfc",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
+    "summary": "Ukrainian drone founder Yaroslav Azhnyuk went from pet cameras to AI-guided weapons. He and guest host Noah Smith make the case that the West is asleep at the wheel.",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/the-fourth-law",
+    "published": "2026-05-18T13:45:32.000Z"
+  },
+  {
+    "id": "423f3ce3e50bcaa1873cc9790a67f1369d749829",
+    "source": "Code with Andrea",
+    "type": "video",
+    "category": "systems",
+    "lang": "en",
+    "title": "Should you use /init to generate CLAUDE.md or AGENTS.md?",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/AzbJUZH9bno/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=AzbJUZH9bno",
+    "published": "2026-05-18T11:42:00.000Z"
+  },
+  {
+    "id": "63c548da6eb55e4e8233b4405923ac97557a6882",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Copilot CLI Tutorial #2 - Commands",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/zm0y09SS6l4/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=zm0y09SS6l4",
+    "published": "2026-05-18T08:35:13.000Z"
+  },
+  {
+    "id": "20537e1a2ef1af1810e590a6047ecbf8731b6bd5",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Copilot CLI Tutorial #1 - Intro & Setup",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/720a-3LXkdo/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=720a-3LXkdo",
+    "published": "2026-05-18T08:35:08.000Z"
+  },
+  {
     "id": "cd10f9ca291ae3477fb3a27b4612e7ddb1ab00ac",
     "source": "Simon Willison",
     "type": "blog",
@@ -101,7 +173,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Codex Mobile Released and It's INSANE",
+    "title": "Codex Mobile App Released (Complete Setup Guide)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/4OiLljSo-hw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4OiLljSo-hw",
@@ -130,18 +202,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!-UVS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc44b00aa-b057-4698-a9c6-f8e73c7aaaf7_2289x1342.jpeg",
     "url": "https://www.latent.space/p/ainews-everything-is-conductor",
     "published": "2026-05-15T00:30:21.000Z"
-  },
-  {
-    "id": "fe2e6bebeddcebccd58fb8219f9e46ab2cede2bd",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Not so locked in any more",
-    "summary": "This Mitchell Hashimoto quote about Bun migrating from Zig to Rust reminded me of a similar conversation I had at a conference last week. I was talking to someone who worked for a medium sized...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything",
-    "published": "2026-05-14T22:53:49.000Z"
   },
   {
     "id": "4748087d922dda4e19df25f51369205266c05509",
@@ -274,18 +334,6 @@
     "thumbnail": "https://i.ytimg.com/vi/2poAKjYGEaI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=2poAKjYGEaI",
     "published": "2026-05-08T07:49:15.000Z"
-  },
-  {
-    "id": "7f45c68b1dd76fe976b830be1871e42317009b6f",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] GPT-Realtime-2, -Translate, and -Whisper: new SOTA realtime voice APIs",
-    "summary": "OpenAI continues deploying GPT-5 everywhere",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!A0Wm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c9ffc6c-3f36-4f23-a2c3-34d5e64955aa_1014x918.png",
-    "url": "https://www.latent.space/p/ainews-gpt-realtime-2-translate-and",
-    "published": "2026-05-08T07:11:24.000Z"
   },
   {
     "id": "9645c5c4cbf3c8fccbac0a715fc50c39e5fb14de",
@@ -780,18 +828,6 @@
     "published": "2026-04-25T23:48:24.000Z"
   },
   {
-    "id": "3b8f89da9554fce358c5847419fb1cbef8bd86c6",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Codex Just Replaced 1,000 Hours of Video Editing Tutorials",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/Xdy1vkhSz-M/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Xdy1vkhSz-M",
-    "published": "2026-04-24T22:57:23.000Z"
-  },
-  {
     "id": "44c4289d7469e6a94e4ee1ff870eb04241aac1a3",
     "source": "AI Report",
     "type": "podcast",
@@ -996,18 +1032,6 @@
     "published": "2026-04-07T14:00:00.000Z"
   },
   {
-    "id": "612c1627c79fec81b74d6f5c887e56b0586bcc9e",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Astro Crash Course #7 - Reusable Components",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/SmMo1vt0xHc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=SmMo1vt0xHc",
-    "published": "2026-04-07T07:18:39.000Z"
-  },
-  {
     "id": "f607c69186fab3425f5617af74d41c202e51652a",
     "source": "AI Report",
     "type": "podcast",
@@ -1030,18 +1054,6 @@
     "thumbnail": "https://i.ytimg.com/vi/D4XTefP3Lsc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=D4XTefP3Lsc",
     "published": "2026-04-02T16:06:59.000Z"
-  },
-  {
-    "id": "4d1829c86577ffd7b40e5526fd085ba1ee7ce4c5",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Astro Crash Course #6 - Outputting Lists",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/Q67n7V1NqFk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Q67n7V1NqFk",
-    "published": "2026-04-02T08:45:53.000Z"
   },
   {
     "id": "9427a39b1828f3dc1b6567f043279c1a4e77b379",
@@ -1186,17 +1198,5 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
     "url": "https://github.com/antfu/skills/commit/a42879a5e99272b16296ea7d7592aaccb00ee464",
     "published": "2026-03-13T08:09:02.000Z"
-  },
-  {
-    "id": "eecf7c25e969383c5b1ad20eaf32df2b407fd6c4",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update deps",
-    "summary": "chore: update deps",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/b65fff3244cb95f366b82e7d9114ed762ecbfa38",
-    "published": "2026-03-13T08:06:41.000Z"
   }
 ]
