@@ -1,5 +1,29 @@
 [
   {
+    "id": "b8eac55738e49f19310477d10994f95645053eff",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Copilot CLI Tutorial #3 - Code Changes",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/5bO8VKZuULg/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=5bO8VKZuULg",
+    "published": "2026-05-19T07:10:07.000Z"
+  },
+  {
+    "id": "1c555495cdda75f3c439967eb66075d4a1e806a3",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "The last six months in LLMs in five minutes",
+    "summary": "I put together these annotated slides from my five minute lightning talk at PyCon US 2026, using the latest iteration of my annotated presentation tool. # I presented this lightning talk at PyCon US...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
+    "published": "2026-05-19T01:09:44.000Z"
+  },
+  {
     "id": "c14228fa7fdf95f27c8a4fe8c15dcfbf05a39517",
     "source": "Riley Brown",
     "type": "video",
@@ -178,18 +202,6 @@
     "thumbnail": "https://i.ytimg.com/vi/4OiLljSo-hw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4OiLljSo-hw",
     "published": "2026-05-15T01:35:52.000Z"
-  },
-  {
-    "id": "c78ac9bb3d1101a9938c47e626787b28efe77ee4",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette-llm-limits 0.1a0",
-    "summary": "Release: datasette-llm-limits 0.1a0 This plugin works in conjunction with datasette-llm and datasette-llm-accountant to let you configure a per-user (or global) spending limit for LLM usage inside of...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything",
-    "published": "2026-05-15T00:42:09.000Z"
   },
   {
     "id": "a4e4814a5ae77e0ffb4492f604e178468ce5318d",
@@ -425,7 +437,7 @@
     "type": "video",
     "category": "voice",
     "lang": "en",
-    "title": "Get started with Voice Changer API",
+    "title": "Change your Voice with ElevenLabs Voice Changer API",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/QbBdQ_oUc3A/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=QbBdQ_oUc3A",
@@ -689,7 +701,7 @@
     "type": "video",
     "category": "voice",
     "lang": "en",
-    "title": "Get Started with Voice Isolator",
+    "title": "Isolate your Voice with ElevenLabs Voice Isolator",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/lpH0SAEhI2k/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=lpH0SAEhI2k",
@@ -994,18 +1006,6 @@
     "thumbnail": "https://i.ytimg.com/vi/T9PQ05F9GEk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=T9PQ05F9GEk",
     "published": "2026-04-09T09:44:03.000Z"
-  },
-  {
-    "id": "ee078dec43a171fccac22bc27858083cda513327",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Astro Crash Course #8 - Content Collections (with JSON)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/7GB-EyxxMp8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=7GB-EyxxMp8",
-    "published": "2026-04-08T09:51:02.000Z"
   },
   {
     "id": "7536ae2daabf1ab1ffb57eb98102155f035c9198",
