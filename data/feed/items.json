@@ -1,5 +1,29 @@
 [
   {
+    "id": "185c94c1773cd9ecb562d1965bda94c1b52e04dc",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "AI’s impact on software engineers in 2026: key trends, Part 2",
+    "summary": "Tradeoffs of AI tooling, why adopting AI at company-level is hard, what’s changed in two years, and more. The third and final part of a series analyzing our 2026 AI survey results",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!tEGy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F039155a2-16a1-481e-bddd-8774cb34e85d_1424x1174.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/ai-impact-on-software-engineers-part-2",
+    "published": "2026-05-19T16:43:10.000Z"
+  },
+  {
+    "id": "8f8ee2e0b82e07f224a82b13ffc0791395b26752",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] How to land a job at a frontier lab (on Pretraining)",
+    "summary": "a quiet day before google i/o lets us amplify a notable blogpost",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!W6LK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e69d902-1d29-4e8c-834c-41e83b07223f_1194x604.png",
+    "url": "https://www.latent.space/p/ainews-how-to-land-a-job-at-a-frontier",
+    "published": "2026-05-19T07:31:40.000Z"
+  },
+  {
     "id": "b8eac55738e49f19310477d10994f95645053eff",
     "source": "Coding in Public",
     "type": "video",
@@ -322,18 +346,6 @@
     "thumbnail": "https://i.ytimg.com/vi/rIs802-bXDY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=rIs802-bXDY",
     "published": "2026-05-09T12:15:09.000Z"
-  },
-  {
-    "id": "6bf9549f5fae09dc9d23569660d1f3fed9fd511e",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Anthropic growing 10x/year while everyone else is laying off >10% of their workforce",
-    "summary": "A quiet day lets us reflect on an interesting dichotomy in the economy.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!tOlW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F021c44bf-dba1-44ad-b3a5-d4de3e6a7644_1728x954.jpeg",
-    "url": "https://www.latent.space/p/ainews-anthropic-growing-10xyear",
-    "published": "2026-05-09T01:08:28.000Z"
   },
   {
     "id": "7d7b0841e9307efe21f2684c33634982a092ff39",
@@ -706,18 +718,6 @@
     "thumbnail": "https://i.ytimg.com/vi/lpH0SAEhI2k/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=lpH0SAEhI2k",
     "published": "2026-04-28T15:03:30.000Z"
-  },
-  {
-    "id": "696e4bc4593ed56c0aeefc39a4875794f21a1104",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "How will AI change operating systems? Part 1: Ubuntu and Linux",
-    "summary": "A deepdive with the Canonical team into how AI is changing Ubuntu, why they’re betting on local-first LLMs, and a look into other Linux distributions",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!4X83!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa93367d9-f13e-4630-952d-68caf3c34f4e_1075x612.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/ubuntu-and-ai",
-    "published": "2026-04-28T14:25:18.000Z"
   },
   {
     "id": "f60d4acffa28a7447e66aa48c8d7988ba0f05cbe",
