@@ -1,5 +1,41 @@
 [
   {
+    "id": "ce2c2cea12484bbdcd10ec99b5d2bf154c1e1496",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "How fast is 10 tokens per second really?",
+    "summary": "How fast is 10 tokens per second really? Neat little HTML app by Mike Veerman (source code here) which simulates LLM token output speeds from 5/second to 800/second. Useful if you see a model...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything",
+    "published": "2026-05-20T17:57:45.000Z"
+  },
+  {
+    "id": "c53821f0bb655fd9f964111f38177f65ef0071dd",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Why Rust is different, with Alice Ryhl",
+    "summary": "Alice Ryhl from Google’s Android Rust team explains why developers love Rust, and what makes the language so powerful for building reliable software.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!E4-f!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcea314b0-b7f7-469d-aaf4-2d8a6bb172bf_1200x105.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/why-rust-is-different-with-alice",
+    "published": "2026-05-20T16:22:00.000Z"
+  },
+  {
+    "id": "9416309ee5ed35ebdcf294b5f96f3fa7a47a2f75",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Google I/O, Gemini Spark, Antigravity",
+    "summary": "It's hard to find much to write about Google I/O this year because I have a policy of not writing about anything that I can't try out myself, and a lot of the big announcements are \"coming soon\". I...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
+    "published": "2026-05-20T15:32:17.000Z"
+  },
+  {
     "id": "ea2cb7b986cf0b573ba93fe1b03b1aaa0a9989cd",
     "source": "Latent Space",
     "type": "podcast",
@@ -132,18 +168,6 @@
     "published": "2026-05-18T15:31:53.000Z"
   },
   {
-    "id": "41b2a2f6dff1ea5743f48330494aff8a8dd5ea76",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose",
-    "summary": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose, in Los Angeles River, CA, USI'm heading home from PyCon US today so I went on a last morning walk to try and spot a pelican. I saw one!...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything",
-    "published": "2026-05-18T14:51:00.000Z"
-  },
-  {
     "id": "964f9151fcaf3b6aa7d2851d28f4053dff067dfc",
     "source": "Latent Space",
     "type": "podcast",
@@ -190,18 +214,6 @@
     "thumbnail": "https://i.ytimg.com/vi/720a-3LXkdo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=720a-3LXkdo",
     "published": "2026-05-18T08:35:08.000Z"
-  },
-  {
-    "id": "cd10f9ca291ae3477fb3a27b4612e7ddb1ab00ac",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
-    "summary": "GDS weighs in on the NHS's decision to retreat from Open Source Terence Eden continues his coverage of the NHS' poorly considered decision to close down access to their open source repositories in...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
-    "published": "2026-05-17T15:59:41.000Z"
   },
   {
     "id": "53a62602c298d9f6d8c065b881d7d0f1d8f3108f",
@@ -670,18 +682,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/whats-new-april-2026/",
     "published": "2026-04-30T00:00:00.000Z"
-  },
-  {
-    "id": "9bc42e64f9b239a556282edaa70c50985eba99a6",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Building Pi, and what makes self-modifying software so fascinating",
-    "summary": "Mario Zechner, creator of Pi, joins Armin Ronacher to explore AI coding’s limits, arguing that human judgment still matters most in an agent-driven world.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Gh57!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9835d46-a4d0-40e1-a16b-dba8068fd6ad_800x70.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/building-pi-and-what-makes-self-modifying",
-    "published": "2026-04-29T14:30:17.000Z"
   },
   {
     "id": "04d7e207676e1b4952504eb7a8c2221ed0a5eedd",
