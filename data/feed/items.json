@@ -1,5 +1,77 @@
 [
   {
+    "id": "ea2cb7b986cf0b573ba93fe1b03b1aaa0a9989cd",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Google I/O 2026: Gemini 3.5 Flash, Omni (NanoBanana for Video), Spark (background agents), and Antigravity 2.0",
+    "summary": "Google has been busy!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!haUt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F904f7a4e-f945-40e0-b980-024fc220d0b7_1524x912.png",
+    "url": "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
+    "published": "2026-05-20T03:34:17.000Z"
+  },
+  {
+    "id": "ac722a7655cbaba48f0a18cd8cee7c0bed569208",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "llm-gemini 0.32",
+    "summary": "Release: llm-gemini 0.32 New model gemini-3.5-flash for Gemini 3.5 Flash. See also my notes on Gemini 3.5 Flash, and the pelican I drew using this upgrade to the plugin. Tags: gemini, llm",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
+    "published": "2026-05-19T23:46:27.000Z"
+  },
+  {
+    "id": "b49356edd154643c9e2418abd479c4bb353dd369",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
+    "summary": "Today at Google I/O, Google released Gemini 3.5 Flash. This one skipped the -preview modifier and went straight to general availability, and Google appear to be using it for a whole lot of their key...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
+    "published": "2026-05-19T22:40:25.000Z"
+  },
+  {
+    "id": "4bcf647e906105d1919110d53dcef38a6272663e",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette-llm-accountant 0.1a4",
+    "summary": "Release: datasette-llm-accountant 0.1a4 Fixed bug tracking chains of responses. Refs datasette-llm#7 Tags: llm, datasette",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything",
+    "published": "2026-05-19T20:45:43.000Z"
+  },
+  {
+    "id": "ea78b5950c36c71db4bd03bfc05a3f89c32c1fdf",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "llm-gemini 0.32a0",
+    "summary": "Release: llm-gemini 0.32a0 Compatible with llm>=0.32a0 alpha - adds the ability to stream reasoning tokens. Tags: gemini, llm",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything",
+    "published": "2026-05-19T20:36:23.000Z"
+  },
+  {
+    "id": "83155cd8aaa70c4ce7586654cd92791066fb19d1",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette-llm 0.1a8",
+    "summary": "Release: datasette-llm 0.1a8 Fix for bug where llm_prompt_context() hook did not fully collect chains of responses. #7",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything",
+    "published": "2026-05-19T20:28:16.000Z"
+  },
+  {
     "id": "185c94c1773cd9ecb562d1965bda94c1b52e04dc",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -132,30 +204,6 @@
     "published": "2026-05-17T15:59:41.000Z"
   },
   {
-    "id": "d8cb63d017bb6c9561772061de792c0be48aab5b",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Warelay -> OpenClaw",
-    "summary": "In preparation for a lightning talk I'm giving at PyCon US this afternoon I decided to figure out how many names OpenClaw has actually had since that first commit back in November. Thanks to this...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
-    "published": "2026-05-16T20:23:30.000Z"
-  },
-  {
-    "id": "6ce3e6ac5419dfb0e6a159fd999cd957c8fd8cc9",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Julia Evans",
-    "summary": "[...] in the last 10 years I’ve learned to really love and respect CSS as a technology. So I decided years ago that I wanted to react to “CSS is hard” by getting better at CSS and taking it seriously...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything",
-    "published": "2026-05-16T16:45:37.000Z"
-  },
-  {
     "id": "53a62602c298d9f6d8c065b881d7d0f1d8f3108f",
     "source": "Latent Space",
     "type": "podcast",
@@ -168,18 +216,6 @@
     "published": "2026-05-16T04:36:50.000Z"
   },
   {
-    "id": "1d64c0e14e05ec37d0aee808809dd8211c8297ea",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "inaturalist-clumper 0.1",
-    "summary": "Release: inaturalist-clumper 0.1 Part of the infrastructure I use for publishing my iNaturalist sightings on my blog. I've been running this in production for a few weeks now, inspiring some...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything",
-    "published": "2026-05-15T23:53:11.000Z"
-  },
-  {
     "id": "fb3b20ade03e715d0184e38d70a438f0366475b0",
     "source": "Riley Brown",
     "type": "video",
@@ -190,30 +226,6 @@
     "thumbnail": "https://i.ytimg.com/vi/3mm-hxVtjkM/mqdefault.jpg",
     "url": "https://www.youtube.com/shorts/3mm-hxVtjkM",
     "published": "2026-05-15T18:58:56.000Z"
-  },
-  {
-    "id": "fd6f1383b71dfe1f6ed49b74d20ca3652d0f5d72",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Western Gull, Rock Pigeon",
-    "summary": "Western Gull, Rock Pigeon, in Los Angeles Area (custom), CA, USI went for a bird walk in the morning before PyCon, and we spotted a local seagull enjoying a Starbucks.",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything",
-    "published": "2026-05-15T14:42:00.000Z"
-  },
-  {
-    "id": "cacc9730059c1be69c6c6b0b085dec679bf0c464",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "QR code generator",
-    "summary": "Tool: QR code generator Claude helped me build this tool for creating QR codes, for both text/URLs and for connecting to WiFi networks. Tags: vibe-coding, tools, generative-ai, ai, llms",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/15/qr-code-generator/#atom-everything",
-    "published": "2026-05-15T04:00:49.000Z"
   },
   {
     "id": "2377130530eec7db32c7ec4e1d6ab9d4bb87c70d",
@@ -322,18 +334,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!fo1L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11e17bb3-f81c-4b30-930b-202e336226a6_800x510.png",
     "url": "https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the",
     "published": "2026-05-12T17:10:28.000Z"
-  },
-  {
-    "id": "f053f50df88db16044f0727385179ce29aea8031",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Thinking Machines' Native Interaction Models - TML-Interaction-Small 276B-A12B - advances SOTA Realtime Voice and kills standard VAD",
-    "summary": "well done, Team Thinky.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!LR03!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02190942-3f50-4067-ae03-97c6b504b3a3_1490x1592.png",
-    "url": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
-    "published": "2026-05-12T04:33:46.000Z"
   },
   {
     "id": "360b19e9d5e43847d8b589083c6797319754481b",
