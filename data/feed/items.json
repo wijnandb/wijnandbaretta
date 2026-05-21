@@ -1,5 +1,41 @@
 [
   {
+    "id": "c72c362505d3e774afcedecec8e17f9bfe6ef2c3",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Railway: The Agent-Native Cloud — Jake Cooper",
+    "summary": "3M Users, 100K Signups/Week, Own-Metal Data Centers, $200K+ Coding Agent Spend, and the Death of PRs",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!DrIQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd84197e2-29a5-4b80-b922-ae8343deac59_1078x1034.png",
+    "url": "https://www.latent.space/p/railway",
+    "published": "2026-05-20T22:42:06.000Z"
+  },
+  {
+    "id": "375aede4001aca713571728e3ce74e3a22badeae",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting SpaceX S-1",
+    "summary": "We have the ability to use compute resources to support our proprietary AI applications (such as Grok 5, which is currently being trained at COLOSSUS II), while also providing access to select...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
+    "published": "2026-05-20T22:26:36.000Z"
+  },
+  {
+    "id": "d91a8f4b98f5ae2aa78f0ee2e7076df8b0310d16",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Add Voice to your Agent Stack",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/i0FBvDQmrgM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=i0FBvDQmrgM",
+    "published": "2026-05-20T19:00:11.000Z"
+  },
+  {
     "id": "ce2c2cea12484bbdcd10ec99b5d2bf154c1e1496",
     "source": "Simon Willison",
     "type": "blog",
@@ -144,18 +180,6 @@
     "published": "2026-05-19T07:10:07.000Z"
   },
   {
-    "id": "1c555495cdda75f3c439967eb66075d4a1e806a3",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "The last six months in LLMs in five minutes",
-    "summary": "I put together these annotated slides from my five minute lightning talk at PyCon US 2026, using the latest iteration of my annotated presentation tool. # I presented this lightning talk at PyCon US...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
-    "published": "2026-05-19T01:09:44.000Z"
-  },
-  {
     "id": "c14228fa7fdf95f27c8a4fe8c15dcfbf05a39517",
     "source": "Riley Brown",
     "type": "video",
@@ -173,7 +197,7 @@
     "type": "podcast",
     "category": "ai",
     "lang": "en",
-    "title": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
+    "title": "The Autonomous Drone Tech Stack & Economics of Drones — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
     "summary": "Ukrainian drone founder Yaroslav Azhnyuk went from pet cameras to AI-guided weapons. He and guest host Noah Smith make the case that the West is asleep at the wheel.",
     "thumbnail": null,
     "url": "https://www.latent.space/p/the-fourth-law",
@@ -310,18 +334,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!YCsL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39bdfbb4-fb73-41d8-83cb-0ca4832aed49_1280x80.png",
     "url": "https://newsletter.pragmaticengineer.com/p/typescript-c-and-turbo-pascal-with",
     "published": "2026-05-13T17:06:59.000Z"
-  },
-  {
-    "id": "b99040181a658fce7ecde95582dc0777393793c7",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] The End of Finetuning",
-    "summary": "a quiet day lets us reflect on whither finetuning",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!ioj8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6915f95-7d03-4a7d-81b1-df255b9debcb_1192x1422.png",
-    "url": "https://www.latent.space/p/ainews-the-end-of-finetuning",
-    "published": "2026-05-13T02:47:22.000Z"
   },
   {
     "id": "f5b86b7a579f8cc940fa164efefabcdf72b13bd9",
@@ -874,18 +886,6 @@
     "thumbnail": null,
     "url": "https://directus.io/blog/directus-v12-license-change",
     "published": "2026-04-22T09:00:00.000Z"
-  },
-  {
-    "id": "ea609977813bb38a8a6ab3837b356e109dea728a",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Realtime Speech to Text with ElevenLabs",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/PMJ26x2bf2I/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=PMJ26x2bf2I",
-    "published": "2026-04-21T14:32:09.000Z"
   },
   {
     "id": "67ed3c7de58489501227976ed49d761f98f03311",
