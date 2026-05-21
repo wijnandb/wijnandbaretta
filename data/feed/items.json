@@ -1,5 +1,41 @@
 [
   {
+    "id": "a06cfbcccff28d9797b692e7a218d418a4df82ff",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE",
+    "summary": "Negative feedback greets Google’s redesigned AI IDE, why Google’s product ecosystem is so chaotic, Meta cuts 10% of staff as it hits record revenue and profits, and more",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!QVIZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e853b57-6352-4ffc-b5c8-0176efbeb101_1430x1056.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-antigravity-20-takes-ide",
+    "published": "2026-05-21T17:01:39.000Z"
+  },
+  {
+    "id": "144132956818476386f215ae8c67ed41315562a5",
+    "source": "AI Report",
+    "type": "podcast",
+    "category": "nl",
+    "lang": "nl",
+    "title": "Marietje Schaake over de macht van AI + de vibe shift naar Codex + Googles AI-comeback",
+    "summary": "Alexander bouwde deze week een complete website zonder een regel code: hij gaf Claude de tekst en een logo, opende zijn webhoster in de browser en zei \"ga door tot de site live staat.\" Toen hij...",
+    "thumbnail": null,
+    "url": "https://www.aireport.nl/podcast/s/aireport/marietje_schaake_over_de_macht_van_ai_de_vibe_shift_naar_codex_googles_ai-comeback",
+    "published": "2026-05-21T16:53:49.000Z"
+  },
+  {
+    "id": "49c9de80a6ae16010928cd1d7bd5680ac5d9d232",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] OpenAI GPT-next disproves 80 year old Erdős planar unit distance problem for under $1000",
+    "summary": "a quiet day but a nice result in AI x mathematics",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!BIRC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ff7bdc0-79ef-49ce-a5c0-f7db89d60637_1098x1582.png",
+    "url": "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
+    "published": "2026-05-21T07:28:36.000Z"
+  },
+  {
     "id": "c72c362505d3e774afcedecec8e17f9bfe6ef2c3",
     "source": "Latent Space",
     "type": "podcast",
@@ -90,7 +126,7 @@
     "category": "ai",
     "lang": "en",
     "title": "llm-gemini 0.32",
-    "summary": "Release: llm-gemini 0.32 New model gemini-3.5-flash for Gemini 3.5 Flash. See also my notes on Gemini 3.5 Flash, and the pelican I drew using this upgrade to the plugin. Tags: gemini, llm",
+    "summary": "Release: llm-gemini 0.32 New model gemini-3.5-flash for Gemini 3.5 Flash. See also my notes on Gemini 3.5 Flash, and the pelican I drew using this upgrade to the plugin. Tags: llm, gemini",
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
     "published": "2026-05-19T23:46:27.000Z"
@@ -114,7 +150,7 @@
     "category": "ai",
     "lang": "en",
     "title": "datasette-llm-accountant 0.1a4",
-    "summary": "Release: datasette-llm-accountant 0.1a4 Fixed bug tracking chains of responses. Refs datasette-llm#7 Tags: llm, datasette",
+    "summary": "Release: datasette-llm-accountant 0.1a4 Fixed bug tracking chains of responses. Refs datasette-llm#7 Tags: datasette, llm",
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything",
     "published": "2026-05-19T20:45:43.000Z"
@@ -126,7 +162,7 @@
     "category": "ai",
     "lang": "en",
     "title": "llm-gemini 0.32a0",
-    "summary": "Release: llm-gemini 0.32a0 Compatible with llm>=0.32a0 alpha - adds the ability to stream reasoning tokens. Tags: gemini, llm",
+    "summary": "Release: llm-gemini 0.32a0 Compatible with llm>=0.32a0 alpha - adds the ability to stream reasoning tokens. Tags: llm, gemini",
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything",
     "published": "2026-05-19T20:36:23.000Z"
@@ -310,18 +346,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!RbLf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e0e23f7-eda1-4ceb-9cd0-37106afa3828_1202x684.png",
     "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-forward-deployed-engineering",
     "published": "2026-05-14T16:09:57.000Z"
-  },
-  {
-    "id": "7bae59d035f334863c5e03930148aa1a6eb4c5db",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Codex Rises, Claude Meters Programmatic Usage",
-    "summary": "a quiet day lets us report on a long trend of the major coding agents",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!uqHa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f3bb92f-f1bd-4329-9b9c-64c681eec378_1290x874.png",
-    "url": "https://www.latent.space/p/ainews-codex-rises-claude-meters",
-    "published": "2026-05-14T03:53:26.000Z"
   },
   {
     "id": "8f8db2ee4ba3e6c920d7868d6f0bc30a6ef31d9e",
@@ -646,18 +670,6 @@
     "thumbnail": "https://i.ytimg.com/vi/aAybtA83Yx8/mqdefault.jpg",
     "url": "https://www.youtube.com/shorts/aAybtA83Yx8",
     "published": "2026-04-30T15:32:39.000Z"
-  },
-  {
-    "id": "eaaff7b57229ad3bffdbefc342c50151437d5f92",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The Pulse: AI load breaks GitHub – why not other vendors?",
-    "summary": "Also: Anthropic’s speed run to break devs’ goodwill, big price increases from GitHub Copilot, Mitchell Hashimoto on the “building block economy,” and more",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!mdep!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F218f2a28-6c30-4753-8c43-2e33ce891050_1656x1038.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-github-breaks",
-    "published": "2026-04-30T14:23:43.000Z"
   },
   {
     "id": "49c20e2e3083532623a33a9ea949f4c9727a020d",
@@ -1150,18 +1162,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/astro-610/",
     "published": "2026-03-26T00:00:00.000Z"
-  },
-  {
-    "id": "06685e37d3c26b7ea604b980ba502266951a54e4",
-    "source": "AI Report",
-    "type": "podcast",
-    "category": "nl",
-    "lang": "nl",
-    "title": "NVIDIA maakt OpenClaw veiliger + wat als er straks écht 1-mans AI-bedrijven zijn?",
-    "summary": "AI Report groeit en zoekt versterking. Ben jij een senior redacteur die helemaal wil duiken in de wereld van AI? We zoeken iemand voor drieënhalve dag per week die de nieuwssectie van onze...",
-    "thumbnail": null,
-    "url": "https://www.aireport.nl/podcast/s/aireport/nvidia_maakt_openclaw_veiliger_wat_als_er_straks_echt_1-mans_ai-bedrijven_zijn",
-    "published": "2026-03-19T12:00:00.000Z"
   },
   {
     "id": "66c7e82297ae50c5c9db57b94318cbbd2773e23c",
