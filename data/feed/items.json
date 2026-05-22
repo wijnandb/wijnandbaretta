@@ -1,5 +1,77 @@
 [
   {
+    "id": "fe200fe72e51cc11988f3ce48369e056fb49147f",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] New AI Infra unicorns: Exa, Modal, TurboPuffer",
+    "summary": "a quiet day lets us feature fundraises!",
+    "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/ab2507aa-9755-4e9d-9cbf-4c7f755a8527_1086x280.png",
+    "url": "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
+    "published": "2026-05-22T05:50:58.000Z"
+  },
+  {
+    "id": "28784bcad09c152d7efe06f89c856c748e1205c7",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
+    "summary": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service Back in 2024 Cox Media Group...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
+    "published": "2026-05-22T04:48:32.000Z"
+  },
+  {
+    "id": "5b09e1ddfb8f6c460908159d706a473bdb0949d8",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Give your LLM a Voice with Speech Engine",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/gfCqXM9fTsA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=gfCqXM9fTsA",
+    "published": "2026-05-21T20:49:05.000Z"
+  },
+  {
+    "id": "877fc1c751451ac6cee76c5485dd3be08b7dfab2",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Giving Agents Computers — Ivan Burazin, Daytona",
+    "summary": "We chat with Daytona's CEO about their insane 74% MoM Growth, 850K Daily Runs, Bare Metal Sandboxes, RL Evals, and the New Agent Cloud",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!67Tl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0cf76d9-c44f-4ffa-82e5-602a03bae88b_620x412.jpeg",
+    "url": "https://www.latent.space/p/daytona",
+    "published": "2026-05-21T20:37:40.000Z"
+  },
+  {
+    "id": "1116f836bd5797c6b34b2dd465599c0c6b4f47f6",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Datasette Agent",
+    "summary": "We just announced the first release of Datasette Agent, a new extensible AI assistant for Datasette. I've been working on my LLM Python library for just over three years now, and Datasette Agent...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
+    "published": "2026-05-21T19:52:19.000Z"
+  },
+  {
+    "id": "5cdc26674b25d54edf2dedeff4e330af742a9373",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette-agent-sprites 0.1a0",
+    "summary": "Release: datasette-agent-sprites 0.1a0 A Datasette Agent plugin for running commands in a Fly Sprites sandbox. Tags: sandboxing, datasette, fly, datasette-agent",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
+    "published": "2026-05-21T18:21:07.000Z"
+  },
+  {
     "id": "a06cfbcccff28d9797b692e7a218d418a4df82ff",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -22,6 +94,30 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/marietje_schaake_over_de_macht_van_ai_de_vibe_shift_naar_codex_googles_ai-comeback",
     "published": "2026-05-21T16:53:49.000Z"
+  },
+  {
+    "id": "3d184fde1ad3a782a5d12de2c10d5ea79bae0194",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette-agent-charts 0.1a2",
+    "summary": "Release: datasette-agent-charts 0.1a2 \"View SQL query\" buttons below rendered charts. Tags: datasette, datasette-agent",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
+    "published": "2026-05-21T15:15:58.000Z"
+  },
+  {
+    "id": "9a479d55e03440076261a7fbd8fce02327ba2f16",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette-agent 0.1a3",
+    "summary": "Release: datasette-agent 0.1a3 \"View SQL query\" buttons for both visible tables and collapsed SQL result tool calls. Don't display empty reasoning chunks Improved handling of truncated responses -...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
+    "published": "2026-05-21T15:04:09.000Z"
   },
   {
     "id": "49c9de80a6ae16010928cd1d7bd5680ac5d9d232",
@@ -65,7 +161,7 @@
     "type": "video",
     "category": "voice",
     "lang": "en",
-    "title": "Add Voice to your Agent Stack",
+    "title": "Give your Agents a Voice with Speech Engine",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/i0FBvDQmrgM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=i0FBvDQmrgM",
@@ -118,66 +214,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!haUt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F904f7a4e-f945-40e0-b980-024fc220d0b7_1524x912.png",
     "url": "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
     "published": "2026-05-20T03:34:17.000Z"
-  },
-  {
-    "id": "ac722a7655cbaba48f0a18cd8cee7c0bed569208",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm-gemini 0.32",
-    "summary": "Release: llm-gemini 0.32 New model gemini-3.5-flash for Gemini 3.5 Flash. See also my notes on Gemini 3.5 Flash, and the pelican I drew using this upgrade to the plugin. Tags: llm, gemini",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
-    "published": "2026-05-19T23:46:27.000Z"
-  },
-  {
-    "id": "b49356edd154643c9e2418abd479c4bb353dd369",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
-    "summary": "Today at Google I/O, Google released Gemini 3.5 Flash. This one skipped the -preview modifier and went straight to general availability, and Google appear to be using it for a whole lot of their key...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
-    "published": "2026-05-19T22:40:25.000Z"
-  },
-  {
-    "id": "4bcf647e906105d1919110d53dcef38a6272663e",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette-llm-accountant 0.1a4",
-    "summary": "Release: datasette-llm-accountant 0.1a4 Fixed bug tracking chains of responses. Refs datasette-llm#7 Tags: datasette, llm",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything",
-    "published": "2026-05-19T20:45:43.000Z"
-  },
-  {
-    "id": "ea78b5950c36c71db4bd03bfc05a3f89c32c1fdf",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm-gemini 0.32a0",
-    "summary": "Release: llm-gemini 0.32a0 Compatible with llm>=0.32a0 alpha - adds the ability to stream reasoning tokens. Tags: llm, gemini",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything",
-    "published": "2026-05-19T20:36:23.000Z"
-  },
-  {
-    "id": "83155cd8aaa70c4ce7586654cd92791066fb19d1",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette-llm 0.1a8",
-    "summary": "Release: datasette-llm 0.1a8 Fix for bug where llm_prompt_context() hook did not fully collect chains of responses. #7",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything",
-    "published": "2026-05-19T20:28:16.000Z"
   },
   {
     "id": "185c94c1773cd9ecb562d1965bda94c1b52e04dc",
@@ -310,30 +346,6 @@
     "thumbnail": "https://i.ytimg.com/vi/4OiLljSo-hw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4OiLljSo-hw",
     "published": "2026-05-15T01:35:52.000Z"
-  },
-  {
-    "id": "a4e4814a5ae77e0ffb4492f604e178468ce5318d",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Everything is Conductor",
-    "summary": "an ultra quiet day lets us highlight a smaller trend.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!-UVS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc44b00aa-b057-4698-a9c6-f8e73c7aaaf7_2289x1342.jpeg",
-    "url": "https://www.latent.space/p/ainews-everything-is-conductor",
-    "published": "2026-05-15T00:30:21.000Z"
-  },
-  {
-    "id": "4748087d922dda4e19df25f51369205266c05509",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "AI-Native Healthcare: 100M Doctor Visits, 10–20 Hours Saved, Prior Auth in Minutes — Janie Lee & Chai Asawa, Abridge",
-    "summary": "How Abridge is quietly turning the patient and clinician conversation into the operating system of healthcare",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!MX36!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F967bcd77-27ed-4487-bcc1-28c3d66d057c_2018x1576.png",
-    "url": "https://www.latent.space/p/abridge",
-    "published": "2026-05-14T22:05:31.000Z"
   },
   {
     "id": "c1ec95ebdd86f685ce39389faa8377fc6bbc2afa",
@@ -742,18 +754,6 @@
     "thumbnail": "https://i.ytimg.com/vi/lpH0SAEhI2k/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=lpH0SAEhI2k",
     "published": "2026-04-28T15:03:30.000Z"
-  },
-  {
-    "id": "f60d4acffa28a7447e66aa48c8d7988ba0f05cbe",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "An app that lets you talk to statues",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/1QSFG29Q5R8/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/1QSFG29Q5R8",
-    "published": "2026-04-27T18:24:49.000Z"
   },
   {
     "id": "a2d9206e1ecd675b78348718e6706a3410d3584e",
