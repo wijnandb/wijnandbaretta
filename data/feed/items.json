@@ -1,5 +1,65 @@
 [
   {
+    "id": "7ef464017bdd55d19702c780f9bc6923ba3fee51",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Pass the Project #3 - End Result",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/lapVBA_JuCI/mqdefault.jpg",
+    "url": "https://www.youtube.com/shorts/lapVBA_JuCI",
+    "published": "2026-05-22T17:02:30.000Z"
+  },
+  {
+    "id": "3f2eebd3191ab6b5acecbdce463ddbdde736092e",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Pass the Project #2 - Prompt & Build",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/mVZ3q_SFXHU/mqdefault.jpg",
+    "url": "https://www.youtube.com/shorts/mVZ3q_SFXHU",
+    "published": "2026-05-22T17:02:12.000Z"
+  },
+  {
+    "id": "36e5a9c68933d65b71d91f400fb83c1ce5bc69f4",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Pass the Project #1 - Instructions",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/7lzsxLqCELU/mqdefault.jpg",
+    "url": "https://www.youtube.com/shorts/7lzsxLqCELU",
+    "published": "2026-05-22T17:01:55.000Z"
+  },
+  {
+    "id": "2ee4d7468c6bcf89704154a5be7e47344584cefe",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "3 DEVS vibe-code an app without COMMUNICATING",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/YXfeMoZ3UDw/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=YXfeMoZ3UDw",
+    "published": "2026-05-22T17:00:54.000Z"
+  },
+  {
+    "id": "5901bddbcef1885049d8a08b44d286ac0f7d1d50",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Copilot CLI Tutorial #4 - Custom Instructions",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/oA1LDB9tdZU/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=oA1LDB9tdZU",
+    "published": "2026-05-22T08:12:35.000Z"
+  },
+  {
     "id": "fe200fe72e51cc11988f3ce48369e056fb49147f",
     "source": "Latent Space",
     "type": "podcast",
@@ -504,18 +564,6 @@
     "published": "2026-05-07T00:00:00.000Z"
   },
   {
-    "id": "a120e1ea56b3d1c4368d993314ad9545e6839c0b",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Change your Voice with ElevenLabs Voice Changer API",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/QbBdQ_oUc3A/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=QbBdQ_oUc3A",
-    "published": "2026-05-05T18:25:09.000Z"
-  },
-  {
     "id": "c1d6b9cbc800c6acb398e489c4fe5384b7142c34",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -672,18 +720,6 @@
     "published": "2026-04-30T16:56:41.000Z"
   },
   {
-    "id": "513194fdf71fa24dda8edcc0e9f2d4fcd8e37756",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Vibe-coding games with Runescape CEO",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/aAybtA83Yx8/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/aAybtA83Yx8",
-    "published": "2026-04-30T15:32:39.000Z"
-  },
-  {
     "id": "49c20e2e3083532623a33a9ea949f4c9727a020d",
     "source": "Riley Brown",
     "type": "video",
@@ -720,18 +756,6 @@
     "published": "2026-04-30T00:00:00.000Z"
   },
   {
-    "id": "04d7e207676e1b4952504eb7a8c2221ed0a5eedd",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "How Good is ElevenLabs Voice Isolator?",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/Ylt_dqOri1E/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/Ylt_dqOri1E",
-    "published": "2026-04-29T14:00:55.000Z"
-  },
-  {
     "id": "410f2c6ced03013f0983a6e4994f4d7c3421da0f",
     "source": "Riley Brown",
     "type": "video",
@@ -742,18 +766,6 @@
     "thumbnail": "https://i.ytimg.com/vi/474wZZHoWN4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=474wZZHoWN4",
     "published": "2026-04-29T02:08:15.000Z"
-  },
-  {
-    "id": "71f61eee4b5c17e356bfd7436824b13f60bef4f7",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Isolate your Voice with ElevenLabs Voice Isolator",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/lpH0SAEhI2k/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=lpH0SAEhI2k",
-    "published": "2026-04-28T15:03:30.000Z"
   },
   {
     "id": "a2d9206e1ecd675b78348718e6706a3410d3584e",
@@ -1006,18 +1018,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/anthropics_nieuwste_model_is_te_gevaarlijk",
     "published": "2026-04-10T10:49:12.000Z"
-  },
-  {
-    "id": "e9a614466ae8c373d1f817d884ce099f339216ad",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Astro Crash Course #9 - Content Collections (with Markdown)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/T9PQ05F9GEk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=T9PQ05F9GEk",
-    "published": "2026-04-09T09:44:03.000Z"
   },
   {
     "id": "7536ae2daabf1ab1ffb57eb98102155f035c9198",
