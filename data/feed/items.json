@@ -1,5 +1,29 @@
 [
   {
+    "id": "05045fbcb55dd4a300cd5e0414bddcd8e343e51d",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] All Model Labs are now Agent Labs",
+    "summary": "a quiet day lets us tie together a few quotes as all model labs become agent labs",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!TLyU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F348d0573-16b0-46d0-a852-ccaae2b6ff4f_1122x534.png",
+    "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+    "published": "2026-05-23T04:21:17.000Z"
+  },
+  {
+    "id": "ec79cfe3c2ba9887fabac3f8cfb5cc655d9b8bbc",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "The memory shortage is causing a repricing of consumer electronics",
+    "summary": "The memory shortage is causing a repricing of consumer electronics David Oks provides the clearest explanation I've seen yet of why consumer products that use memory are likely to get significantly...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
+    "published": "2026-05-22T22:01:31.000Z"
+  },
+  {
     "id": "7ef464017bdd55d19702c780f9bc6923ba3fee51",
     "source": "ElevenLabs",
     "type": "video",
@@ -252,18 +276,6 @@
     "published": "2026-05-20T16:22:00.000Z"
   },
   {
-    "id": "9416309ee5ed35ebdcf294b5f96f3fa7a47a2f75",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Google I/O, Gemini Spark, Antigravity",
-    "summary": "It's hard to find much to write about Google I/O this year because I have a policy of not writing about anything that I can't try out myself, and a lot of the big announcements are \"coming soon\". I...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
-    "published": "2026-05-20T15:32:17.000Z"
-  },
-  {
     "id": "ea2cb7b986cf0b573ba93fe1b03b1aaa0a9989cd",
     "source": "Latent Space",
     "type": "podcast",
@@ -370,18 +382,6 @@
     "thumbnail": "https://i.ytimg.com/vi/720a-3LXkdo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=720a-3LXkdo",
     "published": "2026-05-18T08:35:08.000Z"
-  },
-  {
-    "id": "53a62602c298d9f6d8c065b881d7d0f1d8f3108f",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Cerebras' $60B IPO: Slowly, then All at Once",
-    "summary": "Congrats Big Chip!",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!vBnf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5fea6bb8-3298-434e-afef-3eea148ba10c_2048x1263.png",
-    "url": "https://www.latent.space/p/ainews-cerebras-60b-ipo-slowly-then",
-    "published": "2026-05-16T04:36:50.000Z"
   },
   {
     "id": "fb3b20ade03e715d0184e38d70a438f0366475b0",
