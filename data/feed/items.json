@@ -1,5 +1,29 @@
 [
   {
+    "id": "db107ce3d5a70edf097beaa898bf1acc1a08b904",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "AI Agent: The Biggest Updates You Missed This Week (Codex, Claude Code, Cursor)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/52ltebR4Jnw/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=52ltebR4Jnw",
+    "published": "2026-05-23T22:29:01.000Z"
+  },
+  {
+    "id": "76211a8fd88c300fb044182cdc306ced2cef8880",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "On the",
+    "summary": "On the I learned a few new-to-me things about the element from this article by Ben Meyer: A can be followed by multiple You can optionally group the and elements in a for styling - but only a . You...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
+    "published": "2026-05-23T20:24:48.000Z"
+  },
+  {
     "id": "05045fbcb55dd4a300cd5e0414bddcd8e343e51d",
     "source": "Latent Space",
     "type": "podcast",
@@ -250,18 +274,6 @@
     "thumbnail": "https://i.ytimg.com/vi/i0FBvDQmrgM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=i0FBvDQmrgM",
     "published": "2026-05-20T19:00:11.000Z"
-  },
-  {
-    "id": "ce2c2cea12484bbdcd10ec99b5d2bf154c1e1496",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "How fast is 10 tokens per second really?",
-    "summary": "How fast is 10 tokens per second really? Neat little HTML app by Mike Veerman (source code here) which simulates LLM token output speeds from 5/second to 800/second. Useful if you see a model...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything",
-    "published": "2026-05-20T17:57:45.000Z"
   },
   {
     "id": "c53821f0bb655fd9f964111f38177f65ef0071dd",
@@ -862,18 +874,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/48967ddd14f8d66753969a09c5730776e5232708",
     "published": "2026-04-26T21:18:32.000Z"
-  },
-  {
-    "id": "086f5e457ae3e990c57351f477f540bc457fe679",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "With Codex and GPT 5.5 you can just do things.",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/pDsd2FiMUt8/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/pDsd2FiMUt8",
-    "published": "2026-04-25T23:48:24.000Z"
   },
   {
     "id": "44c4289d7469e6a94e4ee1ff870eb04241aac1a3",
