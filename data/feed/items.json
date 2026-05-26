@@ -1,5 +1,53 @@
 [
   {
+    "id": "b35778bd9216693817a11043caeb1ce3f8ebf183",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "State of the software engineering job market in 2026",
+    "summary": "A deepdive into today’s tech jobs market, with exclusive data on software engineering jobs, the AI engineering boom, whether AI engineering is “replacing” software engineering hiring, and more",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!P4An!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29e3225d-e5fc-492f-a554-b000806a74d2_1220x1058.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/state-of-the-job-market-2026",
+    "published": "2026-05-26T18:10:59.000Z"
+  },
+  {
+    "id": "53f9221c01d1fed882c8227e3951767118d2da18",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Microsoft Copilot Cowork Exfiltrates Files",
+    "summary": "Microsoft Copilot Cowork Exfiltrates Files The biggest challenge in designing agentic systems continues to be preventing them from enabling attackers to exfiltrate data. In this case Microsoft...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
+    "published": "2026-05-26T15:36:48.000Z"
+  },
+  {
+    "id": "7604ec08f0ce82f471058dd3956470814f067198",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Paul Graham",
+    "summary": "A lot of the emails I get from founders are now written in a hard-hitting journalistic style. I know they're written by AI, because no founder ever wrote this way before. And once you realize...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything",
+    "published": "2026-05-26T15:02:30.000Z"
+  },
+  {
+    "id": "4a4d06da3f39c18fbf6e4c98ac4d1d4653d749a9",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Copilot CLI Tutorial #5 - Context Management",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/yi1B3WbzB3c/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=yi1B3WbzB3c",
+    "published": "2026-05-26T07:32:55.000Z"
+  },
+  {
     "id": "9a1e6ed4133b4c05c2c3a3785290d008573d674c",
     "source": "awesome-mcp-servers",
     "type": "repo",
@@ -60,6 +108,18 @@
     "published": "2026-05-25T23:58:17.000Z"
   },
   {
+    "id": "6556985bf24a642e4f7f44e3e97758a063d0e821",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal",
+    "summary": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal, in San Mateo County, CA, USWe took our new folding kayak out in the harbor and saw sea lions and harbor seals chilling on the...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything",
+    "published": "2026-05-25T23:08:00.000Z"
+  },
+  {
     "id": "6c9d7634189a210662b76c4181daeb8c7d99bc5b",
     "source": "Simon Willison",
     "type": "blog",
@@ -96,30 +156,6 @@
     "published": "2026-05-24T21:38:32.000Z"
   },
   {
-    "id": "27d273aae1ba07a2470638b163a961434ef3ec7d",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Armin Ronacher",
-    "summary": "The most frustrating failure mode right now is that people submit issues that are not in their own voice. They contain an observed problem somewhere, but it has been thrown into a clanker and the...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
-    "published": "2026-05-24T18:46:53.000Z"
-  },
-  {
-    "id": "27ba04d76eca1497e5fe2e6d7b25984ec563e329",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Mad House — Usborne Creepy Computer Games",
-    "summary": "Tool: Mad House — Usborne Creepy Computer Games Via Hacker News I learned that UK publisher Usborne published free PDFs of their 1980s Computer Books, some of which I remember working through on my...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything",
-    "published": "2026-05-24T17:14:11.000Z"
-  },
-  {
     "id": "db107ce3d5a70edf097beaa898bf1acc1a08b904",
     "source": "Riley Brown",
     "type": "video",
@@ -130,18 +166,6 @@
     "thumbnail": "https://i.ytimg.com/vi/52ltebR4Jnw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=52ltebR4Jnw",
     "published": "2026-05-23T22:29:01.000Z"
-  },
-  {
-    "id": "76211a8fd88c300fb044182cdc306ced2cef8880",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "On the",
-    "summary": "On the I learned a few new-to-me things about the element from this article by Ben Meyer: A can be followed by multiple You can optionally group the and elements in a for styling - but only a . You...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
-    "published": "2026-05-23T20:24:48.000Z"
   },
   {
     "id": "05045fbcb55dd4a300cd5e0414bddcd8e343e51d",
@@ -233,7 +257,7 @@
     "type": "video",
     "category": "voice",
     "lang": "en",
-    "title": "Give your LLM a Voice with Speech Engine",
+    "title": "Get Started with Speech Engine",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/gfCqXM9fTsA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=gfCqXM9fTsA",
@@ -612,18 +636,6 @@
     "published": "2026-05-07T00:00:00.000Z"
   },
   {
-    "id": "c1d6b9cbc800c6acb398e489c4fe5384b7142c34",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Designing Data-Intensive Applications: The Cloud & Doing the Right Thing",
-    "summary": "How the cloud changes the way we build applications, and why engineers’ ethical choices matter more than ever. Excerpt from the book, ‘Designing Data-Intensive Applications’, 2nd edition",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!C6W6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09e245ca-cbda-4c91-b38d-36c8074a7800_1310x940.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/designing-data-intensive-applications-book-excerpt",
-    "published": "2026-05-05T16:46:00.000Z"
-  },
-  {
     "id": "abec20eb78829486d842e18ebf5ef889f8ba7970",
     "source": "Riley Brown",
     "type": "video",
@@ -982,18 +994,6 @@
     "thumbnail": "https://i.ytimg.com/vi/HDo9BNE0pH4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=HDo9BNE0pH4",
     "published": "2026-04-14T08:49:51.000Z"
-  },
-  {
-    "id": "dd8bb56e3b3adbff1dc16427852b3d938ca137be",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Astro Crash Course #10 - Dynamic Routes",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/dxRwFTbgIwY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=dxRwFTbgIwY",
-    "published": "2026-04-13T07:30:00.000Z"
   },
   {
     "id": "d443927abbf2295e24e4ba7d9d956e8afeacfe81",
