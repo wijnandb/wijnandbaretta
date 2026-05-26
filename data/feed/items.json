@@ -1,5 +1,65 @@
 [
   {
+    "id": "9a1e6ed4133b4c05c2c3a3785290d008573d674c",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #6899 from Janadasroor/main",
+    "summary": "Merge pull request #6899 from Janadasroor/main Add Janadasroor/pg-mnemosyne-mcp to Databases",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/77b14d02f71c21561ff2e616781813f98769b461",
+    "published": "2026-05-26T03:27:58.000Z"
+  },
+  {
+    "id": "1166c568b9c4ab236c01038d97ed2c946e60dfdf",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "docs: add Glama score badge for pg-mnemosyne-mcp",
+    "summary": "docs: add Glama score badge for pg-mnemosyne-mcp",
+    "thumbnail": "https://avatars.githubusercontent.com/u/136129425?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/0be8257c3992868a08b1b55f0c0bec30f2d708a1",
+    "published": "2026-05-26T02:58:50.000Z"
+  },
+  {
+    "id": "a3ab76100f9da21c75253b12c764691d172ba76b",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "add Janadasroor/pg-mnemosyne-mcp to Databases",
+    "summary": "add Janadasroor/pg-mnemosyne-mcp to Databases",
+    "thumbnail": "https://avatars.githubusercontent.com/u/136129425?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/e07fea1da585467317f5a784be2f7a665e05c83e",
+    "published": "2026-05-26T02:49:27.000Z"
+  },
+  {
+    "id": "6d5e535f193580f9934059e0bfc5227b3c067873",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Corey Quinn",
+    "summary": "I cannot believe I'm saying this, but getting the literal Pope to canonize your product's specific technical limitations as a spiritual treatise is the single greatest act of vendor lobbying I have...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything",
+    "published": "2026-05-26T02:28:54.000Z"
+  },
+  {
+    "id": "c2e7831cc5c6c030a76ebbef6972a2e242767311",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Notes on Pope Leo XIV's encyclical on AI",
+    "summary": "Dropped this morning by the Vatican: Magnifica Humanitas of His Holiness Pope Leo XIV on Safeguarding the Human Person in the Time of Artificial Intelligence. This is a very interesting document....",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
+    "published": "2026-05-25T23:58:17.000Z"
+  },
+  {
     "id": "6c9d7634189a210662b76c4181daeb8c7d99bc5b",
     "source": "Simon Willison",
     "type": "blog",
@@ -96,18 +156,6 @@
     "published": "2026-05-23T04:21:17.000Z"
   },
   {
-    "id": "ec79cfe3c2ba9887fabac3f8cfb5cc655d9b8bbc",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "The memory shortage is causing a repricing of consumer electronics",
-    "summary": "The memory shortage is causing a repricing of consumer electronics David Oks provides the clearest explanation I've seen yet of why consumer products that use memory are likely to get significantly...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
-    "published": "2026-05-22T22:01:31.000Z"
-  },
-  {
     "id": "7ef464017bdd55d19702c780f9bc6923ba3fee51",
     "source": "ElevenLabs",
     "type": "video",
@@ -178,18 +226,6 @@
     "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/ab2507aa-9755-4e9d-9cbf-4c7f755a8527_1086x280.png",
     "url": "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
     "published": "2026-05-22T05:50:58.000Z"
-  },
-  {
-    "id": "28784bcad09c152d7efe06f89c856c748e1205c7",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
-    "summary": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service Back in 2024 Cox Media Group...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
-    "published": "2026-05-22T04:48:32.000Z"
   },
   {
     "id": "5b09e1ddfb8f6c460908159d706a473bdb0949d8",
@@ -658,42 +694,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
     "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/3cd24ab0136917ec8d8865575bf08d8861aef22b",
     "published": "2026-05-02T15:51:07.000Z"
-  },
-  {
-    "id": "61352d478c0522c04af0a303ed75a274e90879e7",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #4836 from IgorGanapolsky/add-thumbgate-mcp",
-    "summary": "Merge pull request #4836 from IgorGanapolsky/add-thumbgate-mcp Add ThumbGate to Developer Tools",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/d0abceeddf0929b0ea501b9c7cc94bfc682b3aab",
-    "published": "2026-05-02T15:51:01.000Z"
-  },
-  {
-    "id": "d6d3c2a56ddd1e698d95104695708c044dd2ae21",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Fix entry formatting",
-    "summary": "Fix entry formatting",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/9d7ea80cc1200453ec989c3bd397391ae2d3ca7e",
-    "published": "2026-05-02T15:41:25.000Z"
-  },
-  {
-    "id": "399c5bbb8bffc82813ae1041e198665c74a21e2b",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #5509 from andrealufino/aapl-ads-mcp",
-    "summary": "Merge pull request #5509 from andrealufino/aapl-ads-mcp Add aapl-ads-mcp for Apple Search Ads API",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/8d967d0a8f6831dcd25cdc884f6e2cbd152eee04",
-    "published": "2026-05-02T15:41:20.000Z"
   },
   {
     "id": "98c4762cc6b231dd983c38a736ab2e4d26ab7716",
