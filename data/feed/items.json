@@ -1,5 +1,53 @@
 [
   {
+    "id": "a53565c1423276b219c24862dcb3458f5508d08b",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "🔬ESMFold2: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
+    "summary": "Datasets vs. inductive bias, world models, and programmable biology",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!fuSJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F752765d3-f1e2-4a8f-a467-738c8b85e67b_1092x1224.png",
+    "url": "https://www.latent.space/p/esmfold2",
+    "published": "2026-05-27T17:46:16.000Z"
+  },
+  {
+    "id": "9fe3c254d58cd9030373d53f5e274eea61ff4ddd",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "I think Anthropic and OpenAI have found product-market fit",
+    "summary": "Anthropic are strongly rumored to be about to have their first profitable quarter. Stories are circulating of companies surprised at how expensive their LLM bills are becoming from usage by their...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything",
+    "published": "2026-05-27T16:38:35.000Z"
+  },
+  {
+    "id": "ddb0ed19da4a3645c985a11aafbc25ac20f7a4d6",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Building OpenCode with Dax Raad",
+    "summary": "Dax Raad, co-founder of OpenCode, joins the show to discuss their explosive growth, the limits of AI coding tools, and why engineering judgment still matters.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!YCsL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39bdfbb4-fb73-41d8-83cb-0ca4832aed49_1280x80.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/opencode",
+    "published": "2026-05-27T16:07:30.000Z"
+  },
+  {
+    "id": "9a6f06777993cf9e34b03d2773ae8e53fa4b2bef",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Copilot CLI Tutorial #6 - Plan Mode",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/DSoj3u6jCK0/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=DSoj3u6jCK0",
+    "published": "2026-05-27T08:36:39.000Z"
+  },
+  {
     "id": "9b68e2647c84b04da2a437d24eb5bc458d3e1779",
     "source": "Simon Willison",
     "type": "blog",
@@ -228,18 +276,6 @@
     "published": "2026-05-25T23:08:00.000Z"
   },
   {
-    "id": "6c9d7634189a210662b76c4181daeb8c7d99bc5b",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette 1.0a30",
-    "summary": "Release: datasette 1.0a30 The big new feature in this alpha is a new customizable \"Jump to...\" menu, described in detail in The extensible \"Jump to\" menu in Datasette 1.0a30 on the Datasette blog....",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
-    "published": "2026-05-24T23:52:37.000Z"
-  },
-  {
     "id": "db107ce3d5a70edf097beaa898bf1acc1a08b904",
     "source": "Riley Brown",
     "type": "video",
@@ -456,18 +492,6 @@
     "published": "2026-05-19T16:43:10.000Z"
   },
   {
-    "id": "8f8ee2e0b82e07f224a82b13ffc0791395b26752",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] How to land a job at a frontier lab (on Pretraining)",
-    "summary": "a quiet day before google i/o lets us amplify a notable blogpost",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!W6LK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e69d902-1d29-4e8c-834c-41e83b07223f_1194x604.png",
-    "url": "https://www.latent.space/p/ainews-how-to-land-a-job-at-a-frontier",
-    "published": "2026-05-19T07:31:40.000Z"
-  },
-  {
     "id": "b8eac55738e49f19310477d10994f95645053eff",
     "source": "Coding in Public",
     "type": "video",
@@ -646,18 +670,6 @@
     "thumbnail": "https://i.ytimg.com/vi/j2knrqAzYVY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
     "published": "2026-05-07T17:01:21.000Z"
-  },
-  {
-    "id": "9fc98c4dde909ab924255776fb338fabec71dfb5",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The Pulse: Did capacity shortages turn Anthropic hostile to devs?",
-    "summary": "Also: Amazon finally allows engineers to use Claude Code and Codex, Meta forcefully assigns engineers to data labelling work ahead of layoffs, more small “AI-forward” teams, and more",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!KGEL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F352b2ed9-f071-417a-8866-f2fea2d8abe8_1942x1020.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-did-capacity-shortages",
-    "published": "2026-05-07T16:45:31.000Z"
   },
   {
     "id": "bdec6c5ce6bf3b208c599a91bb6b86d7c7301c95",
@@ -982,18 +994,6 @@
     "thumbnail": null,
     "url": "https://directus.io/blog/migration-weekend",
     "published": "2026-04-15T13:54:00.000Z"
-  },
-  {
-    "id": "f4eebf6cfe78cf184587e79607dd770565d590ac",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Astro Crash Course #11 - Server Side Rendering",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/HDo9BNE0pH4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=HDo9BNE0pH4",
-    "published": "2026-04-14T08:49:51.000Z"
   },
   {
     "id": "d443927abbf2295e24e4ba7d9d956e8afeacfe81",
