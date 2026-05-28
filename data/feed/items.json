@@ -1,5 +1,53 @@
 [
   {
+    "id": "cf994e29e8de8aa1f71afdb35c01117083073be4",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "The Age of Async Agents — Cognition's Walden Yan & OpenInspect's Cole Murray",
+    "summary": "80% Devin Commits, Spec-to-PR Workflows, Full VMs, Agent Memory, and PMs Shipping Code",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!QPqO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c0a0107-653e-4c83-a249-c3308b1ed019_1498x844.png",
+    "url": "https://www.latent.space/p/cognition",
+    "published": "2026-05-28T18:41:24.000Z"
+  },
+  {
+    "id": "3f60aef02e31ef1eecfd24e4e6bf13ec37fffa91",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
+    "summary": "Top-down and bottom-up efforts to rationalize AI token spend, interesting AI coding stats from Cursor, GCP suspends $2M/month customer without warning, and more",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!jc0L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44648fa6-3c4b-4d02-84ee-bef090ea707d_1474x792.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-a-trend-of-trying-to-cut",
+    "published": "2026-05-28T16:57:38.000Z"
+  },
+  {
+    "id": "ebefe173c38077a9354eb42a093e2bee23d9b8a6",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Browsers Are Dead. Codex & Claude Just Replaced Them.",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/dSndHNRzFCg/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=dSndHNRzFCg",
+    "published": "2026-05-28T14:56:16.000Z"
+  },
+  {
+    "id": "8286fb09ffee842dce1a60cd06ca6ffd91f0bc3d",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Isolate your Voice with ElevenLabs",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/Dtw60jlRUpM/mqdefault.jpg",
+    "url": "https://www.youtube.com/shorts/Dtw60jlRUpM",
+    "published": "2026-05-28T12:17:09.000Z"
+  },
+  {
     "id": "ae8600009f30aa8ead2bd2cab457ceeaadac50f6",
     "source": "Latent Space",
     "type": "podcast",
@@ -24,6 +72,18 @@
     "published": "2026-05-28T04:30:00.000Z"
   },
   {
+    "id": "999ca2787ecc2b49f259e702a14db51488b89389",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "Astro 6.4",
+    "summary": "Astro 6.4 introduces a new pluggable Markdown processor API, a Rust-based Markdown processor for faster builds, and helpers to wire up experimental advanced routing with Cloudflare.",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/astro-640/",
+    "published": "2026-05-28T00:00:00.000Z"
+  },
+  {
     "id": "48184a94e9ec0f75150efbd9ee54532aeaff7fcd",
     "source": "Simon Willison",
     "type": "blog",
@@ -41,8 +101,8 @@
     "type": "podcast",
     "category": "ai",
     "lang": "en",
-    "title": "🔬ESMFold2: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
-    "summary": "Datasets vs. inductive bias, world models, and programmable biology",
+    "title": "🔬ESM: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
+    "summary": "Biohub’s Protein World Model: ESMC-6B, ESMFold2, 6.8B proteins, 1.1B structures, antibody design, SAEs, & the potential for programmable biology",
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!fuSJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F752765d3-f1e2-4a8f-a467-738c8b85e67b_1092x1224.png",
     "url": "https://www.latent.space/p/esmfold2",
     "published": "2026-05-27T17:46:16.000Z"
@@ -456,18 +516,6 @@
     "published": "2026-05-21T07:28:36.000Z"
   },
   {
-    "id": "c72c362505d3e774afcedecec8e17f9bfe6ef2c3",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Railway: The Agent-Native Cloud — Jake Cooper",
-    "summary": "3M Users, 100K Signups/Week, Own-Metal Data Centers, $200K+ Coding Agent Spend, and the Death of PRs",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!DrIQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd84197e2-29a5-4b80-b922-ae8343deac59_1078x1034.png",
-    "url": "https://www.latent.space/p/railway",
-    "published": "2026-05-20T22:42:06.000Z"
-  },
-  {
     "id": "d91a8f4b98f5ae2aa78f0ee2e7076df8b0310d16",
     "source": "ElevenLabs",
     "type": "video",
@@ -610,30 +658,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!YCsL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39bdfbb4-fb73-41d8-83cb-0ca4832aed49_1280x80.png",
     "url": "https://newsletter.pragmaticengineer.com/p/typescript-c-and-turbo-pascal-with",
     "published": "2026-05-13T17:06:59.000Z"
-  },
-  {
-    "id": "f5b86b7a579f8cc940fa164efefabcdf72b13bd9",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Get started with ElevenLabs Text to Speech",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/W-XF7uo0bpk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=W-XF7uo0bpk",
-    "published": "2026-05-12T19:15:09.000Z"
-  },
-  {
-    "id": "571b7bcf208e5b0b33f8b858db3f1b3f4eb1bfa3",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Revisiting “No Silver Bullets” in the age of AI",
-    "summary": "Does the noted “No Silver Bullets” paper by the author of a classic engineering book still hold up, 40 years later? Is AI the long-sought single silver bullet – or has one been around for years?",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!fo1L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11e17bb3-f81c-4b30-930b-202e336226a6_800x510.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the",
-    "published": "2026-05-12T17:10:28.000Z"
   },
   {
     "id": "360b19e9d5e43847d8b589083c6797319754481b",
@@ -802,18 +826,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/whats-new-april-2026/",
     "published": "2026-04-30T00:00:00.000Z"
-  },
-  {
-    "id": "410f2c6ced03013f0983a6e4994f4d7c3421da0f",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Learn 95% of Codex in 30 minutes",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/474wZZHoWN4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=474wZZHoWN4",
-    "published": "2026-04-29T02:08:15.000Z"
   },
   {
     "id": "a2d9206e1ecd675b78348718e6706a3410d3584e",
@@ -1186,17 +1198,5 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
     "url": "https://github.com/antfu/skills/commit/5ee89195a6f767aeaa5cd7a206e39f4eeb1a3523",
     "published": "2026-03-16T06:15:28.000Z"
-  },
-  {
-    "id": "e25663e69815f6ef55bb19c9cc9134e7597a80f9",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "feat: update vendored skills",
-    "summary": "feat: update vendored skills",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/a42879a5e99272b16296ea7d7592aaccb00ee464",
-    "published": "2026-03-13T08:09:02.000Z"
   }
 ]
