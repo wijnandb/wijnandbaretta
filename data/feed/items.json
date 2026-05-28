@@ -1,5 +1,41 @@
 [
   {
+    "id": "ae8600009f30aa8ead2bd2cab457ceeaadac50f6",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Cognition raises $1B in $26B Series D",
+    "summary": "coding is an uncapped TAM market",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!i6tW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1563dd3-9a40-45b1-9060-7ec196bf8e77_1316x1616.png",
+    "url": "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
+    "published": "2026-05-28T07:26:09.000Z"
+  },
+  {
+    "id": "55cba11daf92edec8b233e504c7aa61d2aef9b43",
+    "source": "AI Report",
+    "type": "podcast",
+    "category": "nl",
+    "lang": "nl",
+    "title": "Moeten alle Nederlanders gratis AI krijgen? + de paus blijkt een AI-nerd",
+    "summary": "Alexander draagt sinds kort Google's Fitbit Air, een schermloze tracker die hem de hele dag pushberichten stuurt als een AI-coach: het ding analyseert zijn nacht en praat hem richting zijn...",
+    "thumbnail": null,
+    "url": "https://www.aireport.nl/podcast/s/aireport/moeten_alle_nederlanders_gratis_ai_krijgen_de_paus_blijkt_een_ai-nerd",
+    "published": "2026-05-28T04:30:00.000Z"
+  },
+  {
+    "id": "48184a94e9ec0f75150efbd9ee54532aeaff7fcd",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "sqlite AGENTS.md",
+    "summary": "sqlite AGENTS.md SQLite gained an AGENTS.md file five days ago - but it's not intended for their own development, it's presumably aimed at people who are pointing agents at the SQLite codebase. It...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
+    "published": "2026-05-27T23:44:37.000Z"
+  },
+  {
     "id": "a53565c1423276b219c24862dcb3458f5508d08b",
     "source": "Latent Space",
     "type": "podcast",
@@ -264,18 +300,6 @@
     "published": "2026-05-25T23:58:17.000Z"
   },
   {
-    "id": "6556985bf24a642e4f7f44e3e97758a063d0e821",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal",
-    "summary": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal, in San Mateo County, CA, USWe took our new folding kayak out in the harbor and saw sea lions and harbor seals chilling on the...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything",
-    "published": "2026-05-25T23:08:00.000Z"
-  },
-  {
     "id": "db107ce3d5a70edf097beaa898bf1acc1a08b904",
     "source": "Riley Brown",
     "type": "video",
@@ -466,18 +490,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!E4-f!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcea314b0-b7f7-469d-aaf4-2d8a6bb172bf_1200x105.png",
     "url": "https://newsletter.pragmaticengineer.com/p/why-rust-is-different-with-alice",
     "published": "2026-05-20T16:22:00.000Z"
-  },
-  {
-    "id": "ea2cb7b986cf0b573ba93fe1b03b1aaa0a9989cd",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Google I/O 2026: Gemini 3.5 Flash, Omni (NanoBanana for Video), Spark (background agents), and Antigravity 2.0",
-    "summary": "Google has been busy!",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!haUt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F904f7a4e-f945-40e0-b980-024fc220d0b7_1524x912.png",
-    "url": "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
-    "published": "2026-05-20T03:34:17.000Z"
   },
   {
     "id": "185c94c1773cd9ecb562d1965bda94c1b52e04dc",
@@ -1138,18 +1150,6 @@
     "thumbnail": null,
     "url": "/tv/leap-week/from-zero-to-production",
     "published": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "id": "2c872118be12f16eb69d116f87851eb8bb4a6ebe",
-    "source": "AI Report",
-    "type": "podcast",
-    "category": "nl",
-    "lang": "nl",
-    "title": "Claude kan nu je computer bedienen vanuit de trein, maar moet je dat willen?",
-    "summary": "Dé Nederlandse podcast over kunstmatige intelligentie waar we uitzoeken welke invloed AI gaat hebben op ons werk, ons leven en de samenleving.",
-    "thumbnail": null,
-    "url": "https://www.aireport.nl/podcast/s/aireport/claude_kan_nu_je_computer_bedienen_vanuit_de_trein_maar_moet_je_dat_willen",
-    "published": "2026-03-26T18:19:55.000Z"
   },
   {
     "id": "18142191080a2094c4ce169a7673183dfe6bde19",
