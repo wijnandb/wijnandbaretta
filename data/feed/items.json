@@ -1,5 +1,77 @@
 [
   {
+    "id": "15c7430ebf78a447a24cfe5dc6291c0e05822985",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette 1.0a31",
+    "summary": "Release: datasette 1.0a31 Another significant alpha release, with two new headline features. Datasette now offers users with the necessary permissions the ability to both execute write queries...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/29/datasette/#atom-everything",
+    "published": "2026-05-29T03:32:02.000Z"
+  },
+  {
+    "id": "583481e4359c2e98839dadc3a3d6e9d448ebbae9",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Anthropic raises $965B Series H, releases Opus 4.8 and Dynamic Workflows/ultracode",
+    "summary": "Total Anthropic victory!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!9YXV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffeb0a3a2-e744-4174-a24b-be1fd75961bc_1888x1630.png",
+    "url": "https://www.latent.space/p/ainews-anthropic-raises-965b-series",
+    "published": "2026-05-29T02:07:24.000Z"
+  },
+  {
+    "id": "57e343324007784fb2e9fe430681e628393bc5ca",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Anthropic's run-rate revenue hits $47 billion",
+    "summary": "The most interesting thing about Anthropic's $65B Series H announcement is this line (emphasis mine): Since our Series G in February, adoption has continued to grow across global enterprise...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
+    "published": "2026-05-29T01:23:08.000Z"
+  },
+  {
+    "id": "2ce3047947b275b4e8bf61fc0467adb4a9865d3d",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Claude Opus 4.8: \"a modest but tangible improvement\"",
+    "summary": "Anthropic shipped Claude Opus 4.8 today. My favourite thing about it is this note in the release announcement: Users will find Opus 4.8 to be a modest but tangible improvement on its predecessor....",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything",
+    "published": "2026-05-28T23:59:50.000Z"
+  },
+  {
+    "id": "99f47b6ecf67b2366d8142f7a9ab9bb518d0d711",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "llm-anthropic 0.25.1",
+    "summary": "Release: llm-anthropic 0.25.1 New model: Claude Opus 4.8 (claude-opus-4.8). New -o fast 1 option for fast mode, for organizations with that feature enabled on their account. Default max_tokens for...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything",
+    "published": "2026-05-28T23:54:56.000Z"
+  },
+  {
+    "id": "d09f405de3bd48848c47d60f5183fdedf40b5e5e",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "markdown-svg-renderer",
+    "summary": "Tool: markdown-svg-renderer A slightly customized Markdown rendering tool with special treatment for fenced code SVG blocks - it both renders the image and provides a tab for switching to the code...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything",
+    "published": "2026-05-28T19:45:14.000Z"
+  },
+  {
     "id": "cf994e29e8de8aa1f71afdb35c01117083073be4",
     "source": "Latent Space",
     "type": "podcast",
@@ -29,7 +101,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Browsers Are Dead. Codex & Claude Just Replaced Them.",
+    "title": "Browsers Are Dead. Codex Just Replaced Them.",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/dSndHNRzFCg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=dSndHNRzFCg",
@@ -264,18 +336,6 @@
     "published": "2026-05-27T03:33:53.000Z"
   },
   {
-    "id": "8db067a93a337b88a4046a0fdfd8112bb51a454f",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "The pressure",
-    "summary": "The pressure Daniel Stenberg on the unprecedented level of pressure the curl team are facing right now thanks to the deluge of (credible) AI-assisted security issues being reported. The rate of...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/26/the-pressure/#atom-everything",
-    "published": "2026-05-26T23:48:45.000Z"
-  },
-  {
     "id": "218d8e3a9cc2544f378077adbfc436994516c16a",
     "source": "ElevenLabs",
     "type": "video",
@@ -300,30 +360,6 @@
     "published": "2026-05-26T18:10:59.000Z"
   },
   {
-    "id": "53f9221c01d1fed882c8227e3951767118d2da18",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Microsoft Copilot Cowork Exfiltrates Files",
-    "summary": "Microsoft Copilot Cowork Exfiltrates Files The biggest challenge in designing agentic systems continues to be preventing them from enabling attackers to exfiltrate data. In this case Microsoft...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
-    "published": "2026-05-26T15:36:48.000Z"
-  },
-  {
-    "id": "7604ec08f0ce82f471058dd3956470814f067198",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Paul Graham",
-    "summary": "A lot of the emails I get from founders are now written in a hard-hitting journalistic style. I know they're written by AI, because no founder ever wrote this way before. And once you realize...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything",
-    "published": "2026-05-26T15:02:30.000Z"
-  },
-  {
     "id": "4a4d06da3f39c18fbf6e4c98ac4d1d4653d749a9",
     "source": "Coding in Public",
     "type": "video",
@@ -334,30 +370,6 @@
     "thumbnail": "https://i.ytimg.com/vi/yi1B3WbzB3c/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=yi1B3WbzB3c",
     "published": "2026-05-26T07:32:55.000Z"
-  },
-  {
-    "id": "6d5e535f193580f9934059e0bfc5227b3c067873",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Corey Quinn",
-    "summary": "I cannot believe I'm saying this, but getting the literal Pope to canonize your product's specific technical limitations as a spiritual treatise is the single greatest act of vendor lobbying I have...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything",
-    "published": "2026-05-26T02:28:54.000Z"
-  },
-  {
-    "id": "c2e7831cc5c6c030a76ebbef6972a2e242767311",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Notes on Pope Leo XIV's encyclical on AI",
-    "summary": "Dropped this morning by the Vatican: Magnifica Humanitas of His Holiness Pope Leo XIV on Safeguarding the Human Person in the Time of Artificial Intelligence. This is a very interesting document....",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
-    "published": "2026-05-25T23:58:17.000Z"
   },
   {
     "id": "db107ce3d5a70edf097beaa898bf1acc1a08b904",
@@ -502,18 +514,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/marietje_schaake_over_de_macht_van_ai_de_vibe_shift_naar_codex_googles_ai-comeback",
     "published": "2026-05-21T16:53:49.000Z"
-  },
-  {
-    "id": "49c9de80a6ae16010928cd1d7bd5680ac5d9d232",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] OpenAI GPT-next disproves 80 year old Erdős planar unit distance problem for under $1000",
-    "summary": "a quiet day but a nice result in AI x mathematics",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!BIRC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ff7bdc0-79ef-49ce-a5c0-f7db89d60637_1098x1582.png",
-    "url": "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
-    "published": "2026-05-21T07:28:36.000Z"
   },
   {
     "id": "d91a8f4b98f5ae2aa78f0ee2e7076df8b0310d16",
