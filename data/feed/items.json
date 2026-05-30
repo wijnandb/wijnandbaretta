@@ -1,5 +1,17 @@
 [
   {
+    "id": "5458e397e474249c36e583a479ed859262f034d2",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Founders and Forward Deployed Engineers",
+    "summary": "a quiet day lets us highlight the new AIE WF focuses",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!SpLP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb92541e3-151a-4f10-8226-b86cb12eaca0_2332x1344.png",
+    "url": "https://www.latent.space/p/ainews-founders-and-forward-deployed",
+    "published": "2026-05-30T01:57:15.000Z"
+  },
+  {
     "id": "15c7430ebf78a447a24cfe5dc6291c0e05822985",
     "source": "Simon Willison",
     "type": "blog",
@@ -478,18 +490,6 @@
     "thumbnail": "https://i.ytimg.com/vi/gfCqXM9fTsA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=gfCqXM9fTsA",
     "published": "2026-05-21T20:49:05.000Z"
-  },
-  {
-    "id": "877fc1c751451ac6cee76c5485dd3be08b7dfab2",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Giving Agents Computers — Ivan Burazin, Daytona",
-    "summary": "We chat with Daytona's CEO about their insane 74% MoM Growth, 850K Daily Runs, Bare Metal Sandboxes, RL Evals, and the New Agent Cloud",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!67Tl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0cf76d9-c44f-4ffa-82e5-602a03bae88b_620x412.jpeg",
-    "url": "https://www.latent.space/p/daytona",
-    "published": "2026-05-21T20:37:40.000Z"
   },
   {
     "id": "a06cfbcccff28d9797b692e7a218d418a4df82ff",
