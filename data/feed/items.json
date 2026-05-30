@@ -1,5 +1,17 @@
 [
   {
+    "id": "11bd223a066222da99544aefab29df94f7c95f1d",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Daniel Jalkut",
+    "summary": "My take on AI is, essentially, everybody who’s against it is too against it and everybody who’s for it is too for it. &mdash; Daniel Jalkut, via John Gruber Tags: ai",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
+    "published": "2026-05-30T17:29:55.000Z"
+  },
+  {
     "id": "5458e397e474249c36e583a479ed859262f034d2",
     "source": "Latent Space",
     "type": "podcast",
@@ -226,18 +238,6 @@
     "thumbnail": "https://i.ytimg.com/vi/DSoj3u6jCK0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=DSoj3u6jCK0",
     "published": "2026-05-27T08:36:39.000Z"
-  },
-  {
-    "id": "9b68e2647c84b04da2a437d24eb5bc458d3e1779",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Kyle Ferrana",
-    "summary": "PICARD: Data, shields up DATA: Brilliant! Shields can reduce damage we sustain. Not immunity. Not hubris. Just prudence. It's not precaution—it's strategy. [camera shakes] WORF: HULL BREACHES ON NINE...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything",
-    "published": "2026-05-27T06:41:43.000Z"
   },
   {
     "id": "34cc4189c1a595d9f6812bec4b4364d879368bf4",
