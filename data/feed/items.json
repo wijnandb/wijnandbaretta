@@ -1,12 +1,60 @@
 [
   {
+    "id": "f7ebe9c9418f05bbc5ec068466c5b46ed0d8c773",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Karen Kwok for Reuters Breakingviews",
+    "summary": "Anthropic defines “run-rate revenue” in two parts. Use the last 28 days of sales ⁠from customers charged on a consumption basis and multiply it by 13. Then, multiply the monthly subscription take by...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything",
+    "published": "2026-05-31T01:48:12.000Z"
+  },
+  {
+    "id": "5adec00ed0ee479dbb7faaad0a392af9c7e9d7c8",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "How we contain Claude across products",
+    "summary": "How we contain Claude across products A complaint I often have about sandboxing products is that they are rarely thoroughly documented, and in the absence of detailed documentation it's hard to know...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+    "published": "2026-05-30T21:36:24.000Z"
+  },
+  {
+    "id": "c7b37ff394833ea543d0ec2193da90a7d0adb389",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Running Python ASGI apps in the browser via Pyodide + a service worker",
+    "summary": "Research: Running Python ASGI apps in the browser via Pyodide + a service worker Datasette Lite is my version of Datasette that runs entirely in the browser using Pyodide in WebAssembly. When I first...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
+    "published": "2026-05-30T21:02:16.000Z"
+  },
+  {
+    "id": "b7768415a92dbe17ac18e2764103eed2032489ff",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "I Am Retiring from Tech to Live Offline",
+    "summary": "I Am Retiring from Tech to Live Offline I've seen a lot of posts on forums from people threatening to quit their careers over AI. This is not one of those: Chad Whitacre is taking concrete steps,...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
+    "published": "2026-05-30T19:39:08.000Z"
+  },
+  {
     "id": "11bd223a066222da99544aefab29df94f7c95f1d",
     "source": "Simon Willison",
     "type": "blog",
     "category": "ai",
     "lang": "en",
     "title": "Quoting Daniel Jalkut",
-    "summary": "My take on AI is, essentially, everybody who’s against it is too against it and everybody who’s for it is too for it. &mdash; Daniel Jalkut, via John Gruber Tags: ai",
+    "summary": "My take on AI is, essentially, everybody who’s against it is too against it and everybody who’s for it is too for it. &mdash; Daniel Jalkut, via John Gruber Tags: ai, john-gruber",
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
     "published": "2026-05-30T17:29:55.000Z"
@@ -70,30 +118,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything",
     "published": "2026-05-28T23:59:50.000Z"
-  },
-  {
-    "id": "99f47b6ecf67b2366d8142f7a9ab9bb518d0d711",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm-anthropic 0.25.1",
-    "summary": "Release: llm-anthropic 0.25.1 New model: Claude Opus 4.8 (claude-opus-4.8). New -o fast 1 option for fast mode, for organizations with that feature enabled on their account. Default max_tokens for...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything",
-    "published": "2026-05-28T23:54:56.000Z"
-  },
-  {
-    "id": "d09f405de3bd48848c47d60f5183fdedf40b5e5e",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "markdown-svg-renderer",
-    "summary": "Tool: markdown-svg-renderer A slightly customized Markdown rendering tool with special treatment for fenced code SVG blocks - it both renders the image and provides a tab for switching to the code...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything",
-    "published": "2026-05-28T19:45:14.000Z"
   },
   {
     "id": "cf994e29e8de8aa1f71afdb35c01117083073be4",
@@ -180,18 +204,6 @@
     "published": "2026-05-28T00:00:00.000Z"
   },
   {
-    "id": "48184a94e9ec0f75150efbd9ee54532aeaff7fcd",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "sqlite AGENTS.md",
-    "summary": "sqlite AGENTS.md SQLite gained an AGENTS.md file five days ago - but it's not intended for their own development, it's presumably aimed at people who are pointing agents at the SQLite codebase. It...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
-    "published": "2026-05-27T23:44:37.000Z"
-  },
-  {
     "id": "a53565c1423276b219c24862dcb3458f5508d08b",
     "source": "Latent Space",
     "type": "podcast",
@@ -202,18 +214,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!fuSJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F752765d3-f1e2-4a8f-a467-738c8b85e67b_1092x1224.png",
     "url": "https://www.latent.space/p/esmfold2",
     "published": "2026-05-27T17:46:16.000Z"
-  },
-  {
-    "id": "9fe3c254d58cd9030373d53f5e274eea61ff4ddd",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "I think Anthropic and OpenAI have found product-market fit",
-    "summary": "Anthropic are strongly rumored to be about to have their first profitable quarter. Stories are circulating of companies surprised at how expensive their LLM bills are becoming from usage by their...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything",
-    "published": "2026-05-27T16:38:35.000Z"
   },
   {
     "id": "ddb0ed19da4a3645c985a11aafbc25ac20f7a4d6",
