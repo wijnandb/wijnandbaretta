@@ -1,5 +1,41 @@
 [
   {
+    "id": "e778c76ddd7947398f939aa95caa23a95727644e",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Why Video Agent models are next — Ethan He, xAI Grok Imagine",
+    "summary": "Inside xAI: Building Grok Imagine in 3 Months, Videogen vs World Models, and why Grok Imagine is so underrated. For the first time, we do a deep dive with the guy who led it!",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/video-agents",
+    "published": "2026-06-01T15:41:48.000Z"
+  },
+  {
+    "id": "d11963281f42e7ec0fca1666316bc80af6b312eb",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Hackathon with UK Government x ElevenLabs",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/cB9IK0vtCxA/mqdefault.jpg",
+    "url": "https://www.youtube.com/shorts/cB9IK0vtCxA",
+    "published": "2026-06-01T13:43:20.000Z"
+  },
+  {
+    "id": "992b1d26d8b89e3851a09e0b6b35d4bca9bdb471",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Copilot CLI Tutorial #7 - Skills",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/XEJDFeOYQXY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=XEJDFeOYQXY",
+    "published": "2026-06-01T08:53:45.000Z"
+  },
+  {
     "id": "79e8b3b3d720a9fc2b60588453fe346e8e28d00d",
     "source": "Simon Willison",
     "type": "blog",
@@ -492,18 +528,6 @@
     "published": "2026-05-22T08:12:35.000Z"
   },
   {
-    "id": "fe200fe72e51cc11988f3ce48369e056fb49147f",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] New AI Infra unicorns: Exa, Modal, TurboPuffer",
-    "summary": "a quiet day lets us feature fundraises!",
-    "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/ab2507aa-9755-4e9d-9cbf-4c7f755a8527_1086x280.png",
-    "url": "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
-    "published": "2026-05-22T05:50:58.000Z"
-  },
-  {
     "id": "5b09e1ddfb8f6c460908159d706a473bdb0949d8",
     "source": "ElevenLabs",
     "type": "video",
@@ -538,18 +562,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/marietje_schaake_over_de_macht_van_ai_de_vibe_shift_naar_codex_googles_ai-comeback",
     "published": "2026-05-21T16:53:49.000Z"
-  },
-  {
-    "id": "d91a8f4b98f5ae2aa78f0ee2e7076df8b0310d16",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Give your Agents a Voice with Speech Engine",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/i0FBvDQmrgM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=i0FBvDQmrgM",
-    "published": "2026-05-20T19:00:11.000Z"
   },
   {
     "id": "c53821f0bb655fd9f964111f38177f65ef0071dd",
@@ -994,18 +1006,6 @@
     "thumbnail": "https://i.ytimg.com/vi/1akdIvoZKvk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=1akdIvoZKvk",
     "published": "2026-04-18T08:32:00.000Z"
-  },
-  {
-    "id": "8c343efbebce3e6a6011ebace2dd64bfab38b27e",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Astro Crash Course #12 - Client Islands (React)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/gGGU4-9fuPA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=gGGU4-9fuPA",
-    "published": "2026-04-17T10:09:03.000Z"
   },
   {
     "id": "e62b96e5b83a87af29b8174650216dc36ed245b0",
