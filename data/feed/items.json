@@ -1,5 +1,41 @@
 [
   {
+    "id": "79e8b3b3d720a9fc2b60588453fe346e8e28d00d",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "May 2026 newsletter",
+    "summary": "I just sent out the May edition of my sponsors-only monthly newsletter. If you are a sponsor (or if you start a sponsorship now) you can access it here. This month: Al got expensive, and Anthropic...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything",
+    "published": "2026-06-01T04:45:00.000Z"
+  },
+  {
+    "id": "a28c8744e6147fa6dcc249e98cb52baba8fff81a",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette 1.0a32",
+    "summary": "Release: datasette 1.0a32 A minor bugfix release. Fixes a bug with INSERT ... RETURNING queries via the new /db/-/execute-write endpoint and a bunch of base_url issues which showed up when I was...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
+    "published": "2026-05-31T23:23:38.000Z"
+  },
+  {
+    "id": "3b427ab91b0be3031545c94442da42ede3c7c7d6",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "The Latest Codex Updates and The Truth about Opus 4.8",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/84NkgiTcOdo/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=84NkgiTcOdo",
+    "published": "2026-05-31T22:27:11.000Z"
+  },
+  {
     "id": "d66cbd6490f7bc6226bc7cdbd0a9e0bcbc956e9e",
     "source": "Simon Willison",
     "type": "blog",
@@ -96,18 +132,6 @@
     "published": "2026-05-30T01:57:15.000Z"
   },
   {
-    "id": "15c7430ebf78a447a24cfe5dc6291c0e05822985",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette 1.0a31",
-    "summary": "Release: datasette 1.0a31 Another significant alpha release, with two new headline features. Datasette now offers users with the necessary permissions the ability to both execute write queries...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/29/datasette/#atom-everything",
-    "published": "2026-05-29T03:32:02.000Z"
-  },
-  {
     "id": "583481e4359c2e98839dadc3a3d6e9d448ebbae9",
     "source": "Latent Space",
     "type": "podcast",
@@ -118,18 +142,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!9YXV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffeb0a3a2-e744-4174-a24b-be1fd75961bc_1888x1630.png",
     "url": "https://www.latent.space/p/ainews-anthropic-raises-965b-series",
     "published": "2026-05-29T02:07:24.000Z"
-  },
-  {
-    "id": "57e343324007784fb2e9fe430681e628393bc5ca",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Anthropic's run-rate revenue hits $47 billion",
-    "summary": "The most interesting thing about Anthropic's $65B Series H announcement is this line (emphasis mine): Since our Series G in February, adoption has continued to grow across global enterprise...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
-    "published": "2026-05-29T01:23:08.000Z"
   },
   {
     "id": "cf994e29e8de8aa1f71afdb35c01117083073be4",
@@ -401,7 +413,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "AI Agents: Every NEW Claude & Codex Feature Explained",
+    "title": "Every NEW Claude & Codex Feature Explained",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/52ltebR4Jnw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=52ltebR4Jnw",
@@ -804,18 +816,6 @@
     "published": "2026-04-30T16:56:41.000Z"
   },
   {
-    "id": "49c20e2e3083532623a33a9ea949f4c9727a020d",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "7 Tools That Make Codex 10x MORE Powerful",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/SNAlFLV9MBE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=SNAlFLV9MBE",
-    "published": "2026-04-30T01:19:44.000Z"
-  },
-  {
     "id": "800bfab7e9df1251e8fb4f738cc9b7030d0470b4",
     "source": "Astro",
     "type": "blog",
@@ -960,6 +960,18 @@
     "published": "2026-04-22T14:00:00.000Z"
   },
   {
+    "id": "9b52f0ea48b16c292ee71b6a7a160ed109540ae2",
+    "source": "Directus",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Evolving Our License for Long-Term Sustainability",
+    "summary": "The road to Directus v12 and an update on our license",
+    "thumbnail": null,
+    "url": "https://directus.io/blog/directus-v12-license-change",
+    "published": "2026-04-22T09:00:00.000Z"
+  },
+  {
     "id": "67ed3c7de58489501227976ed49d761f98f03311",
     "source": "AI Jason",
     "type": "video",
@@ -1006,6 +1018,30 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/laat_claude_je_helpen_in_word_wij_reden_in_zelfrijdende_tesla_hebben_de_studenten_van_vandaag_straks_nog_een_baan",
     "published": "2026-04-16T16:16:15.000Z"
+  },
+  {
+    "id": "dc2370f21b14d13b790b1cc6e7ba6e058d0cc392",
+    "source": "Directus",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "How I Turned a Month-Long Migration Into a Weekend Project (And You Can Too)",
+    "summary": "A runthrough of how to handle your data migration using the Directus MCP (Model Context Protocol) server and Claude CLI.",
+    "thumbnail": null,
+    "url": "https://directus.io/blog/migration-weekend",
+    "published": "2026-04-15T13:54:00.000Z"
+  },
+  {
+    "id": "d443927abbf2295e24e4ba7d9d956e8afeacfe81",
+    "source": "Directus",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Directus v11.17: Background Imports, Netlify Deployments, and a Translations Generator",
+    "summary": "A more capable deployment module, a smarter way to handle large data imports, and a utility that saves hours of translation setup work.",
+    "thumbnail": null,
+    "url": "https://directus.io/blog/directus-v11-17-release",
+    "published": "2026-04-10T14:25:00.000Z"
   },
   {
     "id": "823dba8ff65f0e94cd514f48aee78bcc4b2f579f",
@@ -1080,6 +1116,66 @@
     "published": "2026-03-31T00:00:00.000Z"
   },
   {
+    "id": "ca58332ff93fef7bc3b88fc92ba15e80a066c790",
+    "source": "Directus",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Leap Week 4 Highlights",
+    "summary": "Get the recap on the UI Era keynote, partner workshops, what’s next for Directus, a new community program and much more!",
+    "thumbnail": null,
+    "url": "https://directus.io/blog/leap-week-4-highlights",
+    "published": "2026-03-30T18:25:00.000Z"
+  },
+  {
+    "id": "0dd557b22002eeaea0dbfdf7201f092fb40e96e4",
+    "source": "Directus",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The UI Era is Shifting",
+    "summary": "Hear from Directus CEO & Co-Founder Ben Haynes on software is shifting from UI-first to data-first. When everyone can build an interface, what is actually valuable?",
+    "thumbnail": null,
+    "url": "/tv/leap-week/ui-era-shifting",
+    "published": "2026-03-27T00:00:00.000Z"
+  },
+  {
+    "id": "9eecbd46a296ce6e73ce0b099b6019f0fb7ef375",
+    "source": "Directus",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The Build-Off",
+    "summary": "Three builders. Three AI tools. One backend. Who can ship the best frontend in 30 minutes?",
+    "thumbnail": null,
+    "url": "/tv/leap-week/the-build-off",
+    "published": "2026-03-27T00:00:00.000Z"
+  },
+  {
+    "id": "c5f3427c35a2c7ba4c1a42d37066b209179c9b94",
+    "source": "Directus",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "AI in the Enterprise",
+    "summary": "How are enterprises giving teams access to AI while managing governance, data privacy, and risk?",
+    "thumbnail": null,
+    "url": "/tv/leap-week/ai-in-the-enterprise",
+    "published": "2026-03-27T00:00:00.000Z"
+  },
+  {
+    "id": "5dc69425faeb8d880c8ce9f85a1843524296e168",
+    "source": "Directus",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "From Zero to Production",
+    "summary": "Spin up a backend, connect a frontend, and deploy to production - all in one session. Featuring Railway.",
+    "thumbnail": null,
+    "url": "/tv/leap-week/from-zero-to-production",
+    "published": "2026-03-27T00:00:00.000Z"
+  },
+  {
     "id": "18142191080a2094c4ce169a7673183dfe6bde19",
     "source": "Astro",
     "type": "blog",
@@ -1102,101 +1198,5 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
     "url": "https://github.com/antfu/skills/commit/c35a5588a5158b5b404a14fb10469b2b6dc1952b",
     "published": "2026-03-16T06:16:21.000Z"
-  },
-  {
-    "id": "e5a6eb3ea910479a61aa64f36d34a6771ba1662f",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update",
-    "summary": "chore: update",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/5ee89195a6f767aeaa5cd7a206e39f4eeb1a3523",
-    "published": "2026-03-16T06:15:28.000Z"
-  },
-  {
-    "id": "e25663e69815f6ef55bb19c9cc9134e7597a80f9",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "feat: update vendored skills",
-    "summary": "feat: update vendored skills",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/a42879a5e99272b16296ea7d7592aaccb00ee464",
-    "published": "2026-03-13T08:09:02.000Z"
-  },
-  {
-    "id": "eecf7c25e969383c5b1ad20eaf32df2b407fd6c4",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update deps",
-    "summary": "chore: update deps",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/b65fff3244cb95f366b82e7d9114ed762ecbfa38",
-    "published": "2026-03-13T08:06:41.000Z"
-  },
-  {
-    "id": "b682d8b0847d6ba0809c5de36f5876fc2b085642",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: clone nitro",
-    "summary": "chore: clone nitro",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/59953cce865040cf6b27c7e4c304323ddd9cf89d",
-    "published": "2026-03-13T08:05:00.000Z"
-  },
-  {
-    "id": "befbc3d3600476d59126628044f330a697199afa",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "wtf is Harness Engineer & why is it important",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/kJPvfoLtFFY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=kJPvfoLtFFY",
-    "published": "2026-03-05T10:17:00.000Z"
-  },
-  {
-    "id": "4770ec1b443a03b1cd79035953bf57d4cdca5375",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "How to prompt Gemini 3.1 for Epic animations",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/kcOowmrVI7k/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=kcOowmrVI7k",
-    "published": "2026-02-25T11:40:51.000Z"
-  },
-  {
-    "id": "664e49577c778d762a57109f437cc6148215c4b7",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Anthropic killed Tool calling",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/3wglqgskzjQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=3wglqgskzjQ",
-    "published": "2026-02-22T10:42:01.000Z"
-  },
-  {
-    "id": "bec97ac3ce791fba9b95d5662ecf2249c7aaef36",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Agent memory resolved?",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/pAIF7vZm5k0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=pAIF7vZm5k0",
-    "published": "2026-02-18T10:59:14.000Z"
   }
 ]
