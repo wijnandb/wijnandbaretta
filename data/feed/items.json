@@ -1,5 +1,53 @@
 [
   {
+    "id": "b9a6d5506233fd35d3972e985adae44c735942d6",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "GitHub's plan for Agents — Kyle Daigle, GitHub",
+    "summary": "GitHub pioneered the modern AI coding era with Copilot, and the resulting explosion in agentic coding has led to notable strains on the most popular developer platform in the world. Here's the plan.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!MG5m!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ec41954-9498-4c2f-b23a-81e2bae29f82_2761x1579.png",
+    "url": "https://www.latent.space/p/github",
+    "published": "2026-06-02T16:48:21.000Z"
+  },
+  {
+    "id": "806a7d29b3136fb660ac480564610fea453d3285",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Ideas: slow down to speed up when working with AI agents",
+    "summary": "Devs are generating twice as much code (or more) than just 6 months ago, which is a problem for quality, reliability, and tech debt. A rational fix is available for these, but who’s acting rationally?",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!vg8z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2eb13752-d141-4958-948f-223fa5cf58fa_1024x559.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/ideas-slow-down-to-speed-up-when",
+    "published": "2026-06-02T16:42:23.000Z"
+  },
+  {
+    "id": "14903e12ef60d49deb828db3b402cb9138c97a7b",
+    "source": "AI Jason",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "How to build proactive agents & self-improving company (Fully explained)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/ikH1--DSzMs/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=ikH1--DSzMs",
+    "published": "2026-06-02T12:17:34.000Z"
+  },
+  {
+    "id": "ada4218588d353d4c3158879eced77c0a3e185f8",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Copilot CLI Tutorial #8 - MCP Servers",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/LXlIKGcgNlE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=LXlIKGcgNlE",
+    "published": "2026-06-02T08:50:39.000Z"
+  },
+  {
     "id": "7f29975fce02aec610dacee09b176f93dde8397d",
     "source": "Simon Willison",
     "type": "blog",
@@ -22,18 +70,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!5bzA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6685277-4569-4135-92cb-e7a645246125_4096x2732.jpeg",
     "url": "https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3",
     "published": "2026-06-02T03:28:10.000Z"
-  },
-  {
-    "id": "5825bc3a3f4c6ec1c0d119fb5187324d50062b60",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Unlock 95% of Notion With Codex",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/YGWcFMR8gk8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=YGWcFMR8gk8",
-    "published": "2026-06-01T21:41:43.000Z"
   },
   {
     "id": "56e85ad23e0aaf9d61d9b45eeb11d7ead5f33069",
@@ -420,18 +456,6 @@
     "published": "2026-05-27T03:38:12.000Z"
   },
   {
-    "id": "faa8e07ec50ee288ea9bca49956f0b6b48d3dc02",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] New AI Infra decacorns: Fireworks, Baseten (with OpenRouter on the way)",
-    "summary": "it's funding news, but it's good news.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!FXB0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHJQGFgQbgAArjoi.png",
-    "url": "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
-    "published": "2026-05-27T03:33:53.000Z"
-  },
-  {
     "id": "218d8e3a9cc2544f378077adbfc436994516c16a",
     "source": "ElevenLabs",
     "type": "video",
@@ -696,18 +720,6 @@
     "published": "2026-05-14T16:09:57.000Z"
   },
   {
-    "id": "8f8db2ee4ba3e6c920d7868d6f0bc30a6ef31d9e",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "TypeScript, C# and Turbo Pascal with Anders Hejlsberg",
-    "summary": "Anders Hejlsberg reflects on building Turbo Pascal, C#, and TypeScript, and shares what AI may change about the future of software engineering.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!YCsL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39bdfbb4-fb73-41d8-83cb-0ca4832aed49_1280x80.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/typescript-c-and-turbo-pascal-with",
-    "published": "2026-05-13T17:06:59.000Z"
-  },
-  {
     "id": "360b19e9d5e43847d8b589083c6797319754481b",
     "source": "AI Jason",
     "type": "video",
@@ -790,6 +802,18 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/starlight-039/",
     "published": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "abec20eb78829486d842e18ebf5ef889f8ba7970",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Codex is The NEW Best AI Coding Tool (Here's Why)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/FU2iB-UfPPA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=FU2iB-UfPPA",
+    "published": "2026-05-02T20:35:06.000Z"
   },
   {
     "id": "98c4762cc6b231dd983c38a736ab2e4d26ab7716",
@@ -996,18 +1020,6 @@
     "published": "2026-04-21T12:04:32.000Z"
   },
   {
-    "id": "9b439887f70f655b67fcf2ef821564962aea6bb2",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Astro Crash Course #13 - Deploying to Netlify",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/1akdIvoZKvk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=1akdIvoZKvk",
-    "published": "2026-04-18T08:32:00.000Z"
-  },
-  {
     "id": "e62b96e5b83a87af29b8174650216dc36ed245b0",
     "source": "AI Report",
     "type": "podcast",
@@ -1186,17 +1198,5 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/astro-610/",
     "published": "2026-03-26T00:00:00.000Z"
-  },
-  {
-    "id": "66c7e82297ae50c5c9db57b94318cbbd2773e23c",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "feat: update skills",
-    "summary": "feat: update skills",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/c35a5588a5158b5b404a14fb10469b2b6dc1952b",
-    "published": "2026-03-16T06:16:21.000Z"
   }
 ]
