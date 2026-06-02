@@ -1,5 +1,53 @@
 [
   {
+    "id": "7f29975fce02aec610dacee09b176f93dde8397d",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Pasted File Editor",
+    "summary": "Tool: Pasted File Editor I really like how you can paste a large volume of text into claude.ai (or the Claude desktop/mobile apps) and it will detect it as a large paste and turn it into a file...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
+    "published": "2026-06-02T04:13:36.000Z"
+  },
+  {
+    "id": "5a1b496d47f864c2fffcf6e97858311d459fb101",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] NVIDIA Cosmos 3, Nemotron 3 Ultra, and RTX Spark",
+    "summary": "Jensen scores a huge win.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!5bzA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6685277-4569-4135-92cb-e7a645246125_4096x2732.jpeg",
+    "url": "https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3",
+    "published": "2026-06-02T03:28:10.000Z"
+  },
+  {
+    "id": "5825bc3a3f4c6ec1c0d119fb5187324d50062b60",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Unlock 95% of Notion With Codex",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/YGWcFMR8gk8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=YGWcFMR8gk8",
+    "published": "2026-06-01T21:41:43.000Z"
+  },
+  {
+    "id": "56e85ad23e0aaf9d61d9b45eeb11d7ead5f33069",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
+    "summary": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked I had trouble believing this story was true, but I've seen it verified from multiple sources now: One...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything",
+    "published": "2026-06-01T21:14:47.000Z"
+  },
+  {
     "id": "e778c76ddd7947398f939aa95caa23a95727644e",
     "source": "Latent Space",
     "type": "podcast",
@@ -120,18 +168,6 @@
     "published": "2026-05-30T21:36:24.000Z"
   },
   {
-    "id": "c7b37ff394833ea543d0ec2193da90a7d0adb389",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Running Python ASGI apps in the browser via Pyodide + a service worker",
-    "summary": "Research: Running Python ASGI apps in the browser via Pyodide + a service worker Datasette Lite is my version of Datasette that runs entirely in the browser using Pyodide in WebAssembly. When I first...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
-    "published": "2026-05-30T21:02:16.000Z"
-  },
-  {
     "id": "b7768415a92dbe17ac18e2764103eed2032489ff",
     "source": "Simon Willison",
     "type": "blog",
@@ -142,18 +178,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
     "published": "2026-05-30T19:39:08.000Z"
-  },
-  {
-    "id": "11bd223a066222da99544aefab29df94f7c95f1d",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Daniel Jalkut",
-    "summary": "My take on AI is, essentially, everybody who’s against it is too against it and everybody who’s for it is too for it. &mdash; Daniel Jalkut, via John Gruber Tags: ai, john-gruber",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
-    "published": "2026-05-30T17:29:55.000Z"
   },
   {
     "id": "5458e397e474249c36e583a479ed859262f034d2",
@@ -454,18 +478,6 @@
     "thumbnail": "https://i.ytimg.com/vi/52ltebR4Jnw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=52ltebR4Jnw",
     "published": "2026-05-23T22:29:01.000Z"
-  },
-  {
-    "id": "05045fbcb55dd4a300cd5e0414bddcd8e343e51d",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] All Model Labs are now Agent Labs",
-    "summary": "a quiet day lets us tie together a few quotes as all model labs become agent labs",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!TLyU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F348d0573-16b0-46d0-a852-ccaae2b6ff4f_1122x534.png",
-    "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
-    "published": "2026-05-23T04:21:17.000Z"
   },
   {
     "id": "7ef464017bdd55d19702c780f9bc6923ba3fee51",
@@ -780,18 +792,6 @@
     "published": "2026-05-07T00:00:00.000Z"
   },
   {
-    "id": "abec20eb78829486d842e18ebf5ef889f8ba7970",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Codex is The NEW Best AI Coding Tool (Here's Why)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/FU2iB-UfPPA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=FU2iB-UfPPA",
-    "published": "2026-05-02T20:35:06.000Z"
-  },
-  {
     "id": "98c4762cc6b231dd983c38a736ab2e4d26ab7716",
     "source": "AI Jason",
     "type": "video",
@@ -972,7 +972,7 @@
     "published": "2026-04-22T14:00:00.000Z"
   },
   {
-    "id": "9b52f0ea48b16c292ee71b6a7a160ed109540ae2",
+    "id": "509d981fa01d3cc78dbe77b6aa7131221713faa1",
     "source": "Directus",
     "type": "blog",
     "category": "systems",
@@ -980,7 +980,7 @@
     "title": "Evolving Our License for Long-Term Sustainability",
     "summary": "The road to Directus v12 and an update on our license",
     "thumbnail": null,
-    "url": "https://directus.io/blog/directus-v12-license-change",
+    "url": "https://directus.com/resources/directus-v12-license-change",
     "published": "2026-04-22T09:00:00.000Z"
   },
   {
@@ -1020,7 +1020,7 @@
     "published": "2026-04-16T16:16:15.000Z"
   },
   {
-    "id": "dc2370f21b14d13b790b1cc6e7ba6e058d0cc392",
+    "id": "8c811deb3de31c2052dbc33f7e848571d866568b",
     "source": "Directus",
     "type": "blog",
     "category": "systems",
@@ -1028,11 +1028,11 @@
     "title": "How I Turned a Month-Long Migration Into a Weekend Project (And You Can Too)",
     "summary": "A runthrough of how to handle your data migration using the Directus MCP (Model Context Protocol) server and Claude CLI.",
     "thumbnail": null,
-    "url": "https://directus.io/blog/migration-weekend",
+    "url": "https://directus.com/resources/migration-weekend",
     "published": "2026-04-15T13:54:00.000Z"
   },
   {
-    "id": "d443927abbf2295e24e4ba7d9d956e8afeacfe81",
+    "id": "d25305cc0a4fece42b8150bcc903c09a63bed6af",
     "source": "Directus",
     "type": "blog",
     "category": "systems",
@@ -1040,7 +1040,7 @@
     "title": "Directus v11.17: Background Imports, Netlify Deployments, and a Translations Generator",
     "summary": "A more capable deployment module, a smarter way to handle large data imports, and a utility that saves hours of translation setup work.",
     "thumbnail": null,
-    "url": "https://directus.io/blog/directus-v11-17-release",
+    "url": "https://directus.com/resources/directus-v11-17-release",
     "published": "2026-04-10T14:25:00.000Z"
   },
   {
@@ -1116,7 +1116,7 @@
     "published": "2026-03-31T00:00:00.000Z"
   },
   {
-    "id": "ca58332ff93fef7bc3b88fc92ba15e80a066c790",
+    "id": "1e43f5857f51ebcd22f7a6ac27c39cbada43cf85",
     "source": "Directus",
     "type": "blog",
     "category": "systems",
@@ -1124,7 +1124,7 @@
     "title": "Leap Week 4 Highlights",
     "summary": "Get the recap on the UI Era keynote, partner workshops, what’s next for Directus, a new community program and much more!",
     "thumbnail": null,
-    "url": "https://directus.io/blog/leap-week-4-highlights",
+    "url": "https://directus.com/resources/leap-week-4-highlights",
     "published": "2026-03-30T18:25:00.000Z"
   },
   {
