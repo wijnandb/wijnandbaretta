@@ -1,5 +1,65 @@
 [
   {
+    "id": "54af4e8bb7d03df78bd55fc6ddd16ea504d45805",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Microsoft Build: MAI-Thinking-1 and MAI Family models",
+    "summary": "Microsoft Build recap, and new MAI model technical details",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!PL7Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e8ca90a-629c-44d5-af2f-0b0cd2a60aa2_1510x886.png",
+    "url": "https://www.latent.space/p/ainews-microsoft-build-mai-thinking",
+    "published": "2026-06-03T05:49:02.000Z"
+  },
+  {
+    "id": "c816d7a197b50c6e581a10a43b087ca79b6ad2d3",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Microsoft's new MAI models",
+    "summary": "Microsoft announced two new text LLMs this morning - MAI-Thinking-1 (reasoning, 1T parameters, 35B active, available to \"select early partners\") and MAI-Code-1-Flash (137B Parameters, 5B active,...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
+    "published": "2026-06-02T22:21:52.000Z"
+  },
+  {
+    "id": "5d60f9081ef37ded85470c01d7f273f58cabbe9f",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette-agent-micropython 0.1a0",
+    "summary": "Release: datasette-agent-micropython 0.1a0 I want Datasette Agent to be able to generate and execute Python code safely. This alpha is looking promising so far. GPT-5.5 has so far failed to break out...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
+    "published": "2026-06-02T19:28:36.000Z"
+  },
+  {
+    "id": "e0692f7d4dfcc4f03c709a378348700daeb8f78a",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "micropython-wasm 0.1a1",
+    "summary": "Release: micropython-wasm 0.1a1 Fixes for some limitations that emerged while I was trying to use this to build datasette-agent-micropython. Tags: python, sandboxing, webassembly",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything",
+    "published": "2026-06-02T19:20:47.000Z"
+  },
+  {
+    "id": "5f6a0986a0a01973826911f7530d74e5a9dd56be",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "California Brown Pelican",
+    "summary": "California Brown Pelican, in Fort Mason, CA, USI'm at the Microsoft Build conference today, held at Fort Mason in San Francisco. There are California Brown Pelicans diving into the water directly...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything",
+    "published": "2026-06-02T18:17:03.000Z"
+  },
+  {
     "id": "b9a6d5506233fd35d3972e985adae44c735942d6",
     "source": "Latent Space",
     "type": "podcast",
@@ -58,6 +118,18 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
     "published": "2026-06-02T04:13:36.000Z"
+  },
+  {
+    "id": "807ab86ab9daa6c593d140f6dfb0bdf413e92201",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "micropython-wasm 0.1a0",
+    "summary": "Release: micropython-wasm 0.1a0 My latest sandboxing experiment: This alpha package bundles a lightly customized WASM build of MicroPython with a wrapper to execute code in it via wasmtime. Tags:...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/2/micropython-wasm-2/#atom-everything",
+    "published": "2026-06-02T03:43:45.000Z"
   },
   {
     "id": "5a1b496d47f864c2fffcf6e97858311d459fb101",
@@ -132,18 +204,6 @@
     "published": "2026-06-01T04:45:00.000Z"
   },
   {
-    "id": "a28c8744e6147fa6dcc249e98cb52baba8fff81a",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette 1.0a32",
-    "summary": "Release: datasette 1.0a32 A minor bugfix release. Fixes a bug with INSERT ... RETURNING queries via the new /db/-/execute-write endpoint and a bunch of base_url issues which showed up when I was...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
-    "published": "2026-05-31T23:23:38.000Z"
-  },
-  {
     "id": "3b427ab91b0be3031545c94442da42ede3c7c7d6",
     "source": "Riley Brown",
     "type": "video",
@@ -156,30 +216,6 @@
     "published": "2026-05-31T22:27:11.000Z"
   },
   {
-    "id": "d66cbd6490f7bc6226bc7cdbd0a9e0bcbc956e9e",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "The solution might be cancelling my AI subscription",
-    "summary": "The solution might be cancelling my AI subscription I find this post by David Wilson very relatable. David lists 16+ projects he's spun up with AI tooling, and concludes: I didn't mean to build most...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything",
-    "published": "2026-05-31T16:31:32.000Z"
-  },
-  {
-    "id": "f7ebe9c9418f05bbc5ec068466c5b46ed0d8c773",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Karen Kwok for Reuters Breakingviews",
-    "summary": "Anthropic defines “run-rate revenue” in two parts. Use the last 28 days of sales ⁠from customers charged on a consumption basis and multiply it by 13. Then, multiply the monthly subscription take by...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything",
-    "published": "2026-05-31T01:48:12.000Z"
-  },
-  {
     "id": "0a681af572e37e36561fd4902f5c2cf106704b09",
     "source": "Astro",
     "type": "blog",
@@ -190,30 +226,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/whats-new-may-2026/",
     "published": "2026-05-31T00:00:00.000Z"
-  },
-  {
-    "id": "5adec00ed0ee479dbb7faaad0a392af9c7e9d7c8",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "How we contain Claude across products",
-    "summary": "How we contain Claude across products A complaint I often have about sandboxing products is that they are rarely thoroughly documented, and in the absence of detailed documentation it's hard to know...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
-    "published": "2026-05-30T21:36:24.000Z"
-  },
-  {
-    "id": "b7768415a92dbe17ac18e2764103eed2032489ff",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "I Am Retiring from Tech to Live Offline",
-    "summary": "I Am Retiring from Tech to Live Offline I've seen a lot of posts on forums from people threatening to quit their careers over AI. This is not one of those: Chad Whitacre is taking concrete steps,...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
-    "published": "2026-05-30T19:39:08.000Z"
   },
   {
     "id": "5458e397e474249c36e583a479ed859262f034d2",
@@ -322,18 +334,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/astro-640/",
     "published": "2026-05-28T00:00:00.000Z"
-  },
-  {
-    "id": "a53565c1423276b219c24862dcb3458f5508d08b",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "🔬ESM: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
-    "summary": "Biohub’s Protein World Model: ESMC-6B, ESMFold2, 6.8B proteins, 1.1B structures, antibody design, SAEs, & the potential for programmable biology",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!fuSJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F752765d3-f1e2-4a8f-a467-738c8b85e67b_1092x1224.png",
-    "url": "https://www.latent.space/p/esmfold2",
-    "published": "2026-05-27T17:46:16.000Z"
   },
   {
     "id": "ddb0ed19da4a3645c985a11aafbc25ac20f7a4d6",
