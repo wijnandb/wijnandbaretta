@@ -1,5 +1,53 @@
 [
   {
+    "id": "5b15e9e57c5cf2d89e5044a14a5d84b19671859a",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "🔬Scaling Past Informal AI - Carina Hong, Axiom Math",
+    "summary": "Verified Generation and Compounding Intelligence",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/axiom",
+    "published": "2026-06-03T19:27:49.000Z"
+  },
+  {
+    "id": "53cd4387079a76fded0613b10b941d2d98a7946e",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Kubernetes and retiring at the top with Kelsey Hightower",
+    "summary": "Kelsey Hightower reflects on his journey from self-taught technician to Google Distinguished Engineer, sharing lessons on open source, Kubernetes, AI, and building technology that serves people.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!HVBB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a9e89e3-866b-4248-91a9-e6461be25cd8_1497x131.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/kubernetes-and-retiring-at-the-top",
+    "published": "2026-06-03T17:59:17.000Z"
+  },
+  {
+    "id": "ff27835d3e09ed1e2a733cb7823296278e090807",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "⚡️Satya Nadella: No Priors x Latent Space Crossover Special at Microsoft Build",
+    "summary": "The legendary Microsoft CEO makes his first Latent Space appearance!",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/satya-2026",
+    "published": "2026-06-03T17:13:57.000Z"
+  },
+  {
+    "id": "29c7b211e523b24661570bbbe47ce7b606bc6208",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
+    "summary": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
+    "published": "2026-06-03T12:01:27.000Z"
+  },
+  {
     "id": "54af4e8bb7d03df78bd55fc6ddd16ea504d45805",
     "source": "Latent Space",
     "type": "podcast",
@@ -192,18 +240,6 @@
     "published": "2026-06-01T08:53:45.000Z"
   },
   {
-    "id": "79e8b3b3d720a9fc2b60588453fe346e8e28d00d",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "May 2026 newsletter",
-    "summary": "I just sent out the May edition of my sponsors-only monthly newsletter. If you are a sponsor (or if you start a sponsorship now) you can access it here. This month: Al got expensive, and Anthropic...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything",
-    "published": "2026-06-01T04:45:00.000Z"
-  },
-  {
     "id": "3b427ab91b0be3031545c94442da42ede3c7c7d6",
     "source": "Riley Brown",
     "type": "video",
@@ -252,18 +288,6 @@
     "published": "2026-05-29T02:07:24.000Z"
   },
   {
-    "id": "cf994e29e8de8aa1f71afdb35c01117083073be4",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "The Age of Async Agents — Cognition's Walden Yan & OpenInspect's Cole Murray",
-    "summary": "80% Devin Commits, Spec-to-PR Workflows, Full VMs, Agent Memory, and PMs Shipping Code",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!QPqO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c0a0107-653e-4c83-a249-c3308b1ed019_1498x844.png",
-    "url": "https://www.latent.space/p/cognition",
-    "published": "2026-05-28T18:41:24.000Z"
-  },
-  {
     "id": "3f60aef02e31ef1eecfd24e4e6bf13ec37fffa91",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -298,18 +322,6 @@
     "thumbnail": "https://i.ytimg.com/vi/Dtw60jlRUpM/mqdefault.jpg",
     "url": "https://www.youtube.com/shorts/Dtw60jlRUpM",
     "published": "2026-05-28T12:17:09.000Z"
-  },
-  {
-    "id": "ae8600009f30aa8ead2bd2cab457ceeaadac50f6",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Cognition raises $1B in $26B Series D",
-    "summary": "coding is an uncapped TAM market",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!i6tW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1563dd3-9a40-45b1-9060-7ec196bf8e77_1316x1616.png",
-    "url": "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
-    "published": "2026-05-28T07:26:09.000Z"
   },
   {
     "id": "55cba11daf92edec8b233e504c7aa61d2aef9b43",
@@ -706,18 +718,6 @@
     "thumbnail": "https://i.ytimg.com/vi/4OiLljSo-hw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4OiLljSo-hw",
     "published": "2026-05-15T01:35:52.000Z"
-  },
-  {
-    "id": "c1ec95ebdd86f685ce39389faa8377fc6bbc2afa",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The Pulse: Forward deployed engineering heats up again",
-    "summary": "Also: a look into rising tech job losses, self-reporting 100% AI usage at big companies, vibe coding & agentic engineering merging, and more",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!RbLf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e0e23f7-eda1-4ceb-9cd0-37106afa3828_1202x684.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-forward-deployed-engineering",
-    "published": "2026-05-14T16:09:57.000Z"
   },
   {
     "id": "360b19e9d5e43847d8b589083c6797319754481b",
