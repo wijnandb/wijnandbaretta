@@ -1,5 +1,29 @@
 [
   {
+    "id": "91a4ee214fae5415cb74dedb8636aa0c878039ec",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Reve 2 and Ideogram 4: Layouts in Imagegen",
+    "summary": "a quiet day.",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/ainews-reve-2-and-ideogram-4-layouts",
+    "published": "2026-06-04T03:24:07.000Z"
+  },
+  {
+    "id": "7f6f2b27ca82c1e791df5ef9f4a38f9599e76845",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "ChatGPT And Codex Are Merging (This Changes Everything)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/j--dqLJxrtE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=j--dqLJxrtE",
+    "published": "2026-06-03T22:17:45.000Z"
+  },
+  {
     "id": "5b15e9e57c5cf2d89e5044a14a5d84b19671859a",
     "source": "Latent Space",
     "type": "podcast",
@@ -274,18 +298,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!SpLP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb92541e3-151a-4f10-8226-b86cb12eaca0_2332x1344.png",
     "url": "https://www.latent.space/p/ainews-founders-and-forward-deployed",
     "published": "2026-05-30T01:57:15.000Z"
-  },
-  {
-    "id": "583481e4359c2e98839dadc3a3d6e9d448ebbae9",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Anthropic raises $965B Series H, releases Opus 4.8 and Dynamic Workflows/ultracode",
-    "summary": "Total Anthropic victory!",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!9YXV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffeb0a3a2-e744-4174-a24b-be1fd75961bc_1888x1630.png",
-    "url": "https://www.latent.space/p/ainews-anthropic-raises-965b-series",
-    "published": "2026-05-29T02:07:24.000Z"
   },
   {
     "id": "3f60aef02e31ef1eecfd24e4e6bf13ec37fffa91",
@@ -802,18 +814,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/starlight-039/",
     "published": "2026-05-07T00:00:00.000Z"
-  },
-  {
-    "id": "abec20eb78829486d842e18ebf5ef889f8ba7970",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Codex is The NEW Best AI Coding Tool (Here's Why)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/FU2iB-UfPPA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=FU2iB-UfPPA",
-    "published": "2026-05-02T20:35:06.000Z"
   },
   {
     "id": "98c4762cc6b231dd983c38a736ab2e4d26ab7716",
