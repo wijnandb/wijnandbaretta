@@ -1,5 +1,41 @@
 [
   {
+    "id": "c499c073f095544e3811e7efeaf587231bbc4b3f",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Emanuel Maiberg, 404 Media",
+    "summary": "After this story was published Google's spokesperson reached out and asked us to publish a slightly different version of that statement. The new statement no longer stated that \"it's critical that we...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything",
+    "published": "2026-06-04T16:38:29.000Z"
+  },
+  {
+    "id": "1cd4146480ab38d2f8c890bd04e1bbd0250d491c",
+    "source": "AI Report",
+    "type": "podcast",
+    "category": "nl",
+    "lang": "nl",
+    "title": "Wietse doet opeens ALLES in Codex van OpenAI + nieuwe Claude verzint minder",
+    "summary": "Reverse-engineeren wordt voor iedereen bereikbaar: je app is geen doel meer, maar een middel dat je gewoon kunt omzeilen. Tegelijk woedt in de open source-wereld een felle discussie over of je AI...",
+    "thumbnail": null,
+    "url": "https://www.aireport.nl/podcast/s/aireport/wietse_doet_opeens_alles_in_codex_van_openai_nieuwe_claude_verzint_minder",
+    "published": "2026-06-04T15:02:51.000Z"
+  },
+  {
+    "id": "085d917aedce6d5a60b3954ae96653fa4590545d",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Copilot CLI Tutorial #9 - Custom Agents",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/qunjUnH7W6U/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=qunjUnH7W6U",
+    "published": "2026-06-04T08:04:16.000Z"
+  },
+  {
     "id": "91a4ee214fae5415cb74dedb8636aa0c878039ec",
     "source": "Latent Space",
     "type": "podcast",
@@ -10,6 +46,18 @@
     "thumbnail": null,
     "url": "https://www.latent.space/p/ainews-reve-2-and-ideogram-4-layouts",
     "published": "2026-06-04T03:24:07.000Z"
+  },
+  {
+    "id": "7189bad0ddda1aa37550b05edda7d29d3f52255b",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "Astro Mart: Summer 2026 Collection",
+    "summary": "Get ready for a summer of sport with our new personalizable merch.",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/astro-mart-ss26/",
+    "published": "2026-06-04T00:00:00.000Z"
   },
   {
     "id": "7f6f2b27ca82c1e791df5ef9f4a38f9599e76845",
@@ -214,18 +262,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!5bzA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6685277-4569-4135-92cb-e7a645246125_4096x2732.jpeg",
     "url": "https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3",
     "published": "2026-06-02T03:28:10.000Z"
-  },
-  {
-    "id": "56e85ad23e0aaf9d61d9b45eeb11d7ead5f33069",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
-    "summary": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked I had trouble believing this story was true, but I've seen it verified from multiple sources now: One...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything",
-    "published": "2026-06-01T21:14:47.000Z"
   },
   {
     "id": "e778c76ddd7947398f939aa95caa23a95727644e",
@@ -696,18 +732,6 @@
     "published": "2026-05-18T08:35:13.000Z"
   },
   {
-    "id": "20537e1a2ef1af1810e590a6047ecbf8731b6bd5",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Copilot CLI Tutorial #1 - Intro & Setup",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/720a-3LXkdo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=720a-3LXkdo",
-    "published": "2026-05-18T08:35:08.000Z"
-  },
-  {
     "id": "fb3b20ade03e715d0184e38d70a438f0366475b0",
     "source": "Riley Brown",
     "type": "video",
@@ -1092,18 +1116,6 @@
     "published": "2026-04-07T14:00:00.000Z"
   },
   {
-    "id": "f607c69186fab3425f5617af74d41c202e51652a",
-    "source": "AI Report",
-    "type": "podcast",
-    "category": "nl",
-    "lang": "nl",
-    "title": "Anthropic deelt per ongeluk geheimen + nieuwe golf aan AI modellen op komst: “binnen enkele weken”",
-    "summary": "Door een fout op Anthropics website belandde de complete broncode van Claude Code op internet, en binnen enkele uren hadden duizenden ontwikkelaars het geanalyseerd. Wat ze vonden is fascinerend:...",
-    "thumbnail": null,
-    "url": "https://www.aireport.nl/podcast/s/aireport/anthropic_deelt_per_ongeluk_geheimen_nieuwe_golf_aan_ai_modellen_op_komst_binnen_enkele_weken",
-    "published": "2026-04-02T20:00:43.000Z"
-  },
-  {
     "id": "b0287b3060bd7957531323d8c74c6e8fc051330d",
     "source": "The Anthropic Stack",
     "type": "video",
@@ -1186,17 +1198,5 @@
     "thumbnail": null,
     "url": "/tv/leap-week/from-zero-to-production",
     "published": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "id": "18142191080a2094c4ce169a7673183dfe6bde19",
-    "source": "Astro",
-    "type": "blog",
-    "category": "astro",
-    "lang": "en",
-    "title": "Astro 6.1",
-    "summary": "Astro 6.1 introduces codec-specific Sharp image defaults, advanced SmartyPants configuration, and i18n fallback routes for integrations.",
-    "thumbnail": null,
-    "url": "https://astro.build/blog/astro-610/",
-    "published": "2026-03-26T00:00:00.000Z"
   }
 ]
