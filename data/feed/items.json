@@ -1,5 +1,41 @@
 [
   {
+    "id": "2c5e20254c929805997970d8258f0e2bb1eb7722",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] not much happened today",
+    "summary": "a quiet day",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-7a8",
+    "published": "2026-06-05T06:44:49.000Z"
+  },
+  {
+    "id": "a3f95e297c8141e9e08b753a69d553e1b44593d4",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
+    "summary": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy Charity Majors neatly captures the dynamic between AI enthusiasts and AI skeptics, both of whom are trying to...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything",
+    "published": "2026-06-04T23:55:27.000Z"
+  },
+  {
+    "id": "8ec3bd7b96f13cda3ccf8d2941927fc4cd944547",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs",
+    "summary": "We talk with the VendingBench authors on evaling Claudes from Haiku to Mythos, and how they build leading, and lasting, frontier evals from scratch.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!KHFV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F569da387-7ec3-4c06-a66d-d662ce1d3f78_1686x1060.png",
+    "url": "https://www.latent.space/p/andon",
+    "published": "2026-06-04T20:39:18.000Z"
+  },
+  {
     "id": "c499c073f095544e3811e7efeaf587231bbc4b3f",
     "source": "Simon Willison",
     "type": "blog",
@@ -240,18 +276,6 @@
     "published": "2026-06-02T04:13:36.000Z"
   },
   {
-    "id": "807ab86ab9daa6c593d140f6dfb0bdf413e92201",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "micropython-wasm 0.1a0",
-    "summary": "Release: micropython-wasm 0.1a0 My latest sandboxing experiment: This alpha package bundles a lightly customized WASM build of MicroPython with a wrapper to execute code in it via wasmtime. Tags:...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/2/micropython-wasm-2/#atom-everything",
-    "published": "2026-06-02T03:43:45.000Z"
-  },
-  {
     "id": "5a1b496d47f864c2fffcf6e97858311d459fb101",
     "source": "Latent Space",
     "type": "podcast",
@@ -262,18 +286,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!5bzA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6685277-4569-4135-92cb-e7a645246125_4096x2732.jpeg",
     "url": "https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3",
     "published": "2026-06-02T03:28:10.000Z"
-  },
-  {
-    "id": "e778c76ddd7947398f939aa95caa23a95727644e",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Why Video Agent models are next — Ethan He, xAI Grok Imagine",
-    "summary": "Inside xAI: Building Grok Imagine in 3 Months, Videogen vs World Models, and why Grok Imagine is so underrated. For the first time, we do a deep dive with the guy who led it!",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/video-agents",
-    "published": "2026-06-01T15:41:48.000Z"
   },
   {
     "id": "d11963281f42e7ec0fca1666316bc80af6b312eb",
@@ -322,18 +334,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/whats-new-may-2026/",
     "published": "2026-05-31T00:00:00.000Z"
-  },
-  {
-    "id": "5458e397e474249c36e583a479ed859262f034d2",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Founders and Forward Deployed Engineers",
-    "summary": "a quiet day lets us highlight the new AIE WF focuses",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!SpLP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb92541e3-151a-4f10-8226-b86cb12eaca0_2332x1344.png",
-    "url": "https://www.latent.space/p/ainews-founders-and-forward-deployed",
-    "published": "2026-05-30T01:57:15.000Z"
   },
   {
     "id": "3f60aef02e31ef1eecfd24e4e6bf13ec37fffa91",
