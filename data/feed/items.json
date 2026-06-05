@@ -1,5 +1,17 @@
 [
   {
+    "id": "b41fa7b3947adc4ed65bc3f3c9f85fabfda44aa2",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Andreas Kling",
+    "summary": "We will no longer accept public pull requests. [...] A substantial patch used to imply substantial effort, and that effort was a reasonable proxy for good faith. That assumption no longer holds....",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything",
+    "published": "2026-06-05T11:10:05.000Z"
+  },
+  {
     "id": "2c5e20254c929805997970d8258f0e2bb1eb7722",
     "source": "Latent Space",
     "type": "podcast",
@@ -262,18 +274,6 @@
     "thumbnail": "https://i.ytimg.com/vi/LXlIKGcgNlE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=LXlIKGcgNlE",
     "published": "2026-06-02T08:50:39.000Z"
-  },
-  {
-    "id": "7f29975fce02aec610dacee09b176f93dde8397d",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Pasted File Editor",
-    "summary": "Tool: Pasted File Editor I really like how you can paste a large volume of text into claude.ai (or the Claude desktop/mobile apps) and it will detect it as a large paste and turn it into a file...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
-    "published": "2026-06-02T04:13:36.000Z"
   },
   {
     "id": "5a1b496d47f864c2fffcf6e97858311d459fb101",
