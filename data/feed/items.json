@@ -1,5 +1,65 @@
 [
   {
+    "id": "aaf6f2d44a4f5642f163f41528cc36327953f699",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] not much happened today",
+    "summary": "a quiet day of RSI.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
+    "published": "2026-06-06T04:34:47.000Z"
+  },
+  {
+    "id": "e73f4b4924363a2101a7fcf737c617a1206841de",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "micropython-wasm 0.1a2",
+    "summary": "Release: micropython-wasm 0.1a2 I added a CLI to micropython-wasm (issue #7), inspired by the first draft of the blog entry when I realized it would be a great way to illustrate the Try it yourself...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
+    "published": "2026-06-06T04:26:06.000Z"
+  },
+  {
+    "id": "e54467eda6d5aa24730b84ed4af78769597c3f00",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Running Python code in a sandbox with MicroPython and WASM",
+    "summary": "I've been experimenting with different approaches to running code in a sandbox for several years now, but my latest attempt feels like it might finally have all of the characteristics I've been...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
+    "published": "2026-06-06T03:53:34.000Z"
+  },
+  {
+    "id": "84c6e5c233865ec0a5158142bb19e34e15f5e7a6",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "OpenAI Help: Lockdown Mode",
+    "summary": "OpenAI Help: Lockdown Mode OpenAI first teased this in February, but now it's live and \"rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serve ChatGPT Business...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything",
+    "published": "2026-06-05T23:56:40.000Z"
+  },
+  {
+    "id": "60784992d4416d5f0520453e32c7f5a78b714262",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "How to Stop Shipping Low-Quality RL Environments (with Examples)",
+    "summary": "Your broken harness is actively making the model worse. Here's what I keep seeing after years of eyeballing trajectories, and what you need to fix.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!NbXz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe58868ac-23a0-453d-81e5-5ca830f7454d_1456x1394.png",
+    "url": "https://www.latent.space/p/bad-envs",
+    "published": "2026-06-05T18:49:40.000Z"
+  },
+  {
     "id": "b41fa7b3947adc4ed65bc3f3c9f85fabfda44aa2",
     "source": "Simon Willison",
     "type": "blog",
@@ -192,54 +252,6 @@
     "published": "2026-06-02T22:21:52.000Z"
   },
   {
-    "id": "5d60f9081ef37ded85470c01d7f273f58cabbe9f",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette-agent-micropython 0.1a0",
-    "summary": "Release: datasette-agent-micropython 0.1a0 I want Datasette Agent to be able to generate and execute Python code safely. This alpha is looking promising so far. GPT-5.5 has so far failed to break out...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
-    "published": "2026-06-02T19:28:36.000Z"
-  },
-  {
-    "id": "e0692f7d4dfcc4f03c709a378348700daeb8f78a",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "micropython-wasm 0.1a1",
-    "summary": "Release: micropython-wasm 0.1a1 Fixes for some limitations that emerged while I was trying to use this to build datasette-agent-micropython. Tags: python, sandboxing, webassembly",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything",
-    "published": "2026-06-02T19:20:47.000Z"
-  },
-  {
-    "id": "5f6a0986a0a01973826911f7530d74e5a9dd56be",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "California Brown Pelican",
-    "summary": "California Brown Pelican, in Fort Mason, CA, USI'm at the Microsoft Build conference today, held at Fort Mason in San Francisco. There are California Brown Pelicans diving into the water directly...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything",
-    "published": "2026-06-02T18:17:03.000Z"
-  },
-  {
-    "id": "b9a6d5506233fd35d3972e985adae44c735942d6",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "GitHub's plan for Agents — Kyle Daigle, GitHub",
-    "summary": "GitHub pioneered the modern AI coding era with Copilot, and the resulting explosion in agentic coding has led to notable strains on the most popular developer platform in the world. Here's the plan.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!MG5m!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ec41954-9498-4c2f-b23a-81e2bae29f82_2761x1579.png",
-    "url": "https://www.latent.space/p/github",
-    "published": "2026-06-02T16:48:21.000Z"
-  },
-  {
     "id": "806a7d29b3136fb660ac480564610fea453d3285",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -274,18 +286,6 @@
     "thumbnail": "https://i.ytimg.com/vi/LXlIKGcgNlE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=LXlIKGcgNlE",
     "published": "2026-06-02T08:50:39.000Z"
-  },
-  {
-    "id": "5a1b496d47f864c2fffcf6e97858311d459fb101",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] NVIDIA Cosmos 3, Nemotron 3 Ultra, and RTX Spark",
-    "summary": "Jensen scores a huge win.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!5bzA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6685277-4569-4135-92cb-e7a645246125_4096x2732.jpeg",
-    "url": "https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3",
-    "published": "2026-06-02T03:28:10.000Z"
   },
   {
     "id": "d11963281f42e7ec0fca1666316bc80af6b312eb",
@@ -353,7 +353,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Browsers Are Dead. Codex Just Replaced Them.",
+    "title": "Browsers Are Dead. Claude Just Replaced Them.",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/dSndHNRzFCg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=dSndHNRzFCg",
@@ -557,7 +557,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Every NEW Claude & Codex Feature Explained",
+    "title": "Every NEW Claude Feature Explained",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/52ltebR4Jnw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=52ltebR4Jnw",
