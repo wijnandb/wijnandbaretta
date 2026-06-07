@@ -1,5 +1,113 @@
 [
   {
+    "id": "36645eade2239e9a02ee9c1a58ae5e1fc073906e",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #7541 from clawdbotworker/add-forgemesh-travel-mcp",
+    "summary": "Merge pull request #7541 from clawdbotworker/add-forgemesh-travel-mcp Add ForgeMesh travel MCP server 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/c2bb5cfed301e3fe39ca1ba530dabb752f122b4b",
+    "published": "2026-06-07T02:28:26.000Z"
+  },
+  {
+    "id": "17014285c29fe1a34cbab74d3e170bb9edae219d",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #7539 from clawdbotworker/update-forgemesh-imagegen",
+    "summary": "Merge pull request #7539 from clawdbotworker/update-forgemesh-imagegen Update ForgeMesh imagegen MCP listing 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/b5e6e5710c07a35ae9c4ce8adae7fcd716c546fa",
+    "published": "2026-06-07T02:28:21.000Z"
+  },
+  {
+    "id": "8a187bc3e344a91e818588f4034ebc0918aaa02d",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add ForgeMesh travel MCP listing",
+    "summary": "Add ForgeMesh travel MCP listing",
+    "thumbnail": "https://avatars.githubusercontent.com/u/259490335?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/939896799dfc6d27464d3f77189ce3377e27007c",
+    "published": "2026-06-07T02:26:45.000Z"
+  },
+  {
+    "id": "28ecf3b5067f1726f2847ad4c774c47216a465fd",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Update ForgeMesh imagegen MCP listing",
+    "summary": "Update ForgeMesh imagegen MCP listing",
+    "thumbnail": "https://avatars.githubusercontent.com/u/259490335?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/459f78f5373d5c11772b2e0af5b8cdccbd49d328",
+    "published": "2026-06-07T02:25:27.000Z"
+  },
+  {
+    "id": "5f7126a60951a32cdd2d90e11b6746ea6e203c2a",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #7536 from simongonzalezdc/codex/add-epoch-mcp-server",
+    "summary": "Merge pull request #7536 from simongonzalezdc/codex/add-epoch-mcp-server Add KyaniteLabs/Epoch MCP server",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/a52e1f68ba1dd3036760aa4579629a081a00b65e",
+    "published": "2026-06-07T01:46:31.000Z"
+  },
+  {
+    "id": "7a71e17b7299de74da31ebdcb0fd02b0d54c05d4",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #7537 from simongonzalezdc/codex/add-dialectos-mcp…",
+    "summary": "Merge pull request #7537 from simongonzalezdc/codex/add-dialectos-mcp-server Add KyaniteLabs/DialectOS MCP server",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/cf0d6c356975eee2b59f5e71896cc4dafba0b65c",
+    "published": "2026-06-07T01:46:26.000Z"
+  },
+  {
+    "id": "f85df5eeddb2bdb16056d28e92979da82fc8dcfe",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add KyaniteLabs/DialectOS MCP server",
+    "summary": "Add KyaniteLabs/DialectOS MCP server",
+    "thumbnail": "https://avatars.githubusercontent.com/u/230916010?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/1d51689e15f24136f6810d63b166faa8d412715f",
+    "published": "2026-06-07T01:45:24.000Z"
+  },
+  {
+    "id": "38d01ce5c3147605bb77b62f1d29d8283d90bb8a",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #7535 from simongonzalezdc/codex/add-checkyourself…",
+    "summary": "Merge pull request #7535 from simongonzalezdc/codex/add-checkyourself-mcp-server Add KyaniteLabs/checkyourself MCP server",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/3f5b1c140853947a32b683c9ea869305db738dfb",
+    "published": "2026-06-07T01:44:22.000Z"
+  },
+  {
+    "id": "f8559275ff893d0218ff15c2fc123916b12401a2",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Hermes Agent NEW Super-App and DeepSeek v4 Catches Up To Opus 4.8?",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/DbeFq_uoaRs/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=DbeFq_uoaRs",
+    "published": "2026-06-06T20:10:34.000Z"
+  },
+  {
     "id": "aaf6f2d44a4f5642f163f41528cc36327953f699",
     "source": "Latent Space",
     "type": "podcast",
@@ -156,6 +264,18 @@
     "published": "2026-06-04T03:24:07.000Z"
   },
   {
+    "id": "7189bad0ddda1aa37550b05edda7d29d3f52255b",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "Astro Mart: Summer 2026 Collection",
+    "summary": "Get ready for a summer of sport with our new personalizable merch.",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/astro-mart-ss26/",
+    "published": "2026-06-04T00:00:00.000Z"
+  },
+  {
     "id": "7f6f2b27ca82c1e791df5ef9f4a38f9599e76845",
     "source": "Riley Brown",
     "type": "video",
@@ -305,11 +425,23 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "The Latest Codex Updates and The Truth about Opus 4.8",
+    "title": "The Truth about Opus 4.8 and other Huge agent News",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/84NkgiTcOdo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=84NkgiTcOdo",
     "published": "2026-05-31T22:27:11.000Z"
+  },
+  {
+    "id": "0a681af572e37e36561fd4902f5c2cf106704b09",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "What's new in Astro - May 2026",
+    "summary": "May 2026 - A new Astro jobs board, TinaCMS makes Astro their default template, experimental advanced routing, and more!",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/whats-new-may-2026/",
+    "published": "2026-05-31T00:00:00.000Z"
   },
   {
     "id": "3f60aef02e31ef1eecfd24e4e6bf13ec37fffa91",
@@ -360,6 +492,18 @@
     "published": "2026-05-28T04:30:00.000Z"
   },
   {
+    "id": "999ca2787ecc2b49f259e702a14db51488b89389",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "Astro 6.4",
+    "summary": "Astro 6.4 introduces a new pluggable Markdown processor API, a Rust-based Markdown processor for faster builds, and helpers to wire up experimental advanced routing with Cloudflare.",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/astro-640/",
+    "published": "2026-05-28T00:00:00.000Z"
+  },
+  {
     "id": "ddb0ed19da4a3645c985a11aafbc25ac20f7a4d6",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -382,102 +526,6 @@
     "thumbnail": "https://i.ytimg.com/vi/DSoj3u6jCK0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=DSoj3u6jCK0",
     "published": "2026-05-27T08:36:39.000Z"
-  },
-  {
-    "id": "34cc4189c1a595d9f6812bec4b4364d879368bf4",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Update README.md",
-    "summary": "Update README.md",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/70acc2194806cd47878737bb41a958f6958b388c",
-    "published": "2026-05-27T05:34:54.000Z"
-  },
-  {
-    "id": "8cca24ea85d6cd2322d2986a983f75b3dd86179e",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Update README.md",
-    "summary": "Update README.md",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/324b558e9d1e43138399ac0774d03a6ee1bbc741",
-    "published": "2026-05-27T05:34:28.000Z"
-  },
-  {
-    "id": "be881b55f9ef29077f25d785d890d2f515afa748",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #5335 from sF1nX/add-x402station",
-    "summary": "Merge pull request #5335 from sF1nX/add-x402station Add x402station-mcp to Aggregators 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/543bca6d75d7548d702dbb9fcf30d6055fde7e3d",
-    "published": "2026-05-27T03:53:44.000Z"
-  },
-  {
-    "id": "757c7aa393c1d78d4a07c0d4d80b416a3bfce1b2",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Fix entry formatting",
-    "summary": "Fix entry formatting",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/aa725facbf4027e814bf0bcb9b104cb166823071",
-    "published": "2026-05-27T03:40:43.000Z"
-  },
-  {
-    "id": "232f3c4d39ff58fd06e0dfe42ffd42309c1e5bfd",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #5894 from MAG-Cie/add-microsoft-todo",
-    "summary": "Merge pull request #5894 from MAG-Cie/add-microsoft-todo Add mcp-microsoft-todo",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/d20347cf805f1bdd34ed9b98fdb32cdcd3fef267",
-    "published": "2026-05-27T03:40:40.000Z"
-  },
-  {
-    "id": "76d71d1863b630ce5fb4cb25648ccab374ca3335",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #6676 from ckakgun/add-heym-frameworks",
-    "summary": "Merge pull request #6676 from ckakgun/add-heym-frameworks Add Heym to Frameworks 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/34c240674a8191b20df8050dffcd719bd455e0d9",
-    "published": "2026-05-27T03:38:23.000Z"
-  },
-  {
-    "id": "058c09f4db7e61cc36c015060a7a2c4dcdb056b4",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #6021 from michaelrice/add-zendesk-mcp",
-    "summary": "Merge pull request #6021 from michaelrice/add-zendesk-mcp Add michaelrice/zendesk-mcp to Support & Service Management",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/160deb18ac57e6df1f68f73fa3a98684851b1932",
-    "published": "2026-05-27T03:38:18.000Z"
-  },
-  {
-    "id": "6d6ee1e0fab38c02bb986a0285186ccc9e2ed33e",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #6462 from maxkuminov/add-obsidian-mcp",
-    "summary": "Merge pull request #6462 from maxkuminov/add-obsidian-mcp Add maxkuminov/obsidian-mcp — self-hosted MCP for Obsidian with semantic search, wikilink graph, and a self-describing vault",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/5075a2a70b178ac51abc890f65ee64c03c95dc70",
-    "published": "2026-05-27T03:38:12.000Z"
   },
   {
     "id": "218d8e3a9cc2544f378077adbfc436994516c16a",
@@ -744,18 +792,6 @@
     "published": "2026-05-08T07:49:15.000Z"
   },
   {
-    "id": "9645c5c4cbf3c8fccbac0a715fc50c39e5fb14de",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Vibe Coding for Beginners (Full Course 2026)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/BpOsHF5Oj_I/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=BpOsHF5Oj_I",
-    "published": "2026-05-07T19:28:45.000Z"
-  },
-  {
     "id": "2679786a73a762492c7d45de7be976e342be82fd",
     "source": "The Anthropic Stack",
     "type": "video",
@@ -778,6 +814,30 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/anthropic_de_laatste_uitvinding_komt_in_2028_microsoft_copilot_is_opeens_goed_geworden",
     "published": "2026-05-07T15:30:21.000Z"
+  },
+  {
+    "id": "49f7e3b52683f986388027dfc63a691fb2aa9533",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "Astro 6.3",
+    "summary": "Astro 6.3 introduces experimental advanced routing with Hono support, image redirect handling, resilient island hydration, and more.",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/astro-630/",
+    "published": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "36db6549372972977954d84ea494166acd93fd92",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "Starlight 0.39",
+    "summary": "Get more flexible autogenerated sidebars, improved styling, and stronger multilingual docs support with the latest Starlight release.",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/starlight-039/",
+    "published": "2026-05-07T00:00:00.000Z"
   },
   {
     "id": "98c4762cc6b231dd983c38a736ab2e4d26ab7716",
@@ -814,6 +874,30 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/openai_s_super-app_ambitie_met_gpt-5_5_deepseek_v4_voor_een_schijntje_rick_lamers_over_agi",
     "published": "2026-04-30T16:56:41.000Z"
+  },
+  {
+    "id": "800bfab7e9df1251e8fb4f738cc9b7030d0470b4",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "Astro 6.2",
+    "summary": "Astro 6.2 introduces an experimental custom logger with JSON output, an SVG optimizer API, a new font file URL helper, and more.",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/astro-620/",
+    "published": "2026-04-30T00:00:00.000Z"
+  },
+  {
+    "id": "b68bd78ddbb5e2b3de40255281ba5f9699c1bd49",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "What's new in Astro - April 2026",
+    "summary": "April 2026 - Astro Together London, an alpha preview of Astro 7, and more!",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/whats-new-april-2026/",
+    "published": "2026-04-30T00:00:00.000Z"
   },
   {
     "id": "a2d9206e1ecd675b78348718e6706a3410d3584e",
@@ -1044,6 +1128,18 @@
     "published": "2026-04-02T16:06:59.000Z"
   },
   {
+    "id": "9427a39b1828f3dc1b6567f043279c1a4e77b379",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "What's new in Astro - March 2026",
+    "summary": "March 2026 - Astro 6, CloudCannon CMS Partnership, Astro Together London, and more!",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/whats-new-march-2026/",
+    "published": "2026-03-31T00:00:00.000Z"
+  },
+  {
     "id": "1e43f5857f51ebcd22f7a6ac27c39cbada43cf85",
     "source": "Directus",
     "type": "blog",
@@ -1102,101 +1198,5 @@
     "thumbnail": null,
     "url": "/tv/leap-week/from-zero-to-production",
     "published": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "id": "66c7e82297ae50c5c9db57b94318cbbd2773e23c",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "feat: update skills",
-    "summary": "feat: update skills",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/c35a5588a5158b5b404a14fb10469b2b6dc1952b",
-    "published": "2026-03-16T06:16:21.000Z"
-  },
-  {
-    "id": "e5a6eb3ea910479a61aa64f36d34a6771ba1662f",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update",
-    "summary": "chore: update",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/5ee89195a6f767aeaa5cd7a206e39f4eeb1a3523",
-    "published": "2026-03-16T06:15:28.000Z"
-  },
-  {
-    "id": "e25663e69815f6ef55bb19c9cc9134e7597a80f9",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "feat: update vendored skills",
-    "summary": "feat: update vendored skills",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/a42879a5e99272b16296ea7d7592aaccb00ee464",
-    "published": "2026-03-13T08:09:02.000Z"
-  },
-  {
-    "id": "eecf7c25e969383c5b1ad20eaf32df2b407fd6c4",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update deps",
-    "summary": "chore: update deps",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/b65fff3244cb95f366b82e7d9114ed762ecbfa38",
-    "published": "2026-03-13T08:06:41.000Z"
-  },
-  {
-    "id": "b682d8b0847d6ba0809c5de36f5876fc2b085642",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: clone nitro",
-    "summary": "chore: clone nitro",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/59953cce865040cf6b27c7e4c304323ddd9cf89d",
-    "published": "2026-03-13T08:05:00.000Z"
-  },
-  {
-    "id": "befbc3d3600476d59126628044f330a697199afa",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "wtf is Harness Engineer & why is it important",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/kJPvfoLtFFY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=kJPvfoLtFFY",
-    "published": "2026-03-05T10:17:00.000Z"
-  },
-  {
-    "id": "4770ec1b443a03b1cd79035953bf57d4cdca5375",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "How to prompt Gemini 3.1 for Epic animations",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/kcOowmrVI7k/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=kcOowmrVI7k",
-    "published": "2026-02-25T11:40:51.000Z"
-  },
-  {
-    "id": "664e49577c778d762a57109f437cc6148215c4b7",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Anthropic killed Tool calling",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/3wglqgskzjQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=3wglqgskzjQ",
-    "published": "2026-02-22T10:42:01.000Z"
   }
 ]
