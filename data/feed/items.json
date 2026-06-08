@@ -1,99 +1,135 @@
 [
   {
-    "id": "36645eade2239e9a02ee9c1a58ae5e1fc073906e",
+    "id": "ed43d9dd7aea75bbed5adc14cc3468c86f2b19ec",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Copilot CLI Tutorial #10 - Code Review Agent",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/OeQP8BdfMDQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=OeQP8BdfMDQ",
+    "published": "2026-06-08T08:57:45.000Z"
+  },
+  {
+    "id": "e697f065ae80ecd81d766bd40006868bdbb5aa59",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette-agent-edit 0.1a0",
+    "summary": "Release: datasette-agent-edit 0.1a0 I'm planning several plugins for Datasette Agent which can make edits to existing pieces of text - things like collaborative Markdown editing, updating large SQL...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
+    "published": "2026-06-07T23:56:38.000Z"
+  },
+  {
+    "id": "bcfca2efc1d8a41aec456eb2b64d52831cd7fdf4",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #7541 from clawdbotworker/add-forgemesh-travel-mcp",
-    "summary": "Merge pull request #7541 from clawdbotworker/add-forgemesh-travel-mcp Add ForgeMesh travel MCP server 🤖🤖🤖",
+    "title": "Merge pull request #6265 from tamasPetki/main",
+    "summary": "Merge pull request #6265 from tamasPetki/main Add tamasPetki/HeadlessTracker to Finance & Fintech",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/c2bb5cfed301e3fe39ca1ba530dabb752f122b4b",
-    "published": "2026-06-07T02:28:26.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/e844de260c0651b393e1a36c5e62453ffd64791a",
+    "published": "2026-06-07T21:38:07.000Z"
   },
   {
-    "id": "17014285c29fe1a34cbab74d3e170bb9edae219d",
+    "id": "641582713821d8e1a592384940a7cee9939a363a",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #7539 from clawdbotworker/update-forgemesh-imagegen",
-    "summary": "Merge pull request #7539 from clawdbotworker/update-forgemesh-imagegen Update ForgeMesh imagegen MCP listing 🤖🤖🤖",
+    "title": "Merge pull request #7445 from roberttomko/add-spoken-server",
+    "summary": "Merge pull request #7445 from roberttomko/add-spoken-server Add Spoken (podcast transcripts) to Speech-to-Text",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/b5e6e5710c07a35ae9c4ce8adae7fcd716c546fa",
-    "published": "2026-06-07T02:28:21.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/958547d914de089103227a95c6ad29516c1c6942",
+    "published": "2026-06-07T21:19:35.000Z"
   },
   {
-    "id": "8a187bc3e344a91e818588f4034ebc0918aaa02d",
+    "id": "18db61fd54e915be9417aa460f91cac4fb04719f",
+    "source": "Yusuke Wada",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "フロントエンド・PHPカンファレンス北海道2026に行ってきた！",
+    "summary": "フロントエンド・PHPカンファレンス北海道2026に行ってきました！楽しかったとつぶやいたら、ブログ書いて！って言われたので、確かにブログ書いた方がいいと思ってので、書きます。",
+    "thumbnail": "https://ss.yusukebe.com/cf90b75a0e2bdee668766949bb6870f0cecb25b2b1d4a6ae0db7b9d0d0b0b086.png",
+    "url": "https://yusukebe.com/posts/2026/frontend-phpcon-do/",
+    "published": "2026-06-07T20:46:15.000Z"
+  },
+  {
+    "id": "494623668baa6503635e7d49e2ac473c48c0c424",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Add ForgeMesh travel MCP listing",
-    "summary": "Add ForgeMesh travel MCP listing",
-    "thumbnail": "https://avatars.githubusercontent.com/u/259490335?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/939896799dfc6d27464d3f77189ce3377e27007c",
-    "published": "2026-06-07T02:26:45.000Z"
-  },
-  {
-    "id": "28ecf3b5067f1726f2847ad4c774c47216a465fd",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Update ForgeMesh imagegen MCP listing",
-    "summary": "Update ForgeMesh imagegen MCP listing",
-    "thumbnail": "https://avatars.githubusercontent.com/u/259490335?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/459f78f5373d5c11772b2e0af5b8cdccbd49d328",
-    "published": "2026-06-07T02:25:27.000Z"
-  },
-  {
-    "id": "5f7126a60951a32cdd2d90e11b6746ea6e203c2a",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #7536 from simongonzalezdc/codex/add-epoch-mcp-server",
-    "summary": "Merge pull request #7536 from simongonzalezdc/codex/add-epoch-mcp-server Add KyaniteLabs/Epoch MCP server",
+    "title": "Merge pull request #7011 from infai-tech/add-vulnfeed-mcp",
+    "summary": "Merge pull request #7011 from infai-tech/add-vulnfeed-mcp Add VulnFeed MCP to Security section 🤖🤖🤖",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/a52e1f68ba1dd3036760aa4579629a081a00b65e",
-    "published": "2026-06-07T01:46:31.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/a67d63c8272f005cee6c35510bf9af360ef53378",
+    "published": "2026-06-07T20:12:57.000Z"
   },
   {
-    "id": "7a71e17b7299de74da31ebdcb0fd02b0d54c05d4",
+    "id": "23d534118071c9a24f52b02df887a75fd4c195b3",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #7537 from simongonzalezdc/codex/add-dialectos-mcp…",
-    "summary": "Merge pull request #7537 from simongonzalezdc/codex/add-dialectos-mcp-server Add KyaniteLabs/DialectOS MCP server",
+    "title": "Merge pull request #7399 from clanker-records/add-crompton-network",
+    "summary": "Merge pull request #7399 from clanker-records/add-crompton-network Add clanker-records/crompton-network",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/cf0d6c356975eee2b59f5e71896cc4dafba0b65c",
-    "published": "2026-06-07T01:46:26.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/634f8c9e51092d160dfaf2529745687266e16a0b",
+    "published": "2026-06-07T20:10:35.000Z"
   },
   {
-    "id": "f85df5eeddb2bdb16056d28e92979da82fc8dcfe",
+    "id": "66957839ce5cdb2df672c5ce3c5214a1e13c4579",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Add KyaniteLabs/DialectOS MCP server",
-    "summary": "Add KyaniteLabs/DialectOS MCP server",
-    "thumbnail": "https://avatars.githubusercontent.com/u/230916010?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/1d51689e15f24136f6810d63b166faa8d412715f",
-    "published": "2026-06-07T01:45:24.000Z"
-  },
-  {
-    "id": "38d01ce5c3147605bb77b62f1d29d8283d90bb8a",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #7535 from simongonzalezdc/codex/add-checkyourself…",
-    "summary": "Merge pull request #7535 from simongonzalezdc/codex/add-checkyourself-mcp-server Add KyaniteLabs/checkyourself MCP server",
+    "title": "Merge pull request #6947 from zriyansh/add-vaquill-canlii-mcp",
+    "summary": "Merge pull request #6947 from zriyansh/add-vaquill-canlii-mcp Add Vaquill-AI/canlii-mcp to Legal section",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/3f5b1c140853947a32b683c9ea869305db738dfb",
-    "published": "2026-06-07T01:44:22.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/fddb18a05644d398967f57ec3b74c3a1d4e95bdd",
+    "published": "2026-06-07T20:09:38.000Z"
+  },
+  {
+    "id": "efb25a55907de1475f4e600514fb14fe57e0c7ae",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #7041 from zw008/add-vmware-storage",
+    "summary": "Merge pull request #7041 from zw008/add-vmware-storage Add zw008/VMware-Storage",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/2585e1ef21a2e7a1c3d09ed9844a26cce24e8071",
+    "published": "2026-06-07T20:08:48.000Z"
+  },
+  {
+    "id": "fa59b474b8b0059723058247247bf5cf833a8d6b",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "description: add first-album-for-machines line",
+    "summary": "description: add first-album-for-machines line",
+    "thumbnail": "https://avatars.githubusercontent.com/u/287080147?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/e575bba59db7d005dacd065b716cdd3527f61cbf",
+    "published": "2026-06-07T20:06:21.000Z"
+  },
+  {
+    "id": "26372fdb894129ee43cfd231e930b5b55d5ef1ce",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "update description to settled copy",
+    "summary": "update description to settled copy",
+    "thumbnail": "https://avatars.githubusercontent.com/u/287080147?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/f1a03bde2d3f7a920659e355561b130dffc6d7a3",
+    "published": "2026-06-07T20:05:36.000Z"
   },
   {
     "id": "f8559275ff893d0218ff15c2fc123916b12401a2",
@@ -348,18 +384,6 @@
     "published": "2026-06-03T05:49:02.000Z"
   },
   {
-    "id": "c816d7a197b50c6e581a10a43b087ca79b6ad2d3",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Microsoft's new MAI models",
-    "summary": "Microsoft announced two new text LLMs this morning - MAI-Thinking-1 (reasoning, 1T parameters, 35B active, available to \"select early partners\") and MAI-Code-1-Flash (137B Parameters, 5B active,...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
-    "published": "2026-06-02T22:21:52.000Z"
-  },
-  {
     "id": "806a7d29b3136fb660ac480564610fea453d3285",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -425,7 +449,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "The Truth about Opus 4.8 and other Huge agent News",
+    "title": "Claude Opus 4.8: Everything You Need to Know",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/84NkgiTcOdo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=84NkgiTcOdo",
@@ -730,18 +754,6 @@
     "thumbnail": "https://i.ytimg.com/vi/AzbJUZH9bno/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=AzbJUZH9bno",
     "published": "2026-05-18T11:42:00.000Z"
-  },
-  {
-    "id": "63c548da6eb55e4e8233b4405923ac97557a6882",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Copilot CLI Tutorial #2 - Commands",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/zm0y09SS6l4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=zm0y09SS6l4",
-    "published": "2026-05-18T08:35:13.000Z"
   },
   {
     "id": "fb3b20ade03e715d0184e38d70a438f0366475b0",
@@ -1185,18 +1197,6 @@
     "summary": "How are enterprises giving teams access to AI while managing governance, data privacy, and risk?",
     "thumbnail": null,
     "url": "/tv/leap-week/ai-in-the-enterprise",
-    "published": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "id": "5dc69425faeb8d880c8ce9f85a1843524296e168",
-    "source": "Directus",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "From Zero to Production",
-    "summary": "Spin up a backend, connect a frontend, and deploy to production - all in one session. Featuring Railway.",
-    "thumbnail": null,
-    "url": "/tv/leap-week/from-zero-to-production",
     "published": "2026-03-27T00:00:00.000Z"
   }
 ]
