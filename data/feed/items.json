@@ -1,5 +1,41 @@
 [
   {
+    "id": "9d62ac82355a94483f168f8043226ba8ffe4deb2",
+    "source": "The Anthropic Stack",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Introducing Claude Fable 5",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/Y9Wz2PV404E/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+    "published": "2026-06-09T17:00:05.000Z"
+  },
+  {
+    "id": "81912ec9c22915a556be0dbb9f597f68bc46c601",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "State of the software engineering job market in 2026, part 2",
+    "summary": "Deepdive into the tech jobs market with exclusive data revealing AI labs are more attractive than Big Tech, native mobile & frontend roles are declining, management’s “great flattening”, and more",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!6pbI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d04df85-7afe-471e-8b70-a8f9e83800df_2048x1452.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-job-market-in-2026-part-2",
+    "published": "2026-06-09T16:35:53.000Z"
+  },
+  {
+    "id": "bd16822ce1d28eafaec9610becddd3a89f3ee1ad",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Copilot CLI Tutorial #11 - Delegating Tasks to the Cloud",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/0TtwelTaN4U/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=0TtwelTaN4U",
+    "published": "2026-06-09T09:04:07.000Z"
+  },
+  {
     "id": "6289dd2101f541b432b575df3d0442d8f244bed3",
     "source": "Latent Space",
     "type": "podcast",
@@ -708,30 +744,6 @@
     "published": "2026-05-20T16:22:00.000Z"
   },
   {
-    "id": "185c94c1773cd9ecb562d1965bda94c1b52e04dc",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "AI’s impact on software engineers in 2026: key trends, Part 2",
-    "summary": "Tradeoffs of AI tooling, why adopting AI at company-level is hard, what’s changed in two years, and more. The third and final part of a series analyzing our 2026 AI survey results",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!tEGy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F039155a2-16a1-481e-bddd-8774cb34e85d_1424x1174.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/ai-impact-on-software-engineers-part-2",
-    "published": "2026-05-19T16:43:10.000Z"
-  },
-  {
-    "id": "b8eac55738e49f19310477d10994f95645053eff",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Copilot CLI Tutorial #3 - Code Changes",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/5bO8VKZuULg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=5bO8VKZuULg",
-    "published": "2026-05-19T07:10:07.000Z"
-  },
-  {
     "id": "c14228fa7fdf95f27c8a4fe8c15dcfbf05a39517",
     "source": "Riley Brown",
     "type": "video",
@@ -1185,18 +1197,6 @@
     "summary": "Three builders. Three AI tools. One backend. Who can ship the best frontend in 30 minutes?",
     "thumbnail": null,
     "url": "/tv/leap-week/the-build-off",
-    "published": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "id": "c5f3427c35a2c7ba4c1a42d37066b209179c9b94",
-    "source": "Directus",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "AI in the Enterprise",
-    "summary": "How are enterprises giving teams access to AI while managing governance, data privacy, and risk?",
-    "thumbnail": null,
-    "url": "/tv/leap-week/ai-in-the-enterprise",
     "published": "2026-03-27T00:00:00.000Z"
   }
 ]
