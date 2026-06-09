@@ -1,5 +1,29 @@
 [
   {
+    "id": "6289dd2101f541b432b575df3d0442d8f244bed3",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] FrontierCode: Benchmarking for Code Quality over Slop",
+    "summary": "We made a thing!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!3zh0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHKT9bbsagAAipOJ.jpg",
+    "url": "https://www.latent.space/p/ainews-frontiercode-benchmarking",
+    "published": "2026-06-09T06:12:33.000Z"
+  },
+  {
+    "id": "83dbbe241d5e86cc7a654dd17c12fb4c258008bd",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Siri AI at WWDC 2026",
+    "summary": "Given how badly burned anyone who took Apple's 2024 WWDC Apple Intelligence announcements at face value was, I'm holding to a strict \"I'll believe it when I see it\" policy for everything they...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
+    "published": "2026-06-08T23:58:04.000Z"
+  },
+  {
     "id": "ed43d9dd7aea75bbed5adc14cc3468c86f2b19ec",
     "source": "Coding in Public",
     "type": "video",
@@ -358,30 +382,6 @@
     "thumbnail": null,
     "url": "https://www.latent.space/p/satya-2026",
     "published": "2026-06-03T17:13:57.000Z"
-  },
-  {
-    "id": "29c7b211e523b24661570bbbe47ce7b606bc6208",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
-    "summary": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
-    "published": "2026-06-03T12:01:27.000Z"
-  },
-  {
-    "id": "54af4e8bb7d03df78bd55fc6ddd16ea504d45805",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Microsoft Build: MAI-Thinking-1 and MAI Family models",
-    "summary": "Microsoft Build recap, and new MAI model technical details",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!PL7Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e8ca90a-629c-44d5-af2f-0b0cd2a60aa2_1510x886.png",
-    "url": "https://www.latent.space/p/ainews-microsoft-build-mai-thinking",
-    "published": "2026-06-03T05:49:02.000Z"
   },
   {
     "id": "806a7d29b3136fb660ac480564610fea453d3285",
