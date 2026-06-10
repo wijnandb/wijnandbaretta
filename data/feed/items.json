@@ -1,5 +1,77 @@
 [
   {
+    "id": "1553bad2f8134798a8ddb84c433924b8a7b34945",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms",
+    "summary": "The much anticipated launch of the Mythos-class model was marred by some controversial usage policies",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!TXW4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7af8f73c-7a20-4f7e-ac83-a05cbc892d8b_2318x1684.png",
+    "url": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
+    "published": "2026-06-10T03:50:21.000Z"
+  },
+  {
+    "id": "06c62bed53e70970bd4b9318c56a48373f7d461c",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "If Claude Fable stops helping you, you'll never know",
+    "summary": "If Claude Fable stops helping you, you'll never know Jonathon Ready highlights one of the more eyebrow-raising details from the 319 page system card for Fable 5 and Mythos 5. Here's a longer excerpt,...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything",
+    "published": "2026-06-10T00:37:25.000Z"
+  },
+  {
+    "id": "ff0a8f0275056846158209e580465f58a1c4aff8",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Initial impressions of Claude Fable 5",
+    "summary": "I didn't have early access to today's Claude Fable 5 release, but I've spent the past ~5.5 hours putting it through its paces. My initial impressions are that this is something of a beast. It's slow,...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
+    "published": "2026-06-09T23:59:54.000Z"
+  },
+  {
+    "id": "8fd37d6308e41a4740cda4536f32e1973b00200b",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "llm 0.32a3",
+    "summary": "Release: llm 0.32a3 Almost entirely written by the new Claude Fable 5, see my write-up for more details. Tags: projects, ai, generative-ai, llms, llm, claude-mythos",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/9/llm/#atom-everything",
+    "published": "2026-06-09T22:27:03.000Z"
+  },
+  {
+    "id": "000f1726d41dba940ba149c22db9f26e5a0c3b2a",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Setting a custom price for a model in AgentsView",
+    "summary": "TIL: Setting a custom price for a model in AgentsView I've been really enjoying AgentsView by Wes McKinney as a tool for exploring my token usage across different coding agents running on my laptop....",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything",
+    "published": "2026-06-09T21:35:31.000Z"
+  },
+  {
+    "id": "f4193c4eb7afedc6cbe1a44d32e3fdf6ff735fe7",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Andrej Karpathy",
+    "summary": "I feel a lot of things changing as working software increasingly comes out on a tap. The Jevon's paradox kicks in and I feel my own demand for software growing substantially. You can ask for anything...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything",
+    "published": "2026-06-09T19:03:10.000Z"
+  },
+  {
     "id": "9d62ac82355a94483f168f8043226ba8ffe4deb2",
     "source": "The Anthropic Stack",
     "type": "video",
@@ -228,30 +300,6 @@
     "published": "2026-06-06T04:26:06.000Z"
   },
   {
-    "id": "e54467eda6d5aa24730b84ed4af78769597c3f00",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Running Python code in a sandbox with MicroPython and WASM",
-    "summary": "I've been experimenting with different approaches to running code in a sandbox for several years now, but my latest attempt feels like it might finally have all of the characteristics I've been...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
-    "published": "2026-06-06T03:53:34.000Z"
-  },
-  {
-    "id": "84c6e5c233865ec0a5158142bb19e34e15f5e7a6",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "OpenAI Help: Lockdown Mode",
-    "summary": "OpenAI Help: Lockdown Mode OpenAI first teased this in February, but now it's live and \"rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serve ChatGPT Business...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything",
-    "published": "2026-06-05T23:56:40.000Z"
-  },
-  {
     "id": "60784992d4416d5f0520453e32c7f5a78b714262",
     "source": "Latent Space",
     "type": "podcast",
@@ -262,18 +310,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!NbXz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe58868ac-23a0-453d-81e5-5ca830f7454d_1456x1394.png",
     "url": "https://www.latent.space/p/bad-envs",
     "published": "2026-06-05T18:49:40.000Z"
-  },
-  {
-    "id": "b41fa7b3947adc4ed65bc3f3c9f85fabfda44aa2",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Andreas Kling",
-    "summary": "We will no longer accept public pull requests. [...] A substantial patch used to imply substantial effort, and that effort was a reasonable proxy for good faith. That assumption no longer holds....",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything",
-    "published": "2026-06-05T11:10:05.000Z"
   },
   {
     "id": "2c5e20254c929805997970d8258f0e2bb1eb7722",
@@ -288,18 +324,6 @@
     "published": "2026-06-05T06:44:49.000Z"
   },
   {
-    "id": "a3f95e297c8141e9e08b753a69d553e1b44593d4",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
-    "summary": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy Charity Majors neatly captures the dynamic between AI enthusiasts and AI skeptics, both of whom are trying to...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything",
-    "published": "2026-06-04T23:55:27.000Z"
-  },
-  {
     "id": "8ec3bd7b96f13cda3ccf8d2941927fc4cd944547",
     "source": "Latent Space",
     "type": "podcast",
@@ -310,18 +334,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!KHFV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F569da387-7ec3-4c06-a66d-d662ce1d3f78_1686x1060.png",
     "url": "https://www.latent.space/p/andon",
     "published": "2026-06-04T20:39:18.000Z"
-  },
-  {
-    "id": "c499c073f095544e3811e7efeaf587231bbc4b3f",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Emanuel Maiberg, 404 Media",
-    "summary": "After this story was published Google's spokesperson reached out and asked us to publish a slightly different version of that statement. The new statement no longer stated that \"it's critical that we...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything",
-    "published": "2026-06-04T16:38:29.000Z"
   },
   {
     "id": "1cd4146480ab38d2f8c890bd04e1bbd0250d491c",
@@ -406,18 +418,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!HVBB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a9e89e3-866b-4248-91a9-e6461be25cd8_1497x131.png",
     "url": "https://newsletter.pragmaticengineer.com/p/kubernetes-and-retiring-at-the-top",
     "published": "2026-06-03T17:59:17.000Z"
-  },
-  {
-    "id": "ff27835d3e09ed1e2a733cb7823296278e090807",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "⚡️Satya Nadella: No Priors x Latent Space Crossover Special at Microsoft Build",
-    "summary": "The legendary Microsoft CEO makes his first Latent Space appearance!",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/satya-2026",
-    "published": "2026-06-03T17:13:57.000Z"
   },
   {
     "id": "806a7d29b3136fb660ac480564610fea453d3285",
