@@ -1,5 +1,41 @@
 [
   {
+    "id": "d68d24044a6c98dfba2611e80d7b08fcea693b5d",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Call Your Hermes Agent over the phone using ElevenAgents",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/3bGN3_Xv4Ew/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=3bGN3_Xv4Ew",
+    "published": "2026-06-10T19:02:01.000Z"
+  },
+  {
+    "id": "b7160109cd59448f790742c411e9dddb268553cb",
+    "source": "AI Report",
+    "type": "podcast",
+    "category": "nl",
+    "lang": "nl",
+    "title": "Claude Fable is uit, het beste AI-model ooit + Apple AI niet naar de EU?",
+    "summary": "Jeroen Wollaars schuift weer aan, want er is te veel nieuws voor twee man. Anthropic lanceert namelijk Claude Fable 5, een consumentenversie van het beruchte Mythos en volgens elke test het beste...",
+    "thumbnail": null,
+    "url": "https://www.aireport.nl/podcast/s/aireport/claude_fable_is_uit_het_beste_ai-model_ooit_apple_ai_niet_naar_de_eu",
+    "published": "2026-06-10T16:20:00.000Z"
+  },
+  {
+    "id": "f0767d989a2e82bac54f96136f078f26bb099aa4",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Jeremy Howard",
+    "summary": "Easy solution to slow down recursive AI self improvement: The lab with the top-ranked model must agree THEY must not use it for working on frontier AI But everyone else should have access to it. By...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything",
+    "published": "2026-06-10T15:23:34.000Z"
+  },
+  {
     "id": "1553bad2f8134798a8ddb84c433924b8a7b34945",
     "source": "Latent Space",
     "type": "podcast",
@@ -286,18 +322,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
     "url": "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
     "published": "2026-06-06T04:34:47.000Z"
-  },
-  {
-    "id": "e73f4b4924363a2101a7fcf737c617a1206841de",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "micropython-wasm 0.1a2",
-    "summary": "Release: micropython-wasm 0.1a2 I added a CLI to micropython-wasm (issue #7), inspired by the first draft of the blog entry when I realized it would be a great way to illustrate the Try it yourself...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
-    "published": "2026-06-06T04:26:06.000Z"
   },
   {
     "id": "60784992d4416d5f0520453e32c7f5a78b714262",
@@ -696,18 +720,6 @@
     "published": "2026-05-22T08:12:35.000Z"
   },
   {
-    "id": "5b09e1ddfb8f6c460908159d706a473bdb0949d8",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Get Started with Speech Engine",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/gfCqXM9fTsA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=gfCqXM9fTsA",
-    "published": "2026-05-21T20:49:05.000Z"
-  },
-  {
     "id": "a06cfbcccff28d9797b692e7a218d418a4df82ff",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -1102,18 +1114,6 @@
     "thumbnail": null,
     "url": "https://directus.com/resources/directus-v11-17-release",
     "published": "2026-04-10T14:25:00.000Z"
-  },
-  {
-    "id": "823dba8ff65f0e94cd514f48aee78bcc4b2f579f",
-    "source": "AI Report",
-    "type": "podcast",
-    "category": "nl",
-    "lang": "nl",
-    "title": "Anthropics nieuwste model is te gevaarlijk",
-    "summary": "Anthropic durft zijn nieuwste AI-model niet vrij te geven. Mythos, het grootste model dat het bedrijf ooit trainde, wordt alleen gedeeld met veertig geselecteerde organisaties zoals Apple, Google en...",
-    "thumbnail": null,
-    "url": "https://www.aireport.nl/podcast/s/aireport/anthropics_nieuwste_model_is_te_gevaarlijk",
-    "published": "2026-04-10T10:49:12.000Z"
   },
   {
     "id": "7536ae2daabf1ab1ffb57eb98102155f035c9198",
