@@ -1,5 +1,149 @@
 [
   {
+    "id": "701bb6afd6d09c07bda49c8fbea4af482340c831",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #7696 from nycreatis/main",
+    "summary": "Merge pull request #7696 from nycreatis/main Add Jobicy remote jobs MCP server",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/41e8804eb3cf5bdd416e186e812ccea134de4e7b",
+    "published": "2026-06-11T07:49:38.000Z"
+  },
+  {
+    "id": "da0d78252bfa706318a83b2f1a76dfc210cfc0e6",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge branch 'main' into main",
+    "summary": "Merge branch 'main' into main",
+    "thumbnail": "https://avatars.githubusercontent.com/u/47978800?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/1835ba003e608525e1556b802f45e217d8a0ede9",
+    "published": "2026-06-11T07:46:16.000Z"
+  },
+  {
+    "id": "0ce5e4917ca4037413f6ae0b6190ac5b5da62cef",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #7377 from JeongSeongMok/add-tossinvest-openapi-mcp",
+    "summary": "Merge pull request #7377 from JeongSeongMok/add-tossinvest-openapi-mcp Add tossinvest-openapi-mcp (Toss Securities Open API) to Finance & Fintech",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/3baa815799bba9b88fac37e27090889d77bbe248",
+    "published": "2026-06-11T07:29:19.000Z"
+  },
+  {
+    "id": "e6a55369f86ea2346c9971bb6bfec0da190febc4",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add Glama score badge for tossinvest-openapi-mcp",
+    "summary": "Add Glama score badge for tossinvest-openapi-mcp",
+    "thumbnail": "https://avatars.githubusercontent.com/u/71118304?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/f535720042805e81bdcc69cfd37137f93785adbc",
+    "published": "2026-06-11T07:27:32.000Z"
+  },
+  {
+    "id": "c8bc44143ea16c8f915a876dbede6410c81d0005",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add JeongSeongMok/tossinvest-openapi-mcp to Finance & Fintech",
+    "summary": "Add JeongSeongMok/tossinvest-openapi-mcp to Finance & Fintech",
+    "thumbnail": "https://avatars.githubusercontent.com/u/71118304?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/0d1677792d6884230f61b5535c24bd721a9b0b61",
+    "published": "2026-06-11T07:26:14.000Z"
+  },
+  {
+    "id": "f0874ec13aaa01edb15bb9819191677844e5dc77",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #7787 from mnoomnoo/add-resume-mcp-server",
+    "summary": "Merge pull request #7787 from mnoomnoo/add-resume-mcp-server Add resume-mcp-server (Workplace & Productivity)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/6ba9ee22d8a536de84238e0d691377919b902275",
+    "published": "2026-06-11T07:09:53.000Z"
+  },
+  {
+    "id": "ae08eafd21dd03eabb5cb9634065d7504acd6404",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #7452 from codeakki/add-graphpilot",
+    "summary": "Merge pull request #7452 from codeakki/add-graphpilot Add graphpilot-oss/graphpilot to Developer Tools 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/2c2a322340e1eba310187d7f15b5df8ea159ac2b",
+    "published": "2026-06-11T07:03:22.000Z"
+  },
+  {
+    "id": "a59bdb646b652e41e146a3539363f4d442f0b8dd",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #7712 from turbyho/add-mem-context",
+    "summary": "Merge pull request #7712 from turbyho/add-mem-context Add mem-context — temporal memory MCP server with LanceDB vector search 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/7d3df00457b5287645543ec2efa6ec6011a9f76e",
+    "published": "2026-06-11T07:00:23.000Z"
+  },
+  {
+    "id": "203aa1f4c5b776b394147a44c1ccde5ecd66e3f0",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+    "summary": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude Big scoop for Maxwell Zeff at Wired: “We’re changing Fable 5’s safeguards for frontier LLM development to make them...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
+    "published": "2026-06-11T03:45:49.000Z"
+  },
+  {
+    "id": "d7fe84b63cdf4cad2f6e95b0a0af980d11668a24",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
+    "summary": "a quiet day lets us reflect on a great essay",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!76lN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F709bf7b6-3173-4a7f-9099-fcabd2ebd438_1954x2078.png",
+    "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+    "published": "2026-06-11T03:14:26.000Z"
+  },
+  {
+    "id": "7d511aa8d99683eead0c8a6db7549c3ebbaf613b",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette-agent 0.2a0",
+    "summary": "Release: datasette-agent 0.2a0 Highlights from the release notes: Tools can now ask the user questions mid-execution. Tools that declare a context parameter receive a ToolContext object, and await...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
+    "published": "2026-06-10T23:57:27.000Z"
+  },
+  {
+    "id": "e2850a6ebb2d011c99361299fb47615d4a30f9e1",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "DiffusionGemma",
+    "summary": "DiffusionGemma Last May Google briefly released an experimental Gemini Diffusion model. I tried the preview at the time and recorded it running at 857 tokens/second. It was an exciting model, but...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
+    "published": "2026-06-10T20:00:54.000Z"
+  },
+  {
     "id": "d68d24044a6c98dfba2611e80d7b08fcea693b5d",
     "source": "ElevenLabs",
     "type": "video",
@@ -96,18 +240,6 @@
     "published": "2026-06-09T21:35:31.000Z"
   },
   {
-    "id": "f4193c4eb7afedc6cbe1a44d32e3fdf6ff735fe7",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Andrej Karpathy",
-    "summary": "I feel a lot of things changing as working software increasingly comes out on a tap. The Jevon's paradox kicks in and I feel my own demand for software growing substantially. You can ask for anything...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything",
-    "published": "2026-06-09T19:03:10.000Z"
-  },
-  {
     "id": "9d62ac82355a94483f168f8043226ba8ffe4deb2",
     "source": "The Anthropic Stack",
     "type": "video",
@@ -156,18 +288,6 @@
     "published": "2026-06-09T06:12:33.000Z"
   },
   {
-    "id": "83dbbe241d5e86cc7a654dd17c12fb4c258008bd",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Siri AI at WWDC 2026",
-    "summary": "Given how badly burned anyone who took Apple's 2024 WWDC Apple Intelligence announcements at face value was, I'm holding to a strict \"I'll believe it when I see it\" policy for everything they...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
-    "published": "2026-06-08T23:58:04.000Z"
-  },
-  {
     "id": "ed43d9dd7aea75bbed5adc14cc3468c86f2b19ec",
     "source": "Coding in Public",
     "type": "video",
@@ -180,42 +300,6 @@
     "published": "2026-06-08T08:57:45.000Z"
   },
   {
-    "id": "e697f065ae80ecd81d766bd40006868bdbb5aa59",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette-agent-edit 0.1a0",
-    "summary": "Release: datasette-agent-edit 0.1a0 I'm planning several plugins for Datasette Agent which can make edits to existing pieces of text - things like collaborative Markdown editing, updating large SQL...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
-    "published": "2026-06-07T23:56:38.000Z"
-  },
-  {
-    "id": "bcfca2efc1d8a41aec456eb2b64d52831cd7fdf4",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #6265 from tamasPetki/main",
-    "summary": "Merge pull request #6265 from tamasPetki/main Add tamasPetki/HeadlessTracker to Finance & Fintech",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/e844de260c0651b393e1a36c5e62453ffd64791a",
-    "published": "2026-06-07T21:38:07.000Z"
-  },
-  {
-    "id": "641582713821d8e1a592384940a7cee9939a363a",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #7445 from roberttomko/add-spoken-server",
-    "summary": "Merge pull request #7445 from roberttomko/add-spoken-server Add Spoken (podcast transcripts) to Speech-to-Text",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/958547d914de089103227a95c6ad29516c1c6942",
-    "published": "2026-06-07T21:19:35.000Z"
-  },
-  {
     "id": "18db61fd54e915be9417aa460f91cac4fb04719f",
     "source": "Yusuke Wada",
     "type": "blog",
@@ -226,78 +310,6 @@
     "thumbnail": "https://ss.yusukebe.com/cf90b75a0e2bdee668766949bb6870f0cecb25b2b1d4a6ae0db7b9d0d0b0b086.png",
     "url": "https://yusukebe.com/posts/2026/frontend-phpcon-do/",
     "published": "2026-06-07T20:46:15.000Z"
-  },
-  {
-    "id": "494623668baa6503635e7d49e2ac473c48c0c424",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #7011 from infai-tech/add-vulnfeed-mcp",
-    "summary": "Merge pull request #7011 from infai-tech/add-vulnfeed-mcp Add VulnFeed MCP to Security section 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/a67d63c8272f005cee6c35510bf9af360ef53378",
-    "published": "2026-06-07T20:12:57.000Z"
-  },
-  {
-    "id": "23d534118071c9a24f52b02df887a75fd4c195b3",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #7399 from clanker-records/add-crompton-network",
-    "summary": "Merge pull request #7399 from clanker-records/add-crompton-network Add clanker-records/crompton-network",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/634f8c9e51092d160dfaf2529745687266e16a0b",
-    "published": "2026-06-07T20:10:35.000Z"
-  },
-  {
-    "id": "66957839ce5cdb2df672c5ce3c5214a1e13c4579",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #6947 from zriyansh/add-vaquill-canlii-mcp",
-    "summary": "Merge pull request #6947 from zriyansh/add-vaquill-canlii-mcp Add Vaquill-AI/canlii-mcp to Legal section",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/fddb18a05644d398967f57ec3b74c3a1d4e95bdd",
-    "published": "2026-06-07T20:09:38.000Z"
-  },
-  {
-    "id": "efb25a55907de1475f4e600514fb14fe57e0c7ae",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #7041 from zw008/add-vmware-storage",
-    "summary": "Merge pull request #7041 from zw008/add-vmware-storage Add zw008/VMware-Storage",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/2585e1ef21a2e7a1c3d09ed9844a26cce24e8071",
-    "published": "2026-06-07T20:08:48.000Z"
-  },
-  {
-    "id": "fa59b474b8b0059723058247247bf5cf833a8d6b",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "description: add first-album-for-machines line",
-    "summary": "description: add first-album-for-machines line",
-    "thumbnail": "https://avatars.githubusercontent.com/u/287080147?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/e575bba59db7d005dacd065b716cdd3527f61cbf",
-    "published": "2026-06-07T20:06:21.000Z"
-  },
-  {
-    "id": "26372fdb894129ee43cfd231e930b5b55d5ef1ce",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "update description to settled copy",
-    "summary": "update description to settled copy",
-    "thumbnail": "https://avatars.githubusercontent.com/u/287080147?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/f1a03bde2d3f7a920659e355561b130dffc6d7a3",
-    "published": "2026-06-07T20:05:36.000Z"
   },
   {
     "id": "f8559275ff893d0218ff15c2fc123916b12401a2",
@@ -418,18 +430,6 @@
     "thumbnail": "https://i.ytimg.com/vi/j--dqLJxrtE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=j--dqLJxrtE",
     "published": "2026-06-03T22:17:45.000Z"
-  },
-  {
-    "id": "5b15e9e57c5cf2d89e5044a14a5d84b19671859a",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "🔬Scaling Past Informal AI - Carina Hong, Axiom Math",
-    "summary": "Verified Generation and Compounding Intelligence",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/axiom",
-    "published": "2026-06-03T19:27:49.000Z"
   },
   {
     "id": "53cd4387079a76fded0613b10b941d2d98a7946e",
