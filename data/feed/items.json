@@ -1,99 +1,147 @@
 [
   {
-    "id": "701bb6afd6d09c07bda49c8fbea4af482340c831",
+    "id": "7ac12a072525de7cb0c845636593c8d679cc8903",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The Pulse: Did Anthropic’s new model just boost rival Codex’s market share?",
+    "summary": "Anthropic’s new model, Fable, has restrictions many users find unacceptable. Also: a new trend of smart model routing, Coinbase’s core service has no automatic cross-zone failover, and more.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!TeI_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0e46905-09eb-42df-ba51-722c91d4fb63_1316x1018.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/did-anthropics-new-model-just-boost",
+    "published": "2026-06-11T16:26:58.000Z"
+  },
+  {
+    "id": "a73a8ef91acc7d61eb1f8c82b31b837c2fa158b8",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Let your Hermes Agent call you on the phone using ElevenAgents",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/lr8pxKgFRrI/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=lr8pxKgFRrI",
+    "published": "2026-06-11T15:28:54.000Z"
+  },
+  {
+    "id": "edf6b8269330dcae68873a05e02c10c4f3bbd75b",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette 1.0a33",
+    "summary": "Release: datasette 1.0a33 This alpha is a significant step on the road to a stable 1.0, finally extending the ?_extra= pattern I introduced in Datasette 1.0a3 to cover queries and rows in addition to...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
+    "published": "2026-06-11T15:26:49.000Z"
+  },
+  {
+    "id": "7156547137d04b24cf1b83a9b89414313a953dd8",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #7696 from nycreatis/main",
-    "summary": "Merge pull request #7696 from nycreatis/main Add Jobicy remote jobs MCP server",
+    "title": "Merge pull request #7778 from clawdbotworker/add-aso-audit-mcp",
+    "summary": "Merge pull request #7778 from clawdbotworker/add-aso-audit-mcp Add forgemeshlabs/aso-audit-mcp 🤖🤖🤖",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/41e8804eb3cf5bdd416e186e812ccea134de4e7b",
-    "published": "2026-06-11T07:49:38.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/af81dad1de8dc06d95479d117628602b9d37edef",
+    "published": "2026-06-11T11:48:15.000Z"
   },
   {
-    "id": "da0d78252bfa706318a83b2f1a76dfc210cfc0e6",
+    "id": "657fe5803172264df0c4af1ff76b6a9bfc1095b1",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge branch 'main' into main",
-    "summary": "Merge branch 'main' into main",
-    "thumbnail": "https://avatars.githubusercontent.com/u/47978800?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/1835ba003e608525e1556b802f45e217d8a0ede9",
-    "published": "2026-06-11T07:46:16.000Z"
+    "title": "Merge branch 'main' into add-aso-audit-mcp",
+    "summary": "Merge branch 'main' into add-aso-audit-mcp",
+    "thumbnail": "https://avatars.githubusercontent.com/u/259490335?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/6c01737df9e960fb7e256719f35442c43fa5d836",
+    "published": "2026-06-11T11:39:41.000Z"
   },
   {
-    "id": "0ce5e4917ca4037413f6ae0b6190ac5b5da62cef",
+    "id": "addea56bc43a2790ee6853a31770b0058125b328",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #7377 from JeongSeongMok/add-tossinvest-openapi-mcp",
-    "summary": "Merge pull request #7377 from JeongSeongMok/add-tossinvest-openapi-mcp Add tossinvest-openapi-mcp (Toss Securities Open API) to Finance & Fintech",
+    "title": "Merge pull request #7000 from juergenkoller-software/add-pdf-content-…",
+    "summary": "Merge pull request #7000 from juergenkoller-software/add-pdf-content-search-mcp Add PDF Content Search MCP (Search & Data Extraction)",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/3baa815799bba9b88fac37e27090889d77bbe248",
-    "published": "2026-06-11T07:29:19.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/9526f556c35a6700c93050e12bad6abaaeb04c01",
+    "published": "2026-06-11T09:47:41.000Z"
   },
   {
-    "id": "e6a55369f86ea2346c9971bb6bfec0da190febc4",
+    "id": "2c3d8fa3ec4520c97dd91843930b8f6d1d11a2bb",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Add Glama score badge for tossinvest-openapi-mcp",
-    "summary": "Add Glama score badge for tossinvest-openapi-mcp",
-    "thumbnail": "https://avatars.githubusercontent.com/u/71118304?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/f535720042805e81bdcc69cfd37137f93785adbc",
-    "published": "2026-06-11T07:27:32.000Z"
-  },
-  {
-    "id": "c8bc44143ea16c8f915a876dbede6410c81d0005",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add JeongSeongMok/tossinvest-openapi-mcp to Finance & Fintech",
-    "summary": "Add JeongSeongMok/tossinvest-openapi-mcp to Finance & Fintech",
-    "thumbnail": "https://avatars.githubusercontent.com/u/71118304?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/0d1677792d6884230f61b5535c24bd721a9b0b61",
-    "published": "2026-06-11T07:26:14.000Z"
-  },
-  {
-    "id": "f0874ec13aaa01edb15bb9819191677844e5dc77",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #7787 from mnoomnoo/add-resume-mcp-server",
-    "summary": "Merge pull request #7787 from mnoomnoo/add-resume-mcp-server Add resume-mcp-server (Workplace & Productivity)",
+    "title": "Merge pull request #6999 from juergenkoller-software/add-nemeton-mcp",
+    "summary": "Merge pull request #6999 from juergenkoller-software/add-nemeton-mcp Add Nemeton MCP (OS Automation)",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/6ba9ee22d8a536de84238e0d691377919b902275",
-    "published": "2026-06-11T07:09:53.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/17fdb8fd73fae6bc4fa8efda8fbdccb682968329",
+    "published": "2026-06-11T09:47:23.000Z"
   },
   {
-    "id": "ae08eafd21dd03eabb5cb9634065d7504acd6404",
+    "id": "48201d779bff6be7f8fd148abdb934b754b254a7",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #7452 from codeakki/add-graphpilot",
-    "summary": "Merge pull request #7452 from codeakki/add-graphpilot Add graphpilot-oss/graphpilot to Developer Tools 🤖🤖🤖",
+    "title": "Merge pull request #7103 from juergenkoller-software/add-freezetext-mcp",
+    "summary": "Merge pull request #7103 from juergenkoller-software/add-freezetext-mcp Add FreezeText MCP (OS Automation)",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/2c2a322340e1eba310187d7f15b5df8ea159ac2b",
-    "published": "2026-06-11T07:03:22.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/e8a2b3d7a1e4e430f0c7af580ffcc7a358e7f984",
+    "published": "2026-06-11T09:46:00.000Z"
   },
   {
-    "id": "a59bdb646b652e41e146a3539363f4d442f0b8dd",
+    "id": "d54830862e70a4e4784efaa2203c2e3f5042a695",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #7712 from turbyho/add-mem-context",
-    "summary": "Merge pull request #7712 from turbyho/add-mem-context Add mem-context — temporal memory MCP server with LanceDB vector search 🤖🤖🤖",
+    "title": "Merge pull request #6998 from juergenkoller-software/add-inkra-mcp",
+    "summary": "Merge pull request #6998 from juergenkoller-software/add-inkra-mcp Add Inkra MCP (Workplace & Productivity)",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/7d3df00457b5287645543ec2efa6ec6011a9f76e",
-    "published": "2026-06-11T07:00:23.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/423eea44f00babb85621074bf4527ae375aa0b4d",
+    "published": "2026-06-11T09:45:11.000Z"
+  },
+  {
+    "id": "4eba65934b612b87a79ffe39dd7b78b5d5b4c914",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add Nemeton MCP (OS Automation)",
+    "summary": "Add Nemeton MCP (OS Automation)",
+    "thumbnail": "https://1.gravatar.com/avatar/29efa76377a4c4974a131a41bad9750f?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/141106bb7439037eaa390d3618c55978575c015a",
+    "published": "2026-06-11T09:43:54.000Z"
+  },
+  {
+    "id": "78c9f212e171fd00f485f3f7f612be3dab6a81da",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add PDF Content Search MCP (Search & Data Extraction)",
+    "summary": "Add PDF Content Search MCP (Search & Data Extraction)",
+    "thumbnail": "https://1.gravatar.com/avatar/29efa76377a4c4974a131a41bad9750f?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/d0957d8afc5e35be81b0acf6d961737e07f32137",
+    "published": "2026-06-11T09:43:53.000Z"
+  },
+  {
+    "id": "91123517d585a106646d8ac23075ed495a7bd674",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "asyncinject 0.7",
+    "summary": "Release: asyncinject 0.7 I built this utility library to support an asyncio dependency injection pattern a few years ago. I was using it with Datasette and Claude Fable 5 spotted some bugs in the...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
+    "published": "2026-06-11T06:28:09.000Z"
   },
   {
     "id": "203aa1f4c5b776b394147a44c1ccde5ecd66e3f0",
@@ -214,30 +262,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
     "published": "2026-06-09T23:59:54.000Z"
-  },
-  {
-    "id": "8fd37d6308e41a4740cda4536f32e1973b00200b",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm 0.32a3",
-    "summary": "Release: llm 0.32a3 Almost entirely written by the new Claude Fable 5, see my write-up for more details. Tags: projects, ai, generative-ai, llms, llm, claude-mythos",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/9/llm/#atom-everything",
-    "published": "2026-06-09T22:27:03.000Z"
-  },
-  {
-    "id": "000f1726d41dba940ba149c22db9f26e5a0c3b2a",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Setting a custom price for a model in AgentsView",
-    "summary": "TIL: Setting a custom price for a model in AgentsView I've been really enjoying AgentsView by Wes McKinney as a tool for exploring my token usage across different coding agents running on my laptop....",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything",
-    "published": "2026-06-09T21:35:31.000Z"
   },
   {
     "id": "9d62ac82355a94483f168f8043226ba8ffe4deb2",
@@ -696,18 +720,6 @@
     "published": "2026-05-22T17:01:55.000Z"
   },
   {
-    "id": "2ee4d7468c6bcf89704154a5be7e47344584cefe",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "3 DEVS vibe-code an app without COMMUNICATING",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/YXfeMoZ3UDw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=YXfeMoZ3UDw",
-    "published": "2026-05-22T17:00:54.000Z"
-  },
-  {
     "id": "5901bddbcef1885049d8a08b44d286ac0f7d1d50",
     "source": "Coding in Public",
     "type": "video",
@@ -742,18 +754,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/marietje_schaake_over_de_macht_van_ai_de_vibe_shift_naar_codex_googles_ai-comeback",
     "published": "2026-05-21T16:53:49.000Z"
-  },
-  {
-    "id": "c53821f0bb655fd9f964111f38177f65ef0071dd",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Why Rust is different, with Alice Ryhl",
-    "summary": "Alice Ryhl from Google’s Android Rust team explains why developers love Rust, and what makes the language so powerful for building reliable software.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!E4-f!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcea314b0-b7f7-469d-aaf4-2d8a6bb172bf_1200x105.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/why-rust-is-different-with-alice",
-    "published": "2026-05-20T16:22:00.000Z"
   },
   {
     "id": "c14228fa7fdf95f27c8a4fe8c15dcfbf05a39517",
