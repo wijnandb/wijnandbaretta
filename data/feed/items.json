@@ -1,5 +1,29 @@
 [
   {
+    "id": "f2359172d4df9f431f6eee8c7c5717211b1dac42",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Loopcraft: The Art of Stacking Loops",
+    "summary": "a quiet day lets us highlight a great concept from Peter Steinberger, Boris Cherny, and Andrej Karpathy",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!6Y74!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F517bbc58-4f26-46b5-a12e-f4a5f84b0a30_1986x1118.png",
+    "url": "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
+    "published": "2026-06-12T05:34:09.000Z"
+  },
+  {
+    "id": "36d464e56d9c339313dd0a13cad0cc3f86ec9e99",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Claude Fable is relentlessly proactive",
+    "summary": "After two days of experience with Claude Fable 5 I think the best way to describe it is relentlessly proactive. It knows a whole lot of tricks and it will deploy pretty much any of them to get to its...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+    "published": "2026-06-11T23:35:17.000Z"
+  },
+  {
     "id": "7ac12a072525de7cb0c845636593c8d679cc8903",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -252,18 +276,6 @@
     "published": "2026-06-10T00:37:25.000Z"
   },
   {
-    "id": "ff0a8f0275056846158209e580465f58a1c4aff8",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Initial impressions of Claude Fable 5",
-    "summary": "I didn't have early access to today's Claude Fable 5 release, but I've spent the past ~5.5 hours putting it through its paces. My initial impressions are that this is something of a beast. It's slow,...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
-    "published": "2026-06-09T23:59:54.000Z"
-  },
-  {
     "id": "9d62ac82355a94483f168f8043226ba8ffe4deb2",
     "source": "The Anthropic Stack",
     "type": "video",
@@ -418,18 +430,6 @@
     "thumbnail": "https://i.ytimg.com/vi/qunjUnH7W6U/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=qunjUnH7W6U",
     "published": "2026-06-04T08:04:16.000Z"
-  },
-  {
-    "id": "91a4ee214fae5415cb74dedb8636aa0c878039ec",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Reve 2 and Ideogram 4: Layouts in Imagegen",
-    "summary": "a quiet day.",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/ainews-reve-2-and-ideogram-4-layouts",
-    "published": "2026-06-04T03:24:07.000Z"
   },
   {
     "id": "7189bad0ddda1aa37550b05edda7d29d3f52255b",
