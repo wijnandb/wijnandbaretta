@@ -1,5 +1,41 @@
 [
   {
+    "id": "5c61c28c3e4812e30914797471f1bb5af1bc0306",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Publishing WASM wheels to PyPI for use with Pyodide",
+    "summary": "The Pyodide 314.0 release announcement (via Hacker News) includes news I've been looking forward to for a long time: You can now publish Python packages built for Pyodide (or any Python runtime...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
+    "published": "2026-06-13T23:55:18.000Z"
+  },
+  {
+    "id": "7489ae039c8fde64456b0609a545a4f0c041e6b6",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "luau-wasm 0.1a0",
+    "summary": "Release: luau-wasm 0.1a0 See Publishing WASM wheels to PyPI for use with Pyodide for details. Tags: lua, webassembly, pyodide",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything",
+    "published": "2026-06-13T23:14:30.000Z"
+  },
+  {
+    "id": "71b032661311b66717354bbd91637472bda5927b",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Mapping SQLite result columns back to their source `table.column`",
+    "summary": "Research: Mapping SQLite result columns back to their source `table.column` It would be neat if arbitrary SQL queries in Datasette could be rendered with additional information based on which columns...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything",
+    "published": "2026-06-13T23:05:00.000Z"
+  },
+  {
     "id": "3bb23688bbd0dc284bf79c1d8c9f7cd7b03069fa",
     "source": "Latent Space",
     "type": "podcast",
@@ -228,30 +264,6 @@
     "published": "2026-06-11T09:43:53.000Z"
   },
   {
-    "id": "91123517d585a106646d8ac23075ed495a7bd674",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "asyncinject 0.7",
-    "summary": "Release: asyncinject 0.7 I built this utility library to support an asyncio dependency injection pattern a few years ago. I was using it with Datasette and Claude Fable 5 spotted some bugs in the...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
-    "published": "2026-06-11T06:28:09.000Z"
-  },
-  {
-    "id": "203aa1f4c5b776b394147a44c1ccde5ecd66e3f0",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
-    "summary": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude Big scoop for Maxwell Zeff at Wired: “We’re changing Fable 5’s safeguards for frontier LLM development to make them...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
-    "published": "2026-06-11T03:45:49.000Z"
-  },
-  {
     "id": "d7fe84b63cdf4cad2f6e95b0a0af980d11668a24",
     "source": "Latent Space",
     "type": "podcast",
@@ -262,18 +274,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!76lN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F709bf7b6-3173-4a7f-9099-fcabd2ebd438_1954x2078.png",
     "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
     "published": "2026-06-11T03:14:26.000Z"
-  },
-  {
-    "id": "7d511aa8d99683eead0c8a6db7549c3ebbaf613b",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette-agent 0.2a0",
-    "summary": "Release: datasette-agent 0.2a0 Highlights from the release notes: Tools can now ask the user questions mid-execution. Tools that declare a context parameter receive a ToolContext object, and await...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
-    "published": "2026-06-10T23:57:27.000Z"
   },
   {
     "id": "d68d24044a6c98dfba2611e80d7b08fcea693b5d",
@@ -456,6 +456,18 @@
     "published": "2026-06-04T08:04:16.000Z"
   },
   {
+    "id": "7189bad0ddda1aa37550b05edda7d29d3f52255b",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "Astro Mart: Summer 2026 Collection",
+    "summary": "Get ready for a summer of sport with our new personalizable merch.",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/astro-mart-ss26/",
+    "published": "2026-06-04T00:00:00.000Z"
+  },
+  {
     "id": "7f6f2b27ca82c1e791df5ef9f4a38f9599e76845",
     "source": "Riley Brown",
     "type": "video",
@@ -552,6 +564,18 @@
     "published": "2026-05-31T22:27:11.000Z"
   },
   {
+    "id": "0a681af572e37e36561fd4902f5c2cf106704b09",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "What's new in Astro - May 2026",
+    "summary": "May 2026 - A new Astro jobs board, TinaCMS makes Astro their default template, experimental advanced routing, and more!",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/whats-new-may-2026/",
+    "published": "2026-05-31T00:00:00.000Z"
+  },
+  {
     "id": "3f60aef02e31ef1eecfd24e4e6bf13ec37fffa91",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -598,6 +622,18 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/moeten_alle_nederlanders_gratis_ai_krijgen_de_paus_blijkt_een_ai-nerd",
     "published": "2026-05-28T04:30:00.000Z"
+  },
+  {
+    "id": "999ca2787ecc2b49f259e702a14db51488b89389",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "Astro 6.4",
+    "summary": "Astro 6.4 introduces a new pluggable Markdown processor API, a Rust-based Markdown processor for faster builds, and helpers to wire up experimental advanced routing with Cloudflare.",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/astro-640/",
+    "published": "2026-05-28T00:00:00.000Z"
   },
   {
     "id": "ddb0ed19da4a3645c985a11aafbc25ac20f7a4d6",
@@ -816,6 +852,30 @@
     "published": "2026-05-07T15:30:21.000Z"
   },
   {
+    "id": "49f7e3b52683f986388027dfc63a691fb2aa9533",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "Astro 6.3",
+    "summary": "Astro 6.3 introduces experimental advanced routing with Hono support, image redirect handling, resilient island hydration, and more.",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/astro-630/",
+    "published": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "36db6549372972977954d84ea494166acd93fd92",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "Starlight 0.39",
+    "summary": "Get more flexible autogenerated sidebars, improved styling, and stronger multilingual docs support with the latest Starlight release.",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/starlight-039/",
+    "published": "2026-05-07T00:00:00.000Z"
+  },
+  {
     "id": "98c4762cc6b231dd983c38a736ab2e4d26ab7716",
     "source": "AI Jason",
     "type": "video",
@@ -850,6 +910,30 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/openai_s_super-app_ambitie_met_gpt-5_5_deepseek_v4_voor_een_schijntje_rick_lamers_over_agi",
     "published": "2026-04-30T16:56:41.000Z"
+  },
+  {
+    "id": "800bfab7e9df1251e8fb4f738cc9b7030d0470b4",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "Astro 6.2",
+    "summary": "Astro 6.2 introduces an experimental custom logger with JSON output, an SVG optimizer API, a new font file URL helper, and more.",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/astro-620/",
+    "published": "2026-04-30T00:00:00.000Z"
+  },
+  {
+    "id": "b68bd78ddbb5e2b3de40255281ba5f9699c1bd49",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "What's new in Astro - April 2026",
+    "summary": "April 2026 - Astro Together London, an alpha preview of Astro 7, and more!",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/whats-new-april-2026/",
+    "published": "2026-04-30T00:00:00.000Z"
   },
   {
     "id": "a2d9206e1ecd675b78348718e6706a3410d3584e",
@@ -1068,6 +1152,18 @@
     "published": "2026-04-02T16:06:59.000Z"
   },
   {
+    "id": "9427a39b1828f3dc1b6567f043279c1a4e77b379",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "What's new in Astro - March 2026",
+    "summary": "March 2026 - Astro 6, CloudCannon CMS Partnership, Astro Together London, and more!",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/whats-new-march-2026/",
+    "published": "2026-03-31T00:00:00.000Z"
+  },
+  {
     "id": "1e43f5857f51ebcd22f7a6ac27c39cbada43cf85",
     "source": "Directus",
     "type": "blog",
@@ -1102,101 +1198,5 @@
     "thumbnail": null,
     "url": "/tv/leap-week/the-build-off",
     "published": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "id": "c5f3427c35a2c7ba4c1a42d37066b209179c9b94",
-    "source": "Directus",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "AI in the Enterprise",
-    "summary": "How are enterprises giving teams access to AI while managing governance, data privacy, and risk?",
-    "thumbnail": null,
-    "url": "/tv/leap-week/ai-in-the-enterprise",
-    "published": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "id": "5dc69425faeb8d880c8ce9f85a1843524296e168",
-    "source": "Directus",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "From Zero to Production",
-    "summary": "Spin up a backend, connect a frontend, and deploy to production - all in one session. Featuring Railway.",
-    "thumbnail": null,
-    "url": "/tv/leap-week/from-zero-to-production",
-    "published": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "id": "66c7e82297ae50c5c9db57b94318cbbd2773e23c",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "feat: update skills",
-    "summary": "feat: update skills",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/c35a5588a5158b5b404a14fb10469b2b6dc1952b",
-    "published": "2026-03-16T06:16:21.000Z"
-  },
-  {
-    "id": "e5a6eb3ea910479a61aa64f36d34a6771ba1662f",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update",
-    "summary": "chore: update",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/5ee89195a6f767aeaa5cd7a206e39f4eeb1a3523",
-    "published": "2026-03-16T06:15:28.000Z"
-  },
-  {
-    "id": "e25663e69815f6ef55bb19c9cc9134e7597a80f9",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "feat: update vendored skills",
-    "summary": "feat: update vendored skills",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/a42879a5e99272b16296ea7d7592aaccb00ee464",
-    "published": "2026-03-13T08:09:02.000Z"
-  },
-  {
-    "id": "eecf7c25e969383c5b1ad20eaf32df2b407fd6c4",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update deps",
-    "summary": "chore: update deps",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/b65fff3244cb95f366b82e7d9114ed762ecbfa38",
-    "published": "2026-03-13T08:06:41.000Z"
-  },
-  {
-    "id": "b682d8b0847d6ba0809c5de36f5876fc2b085642",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: clone nitro",
-    "summary": "chore: clone nitro",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/59953cce865040cf6b27c7e4c304323ddd9cf89d",
-    "published": "2026-03-13T08:05:00.000Z"
-  },
-  {
-    "id": "befbc3d3600476d59126628044f330a697199afa",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "wtf is Harness Engineer & why is it important",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/kJPvfoLtFFY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=kJPvfoLtFFY",
-    "published": "2026-03-05T10:17:00.000Z"
   }
 ]
