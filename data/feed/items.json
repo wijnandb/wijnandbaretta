@@ -1,5 +1,29 @@
 [
   {
+    "id": "5df1778cf49cfadf4fc44d92dbfbff741f045019",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Introducing Music v2 API",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/CrRQLy4DMw8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=CrRQLy4DMw8",
+    "published": "2026-06-15T17:18:48.000Z"
+  },
+  {
+    "id": "a43ff3387d229cecb668530d6f7f2dc45e1d2d6c",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
+    "summary": "\"They screwed us\": Personality clashes sent Anthropic's models offline Lots of \"source familiar with the administration's thinking\" and \"source close to Anthropic\" in this Axios piece, which is the...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
+    "published": "2026-06-15T14:57:33.000Z"
+  },
+  {
     "id": "0ad8f2ba90a48f728926546cd0486992f64b0d3c",
     "source": "Simon Willison",
     "type": "blog",
@@ -214,18 +238,6 @@
     "thumbnail": "https://i.ytimg.com/vi/cv0Pspf6xno/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=cv0Pspf6xno",
     "published": "2026-06-12T18:28:17.000Z"
-  },
-  {
-    "id": "560cd72ab561d82112afe0f0ae0117205f06a192",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Andrew Singleton",
-    "summary": "Jenny owns a crematorium. John’s propane company gives her a $20 billion investment in return for 5 percent of her operation. Jenny throws $10 billion into the incinerator, then pays John $10 billion...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything",
-    "published": "2026-06-12T18:09:21.000Z"
   },
   {
     "id": "f2359172d4df9f431f6eee8c7c5717211b1dac42",
@@ -730,18 +742,6 @@
     "thumbnail": "https://i.ytimg.com/vi/mVZ3q_SFXHU/mqdefault.jpg",
     "url": "https://www.youtube.com/shorts/mVZ3q_SFXHU",
     "published": "2026-05-22T17:02:12.000Z"
-  },
-  {
-    "id": "36e5a9c68933d65b71d91f400fb83c1ce5bc69f4",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Pass the Project #1 - Instructions",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/7lzsxLqCELU/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/7lzsxLqCELU",
-    "published": "2026-05-22T17:01:55.000Z"
   },
   {
     "id": "5901bddbcef1885049d8a08b44d286ac0f7d1d50",
