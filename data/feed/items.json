@@ -1,5 +1,53 @@
 [
   {
+    "id": "d35c059761529ba1b2062d5379b6bd16273a8760",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Why is Meta destroying its engineering organization?",
+    "summary": "Leadership at the social media giant has been on an AI-fueled rampage through its engineering org. We report what’s happened",
+    "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/eabe4407-76aa-47a3-a8cb-1d955c05bf03_1972x1072.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+    "published": "2026-06-16T16:27:43.000Z"
+  },
+  {
+    "id": "4f8de568a537901830180ef1453b2ee3bab2c5ec",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Georgi Gerganov",
+    "summary": "I can 100% attest to the fact that Qwen3.6-27B is a very capable local model for coding tasks. Over the last month and a half I've been using it almost daily, either on my M2 Ultra or on my RTX 5090...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
+    "published": "2026-06-16T16:04:59.000Z"
+  },
+  {
+    "id": "28c0fc2d679a2d3967cc6b5f002ee2e177599bdc",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Claude API Crash Course #2 - Sending a Message",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/ba_vrnfalYE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=ba_vrnfalYE",
+    "published": "2026-06-16T09:47:29.000Z"
+  },
+  {
+    "id": "16ee74729211bc5a5aedaf898925d6eba02a44e5",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Claude API Crash Course #1 - Introduction & Setup",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/H7LZb20-fUY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=H7LZb20-fUY",
+    "published": "2026-06-16T09:47:26.000Z"
+  },
+  {
     "id": "03b53f7c478f217b3c0a7c1ee49d3dfdad404a41",
     "source": "Simon Willison",
     "type": "blog",
@@ -202,18 +250,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
     "published": "2026-06-14T23:54:11.000Z"
-  },
-  {
-    "id": "5c61c28c3e4812e30914797471f1bb5af1bc0306",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Publishing WASM wheels to PyPI for use with Pyodide",
-    "summary": "The Pyodide 314.0 release announcement (via Hacker News) includes news I've been looking forward to for a long time: You can now publish Python packages built for Pyodide (or any Python runtime...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
-    "published": "2026-06-13T23:55:18.000Z"
   },
   {
     "id": "3bb23688bbd0dc284bf79c1d8c9f7cd7b03069fa",
@@ -696,18 +732,6 @@
     "published": "2026-05-26T18:10:59.000Z"
   },
   {
-    "id": "4a4d06da3f39c18fbf6e4c98ac4d1d4653d749a9",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Copilot CLI Tutorial #5 - Context Management",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/yi1B3WbzB3c/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=yi1B3WbzB3c",
-    "published": "2026-05-26T07:32:55.000Z"
-  },
-  {
     "id": "db107ce3d5a70edf097beaa898bf1acc1a08b904",
     "source": "Riley Brown",
     "type": "video",
@@ -742,30 +766,6 @@
     "thumbnail": "https://i.ytimg.com/vi/mVZ3q_SFXHU/mqdefault.jpg",
     "url": "https://www.youtube.com/shorts/mVZ3q_SFXHU",
     "published": "2026-05-22T17:02:12.000Z"
-  },
-  {
-    "id": "5901bddbcef1885049d8a08b44d286ac0f7d1d50",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Copilot CLI Tutorial #4 - Custom Instructions",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/oA1LDB9tdZU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=oA1LDB9tdZU",
-    "published": "2026-05-22T08:12:35.000Z"
-  },
-  {
-    "id": "a06cfbcccff28d9797b692e7a218d418a4df82ff",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE",
-    "summary": "Negative feedback greets Google’s redesigned AI IDE, why Google’s product ecosystem is so chaotic, Meta cuts 10% of staff as it hits record revenue and profits, and more",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!QVIZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e853b57-6352-4ffc-b5c8-0176efbeb101_1430x1056.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-antigravity-20-takes-ide",
-    "published": "2026-05-21T17:01:39.000Z"
   },
   {
     "id": "144132956818476386f215ae8c67ed41315562a5",
