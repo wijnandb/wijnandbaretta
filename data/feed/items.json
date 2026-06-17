@@ -1,5 +1,41 @@
 [
   {
+    "id": "ca34c0056bc933a8f42fe0cb7a32aac3c6b7e788",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
+    "summary": "Radical AI's Joseph Krause on why the moat in materials is the lab, not the model",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/radical-ai",
+    "published": "2026-06-17T17:58:06.000Z"
+  },
+  {
+    "id": "e9a95537dae8b9a572a1a9ec1d46f28e8c6ed4b8",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Charity Majors",
+    "summary": "What happened in 2025 was this: the economics of code production were turned upside down. Instead of being very hard, time-consuming, and expensive to generate code, it became effectively free and...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
+    "published": "2026-06-17T17:12:41.000Z"
+  },
+  {
+    "id": "fd6c44580fa4af3c3caf2b01382c00d65e53c43d",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "CI/CD with Robert Erez",
+    "summary": "Robert Erez of Octopus Deploy joins me to discuss Kubernetes, GitOps, progressive delivery, AI in CI/CD, and the evolving practices behind modern software delivery.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!YCsL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39bdfbb4-fb73-41d8-83cb-0ca4832aed49_1280x80.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/cicd-with-robert-erez",
+    "published": "2026-06-17T16:41:01.000Z"
+  },
+  {
     "id": "b1ce34688b084ecf474eae8387e3d3ac4247ef5c",
     "source": "Latent Space",
     "type": "podcast",
@@ -252,18 +288,6 @@
     "published": "2026-06-16T02:29:29.000Z"
   },
   {
-    "id": "679da6a46b301ad4a513d48d955eaadc3bce7405",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Cloudflare CAPTCHA on at least one ampersand",
-    "summary": "TIL: Cloudflare CAPTCHA on at least one ampersand I'm using Cloudflare's CAPTCHA (they call it a \"Web Application Firewall > Custom rules > Managed Challenge\" these days) to prevent crawlers from...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
-    "published": "2026-06-16T00:21:36.000Z"
-  },
-  {
     "id": "5df1778cf49cfadf4fc44d92dbfbff741f045019",
     "source": "ElevenLabs",
     "type": "video",
@@ -478,18 +502,6 @@
     "thumbnail": "https://i.ytimg.com/vi/DbeFq_uoaRs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=DbeFq_uoaRs",
     "published": "2026-06-06T20:10:34.000Z"
-  },
-  {
-    "id": "aaf6f2d44a4f5642f163f41528cc36327953f699",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] not much happened today",
-    "summary": "a quiet day of RSI.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
-    "url": "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
-    "published": "2026-06-06T04:34:47.000Z"
   },
   {
     "id": "1cd4146480ab38d2f8c890bd04e1bbd0250d491c",
@@ -730,18 +742,6 @@
     "thumbnail": "https://i.ytimg.com/vi/oFV4H7xgyKQ/mqdefault.jpg",
     "url": "https://www.youtube.com/shorts/oFV4H7xgyKQ",
     "published": "2026-05-26T19:54:24.000Z"
-  },
-  {
-    "id": "b35778bd9216693817a11043caeb1ce3f8ebf183",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "State of the software engineering job market in 2026",
-    "summary": "A deepdive into today’s tech jobs market, with exclusive data on software engineering jobs, the AI engineering boom, whether AI engineering is “replacing” software engineering hiring, and more",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!P4An!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29e3225d-e5fc-492f-a554-b000806a74d2_1220x1058.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/state-of-the-job-market-2026",
-    "published": "2026-05-26T18:10:59.000Z"
   },
   {
     "id": "db107ce3d5a70edf097beaa898bf1acc1a08b904",
