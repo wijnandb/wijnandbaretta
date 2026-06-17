@@ -1,5 +1,65 @@
 [
   {
+    "id": "b1ce34688b084ecf474eae8387e3d3ac4247ef5c",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
+    "summary": "We have a new top open model in the world!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!tOcj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c75ad4c-83e2-4317-8cf0-276d3cab6e59_1226x1830.png",
+    "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
+    "published": "2026-06-17T05:37:40.000Z"
+  },
+  {
+    "id": "a903fc4d4a503f6762fd8dbb98533baf8773583c",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "— a still that plays",
+    "summary": "Tool: — a still that plays A progressive enchantment Web Component that turns this markup: Into a still frame with a click to play button which loads the GIF on demand. For when you don't want big...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
+    "published": "2026-06-17T03:56:10.000Z"
+  },
+  {
+    "id": "55bdbb1345f0d8ba8ccfad8534e703e30a9cbb6c",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "NetNewsWire Status",
+    "summary": "NetNewsWire Status I find this inspiring. Brent Simmons retired a year ago, and his retirement project is making one piece of software really, really good - free from any commercial pressure. The...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
+    "published": "2026-06-17T03:36:09.000Z"
+  },
+  {
+    "id": "47242b80cb63c8b54d544cd4c3fed42508ff78c5",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette 1.0a34",
+    "summary": "Release: datasette 1.0a34 Quoting the release notes: The big feature in this alpha is tools to insert, edit and delete rows within the Datasette interface. These features are available on table...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
+    "published": "2026-06-16T21:31:24.000Z"
+  },
+  {
+    "id": "eaa440c88f377973e1a78419bb275ad0fd1a1755",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "SpaceX Just Bought Cursor for $60B. It’s About to Take OVER.",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/LSpEP9N_7iY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=LSpEP9N_7iY",
+    "published": "2026-06-16T21:31:21.000Z"
+  },
+  {
     "id": "d35c059761529ba1b2062d5379b6bd16273a8760",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -10,6 +70,18 @@
     "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/eabe4407-76aa-47a3-a8cb-1d955c05bf03_1972x1072.png",
     "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
     "published": "2026-06-16T16:27:43.000Z"
+  },
+  {
+    "id": "6f6812d9494fe6261e3a91c0b1c2168d02755234",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette-tailscale 0.1a0",
+    "summary": "Release: datasette-tailscale 0.1a0 A very experimental alpha plugin which lets you do this: datasette tailscale mydata.db \\ --ts-authkey tskey-auth-xxxx --ts-hostname datasette-preview This starts a...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
+    "published": "2026-06-16T16:18:20.000Z"
   },
   {
     "id": "4f8de568a537901830180ef1453b2ee3bab2c5ec",
@@ -192,18 +264,6 @@
     "published": "2026-06-16T00:21:36.000Z"
   },
   {
-    "id": "e0c26a29f687a3cdd9bf71908951dc6d0f9ad5eb",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette-agent 0.3a0",
-    "summary": "Release: datasette-agent 0.3a0 New tool, execute_write_sql, which requests user approval and then writes to a database - taking user permissions into account. #27 I added a mechanism for asking user...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
-    "published": "2026-06-15T17:19:27.000Z"
-  },
-  {
     "id": "5df1778cf49cfadf4fc44d92dbfbff741f045019",
     "source": "ElevenLabs",
     "type": "video",
@@ -214,42 +274,6 @@
     "thumbnail": "https://i.ytimg.com/vi/CrRQLy4DMw8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=CrRQLy4DMw8",
     "published": "2026-06-15T17:18:48.000Z"
-  },
-  {
-    "id": "a43ff3387d229cecb668530d6f7f2dc45e1d2d6c",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
-    "summary": "\"They screwed us\": Personality clashes sent Anthropic's models offline Lots of \"source familiar with the administration's thinking\" and \"source close to Anthropic\" in this Axios piece, which is the...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
-    "published": "2026-06-15T14:57:33.000Z"
-  },
-  {
-    "id": "0ad8f2ba90a48f728926546cd0486992f64b0d3c",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Julia Evans",
-    "summary": "[...] Instead, I picture a specific person and I just write for them. Often this person is \"me, but 3 years ago\" or a good friend. &mdash; Julia Evans, write for 1 person Tags: writing, julia-evans",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything",
-    "published": "2026-06-15T02:05:19.000Z"
-  },
-  {
-    "id": "9136fde9b3fc6bb8acf7a0edea1c2a95ce96fccb",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Why AI hasn’t replaced software engineers, and won’t",
-    "summary": "Why AI hasn’t replaced software engineers, and won’t Arvind Narayanan and Sayash Kappor take on the question of AI job losses through the lens of a profession that is uniquely suited to AI disruption...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
-    "published": "2026-06-14T23:54:11.000Z"
   },
   {
     "id": "3bb23688bbd0dc284bf79c1d8c9f7cd7b03069fa",
@@ -466,18 +490,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
     "url": "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
     "published": "2026-06-06T04:34:47.000Z"
-  },
-  {
-    "id": "60784992d4416d5f0520453e32c7f5a78b714262",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "How to Stop Shipping Low-Quality RL Environments (with Examples)",
-    "summary": "Your broken harness is actively making the model worse. Here's what I keep seeing after years of eyeballing trajectories, and what you need to fix.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!NbXz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe58868ac-23a0-453d-81e5-5ca830f7454d_1456x1394.png",
-    "url": "https://www.latent.space/p/bad-envs",
-    "published": "2026-06-05T18:49:40.000Z"
   },
   {
     "id": "1cd4146480ab38d2f8c890bd04e1bbd0250d491c",
@@ -778,18 +790,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/marietje_schaake_over_de_macht_van_ai_de_vibe_shift_naar_codex_googles_ai-comeback",
     "published": "2026-05-21T16:53:49.000Z"
-  },
-  {
-    "id": "c14228fa7fdf95f27c8a4fe8c15dcfbf05a39517",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Codex: Build Your Full AI Marketing Team (Agents + Skills)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/sL_KBnYB17I/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=sL_KBnYB17I",
-    "published": "2026-05-18T15:31:53.000Z"
   },
   {
     "id": "423f3ce3e50bcaa1873cc9790a67f1369d749829",
