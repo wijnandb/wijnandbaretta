@@ -1,42 +1,114 @@
 [
   {
-    "id": "25f3aac03d7b64afa789422ea922771101681d27",
+    "id": "fed69579fa772c0d4ffaece15a2e134b259d9b72",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "The Professor of Outputmaxxing — Anjney Midha, AMP",
+    "summary": "We talk about how this legendary investor went from humble beginnings in Singapore to leading rounds in Anthropic, Mistral, Black Forest Labs, and Periodic Labs... and the AMP secret master plan!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!kumG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0422ec73-8239-45ef-aede-51a7cfb19b47_1166x1104.png",
+    "url": "https://www.latent.space/p/anj",
+    "published": "2026-06-18T17:30:00.000Z"
+  },
+  {
+    "id": "e7065f6abfe2141b3006a782a0af4237fe33cef3",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The Pulse: Big implications of US banning Anthropic’s new model, Fable",
+    "summary": "Also: a follow-up on Meta destroying its own engineering culture, the SpaceX IPO, SpaceX buys Cursor, Cursor’s GitHub competitor, and more.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!SNKX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F744904b3-18f6-46e7-a260-659673fed299_1186x1528.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-big-implications-of-us",
+    "published": "2026-06-18T17:11:03.000Z"
+  },
+  {
+    "id": "eb9e1a3bfac5daf85ba53213a366436115d6431b",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #8092 from taisly/add-taisly-agent-mcp",
-    "summary": "Merge pull request #8092 from taisly/add-taisly-agent-mcp Add Taisly Agent MCP server 🤖🤖🤖",
+    "title": "Merge pull request #8184 from 0x-devc/add-novai-mcp-server",
+    "summary": "Merge pull request #8184 from 0x-devc/add-novai-mcp-server Add NOVAI MCP Server",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/e168fbff3bc3d11d0580fc9b48692dc6c9cde8bd",
-    "published": "2026-06-18T05:30:32.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/b1fe38f95f3b9391bc798934f35ed6e6ea0ec6c8",
+    "published": "2026-06-18T16:09:14.000Z"
   },
   {
-    "id": "55b4a82284d07a873cd45f27af275d686a27e440",
+    "id": "c739111e36cf6be2264512118f88da6132dc3abd",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #8054 from kjberk13/add-patent-precheck",
-    "summary": "Merge pull request #8054 from kjberk13/add-patent-precheck Add Patent-PreCheck/patent-precheck-mcp (Legal)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/cd6f547a48239cbcf9bf38a1ae09f970738eeaf5",
-    "published": "2026-06-18T05:27:47.000Z"
+    "title": "Merge branch 'main' into add-novai-mcp-server",
+    "summary": "Merge branch 'main' into add-novai-mcp-server",
+    "thumbnail": "https://avatars.githubusercontent.com/u/251796703?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/d380f4cffce2234753a1702fe410d7e31b76817f",
+    "published": "2026-06-18T15:59:50.000Z"
   },
   {
-    "id": "b63519b268a7c88fbf3e14a8ced54774a7054f5c",
+    "id": "2f841227f5b36785baa8cda526a897c00bb150bb",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #8214 from marzukia/add-charted",
-    "summary": "Merge pull request #8214 from marzukia/add-charted Add marzukia/charted to Data Visualization",
+    "title": "Merge pull request #8151 from yenchieh/add-diagramzu-mcp",
+    "summary": "Merge pull request #8151 from yenchieh/add-diagramzu-mcp Add diagramzu-mcp (Architecture & Design) 🤖🤖🤖",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/1392121ea8bf25a19d5e2a8b8ffab8fa634cbb53",
-    "published": "2026-06-18T05:26:38.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/df0a30c2a83d94c6529b34f06cb6c3ba449a4677",
+    "published": "2026-06-18T15:51:22.000Z"
   },
   {
-    "id": "6b8473bc9b8c520674e82104cbe70615ff897880",
+    "id": "8cd4c5bf9b8f5464d631da136372645cf9438d16",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #8210 from namixai/add-usenami-funding-mcp",
+    "summary": "Merge pull request #8210 from namixai/add-usenami-funding-mcp Add @usenami/funding-mcp",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/217bb118ebf5bf384ea09a5a5df80eca1cad4a4d",
+    "published": "2026-06-18T15:31:45.000Z"
+  },
+  {
+    "id": "98bef9b106fb57c9b804a345ac419d5154e1d059",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #8175 from ysalitrynskyi/add-opn-mcp",
+    "summary": "Merge pull request #8175 from ysalitrynskyi/add-opn-mcp Add opn-mcp (URL shortener) to Developer Tools",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/624a1c265606c7b7fafc4caac2c7a219193efb1d",
+    "published": "2026-06-18T15:29:08.000Z"
+  },
+  {
+    "id": "3729893b207915bba19f2ad661ea22fdc137018b",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #8286 from Goldentrii/add-agentrecall",
+    "summary": "Merge pull request #8286 from Goldentrii/add-agentrecall feat: add AgentRecall persistent memory MCP server",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/6b167a311418f90960738fc7ce2e05839f6980ce",
+    "published": "2026-06-18T14:19:55.000Z"
+  },
+  {
+    "id": "f9e1f54f019fe9364374ae16cdce2e20fd362a5f",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge upstream/main and resolve README conflict in Developer Tools.",
+    "summary": "Merge upstream/main and resolve README conflict in Developer Tools. Keep both vs-token-safer and opn-mcp entries with Glama badges.",
+    "thumbnail": "https://avatars.githubusercontent.com/u/25203302?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/422fd0613a7a1afbe7bf7b90ec31e3514358c238",
+    "published": "2026-06-18T14:19:40.000Z"
+  },
+  {
+    "id": "8be805d3b75ca2ac6b79bd59ce6bd18766a92a73",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
@@ -44,56 +116,32 @@
     "title": "Fix entry formatting",
     "summary": "Fix entry formatting",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/44595f9ea5bec20d05d1531d57f402897aecdbe3",
-    "published": "2026-06-18T05:26:25.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/f7043d5abb8ff80024206d2f5e926dc2ca58f8eb",
+    "published": "2026-06-18T14:15:06.000Z"
   },
   {
-    "id": "fc991b73157c919e60f3b870c4b671be6a8f5442",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
+    "id": "065b107cac6eb1a4aecc05eca3da38f1579fd654",
+    "source": "AI Jason",
+    "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #8018 from makeev/add-alphai-mcp",
-    "summary": "Merge pull request #8018 from makeev/add-alphai-mcp Add makeev/alphai-mcp (AlphaAI) to Finance & Fintech",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/8e172d315c21c59fe52a3308ca0385b3cfb784fc",
-    "published": "2026-06-18T05:26:15.000Z"
+    "title": "After spent 30+ hrs building loops...",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/W6x-hb44C0c/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=W6x-hb44C0c",
+    "published": "2026-06-18T14:04:35.000Z"
   },
   {
-    "id": "f985a8655753c7c2df301eebdcb097cc3b9de223",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
+    "id": "080692097a6037f6f33b34197bd7c10959a58c66",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
     "lang": "en",
-    "title": "Merge pull request #7889 from Zhonghao1995/add-agentic-swmm",
-    "summary": "Merge pull request #7889 from Zhonghao1995/add-agentic-swmm Add Agentic SWMM stormwater modelling servers 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/2fb7654d2fd623e72feec35c74f1d63d2a16045e",
-    "published": "2026-06-18T05:23:54.000Z"
-  },
-  {
-    "id": "cfd7099f42ee9316d4e72fac304901f41478aee8",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #8180 from Alessandro114/add-scala-v2",
-    "summary": "Merge pull request #8180 from Alessandro114/add-scala-v2 Add scala-mcp-server — 250M+ company data for AI agents",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/00325534bd55296858e43f9abe40dd1a0e888323",
-    "published": "2026-06-18T05:23:04.000Z"
-  },
-  {
-    "id": "f1249a2298099f913463e0ddde7ef38b27dc6f1e",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #8100 from node-man/add-dechonet-mcp",
-    "summary": "Merge pull request #8100 from node-man/add-dechonet-mcp Add dechonet-mcp (domain security recon) 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/a428c167d1e2aff3de3915d231a914e379b57360",
-    "published": "2026-06-18T05:22:09.000Z"
+    "title": "Claude API Crash Course #3 - Making the Prompt Dynamic",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/xeohvm11KmM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=xeohvm11KmM",
+    "published": "2026-06-18T08:58:47.000Z"
   },
   {
     "id": "c7a02626e6e7842962ac2b132644d2a8335853b5",
@@ -113,7 +161,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "9 AI Agent Trends To Get Ahead of 99% of People",
+    "title": "9 AI Agent Skills To Get Ahead of 99% of People",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/vhyna9ur6Gc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=vhyna9ur6Gc",
@@ -444,18 +492,6 @@
     "published": "2026-06-10T16:20:00.000Z"
   },
   {
-    "id": "1553bad2f8134798a8ddb84c433924b8a7b34945",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms",
-    "summary": "The much anticipated launch of the Mythos-class model was marred by some controversial usage policies",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!TXW4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7af8f73c-7a20-4f7e-ac83-a05cbc892d8b_2318x1684.png",
-    "url": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
-    "published": "2026-06-10T03:50:21.000Z"
-  },
-  {
     "id": "9d62ac82355a94483f168f8043226ba8ffe4deb2",
     "source": "The Anthropic Stack",
     "type": "video",
@@ -718,30 +754,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/astro-640/",
     "published": "2026-05-28T00:00:00.000Z"
-  },
-  {
-    "id": "ddb0ed19da4a3645c985a11aafbc25ac20f7a4d6",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Building OpenCode with Dax Raad",
-    "summary": "Dax Raad, co-founder of OpenCode, joins the show to discuss their explosive growth, the limits of AI coding tools, and why engineering judgment still matters.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!YCsL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39bdfbb4-fb73-41d8-83cb-0ca4832aed49_1280x80.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/opencode",
-    "published": "2026-05-27T16:07:30.000Z"
-  },
-  {
-    "id": "9a6f06777993cf9e34b03d2773ae8e53fa4b2bef",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Copilot CLI Tutorial #6 - Plan Mode",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/DSoj3u6jCK0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=DSoj3u6jCK0",
-    "published": "2026-05-27T08:36:39.000Z"
   },
   {
     "id": "218d8e3a9cc2544f378077adbfc436994516c16a",
@@ -1185,18 +1197,6 @@
     "summary": "Hear from Directus CEO & Co-Founder Ben Haynes on software is shifting from UI-first to data-first. When everyone can build an interface, what is actually valuable?",
     "thumbnail": null,
     "url": "/tv/leap-week/ui-era-shifting",
-    "published": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "id": "9eecbd46a296ce6e73ce0b099b6019f0fb7ef375",
-    "source": "Directus",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The Build-Off",
-    "summary": "Three builders. Three AI tools. One backend. Who can ship the best frontend in 30 minutes?",
-    "thumbnail": null,
-    "url": "/tv/leap-week/the-build-off",
     "published": "2026-03-27T00:00:00.000Z"
   }
 ]
