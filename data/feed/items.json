@@ -1,5 +1,53 @@
 [
   {
+    "id": "3781d369227f1cc4858ecf70810ec1a5fab34c5e",
+    "source": "AI Report",
+    "type": "podcast",
+    "category": "nl",
+    "lang": "nl",
+    "title": "Fable is uit, maar gelukkig hebben we GPT-NL. Toch?",
+    "summary": "De Amerikaanse overheid dwong Anthropic om Fable 5 en het nog krachtigere Mythos 5 uit te zetten, drie dagen na de lancering en met 90 minuten om te gehoorzamen. Het exportverbod richt zich expliciet...",
+    "thumbnail": null,
+    "url": "https://www.aireport.nl/podcast/s/aireport/fable_is_uit_maar_gelukkig_hebben_we_gpt-nl_toch",
+    "published": "2026-06-19T07:48:18.000Z"
+  },
+  {
+    "id": "706666b669dd698d426969137641d24041003229",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
+    "summary": "With GLM-5.2 passing everyone's vibe check, the open models story finally becomes a real frontier story.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!bxEo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96e55c58-9f9d-4573-af94-501283bf9161_814x636.png",
+    "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
+    "published": "2026-06-19T05:53:54.000Z"
+  },
+  {
+    "id": "5f72542577bb42c1cc15563093e28a53b9d52edb",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+    "summary": "Today we launched a new plugin for Datasette, datasette-apps, with this launch announcement post on the Datasette project blog. That post has the what, but I'm going to expand on that a little bit...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+    "published": "2026-06-18T23:58:38.000Z"
+  },
+  {
+    "id": "b6fb1ed2ccea781323f6c11ff4dfb0061a812e0c",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette-acl 0.6a0",
+    "summary": "Release: datasette-acl 0.6a0 This release expands datasette-acl from table-only permissions toward a general resource-sharing system. Alex Garcia did most of the work for this release - we're...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
+    "published": "2026-06-18T19:03:13.000Z"
+  },
+  {
     "id": "fed69579fa772c0d4ffaece15a2e134b259d9b72",
     "source": "Latent Space",
     "type": "podcast",
@@ -125,7 +173,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "After spent 30+ hrs building loops...",
+    "title": "wtf is Loop Engineer & how to setup for real",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/W6x-hb44C0c/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=W6x-hb44C0c",
@@ -312,18 +360,6 @@
     "published": "2026-06-16T16:18:20.000Z"
   },
   {
-    "id": "4f8de568a537901830180ef1453b2ee3bab2c5ec",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Georgi Gerganov",
-    "summary": "I can 100% attest to the fact that Qwen3.6-27B is a very capable local model for coding tasks. Over the last month and a half I've been using it almost daily, either on my M2 Ultra or on my RTX 5090...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
-    "published": "2026-06-16T16:04:59.000Z"
-  },
-  {
     "id": "28c0fc2d679a2d3967cc6b5f002ee2e177599bdc",
     "source": "Coding in Public",
     "type": "video",
@@ -346,18 +382,6 @@
     "thumbnail": "https://i.ytimg.com/vi/H7LZb20-fUY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=H7LZb20-fUY",
     "published": "2026-06-16T09:47:26.000Z"
-  },
-  {
-    "id": "03b53f7c478f217b3c0a7c1ee49d3dfdad404a41",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "The Fable 5 Export Controls Harm US Cyber Defense",
-    "summary": "The Fable 5 Export Controls Harm US Cyber Defense I quoted The Atlantic quoting Kate Moussouris earlier, when I should have gone straight to the source. Here she is confirming that the \"jailbreak\"...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
-    "published": "2026-06-16T05:20:29.000Z"
   },
   {
     "id": "ca662b34e1717ca5fee6c23708d28e10e97c397a",
@@ -454,18 +478,6 @@
     "thumbnail": "https://i.ytimg.com/vi/lr8pxKgFRrI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=lr8pxKgFRrI",
     "published": "2026-06-11T15:28:54.000Z"
-  },
-  {
-    "id": "d7fe84b63cdf4cad2f6e95b0a0af980d11668a24",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
-    "summary": "a quiet day lets us reflect on a great essay",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!76lN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F709bf7b6-3173-4a7f-9099-fcabd2ebd438_1954x2078.png",
-    "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
-    "published": "2026-06-11T03:14:26.000Z"
   },
   {
     "id": "d68d24044a6c98dfba2611e80d7b08fcea693b5d",
@@ -1090,18 +1102,6 @@
     "thumbnail": "https://i.ytimg.com/vi/2zhchG0r6iI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=2zhchG0r6iI",
     "published": "2026-04-21T12:04:32.000Z"
-  },
-  {
-    "id": "e62b96e5b83a87af29b8174650216dc36ed245b0",
-    "source": "AI Report",
-    "type": "podcast",
-    "category": "nl",
-    "lang": "nl",
-    "title": "Laat Claude je helpen in Word + wij reden in zelfrijdende Tesla + hebben de studenten van vandaag straks nog een baan?",
-    "summary": "Alexander zat met een hartslag van 180 achter het stuur van een zelfrijdende Tesla bij de Amsterdam Arena. Handjes op schoot, blauwe knop ingedrukt, en daar ging de auto: de snelweg op, een...",
-    "thumbnail": null,
-    "url": "https://www.aireport.nl/podcast/s/aireport/laat_claude_je_helpen_in_word_wij_reden_in_zelfrijdende_tesla_hebben_de_studenten_van_vandaag_straks_nog_een_baan",
-    "published": "2026-04-16T16:16:15.000Z"
   },
   {
     "id": "8c811deb3de31c2052dbc33f7e848571d866568b",
