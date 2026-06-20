@@ -1,30 +1,54 @@
 [
   {
-    "id": "bbd482d99620d3496a91fc57b77c04558758ab21",
+    "id": "f248e4add345e0568a9a95eae60d9f7c7c7a7d33",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Sean Lynch",
+    "summary": "The real valuable capability MCP offers over skills/CLI is isolating the auth flow outside of the agent’s context window, and potentially out of the harness completely. [...] Maybe the idealized form...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
+    "published": "2026-06-19T22:45:49.000Z"
+  },
+  {
+    "id": "42990390a6a241a499deb98fa8a6600a3c2ba3f0",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #7248 from keel-trade/add-keel-trade-finance",
-    "summary": "Merge pull request #7248 from keel-trade/add-keel-trade-finance Add keel-trade — Hyperliquid trading MCP (Finance & Fintech) 🤖🤖🤖",
+    "title": "Merge pull request #8306 from baodq06/add-memocall",
+    "summary": "Merge pull request #8306 from baodq06/add-memocall Add memocall to Knowledge & Memory",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/a5ce0b57c087fc3dc1bc7b3a1d78a2b28c05eab6",
-    "published": "2026-06-19T14:54:39.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/e47d4ddc7334f436a5705eaab9ab57cc576f1286",
+    "published": "2026-06-19T19:24:08.000Z"
   },
   {
-    "id": "fb815b2419f11cc3a8c8cf17b49e26235f852c01",
+    "id": "2a019d02416687bd3f21528b6e660d750dcff3e7",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #6477 from polnikale/docs/add-sequenzy-mcp",
-    "summary": "Merge pull request #6477 from polnikale/docs/add-sequenzy-mcp Add Sequenzy MCP server \\ud83e\\udd16\\ud83e\\udd16\\ud83e\\udd16",
+    "title": "Merge pull request #8351 from tushariitr-19/add-immigration-mcp",
+    "summary": "Merge pull request #8351 from tushariitr-19/add-immigration-mcp Add immigration-mcp - for US immigration guidance",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/e66c3f97f76f25be4da29d02d2f5b5322668dbd0",
-    "published": "2026-06-19T14:53:26.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/04c0e220f50bfd731971e7973d89053e09cc5a11",
+    "published": "2026-06-19T19:22:13.000Z"
   },
   {
-    "id": "98b1225730523133849ae83685fcfcac95b60b56",
+    "id": "a176dc5f9d0f934b365162f2894583a4f5c79a66",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #8346 from tushariitr-19/add-patents-mcp",
+    "summary": "Merge pull request #8346 from tushariitr-19/add-patents-mcp Add patents-mcp - patent search and prior art discovery MCP server",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/caaf9ffda46403b59f643ae614ca16d980cb6303",
+    "published": "2026-06-19T19:22:08.000Z"
+  },
+  {
+    "id": "db00fb1aa9b45090fe775cc25b37a1ce71ea0e24",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
@@ -32,68 +56,56 @@
     "title": "Fix entry formatting",
     "summary": "Fix entry formatting",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/085ad4ea82fd42167a6245c0f28254227fd788bf",
-    "published": "2026-06-19T14:47:52.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/1b718f1cafe5ea3faadcc1728aa4ea9b971b3fc9",
+    "published": "2026-06-19T19:16:20.000Z"
   },
   {
-    "id": "4f718916fe96aa28f5ccb37022df2458ad736238",
+    "id": "619ffcb9184ed68d4dd11cf7519c1e830fca8b97",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #8056 from leonardsellem/add-hypermnesic",
-    "summary": "Merge pull request #8056 from leonardsellem/add-hypermnesic Add Hypermnesic 🤖🤖🤖",
+    "title": "Merge pull request #8348 from kristaffa/patch-5",
+    "summary": "Merge pull request #8348 from kristaffa/patch-5 Add qinisolabs/floodwise to Location Services",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/2a3d847a5a69cd61f012dfc53a5f435e19a51a64",
-    "published": "2026-06-19T14:47:46.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/c23b8256b789ed1603dcd520f35fc980cbaa6c9c",
+    "published": "2026-06-19T19:16:14.000Z"
   },
   {
-    "id": "f2a0a06cb8ffbb40da44aec331f42be3a6e64368",
+    "id": "2000993458ea7708986a9b68269ceee69b9285c9",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #8079 from carrasquelalex1/add-hipocampo-mcp",
-    "summary": "Merge pull request #8079 from carrasquelalex1/add-hipocampo-mcp Add Hipocampo dual-memory MCP system 🤖🤖🤖",
+    "title": "Fix entry formatting",
+    "summary": "Fix entry formatting",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/8d1578b5496fecdfc03e5301f201d569df761706",
-    "published": "2026-06-19T14:47:10.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/38de97a6e08d4de19478e02592bc03c5fe302dfe",
+    "published": "2026-06-19T19:15:45.000Z"
   },
   {
-    "id": "1ba9bfcdb9e05d6475e7e5b479d87ef833bf9ae4",
+    "id": "a1e7fd37788f23351333a98e9d91ffdec284bca0",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #8309 from ashaller2017/add-callimachus",
-    "summary": "Merge pull request #8309 from ashaller2017/add-callimachus Add callimachus to Knowledge & Memory",
+    "title": "Merge pull request #8358 from xfloukiex-lab/add-laugh-tale",
+    "summary": "Merge pull request #8358 from xfloukiex-lab/add-laugh-tale Add laugh-tale MCP server",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/bba9fd101ac97e22afe0b1f5a47f7161d781c2da",
-    "published": "2026-06-19T14:40:25.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/f6e64204c7a14ee49d15734a3ec496b6520c66d4",
+    "published": "2026-06-19T19:15:37.000Z"
   },
   {
-    "id": "21cbba7acba804ee281b44c6645b517efb9820ee",
+    "id": "1653b91eb4a97769fc84178b7387a8b177b514d1",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #7790 from jf-cmyk/codex/blocksize-github-package",
-    "summary": "Merge pull request #7790 from jf-cmyk/codex/blocksize-github-package Add Blocksize Agentic Payments MCP",
+    "title": "Fix entry formatting",
+    "summary": "Fix entry formatting",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/818b611aff910f04daf8fd952099e49887888329",
-    "published": "2026-06-19T14:31:52.000Z"
-  },
-  {
-    "id": "84258f7d403dd217408bb6b28667355d8ac1cecc",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #8305 from openfate-ai/openfate-ai-patch-1",
-    "summary": "Merge pull request #8305 from openfate-ai/openfate-ai-patch-1 Add OpenFate Bazi MCP server",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/47efdb227f12fb09e11b876d8a8e2b7c9ffcdca0",
-    "published": "2026-06-19T14:27:03.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/7145625ed125c873215490c395b6855cb2bce649",
+    "published": "2026-06-19T19:14:50.000Z"
   },
   {
     "id": "53eca6accbb538e6c12a8af409738db48429f500",
@@ -346,18 +358,6 @@
     "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/eabe4407-76aa-47a3-a8cb-1d955c05bf03_1972x1072.png",
     "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
     "published": "2026-06-16T16:27:43.000Z"
-  },
-  {
-    "id": "6f6812d9494fe6261e3a91c0b1c2168d02755234",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette-tailscale 0.1a0",
-    "summary": "Release: datasette-tailscale 0.1a0 A very experimental alpha plugin which lets you do this: datasette tailscale mydata.db \\ --ts-authkey tskey-auth-xxxx --ts-hostname datasette-preview This starts a...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
-    "published": "2026-06-16T16:18:20.000Z"
   },
   {
     "id": "28c0fc2d679a2d3967cc6b5f002ee2e177599bdc",
