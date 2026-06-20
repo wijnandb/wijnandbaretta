@@ -1,5 +1,17 @@
 [
   {
+    "id": "a1ce9d37b1c146a5ee4b795a632d6fc576419f58",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] not much happened today",
+    "summary": "a quiet day lets us promo AIE one last time",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!XmzS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53ab5745-2cb8-4b37-b574-e6af9fa01f69_1854x1166.png",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
+    "published": "2026-06-20T08:06:05.000Z"
+  },
+  {
     "id": "f248e4add345e0568a9a95eae60d9f7c7c7a7d33",
     "source": "Simon Willison",
     "type": "blog",
@@ -442,18 +454,6 @@
     "thumbnail": "https://i.ytimg.com/vi/cv0Pspf6xno/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=cv0Pspf6xno",
     "published": "2026-06-12T18:28:17.000Z"
-  },
-  {
-    "id": "f2359172d4df9f431f6eee8c7c5717211b1dac42",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Loopcraft: The Art of Stacking Loops",
-    "summary": "a quiet day lets us highlight a great concept from Peter Steinberger, Boris Cherny, and Andrej Karpathy",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!6Y74!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F517bbc58-4f26-46b5-a12e-f4a5f84b0a30_1986x1118.png",
-    "url": "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
-    "published": "2026-06-12T05:34:09.000Z"
   },
   {
     "id": "7ac12a072525de7cb0c845636593c8d679cc8903",
