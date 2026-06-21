@@ -1,5 +1,29 @@
 [
   {
+    "id": "4cfa2c49225446d1c43888c29f6bceccaa9998aa",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[Exclusive] $250 off AI Engineer tix til Monday",
+    "summary": "special offer for subscribers - $250 off AI Engineer tix til Monday",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!MovB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2eafb12-892b-44cc-b2d0-6ed07ef991cc_1494x870.png",
+    "url": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
+    "published": "2026-06-21T15:01:23.000Z"
+  },
+  {
+    "id": "1997e2826a819a9fb08c8e7575e7b73c26df69e1",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "AI Agents Just Changed Forever: GLM 5.2 The Best Open-Source Model Ever?",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/Nbynj-mKcNI/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Nbynj-mKcNI",
+    "published": "2026-06-21T13:30:32.000Z"
+  },
+  {
     "id": "a1ce9d37b1c146a5ee4b795a632d6fc576419f58",
     "source": "Latent Space",
     "type": "podcast",
@@ -420,18 +444,6 @@
     "published": "2026-06-15T17:18:48.000Z"
   },
   {
-    "id": "3bb23688bbd0dc284bf79c1d8c9f7cd7b03069fa",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Fable and Mythos officially too dangerous to release",
-    "summary": "We are in the strangest timeline.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
-    "url": "https://www.latent.space/p/ainews-fable-and-mythos-officially",
-    "published": "2026-06-13T04:30:52.000Z"
-  },
-  {
     "id": "0eafe165c8bde2c09529b7fc89bae8fd1d75d22d",
     "source": "Riley Brown",
     "type": "video",
@@ -694,18 +706,6 @@
     "thumbnail": "https://i.ytimg.com/vi/XEJDFeOYQXY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=XEJDFeOYQXY",
     "published": "2026-06-01T08:53:45.000Z"
-  },
-  {
-    "id": "3b427ab91b0be3031545c94442da42ede3c7c7d6",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Claude Opus 4.8: Everything You Need to Know",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/84NkgiTcOdo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=84NkgiTcOdo",
-    "published": "2026-05-31T22:27:11.000Z"
   },
   {
     "id": "0a681af572e37e36561fd4902f5c2cf106704b09",
