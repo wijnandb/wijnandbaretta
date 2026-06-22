@@ -1,5 +1,41 @@
 [
   {
+    "id": "5199a1444ff61df21aed2199179315c4d0036f0d",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+    "summary": "sqlite-utils is my combined Python library and CLI tool for working with SQLite databases. It provides an extensive set of higher-level operations on top of Python's default sqlite3 package,...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
+    "published": "2026-06-21T23:35:47.000Z"
+  },
+  {
+    "id": "4e10b2897da41cd4c6299ec86f4d420ad5bfd23f",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "sqlite-utils 4.0rc1",
+    "summary": "Release: sqlite-utils 4.0rc1 See sqlite-utils 4.0rc1 adds migrations and nested transactions. Tags: sqlite-utils",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything",
+    "published": "2026-06-21T23:30:04.000Z"
+  },
+  {
+    "id": "9feea510147ecdac3964bcb57c23fb070e2068da",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Temporary Cloudflare Accounts for AI agents",
+    "summary": "Temporary Cloudflare Accounts for AI agents The announcement says this is \"for AI agents\" but (as is pretty common these days) the AI hook isn't really necessary, this is an interesting feature for...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+    "published": "2026-06-21T22:01:04.000Z"
+  },
+  {
     "id": "4cfa2c49225446d1c43888c29f6bceccaa9998aa",
     "source": "Latent Space",
     "type": "podcast",
@@ -17,7 +53,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "AI Agents Just Changed Forever: GLM 5.2 The Best Open-Source Model Ever?",
+    "title": "AI Agents Just Changed Forever: GLM 5.2, Codex Skills, Claude & Cursor",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/Nbynj-mKcNI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Nbynj-mKcNI",
@@ -334,42 +370,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!tOcj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c75ad4c-83e2-4317-8cf0-276d3cab6e59_1226x1830.png",
     "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
     "published": "2026-06-17T05:37:40.000Z"
-  },
-  {
-    "id": "a903fc4d4a503f6762fd8dbb98533baf8773583c",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "— a still that plays",
-    "summary": "Tool: — a still that plays A progressive enchantment Web Component that turns this markup: Into a still frame with a click to play button which loads the GIF on demand. For when you don't want big...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
-    "published": "2026-06-17T03:56:10.000Z"
-  },
-  {
-    "id": "55bdbb1345f0d8ba8ccfad8534e703e30a9cbb6c",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "NetNewsWire Status",
-    "summary": "NetNewsWire Status I find this inspiring. Brent Simmons retired a year ago, and his retirement project is making one piece of software really, really good - free from any commercial pressure. The...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
-    "published": "2026-06-17T03:36:09.000Z"
-  },
-  {
-    "id": "47242b80cb63c8b54d544cd4c3fed42508ff78c5",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette 1.0a34",
-    "summary": "Release: datasette 1.0a34 Quoting the release notes: The big feature in this alpha is tools to insert, edit and delete rows within the Datasette interface. These features are available on table...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
-    "published": "2026-06-16T21:31:24.000Z"
   },
   {
     "id": "eaa440c88f377973e1a78419bb275ad0fd1a1755",
