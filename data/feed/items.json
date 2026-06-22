@@ -1,5 +1,29 @@
 [
   {
+    "id": "4c16777922a4e0a63a612d257eb669b93c154007",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Claude API Crash Course #4 - Output Format (using Zod)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/xqXrBI_n9rI/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=xqXrBI_n9rI",
+    "published": "2026-06-22T09:37:53.000Z"
+  },
+  {
+    "id": "2b10473a37358e56fb07ea4584f222e0d9e38d73",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "Astro 7.0",
+    "summary": "Astro 7.0 brings faster builds with Vite 8, a new Rust compiler, Advanced Routing, background dev server support, and structured logging.",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/astro-7/",
+    "published": "2026-06-22T00:00:00.000Z"
+  },
+  {
     "id": "5199a1444ff61df21aed2199179315c4d0036f0d",
     "source": "Simon Willison",
     "type": "blog",
@@ -696,18 +720,6 @@
     "published": "2026-06-01T13:43:20.000Z"
   },
   {
-    "id": "992b1d26d8b89e3851a09e0b6b35d4bca9bdb471",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Copilot CLI Tutorial #7 - Skills",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/XEJDFeOYQXY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=XEJDFeOYQXY",
-    "published": "2026-06-01T08:53:45.000Z"
-  },
-  {
     "id": "0a681af572e37e36561fd4902f5c2cf106704b09",
     "source": "Astro",
     "type": "blog",
@@ -1162,18 +1174,6 @@
     "thumbnail": "https://i.ytimg.com/vi/D4XTefP3Lsc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=D4XTefP3Lsc",
     "published": "2026-04-02T16:06:59.000Z"
-  },
-  {
-    "id": "9427a39b1828f3dc1b6567f043279c1a4e77b379",
-    "source": "Astro",
-    "type": "blog",
-    "category": "astro",
-    "lang": "en",
-    "title": "What's new in Astro - March 2026",
-    "summary": "March 2026 - Astro 6, CloudCannon CMS Partnership, Astro Together London, and more!",
-    "thumbnail": null,
-    "url": "https://astro.build/blog/whats-new-march-2026/",
-    "published": "2026-03-31T00:00:00.000Z"
   },
   {
     "id": "1e43f5857f51ebcd22f7a6ac27c39cbada43cf85",
