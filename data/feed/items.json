@@ -1,5 +1,113 @@
 [
   {
+    "id": "973ba85fc713bc001f954fd0536c94e6f5dca594",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] SpaceX is already a $28B/yr Neocloud",
+    "summary": "a quiet day lets us reflect on some numbers from Jamin Ball.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!0sP8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHLbX8TUaoAA9OTl.jpg",
+    "url": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
+    "published": "2026-06-23T06:19:49.000Z"
+  },
+  {
+    "id": "7173e6f4192a940864f20363029b2f3b74258d69",
+    "source": "antfu/skills",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "feat(antfu): favor explicitness, disable auto-imports, add Storybook …",
+    "summary": "feat(antfu): favor explicitness, disable auto-imports, add Storybook testing (#33)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
+    "url": "https://github.com/antfu/skills/commit/a74f281a27dadc02397bc1a174b0f2c97531b6ae",
+    "published": "2026-06-23T00:14:36.000Z"
+  },
+  {
+    "id": "774e5c3936431a72a079891edf17e808223790a0",
+    "source": "antfu/skills",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "feat: update skills and add nitro (#34)",
+    "summary": "feat: update skills and add nitro (#34)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
+    "url": "https://github.com/antfu/skills/commit/2814e65fe3095742fd648aa4e09afa76daaa428e",
+    "published": "2026-06-23T00:12:23.000Z"
+  },
+  {
+    "id": "ea36860b16d22ee49eccac2f67d19367c352afff",
+    "source": "antfu/skills",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "ci: update workflow references to main branch (#29)",
+    "summary": "ci: update workflow references to main branch (#29)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/6481596?s=30&amp;v=4",
+    "url": "https://github.com/antfu/skills/commit/9171604c70d723176aa692d6281b1f620f17e84a",
+    "published": "2026-06-23T00:07:26.000Z"
+  },
+  {
+    "id": "c719ddce5a80de0163fbedbb178874fdb6955321",
+    "source": "antfu/skills",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "feat: support custom skills path for vendor projects (#16)",
+    "summary": "feat: support custom skills path for vendor projects (#16)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/17023091?s=30&amp;v=4",
+    "url": "https://github.com/antfu/skills/commit/cce0f2cc84403680078c90e02089b077f54a9eb0",
+    "published": "2026-06-23T00:06:43.000Z"
+  },
+  {
+    "id": "3881f90edeeb92cde070721068e41aa1180bd5dc",
+    "source": "antfu/skills",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "feat: add antfu-design skill (#32)",
+    "summary": "feat: add antfu-design skill (#32)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
+    "url": "https://github.com/antfu/skills/commit/11cefdc7fda24f056763a1d644b5f8160de6ef49",
+    "published": "2026-06-23T00:05:55.000Z"
+  },
+  {
+    "id": "f81ed04e47db72dd503f91abecade50464751969",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Prompt Injection as Role Confusion",
+    "summary": "Prompt Injection as Role Confusion First, I absolutely love this: This is a blog-style writeup of the paper. I wish every paper would come with one of these. Academic writing is pretty dry - the...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+    "published": "2026-06-22T23:59:53.000Z"
+  },
+  {
+    "id": "71cb4d77c90e29425c7733801df9a9a89bb9daff",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+    "summary": "This morning on Hacker News I saw Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance, describing a small but effective inpainting model - a model where you can mark...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+    "published": "2026-06-22T23:43:51.000Z"
+  },
+  {
+    "id": "b6fbd85a2cfb4f51c8c2ac14d50df973f1af4653",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Red-Teaming after Mythos — Zico Kolter & Matt Fredrikson, Gray Swan",
+    "summary": "OpenAI boardmember Zico Kolter and Gray Swan CEO Matt Fredrikson join swyx to explain why AI security is not just “cybersecurity with AI”",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!ipA_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e363710-556e-469c-949c-a0942736c562_1348x934.png",
+    "url": "https://www.latent.space/p/gray-swan",
+    "published": "2026-06-22T21:06:55.000Z"
+  },
+  {
     "id": "4c16777922a4e0a63a612d257eb669b93c154007",
     "source": "Coding in Public",
     "type": "video",
@@ -324,18 +432,6 @@
     "published": "2026-06-18T02:27:07.000Z"
   },
   {
-    "id": "42e4b84f22192e1d7577f3a7acdc5788d767d9d5",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
-    "summary": "Chinese AI lab Z.ai released GLM-5.2 to their coding plan subscribers on June 13th, and then yesterday (June 16th) released the full open weights under an MIT license. Similar in size to their...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
-    "published": "2026-06-17T23:58:39.000Z"
-  },
-  {
     "id": "76cdec98274381db7ca992a78ee07ef4ff1c6743",
     "source": "Riley Brown",
     "type": "video",
@@ -360,18 +456,6 @@
     "published": "2026-06-17T17:58:06.000Z"
   },
   {
-    "id": "e9a95537dae8b9a572a1a9ec1d46f28e8c6ed4b8",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Charity Majors",
-    "summary": "What happened in 2025 was this: the economics of code production were turned upside down. Instead of being very hard, time-consuming, and expensive to generate code, it became effectively free and...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
-    "published": "2026-06-17T17:12:41.000Z"
-  },
-  {
     "id": "fd6c44580fa4af3c3caf2b01382c00d65e53c43d",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -382,18 +466,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!YCsL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39bdfbb4-fb73-41d8-83cb-0ca4832aed49_1280x80.png",
     "url": "https://newsletter.pragmaticengineer.com/p/cicd-with-robert-erez",
     "published": "2026-06-17T16:41:01.000Z"
-  },
-  {
-    "id": "b1ce34688b084ecf474eae8387e3d3ac4247ef5c",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
-    "summary": "We have a new top open model in the world!",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!tOcj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c75ad4c-83e2-4317-8cf0-276d3cab6e59_1226x1830.png",
-    "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
-    "published": "2026-06-17T05:37:40.000Z"
   },
   {
     "id": "eaa440c88f377973e1a78419bb275ad0fd1a1755",
@@ -442,18 +514,6 @@
     "thumbnail": "https://i.ytimg.com/vi/H7LZb20-fUY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=H7LZb20-fUY",
     "published": "2026-06-16T09:47:26.000Z"
-  },
-  {
-    "id": "ca662b34e1717ca5fee6c23708d28e10e97c397a",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
-    "summary": "a quiet day lets us report on Satya's hit essay",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!HKwp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf76265a-b9d4-4100-acf7-e262e9f15460_908x1210.png",
-    "url": "https://www.latent.space/p/ainews-satya-on-loopcraft-building",
-    "published": "2026-06-16T02:29:29.000Z"
   },
   {
     "id": "5df1778cf49cfadf4fc44d92dbfbff741f045019",
@@ -1138,65 +1198,5 @@
     "thumbnail": null,
     "url": "https://directus.com/resources/directus-v11-17-release",
     "published": "2026-04-10T14:25:00.000Z"
-  },
-  {
-    "id": "7536ae2daabf1ab1ffb57eb98102155f035c9198",
-    "source": "The Anthropic Stack",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "An initiative to secure the world's software | Project Glasswing",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/INGOC6-LLv0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
-    "published": "2026-04-07T18:03:51.000Z"
-  },
-  {
-    "id": "3cd16e96a7b1ff404eda3393a2e11293c4d8c967",
-    "source": "Werner Vogels",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "S3 Files and the changing face of S3",
-    "summary": "Andy Warfield writes about the hard-won lessons dealing with data friction that lead to S3 Files",
-    "thumbnail": null,
-    "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html?utm_campaign=inbound&amp;utm_source=rss",
-    "published": "2026-04-07T14:00:00.000Z"
-  },
-  {
-    "id": "b0287b3060bd7957531323d8c74c6e8fc051330d",
-    "source": "The Anthropic Stack",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "When AIs act emotional",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/D4XTefP3Lsc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=D4XTefP3Lsc",
-    "published": "2026-04-02T16:06:59.000Z"
-  },
-  {
-    "id": "1e43f5857f51ebcd22f7a6ac27c39cbada43cf85",
-    "source": "Directus",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Leap Week 4 Highlights",
-    "summary": "Get the recap on the UI Era keynote, partner workshops, what’s next for Directus, a new community program and much more!",
-    "thumbnail": null,
-    "url": "https://directus.com/resources/leap-week-4-highlights",
-    "published": "2026-03-30T18:25:00.000Z"
-  },
-  {
-    "id": "0dd557b22002eeaea0dbfdf7201f092fb40e96e4",
-    "source": "Directus",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The UI Era is Shifting",
-    "summary": "Hear from Directus CEO & Co-Founder Ben Haynes on software is shifting from UI-first to data-first. When everyone can build an interface, what is actually valuable?",
-    "thumbnail": null,
-    "url": "/tv/leap-week/ui-era-shifting",
-    "published": "2026-03-27T00:00:00.000Z"
   }
 ]
