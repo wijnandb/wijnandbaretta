@@ -1,5 +1,41 @@
 [
   {
+    "id": "c96e26a5598e7a08ad6b64e5d32c1f9306cd97bd",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
+    "summary": "Claude finally gets a Slackbot upgrade",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!q5Em!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2069465784653348866.jpg",
+    "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
+    "published": "2026-06-24T07:14:26.000Z"
+  },
+  {
+    "id": "29b0393a92222beb406f586f902fb4f35efcfbba",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette 1.0a35",
+    "summary": "Release: datasette 1.0a35 I'll write more about this one tomorrow, but it's a big release. Three highlights from the release notes: New \"Create table\" interface in the database actions menu, backed...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
+    "published": "2026-06-23T21:34:37.000Z"
+  },
+  {
+    "id": "d88aa4822425121a728c11c94cb232052e61c416",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "OPFS + Pyodide test harness",
+    "summary": "Tool: OPFS + Pyodide test harness I've been pondering if Datasette Lite - the Python Datasette application run entirely in the browser using Pyodide and WebAssembly - might be able to edit persistent...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
+    "published": "2026-06-23T18:58:54.000Z"
+  },
+  {
     "id": "6d9ae45d66f9623db80a59fcc24996cf65922b50",
     "source": "awesome-mcp-servers",
     "type": "repo",
@@ -348,30 +384,6 @@
     "published": "2026-06-19T05:53:54.000Z"
   },
   {
-    "id": "5f72542577bb42c1cc15563093e28a53b9d52edb",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-    "summary": "Today we launched a new plugin for Datasette, datasette-apps, with this launch announcement post on the Datasette project blog. That post has the what, but I'm going to expand on that a little bit...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
-    "published": "2026-06-18T23:58:38.000Z"
-  },
-  {
-    "id": "b6fb1ed2ccea781323f6c11ff4dfb0061a812e0c",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette-acl 0.6a0",
-    "summary": "Release: datasette-acl 0.6a0 This release expands datasette-acl from table-only permissions toward a general resource-sharing system. Alex Garcia did most of the work for this release - we're...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
-    "published": "2026-06-18T19:03:13.000Z"
-  },
-  {
     "id": "fed69579fa772c0d4ffaece15a2e134b259d9b72",
     "source": "Latent Space",
     "type": "podcast",
@@ -454,18 +466,6 @@
     "thumbnail": "https://i.ytimg.com/vi/cHdaCCpJ1CY/mqdefault.jpg",
     "url": "https://www.youtube.com/shorts/cHdaCCpJ1CY",
     "published": "2026-06-17T21:21:11.000Z"
-  },
-  {
-    "id": "ca34c0056bc933a8f42fe0cb7a32aac3c6b7e788",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
-    "summary": "Radical AI's Joseph Krause on why the moat in materials is the lab, not the model",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/radical-ai",
-    "published": "2026-06-17T17:58:06.000Z"
   },
   {
     "id": "fd6c44580fa4af3c3caf2b01382c00d65e53c43d",
