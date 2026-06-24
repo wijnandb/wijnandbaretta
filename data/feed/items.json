@@ -1,5 +1,53 @@
 [
   {
+    "id": "634faec035b348d418a6e0bfb60b1111323416a5",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Tom MacWright",
+    "summary": "In the last few months, I've started to see [job applications] that were clearly cowritten by an LLM, link to an LLM-generated portfolio site, which then links to LLM-generated GitHub projects, with...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
+    "published": "2026-06-24T18:13:51.000Z"
+  },
+  {
+    "id": "4e8837a277e4a33c4e7c5bdcf0d21435fc363deb",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Tech interviews with NeetCode",
+    "summary": "NeetCode shares his journey from Amazon and Google to building a startup, and why deep expertise still matters in the age of AI.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!n08S!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4aa00181-983e-4747-8240-67654eae98f4_1600x140.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/tech-interviews-with-neetcode",
+    "published": "2026-06-24T17:32:34.000Z"
+  },
+  {
+    "id": "7fe03624b868c7936c4345990ac64652e8d0248a",
+    "source": "AI Jason",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "OpenClaw Creator's new secret project...",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/1HkqTlXbQmQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=1HkqTlXbQmQ",
+    "published": "2026-06-24T12:04:26.000Z"
+  },
+  {
+    "id": "1600a5d3a8ac33dfd2ac759f2d352761f8cb62a7",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Claude API Crash Course #5 - Rendering the Response as HTML",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/DPzxFXakItU/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=DPzxFXakItU",
+    "published": "2026-06-24T08:45:00.000Z"
+  },
+  {
     "id": "c96e26a5598e7a08ad6b64e5d32c1f9306cd97bd",
     "source": "Latent Space",
     "type": "podcast",
@@ -346,18 +394,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!XmzS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53ab5745-2cb8-4b37-b574-e6af9fa01f69_1854x1166.png",
     "url": "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
     "published": "2026-06-20T08:06:05.000Z"
-  },
-  {
-    "id": "f248e4add345e0568a9a95eae60d9f7c7c7a7d33",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Sean Lynch",
-    "summary": "The real valuable capability MCP offers over skills/CLI is isolating the auth flow outside of the agent’s context window, and potentially out of the harness completely. [...] Maybe the idealized form...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
-    "published": "2026-06-19T22:45:49.000Z"
   },
   {
     "id": "53eca6accbb538e6c12a8af409738db48429f500",
@@ -744,18 +780,6 @@
     "published": "2026-06-03T17:59:17.000Z"
   },
   {
-    "id": "806a7d29b3136fb660ac480564610fea453d3285",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Ideas: slow down to speed up when working with AI agents",
-    "summary": "Devs are generating twice as much code (or more) than just 6 months ago, which is a problem for quality, reliability, and tech debt. A rational fix is available for these, but who’s acting rationally?",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!vg8z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2eb13752-d141-4958-948f-223fa5cf58fa_1024x559.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/ideas-slow-down-to-speed-up-when",
-    "published": "2026-06-02T16:42:23.000Z"
-  },
-  {
     "id": "14903e12ef60d49deb828db3b402cb9138c97a7b",
     "source": "AI Jason",
     "type": "video",
@@ -766,18 +790,6 @@
     "thumbnail": "https://i.ytimg.com/vi/ikH1--DSzMs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ikH1--DSzMs",
     "published": "2026-06-02T12:17:34.000Z"
-  },
-  {
-    "id": "ada4218588d353d4c3158879eced77c0a3e185f8",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Copilot CLI Tutorial #8 - MCP Servers",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/LXlIKGcgNlE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=LXlIKGcgNlE",
-    "published": "2026-06-02T08:50:39.000Z"
   },
   {
     "id": "d11963281f42e7ec0fca1666316bc80af6b312eb",
@@ -1186,17 +1198,5 @@
     "thumbnail": null,
     "url": "https://directus.com/resources/migration-weekend",
     "published": "2026-04-15T13:54:00.000Z"
-  },
-  {
-    "id": "d25305cc0a4fece42b8150bcc903c09a63bed6af",
-    "source": "Directus",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Directus v11.17: Background Imports, Netlify Deployments, and a Translations Generator",
-    "summary": "A more capable deployment module, a smarter way to handle large data imports, and a utility that saves hours of translation setup work.",
-    "thumbnail": null,
-    "url": "https://directus.com/resources/directus-v11-17-release",
-    "published": "2026-04-10T14:25:00.000Z"
   }
 ]
