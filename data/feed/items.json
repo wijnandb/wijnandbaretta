@@ -1,5 +1,29 @@
 [
   {
+    "id": "bce1e309efada19afffd378a6d1f1ec1c7ab66d6",
+    "source": "AI Report",
+    "type": "podcast",
+    "category": "nl",
+    "lang": "nl",
+    "title": "Jeff Bezos investeert in Nederlandse AI + Europe 2031: het doemscenario van Europese kwetsbaarheid",
+    "summary": "Lees en luister het volledige verhaal over Europe 2031 op https://europe2031.ai/ ( https://europe2031.ai/ ) Pim de Witte komt met groot nieuws: zijn bedrijf General Intuition haalde 320 miljoen...",
+    "thumbnail": null,
+    "url": "https://www.aireport.nl/podcast/s/aireport/jeff_bezos_investeert_in_nederlandse_ai_europe_2031_het_doemscenario_van_europese_kwetsbaarheid",
+    "published": "2026-06-25T15:40:51.000Z"
+  },
+  {
+    "id": "6b618071c54dc8d0e70a9aa5d90a26c23e576114",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Give Hermes Agent a Voice with ElevenLabs",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/HrGl01TpZpA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=HrGl01TpZpA",
+    "published": "2026-06-25T15:15:13.000Z"
+  },
+  {
     "id": "0a8a361a5e2563211e080c420f36ebafb9769ca4",
     "source": "Latent Space",
     "type": "podcast",
@@ -876,18 +900,6 @@
     "published": "2026-05-22T17:02:30.000Z"
   },
   {
-    "id": "3f2eebd3191ab6b5acecbdce463ddbdde736092e",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Pass the Project #2 - Prompt & Build",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/mVZ3q_SFXHU/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/mVZ3q_SFXHU",
-    "published": "2026-05-22T17:02:12.000Z"
-  },
-  {
     "id": "144132956818476386f215ae8c67ed41315562a5",
     "source": "AI Report",
     "type": "podcast",
@@ -1138,18 +1150,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/48967ddd14f8d66753969a09c5730776e5232708",
     "published": "2026-04-26T21:18:32.000Z"
-  },
-  {
-    "id": "44c4289d7469e6a94e4ee1ff870eb04241aac1a3",
-    "source": "AI Report",
-    "type": "podcast",
-    "category": "nl",
-    "lang": "nl",
-    "title": "Reson8 bouwt aan de beste Europese spraakherkenning ft. Thomas Kluiters",
-    "summary": "Anthropic lanceert Claude Opus 4.7 en Claude Design, een nieuw product waarmee je presentaties en marketingmateriaal kunt bouwen. Figma daalde 7% op de beurs. OpenAI breidt Codex uit tot een tool die...",
-    "thumbnail": null,
-    "url": "https://www.aireport.nl/podcast/s/aireport/reson8_bouwt_aan_de_beste_europese_spraakherkenning_ft_thomas_kluiters",
-    "published": "2026-04-23T16:46:26.000Z"
   },
   {
     "id": "8415a521655539a1530b23dfca098d8419080977",
