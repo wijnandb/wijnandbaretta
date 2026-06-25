@@ -1,5 +1,53 @@
 [
   {
+    "id": "0a8a361a5e2563211e080c420f36ebafb9769ca4",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] It's Meta-Harness Summer",
+    "summary": "Move over, Harness Engineering, it is time for the harness of harnesses!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!LH6a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1a3d909-a54b-4acd-aa2c-33823f9e032e_878x674.png",
+    "url": "https://www.latent.space/p/ainews-its-meta-harness-summer",
+    "published": "2026-06-25T02:14:08.000Z"
+  },
+  {
+    "id": "ff39842eb39641942acd2e95de8ffe3acf7934c8",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "simonw/browser-compat-db",
+    "summary": "simonw/browser-compat-db Inspired by Mozilla's new MDN MCP service - source code here - I decided to try converting their comprehensive mdn/browser-compat-data repository full of browser...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
+    "published": "2026-06-24T23:59:03.000Z"
+  },
+  {
+    "id": "44e40b2fd196a1fd5a13d2bb51ebb958ea69c423",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Poweful Agents inside Slack",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/C64tVVgquhc/mqdefault.jpg",
+    "url": "https://www.youtube.com/shorts/C64tVVgquhc",
+    "published": "2026-06-24T22:39:42.000Z"
+  },
+  {
+    "id": "8eefae269696152f26ad71fac8025166649fd4e6",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
+    "summary": "In a rare double-interview, the Databricks technical leaders riff on what it will take for every company to build Agent Clouds",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/databricks",
+    "published": "2026-06-24T18:53:16.000Z"
+  },
+  {
     "id": "634faec035b348d418a6e0bfb60b1111323416a5",
     "source": "Simon Willison",
     "type": "blog",
@@ -66,7 +114,7 @@
     "category": "ai",
     "lang": "en",
     "title": "datasette 1.0a35",
-    "summary": "Release: datasette 1.0a35 I'll write more about this one tomorrow, but it's a big release. Three highlights from the release notes: New \"Create table\" interface in the database actions menu, backed...",
+    "summary": "Release: datasette 1.0a35 I'll write more about this one soon, but it's a big release. Three highlights from the release notes: New \"Create table\" interface in the database actions menu, backed by...",
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
     "published": "2026-06-23T21:34:37.000Z"
@@ -348,18 +396,6 @@
     "published": "2026-06-21T23:30:04.000Z"
   },
   {
-    "id": "9feea510147ecdac3964bcb57c23fb070e2068da",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Temporary Cloudflare Accounts for AI agents",
-    "summary": "Temporary Cloudflare Accounts for AI agents The announcement says this is \"for AI agents\" but (as is pretty common these days) the AI hook isn't really necessary, this is an interesting feature for...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
-    "published": "2026-06-21T22:01:04.000Z"
-  },
-  {
     "id": "4cfa2c49225446d1c43888c29f6bceccaa9998aa",
     "source": "Latent Space",
     "type": "podcast",
@@ -420,18 +456,6 @@
     "published": "2026-06-19T05:53:54.000Z"
   },
   {
-    "id": "fed69579fa772c0d4ffaece15a2e134b259d9b72",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "The Professor of Outputmaxxing — Anjney Midha, AMP",
-    "summary": "We talk about how this legendary investor went from humble beginnings in Singapore to leading rounds in Anthropic, Mistral, Black Forest Labs, and Periodic Labs... and the AMP secret master plan!",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!kumG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0422ec73-8239-45ef-aede-51a7cfb19b47_1166x1104.png",
-    "url": "https://www.latent.space/p/anj",
-    "published": "2026-06-18T17:30:00.000Z"
-  },
-  {
     "id": "e7065f6abfe2141b3006a782a0af4237fe33cef3",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -466,18 +490,6 @@
     "thumbnail": "https://i.ytimg.com/vi/xeohvm11KmM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=xeohvm11KmM",
     "published": "2026-06-18T08:58:47.000Z"
-  },
-  {
-    "id": "c7a02626e6e7842962ac2b132644d2a8335853b5",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
-    "summary": "The only bootstrapped frontier lab announces its second product and second",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!_BAI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHLDKY9bawAA-Lls.jpg",
-    "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
-    "published": "2026-06-18T04:23:05.000Z"
   },
   {
     "id": "d16e1c4d6abae4e54151eaaed209504bc9653187",
@@ -754,18 +766,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/astro-mart-ss26/",
     "published": "2026-06-04T00:00:00.000Z"
-  },
-  {
-    "id": "7f6f2b27ca82c1e791df5ef9f4a38f9599e76845",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "ChatGPT And Codex Are Merging (This Changes Everything)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/j--dqLJxrtE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=j--dqLJxrtE",
-    "published": "2026-06-03T22:17:45.000Z"
   },
   {
     "id": "53cd4387079a76fded0613b10b941d2d98a7946e",
