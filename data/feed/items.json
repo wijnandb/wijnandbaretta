@@ -1,5 +1,53 @@
 [
   {
+    "id": "20e226947a3ad968eba9ae1dcbe17854a1654b50",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "What happened after 2,000 people tried to hack my AI assistant",
+    "summary": "What happened after 2,000 people tried to hack my AI assistant Fernando Irarrázaval ran a challenge on hackmyclaw.com to see if anyone could leak secrets held by his OpenClaw test instance by sending...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
+    "published": "2026-06-26T18:33:14.000Z"
+  },
+  {
+    "id": "61a73fa670fd3e59cca95503f7da10323763f8ca",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Incident Report: CVE-2026-LGTM",
+    "summary": "Incident Report: CVE-2026-LGTM Spectacular hypothetical incident report by Andrew Nesbitt. Day 2, 16:00 UTC --- Two AI review agents from competing vendors, both attached to a downstream pull request...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
+    "published": "2026-06-26T17:58:54.000Z"
+  },
+  {
+    "id": "a7906cb53b5040afa1db7a165172f6303fcc9700",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Esperanto mix from every country (3 hours)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/CfYCKdXheug/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=CfYCKdXheug",
+    "published": "2026-06-26T17:39:47.000Z"
+  },
+  {
+    "id": "232e7d7533c5373f1421774f212c39432277eab3",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting OpenAI",
+    "summary": "We're beginning a limited preview of the GPT‑5.6 series: Sol, our flagship model; Terra, a balanced model for everyday work; and Luna, a fast and affordable model. Terra has competitive performance...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
+    "published": "2026-06-26T17:10:43.000Z"
+  },
+  {
     "id": "e358bc12cb2feb4a0601e9b7e325ee6fc08bf7b3",
     "source": "awesome-mcp-servers",
     "type": "repo",
@@ -276,18 +324,6 @@
     "published": "2026-06-23T21:34:37.000Z"
   },
   {
-    "id": "d88aa4822425121a728c11c94cb232052e61c416",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "OPFS + Pyodide test harness",
-    "summary": "Tool: OPFS + Pyodide test harness I've been pondering if Datasette Lite - the Python Datasette application run entirely in the browser using Pyodide and WebAssembly - might be able to edit persistent...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
-    "published": "2026-06-23T18:58:54.000Z"
-  },
-  {
     "id": "ffbe77ecc5b30926ffbfe9a78f067726a7252952",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -370,30 +406,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
     "url": "https://github.com/antfu/skills/commit/11cefdc7fda24f056763a1d644b5f8160de6ef49",
     "published": "2026-06-23T00:05:55.000Z"
-  },
-  {
-    "id": "f81ed04e47db72dd503f91abecade50464751969",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Prompt Injection as Role Confusion",
-    "summary": "Prompt Injection as Role Confusion First, I absolutely love this: This is a blog-style writeup of the paper. I wish every paper would come with one of these. Academic writing is pretty dry - the...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
-    "published": "2026-06-22T23:59:53.000Z"
-  },
-  {
-    "id": "71cb4d77c90e29425c7733801df9a9a89bb9daff",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
-    "summary": "This morning on Hacker News I saw Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance, describing a small but effective inpainting model - a model where you can mark...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
-    "published": "2026-06-22T23:43:51.000Z"
   },
   {
     "id": "b6fbd85a2cfb4f51c8c2ac14d50df973f1af4653",
@@ -886,18 +898,6 @@
     "thumbnail": "https://i.ytimg.com/vi/oFV4H7xgyKQ/mqdefault.jpg",
     "url": "https://www.youtube.com/shorts/oFV4H7xgyKQ",
     "published": "2026-05-26T19:54:24.000Z"
-  },
-  {
-    "id": "7ef464017bdd55d19702c780f9bc6923ba3fee51",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Pass the Project #3 - End Result",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/lapVBA_JuCI/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/lapVBA_JuCI",
-    "published": "2026-05-22T17:02:30.000Z"
   },
   {
     "id": "144132956818476386f215ae8c67ed41315562a5",
