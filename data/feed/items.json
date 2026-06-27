@@ -1,5 +1,41 @@
 [
   {
+    "id": "89cad2c640a7e3e8d6e2a6eba904c9004fbb6b26",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
+    "summary": "Oddly tiered releases to both OAI and ANT on the same day.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!xf8R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2899dbdf-7aed-499f-92b9-63cc194a604e_1328x932.png",
+    "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
+    "published": "2026-06-27T05:23:22.000Z"
+  },
+  {
+    "id": "89fa739484587e2ca13e38ab5de691d7c859b3ba",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Dean W. Ball",
+    "summary": "This is a bad state of affairs. Consider, in particular, some industry dynamics: Frontier models are trained at an enormous cost, and a significant fraction of that cost is recouped in the few...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
+    "published": "2026-06-26T22:25:46.000Z"
+  },
+  {
+    "id": "ef10a2fdcbae1ed7cadb5fd6235c2b6b6bc99c21",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Timothy B. Lee",
+    "summary": "This is like saying there's no learning curve to being a manager because your employees will just do whatever you tell them to do. &mdash; Timothy B. Lee, on the idea that LLMs take no skill and have...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything",
+    "published": "2026-06-26T21:15:09.000Z"
+  },
+  {
     "id": "20e226947a3ad968eba9ae1dcbe17854a1654b50",
     "source": "Simon Willison",
     "type": "blog",
@@ -252,18 +288,6 @@
     "published": "2026-06-24T18:53:16.000Z"
   },
   {
-    "id": "634faec035b348d418a6e0bfb60b1111323416a5",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Tom MacWright",
-    "summary": "In the last few months, I've started to see [job applications] that were clearly cowritten by an LLM, link to an LLM-generated portfolio site, which then links to LLM-generated GitHub projects, with...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
-    "published": "2026-06-24T18:13:51.000Z"
-  },
-  {
     "id": "4e8837a277e4a33c4e7c5bdcf0d21435fc363deb",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -310,18 +334,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!q5Em!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2069465784653348866.jpg",
     "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
     "published": "2026-06-24T07:14:26.000Z"
-  },
-  {
-    "id": "29b0393a92222beb406f586f902fb4f35efcfbba",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette 1.0a35",
-    "summary": "Release: datasette 1.0a35 I'll write more about this one soon, but it's a big release. Three highlights from the release notes: New \"Create table\" interface in the database actions menu, backed by...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
-    "published": "2026-06-23T21:34:37.000Z"
   },
   {
     "id": "ffbe77ecc5b30926ffbfe9a78f067726a7252952",
@@ -466,18 +478,6 @@
     "thumbnail": "https://i.ytimg.com/vi/Nbynj-mKcNI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Nbynj-mKcNI",
     "published": "2026-06-21T13:30:32.000Z"
-  },
-  {
-    "id": "a1ce9d37b1c146a5ee4b795a632d6fc576419f58",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] not much happened today",
-    "summary": "a quiet day lets us promo AIE one last time",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!XmzS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53ab5745-2cb8-4b37-b574-e6af9fa01f69_1854x1166.png",
-    "url": "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
-    "published": "2026-06-20T08:06:05.000Z"
   },
   {
     "id": "53eca6accbb538e6c12a8af409738db48429f500",
