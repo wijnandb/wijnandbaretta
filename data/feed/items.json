@@ -1,5 +1,53 @@
 [
   {
+    "id": "35a54d6099b9f555ea992be9025663f94a192cf7",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Count the number of Safari tabs",
+    "summary": "Tiniest TIL, using AppleScript to count the number of open browser tabs in Safari: osascript -e 'tell application \"Safari\" to count tabs of every window' Tags: safari, til, applescript",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything",
+    "published": "2026-06-29T18:36:18.000Z"
+  },
+  {
+    "id": "f48474b24629bd165e2aae3c276d77af618ec552",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "acc-trailer",
+    "summary": "acc-trailer Signed-off-by: Really Him",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/29755104e1f15404f99db9e5f381e23960efc4a0",
+    "published": "2026-06-29T18:24:00.000Z"
+  },
+  {
+    "id": "08519a834ccf633ea909e609b8d8685f47a607c6",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+    "summary": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding This is an interesting new open weights (MIT licensed) model, the first model release from DeepReinforce. [...] with variants including 9B Dense,...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
+    "published": "2026-06-29T16:17:59.000Z"
+  },
+  {
+    "id": "3d73c86050d8de6a3b22852c9dc0784676545435",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "fix",
+    "summary": "fix Signed-off-by: Really Him",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2ca2f07cefe3f7e4bd2aa39323a5dceef5c1d3fe",
+    "published": "2026-06-29T08:05:37.000Z"
+  },
+  {
     "id": "d3856bc083d41e71fff444067f1718c07ec1f509",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -108,18 +156,6 @@
     "published": "2026-06-26T17:39:47.000Z"
   },
   {
-    "id": "232e7d7533c5373f1421774f212c39432277eab3",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting OpenAI",
-    "summary": "We're beginning a limited preview of the GPT‑5.6 series: Sol, our flagship model; Terra, a balanced model for everyday work; and Luna, a fast and affordable model. Terra has competitive performance...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
-    "published": "2026-06-26T17:10:43.000Z"
-  },
-  {
     "id": "e358bc12cb2feb4a0601e9b7e325ee6fc08bf7b3",
     "source": "awesome-mcp-servers",
     "type": "repo",
@@ -226,18 +262,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!roAd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a48b472-a807-4211-b981-983f7a401c3a_2156x1576.png",
     "url": "https://www.latent.space/p/ainews-openai-reports-median-internal",
     "published": "2026-06-26T01:12:30.000Z"
-  },
-  {
-    "id": "33e587b31ac4224370db4c6df6a692e905456c96",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "AI and Liability",
-    "summary": "AI and Liability Bruce Schneier and Nathan Sanders on the recent German ruling that Google be held liable for errors introduced in their AI overviews: AI agents are agents of the person or...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything",
-    "published": "2026-06-25T22:28:46.000Z"
   },
   {
     "id": "bce1e309efada19afffd378a6d1f1ec1c7ab66d6",
@@ -1126,30 +1150,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8ccdcc1a758b5c3f192f356119349223f1362a2e",
     "published": "2026-04-27T07:09:16.000Z"
-  },
-  {
-    "id": "afc4ad38a7caf83d180dfe7c5bf2006046cb80f0",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1a206473749ccd8e9669aebb2d9ce4c34136b08e",
-    "published": "2026-04-27T04:20:25.000Z"
-  },
-  {
-    "id": "ba2606451a0fd96bd8ac447e146983f3b7029ebd",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b266146d79f9b5e50ebd6f33940f04b10e62bd94",
-    "published": "2026-04-27T01:02:39.000Z"
   },
   {
     "id": "8415a521655539a1530b23dfca098d8419080977",
