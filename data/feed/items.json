@@ -1,5 +1,41 @@
 [
   {
+    "id": "d3856bc083d41e71fff444067f1718c07ec1f509",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add files via upload (#2146)",
+    "summary": "Add files via upload (#2146)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aee61758faef4482f94e54b4d9534a8d2a9a9131",
+    "published": "2026-06-29T07:50:57.000Z"
+  },
+  {
+    "id": "c1b6e8d9a36650ef86a3795355bb96a3d5856019",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Jon Udell",
+    "summary": "Human Agent in the loop I dislike the phrase “human in the loop” because it cedes authority to the machines. Let’s flip the narrative. It’s our loop, we work the same way we always have, now we...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything",
+    "published": "2026-06-28T21:57:41.000Z"
+  },
+  {
+    "id": "9a0c191299e4299c1adfea454d13f5a65b5fcff8",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Hack Your Summer",
+    "summary": "Hack Your Summer I learned about this initiative from DJ Patil this morning: It’s a 4-week, high-velocity production sprint for undergraduate students, graduate students, and recent graduates who...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything",
+    "published": "2026-06-28T19:26:11.000Z"
+  },
+  {
     "id": "89cad2c640a7e3e8d6e2a6eba904c9004fbb6b26",
     "source": "Latent Space",
     "type": "podcast",
@@ -204,18 +240,6 @@
     "published": "2026-06-25T22:28:46.000Z"
   },
   {
-    "id": "bb77945c5e4df1bffd7efeb3212fb87e6dd9edf7",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette-export-database 0.3a2",
-    "summary": "Release: datasette-export-database 0.3a2 An embarrassingly tiny release. The pyproject.toml had pinned to datasette==1.0a27, inadvertently making this plugin incompatible with all other Datasette...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything",
-    "published": "2026-06-25T17:21:09.000Z"
-  },
-  {
     "id": "bce1e309efada19afffd378a6d1f1ec1c7ab66d6",
     "source": "AI Report",
     "type": "podcast",
@@ -250,18 +274,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!LH6a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1a3d909-a54b-4acd-aa2c-33823f9e032e_878x674.png",
     "url": "https://www.latent.space/p/ainews-its-meta-harness-summer",
     "published": "2026-06-25T02:14:08.000Z"
-  },
-  {
-    "id": "ff39842eb39641942acd2e95de8ffe3acf7934c8",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "simonw/browser-compat-db",
-    "summary": "simonw/browser-compat-db Inspired by Mozilla's new MDN MCP service - source code here - I decided to try converting their comprehensive mdn/browser-compat-data repository full of browser...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
-    "published": "2026-06-24T23:59:03.000Z"
   },
   {
     "id": "44e40b2fd196a1fd5a13d2bb51ebb958ea69c423",
@@ -1138,18 +1150,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b266146d79f9b5e50ebd6f33940f04b10e62bd94",
     "published": "2026-04-27T01:02:39.000Z"
-  },
-  {
-    "id": "b76d7e3baf1c1f5bd1d950f72390580501b3e4d9",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/48967ddd14f8d66753969a09c5730776e5232708",
-    "published": "2026-04-26T21:18:32.000Z"
   },
   {
     "id": "8415a521655539a1530b23dfca098d8419080977",
