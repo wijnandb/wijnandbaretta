@@ -1,5 +1,29 @@
 [
   {
+    "id": "b246fc079aca295c4d452a1d51005599031e1292",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] not much happened today",
+    "summary": "a quiet day before the storm.",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-07e",
+    "published": "2026-06-30T06:47:27.000Z"
+  },
+  {
+    "id": "7be15e2e0b232a7c67738399d341bd63fb0da0de",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "HTML table extractor",
+    "summary": "Tool: HTML table extractor Yet another in my growing collection of paste-conversion tools. This one accepts pasted rich text from browsers (with embedded HTML tables) and converts every detected...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything",
+    "published": "2026-06-29T23:38:21.000Z"
+  },
+  {
     "id": "35a54d6099b9f555ea992be9025663f94a192cf7",
     "source": "Simon Willison",
     "type": "blog",
@@ -130,18 +154,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
     "published": "2026-06-26T18:33:14.000Z"
-  },
-  {
-    "id": "61a73fa670fd3e59cca95503f7da10323763f8ca",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Incident Report: CVE-2026-LGTM",
-    "summary": "Incident Report: CVE-2026-LGTM Spectacular hypothetical incident report by Andrew Nesbitt. Day 2, 16:00 UTC --- Two AI review agents from competing vendors, both attached to a downstream pull request...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
-    "published": "2026-06-26T17:58:54.000Z"
   },
   {
     "id": "a7906cb53b5040afa1db7a165172f6303fcc9700",
@@ -490,18 +502,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/astro-7/",
     "published": "2026-06-22T00:00:00.000Z"
-  },
-  {
-    "id": "4cfa2c49225446d1c43888c29f6bceccaa9998aa",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[Exclusive] $250 off AI Engineer tix til Monday",
-    "summary": "special offer for subscribers - $250 off AI Engineer tix til Monday",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!MovB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2eafb12-892b-44cc-b2d0-6ed07ef991cc_1494x870.png",
-    "url": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
-    "published": "2026-06-21T15:01:23.000Z"
   },
   {
     "id": "1997e2826a819a9fb08c8e7575e7b73c26df69e1",
