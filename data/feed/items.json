@@ -1,5 +1,77 @@
 [
   {
+    "id": "fbfd8fd7fd5638789cfb92df592c6d72c28fdcab",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "The AI Compass",
+    "summary": "The AI Compass This political compass style quiz by bambamramfan is pretty neat - answer 29 questions about AI and AI ethics to see which of the 30 archetypes you best fit. I'm impressed that my...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything",
+    "published": "2026-06-30T17:39:23.000Z"
+  },
+  {
+    "id": "cadb0581921887784654f716ff290ddc70c522c9",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Impressions from visiting OpenAI, Anthropic, & Cursor",
+    "summary": "A peek into where software engineering is headed from inside the sector’s leading AI labs. Agents running in the cloud are a major trend, while coding harnesses are spreading beyond the craft",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!JLz_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17f00be6-8fd8-474c-9e1f-9dab109ef86f_2048x1536.jpeg",
+    "url": "https://newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai",
+    "published": "2026-06-30T17:21:05.000Z"
+  },
+  {
+    "id": "85dc2c8d361b8407731ee5bb20df96ea33d80030",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Have your agent record video demos of its work with shot-scraper video",
+    "summary": "shot-scraper video is a new command introduced in today's shot-scraper 1.10 release which accepts a storyboard.yml file defining a routine to run against a web application and uses Playwright to...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
+    "published": "2026-06-30T16:54:26.000Z"
+  },
+  {
+    "id": "347f26840e5ab6eca62d756020ae60deb695907f",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "shot-scraper 1.10",
+    "summary": "Release: shot-scraper 1.10 The big new feature is shot-scraper video storyboard.yml, described in detail in Have your agent record video demos of its work with shot-scraper video. Tags: shot-scraper",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything",
+    "published": "2026-06-30T15:10:14.000Z"
+  },
+  {
+    "id": "d66509b0c928a5218e10ebda9aafa002ec1561ea",
+    "source": "Werner Vogels",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "A return to two-pizza culture",
+    "summary": "What made the Quick Desktop team successful is the same thing that has always produced the best work I've seen at Amazon: a small group of people who trusted each other, owned the problem end-to-end,...",
+    "thumbnail": null,
+    "url": "https://www.allthingsdistributed.com/2026/06/return-to-two-pizza-culture.html?utm_campaign=inbound&amp;utm_source=rss",
+    "published": "2026-06-30T14:00:00.000Z"
+  },
+  {
+    "id": "2d635b33553d7291b7ae79fb32b12198f40a64f3",
+    "source": "AI Jason",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "I was giving my coding agent context the wrong way...",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/iWRmtPdFbGw/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=iWRmtPdFbGw",
+    "published": "2026-06-30T11:19:17.000Z"
+  },
+  {
     "id": "b246fc079aca295c4d452a1d51005599031e1292",
     "source": "Latent Space",
     "type": "podcast",
@@ -10,6 +82,18 @@
     "thumbnail": null,
     "url": "https://www.latent.space/p/ainews-not-much-happened-today-07e",
     "published": "2026-06-30T06:47:27.000Z"
+  },
+  {
+    "id": "582c1bec315572fa98b115b2a863f2b552820fa7",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "What's new in Astro - June 2026",
+    "summary": "June 2026 - Astro 7, summer swag collection, Astro Germany meetup, and more!",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/whats-new-june-2026/",
+    "published": "2026-06-30T00:00:00.000Z"
   },
   {
     "id": "7be15e2e0b232a7c67738399d341bd63fb0da0de",
@@ -118,42 +202,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!xf8R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2899dbdf-7aed-499f-92b9-63cc194a604e_1328x932.png",
     "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
     "published": "2026-06-27T05:23:22.000Z"
-  },
-  {
-    "id": "89fa739484587e2ca13e38ab5de691d7c859b3ba",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Dean W. Ball",
-    "summary": "This is a bad state of affairs. Consider, in particular, some industry dynamics: Frontier models are trained at an enormous cost, and a significant fraction of that cost is recouped in the few...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
-    "published": "2026-06-26T22:25:46.000Z"
-  },
-  {
-    "id": "ef10a2fdcbae1ed7cadb5fd6235c2b6b6bc99c21",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Timothy B. Lee",
-    "summary": "This is like saying there's no learning curve to being a manager because your employees will just do whatever you tell them to do. &mdash; Timothy B. Lee, on the idea that LLMs take no skill and have...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything",
-    "published": "2026-06-26T21:15:09.000Z"
-  },
-  {
-    "id": "20e226947a3ad968eba9ae1dcbe17854a1654b50",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "What happened after 2,000 people tried to hack my AI assistant",
-    "summary": "What happened after 2,000 people tried to hack my AI assistant Fernando Irarrázaval ran a challenge on hackmyclaw.com to see if anyone could leak secrets held by his OpenClaw test instance by sending...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
-    "published": "2026-06-26T18:33:14.000Z"
   },
   {
     "id": "a7906cb53b5040afa1db7a165172f6303fcc9700",
@@ -840,18 +888,6 @@
     "published": "2026-06-04T00:00:00.000Z"
   },
   {
-    "id": "53cd4387079a76fded0613b10b941d2d98a7946e",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Kubernetes and retiring at the top with Kelsey Hightower",
-    "summary": "Kelsey Hightower reflects on his journey from self-taught technician to Google Distinguished Engineer, sharing lessons on open source, Kubernetes, AI, and building technology that serves people.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!HVBB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a9e89e3-866b-4248-91a9-e6461be25cd8_1497x131.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/kubernetes-and-retiring-at-the-top",
-    "published": "2026-06-03T17:59:17.000Z"
-  },
-  {
     "id": "14903e12ef60d49deb828db3b402cb9138c97a7b",
     "source": "AI Jason",
     "type": "video",
@@ -1080,18 +1116,6 @@
     "published": "2026-04-30T00:00:00.000Z"
   },
   {
-    "id": "b68bd78ddbb5e2b3de40255281ba5f9699c1bd49",
-    "source": "Astro",
-    "type": "blog",
-    "category": "astro",
-    "lang": "en",
-    "title": "What's new in Astro - April 2026",
-    "summary": "April 2026 - Astro Together London, an alpha preview of Astro 7, and more!",
-    "thumbnail": null,
-    "url": "https://astro.build/blog/whats-new-april-2026/",
-    "published": "2026-04-30T00:00:00.000Z"
-  },
-  {
     "id": "a2d9206e1ecd675b78348718e6706a3410d3584e",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -1174,29 +1198,5 @@
     "thumbnail": null,
     "url": "https://directus.com/resources/directus-v12-license-change",
     "published": "2026-04-22T09:00:00.000Z"
-  },
-  {
-    "id": "67ed3c7de58489501227976ed49d761f98f03311",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Okay, this unleashed my agent",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/2zhchG0r6iI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=2zhchG0r6iI",
-    "published": "2026-04-21T12:04:32.000Z"
-  },
-  {
-    "id": "8c811deb3de31c2052dbc33f7e848571d866568b",
-    "source": "Directus",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "How I Turned a Month-Long Migration Into a Weekend Project (And You Can Too)",
-    "summary": "A runthrough of how to handle your data migration using the Directus MCP (Model Context Protocol) server and Claude CLI.",
-    "thumbnail": null,
-    "url": "https://directus.com/resources/migration-weekend",
-    "published": "2026-04-15T13:54:00.000Z"
   }
 ]
