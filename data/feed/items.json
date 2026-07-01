@@ -1,5 +1,41 @@
 [
   {
+    "id": "5ed8c5201e4d393e64163aec8ee372c05d067560",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "How Kent Beck shapes the software engineering industry",
+    "summary": "Kent Beck reflects on Agile, TDD, and why building trust—not just generating code—will define the future of software engineering in the AI era.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!YCsL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39bdfbb4-fb73-41d8-83cb-0ca4832aed49_1280x80.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/how-kent-beck-shapes-the-software",
+    "published": "2026-07-01T16:57:46.000Z"
+  },
+  {
+    "id": "455620d3c8607da00ee74d2656eff0f53810276d",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "🔬 The Coolest Diffusion Research Isn't in LLMs — Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
+    "summary": "Why the Llama lead left Meta for drug discovery, PEARL's zero-shot OpenBind win, and what becomes possible when co-folding finally crosses the accuracy threshold.",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
+    "published": "2026-07-01T14:42:39.000Z"
+  },
+  {
+    "id": "8c901437878656a4a32e00957807c2744ac0b935",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Warp CEO Zach Lloyd on why software factories are the next phase of coding",
+    "summary": "Warp's founder thinks every major software project will soon run on an automated factory. He discusses why and how engineers should prepare for this shift.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!kQB7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4140e59-9bc8-4685-8af0-0cf86b6f998f_1280x720.jpeg",
+    "url": "https://www.latent.space/p/software-factories",
+    "published": "2026-07-01T14:28:23.000Z"
+  },
+  {
     "id": "d902ee7c263e7fc9ebf801785cc7b056ab7831b4",
     "source": "Latent Space",
     "type": "podcast",
@@ -29,7 +65,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "I Built a Real AI Jarvis That Controls My Computer",
+    "title": "Building a Real AI Jarvis (GPT Realtime 2 + Cursor)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/4WBOmhI11rQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4WBOmhI11rQ",
@@ -372,18 +408,6 @@
     "published": "2026-06-26T06:22:48.000Z"
   },
   {
-    "id": "ca26e43218bf799f20d3da7127d7d310924d9134",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
-    "summary": "It's happening.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!roAd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a48b472-a807-4211-b981-983f7a401c3a_2156x1576.png",
-    "url": "https://www.latent.space/p/ainews-openai-reports-median-internal",
-    "published": "2026-06-26T01:12:30.000Z"
-  },
-  {
     "id": "bce1e309efada19afffd378a6d1f1ec1c7ab66d6",
     "source": "AI Report",
     "type": "podcast",
@@ -406,18 +430,6 @@
     "thumbnail": "https://i.ytimg.com/vi/HrGl01TpZpA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=HrGl01TpZpA",
     "published": "2026-06-25T15:15:13.000Z"
-  },
-  {
-    "id": "0a8a361a5e2563211e080c420f36ebafb9769ca4",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] It's Meta-Harness Summer",
-    "summary": "Move over, Harness Engineering, it is time for the harness of harnesses!",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!LH6a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1a3d909-a54b-4acd-aa2c-33823f9e032e_878x674.png",
-    "url": "https://www.latent.space/p/ainews-its-meta-harness-summer",
-    "published": "2026-06-25T02:14:08.000Z"
   },
   {
     "id": "44e40b2fd196a1fd5a13d2bb51ebb958ea69c423",
@@ -802,18 +814,6 @@
     "thumbnail": "https://i.ytimg.com/vi/Y9Wz2PV404E/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
     "published": "2026-06-09T17:00:05.000Z"
-  },
-  {
-    "id": "81912ec9c22915a556be0dbb9f597f68bc46c601",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "State of the software engineering job market in 2026, part 2",
-    "summary": "Deepdive into the tech jobs market with exclusive data revealing AI labs are more attractive than Big Tech, native mobile & frontend roles are declining, management’s “great flattening”, and more",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!6pbI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d04df85-7afe-471e-8b70-a8f9e83800df_2048x1452.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-job-market-in-2026-part-2",
-    "published": "2026-06-09T16:35:53.000Z"
   },
   {
     "id": "bd16822ce1d28eafaec9610becddd3a89f3ee1ad",
