@@ -1,5 +1,101 @@
 [
   {
+    "id": "d902ee7c263e7fc9ebf801785cc7b056ab7831b4",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
+    "summary": "On Tuesday at the AI Engineer World's Fair, there was a lot of talk about loops, agent engineering, and the emergence of software factories. Also a hot topic: open models.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!i4cw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee341b9f-8fd3-47e5-87db-9b3d0fc72de5_1280x720.jpeg",
+    "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
+    "published": "2026-07-01T04:46:21.000Z"
+  },
+  {
+    "id": "5f80fed945d6cddb9b8bea5eafdfe3b6da7240e0",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Sonnet 5 today, and Fable 5 tomorrow",
+    "summary": "Everything is open again!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!V4wu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHMF3K5vakAAfUEM.png",
+    "url": "https://www.latent.space/p/ainews-sonnet-5-today-and-fable-5",
+    "published": "2026-07-01T03:01:09.000Z"
+  },
+  {
+    "id": "6ede1897168d71144659e7bd7ba51ebe3573da75",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "I Built a Real AI Jarvis That Controls My Computer",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/4WBOmhI11rQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=4WBOmhI11rQ",
+    "published": "2026-07-01T01:40:30.000Z"
+  },
+  {
+    "id": "a6f88e064bc9c8e199cfc8ec5dc8a3e34b189b42",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Forward Deployed Engineers and the future of software engineering",
+    "summary": "Sierra's Natalie Meurer on why product engineers and forward deployed engineers are starting to converge.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!FQL_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf8be96e-5c79-4412-baaa-e987da5ef53a_1280x960.jpeg",
+    "url": "https://www.latent.space/p/forward-deployed-engineers-aiewf",
+    "published": "2026-07-01T00:20:18.000Z"
+  },
+  {
+    "id": "77069007a59447630c507a4327bad0270b718f9b",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Anthropic",
+    "summary": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. &mdash;...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
+    "published": "2026-06-30T23:58:15.000Z"
+  },
+  {
+    "id": "f0383cc6d5a20e7a73c439892191283f99fa95b7",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Ahmad Osman on why local AI is catching up",
+    "summary": "After two packed AIEWF workshops, Ahmad Osman makes the case that local AI is catching up fast — from laptops and phones to enterprise-grade infrastructure.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!9BC6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9842112b-570d-48b7-92f3-7cbb05681776_1280x720.jpeg",
+    "url": "https://www.latent.space/p/ahmad-osman-local-ai",
+    "published": "2026-06-30T23:39:29.000Z"
+  },
+  {
+    "id": "96ca38fd070e8b16a14424e8d36484a3ae26e5c4",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Nano Banana 2 Lite",
+    "summary": "Nano Banana 2 Lite Also known as Gemini 3.1 Flash Lite Image (gemini-3.1-flash-lite-image in their API), this is the \"fastest and cheapest Gemini image model, engineered for velocity and scale\". I...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
+    "published": "2026-06-30T22:15:35.000Z"
+  },
+  {
+    "id": "ab37cad98a0d69714af8c016cb456b6a902b2682",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "What's new in Claude Sonnet 5",
+    "summary": "What's new in Claude Sonnet 5 Claude Sonnet 5 came out this morning. I always head straight for the \"what's new\" developer docs because they tend to have more actionable information than the official...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+    "published": "2026-06-30T21:23:02.000Z"
+  },
+  {
     "id": "fbfd8fd7fd5638789cfb92df592c6d72c28fdcab",
     "source": "Simon Willison",
     "type": "blog",
@@ -132,18 +228,6 @@
     "published": "2026-06-29T18:24:00.000Z"
   },
   {
-    "id": "08519a834ccf633ea909e609b8d8685f47a607c6",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
-    "summary": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding This is an interesting new open weights (MIT licensed) model, the first model release from DeepReinforce. [...] with variants including 9B Dense,...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
-    "published": "2026-06-29T16:17:59.000Z"
-  },
-  {
     "id": "3d73c86050d8de6a3b22852c9dc0784676545435",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -166,30 +250,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aee61758faef4482f94e54b4d9534a8d2a9a9131",
     "published": "2026-06-29T07:50:57.000Z"
-  },
-  {
-    "id": "c1b6e8d9a36650ef86a3795355bb96a3d5856019",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Jon Udell",
-    "summary": "Human Agent in the loop I dislike the phrase “human in the loop” because it cedes authority to the machines. Let’s flip the narrative. It’s our loop, we work the same way we always have, now we...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything",
-    "published": "2026-06-28T21:57:41.000Z"
-  },
-  {
-    "id": "9a0c191299e4299c1adfea454d13f5a65b5fcff8",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Hack Your Summer",
-    "summary": "Hack Your Summer I learned about this initiative from DJ Patil this morning: It’s a 4-week, high-velocity production sprint for undergraduate students, graduate students, and recent graduates who...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything",
-    "published": "2026-06-28T19:26:11.000Z"
   },
   {
     "id": "89cad2c640a7e3e8d6e2a6eba904c9004fbb6b26",
@@ -372,18 +432,6 @@
     "published": "2026-06-24T22:39:42.000Z"
   },
   {
-    "id": "8eefae269696152f26ad71fac8025166649fd4e6",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
-    "summary": "In a rare double-interview, the Databricks technical leaders riff on what it will take for every company to build Agent Clouds",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/databricks",
-    "published": "2026-06-24T18:53:16.000Z"
-  },
-  {
     "id": "4e8837a277e4a33c4e7c5bdcf0d21435fc363deb",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -420,18 +468,6 @@
     "published": "2026-06-24T08:45:00.000Z"
   },
   {
-    "id": "c96e26a5598e7a08ad6b64e5d32c1f9306cd97bd",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
-    "summary": "Claude finally gets a Slackbot upgrade",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!q5Em!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2069465784653348866.jpg",
-    "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
-    "published": "2026-06-24T07:14:26.000Z"
-  },
-  {
     "id": "ffbe77ecc5b30926ffbfe9a78f067726a7252952",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -442,18 +478,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!zjyL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc59abcfc-a72d-4957-b4e0-9fd6bde46c98_2048x1365.jpeg",
     "url": "https://newsletter.pragmaticengineer.com/p/slow-down-to-speed-up",
     "published": "2026-06-23T15:30:26.000Z"
-  },
-  {
-    "id": "973ba85fc713bc001f954fd0536c94e6f5dca594",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] SpaceX is already a $28B/yr Neocloud",
-    "summary": "a quiet day lets us reflect on some numbers from Jamin Ball.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!0sP8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHLbX8TUaoAA9OTl.jpg",
-    "url": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
-    "published": "2026-06-23T06:19:49.000Z"
   },
   {
     "id": "7173e6f4192a940864f20363029b2f3b74258d69",
@@ -514,18 +538,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
     "url": "https://github.com/antfu/skills/commit/11cefdc7fda24f056763a1d644b5f8160de6ef49",
     "published": "2026-06-23T00:05:55.000Z"
-  },
-  {
-    "id": "b6fbd85a2cfb4f51c8c2ac14d50df973f1af4653",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Red-Teaming after Mythos — Zico Kolter & Matt Fredrikson, Gray Swan",
-    "summary": "OpenAI boardmember Zico Kolter and Gray Swan CEO Matt Fredrikson join swyx to explain why AI security is not just “cybersecurity with AI”",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!ipA_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e363710-556e-469c-949c-a0942736c562_1348x934.png",
-    "url": "https://www.latent.space/p/gray-swan",
-    "published": "2026-06-22T21:06:55.000Z"
   },
   {
     "id": "4c16777922a4e0a63a612d257eb669b93c154007",
@@ -838,18 +850,6 @@
     "thumbnail": "https://ss.yusukebe.com/cf90b75a0e2bdee668766949bb6870f0cecb25b2b1d4a6ae0db7b9d0d0b0b086.png",
     "url": "https://yusukebe.com/posts/2026/frontend-phpcon-do/",
     "published": "2026-06-07T20:46:15.000Z"
-  },
-  {
-    "id": "f8559275ff893d0218ff15c2fc123916b12401a2",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Hermes Agent NEW Super-App and DeepSeek v4 Catches Up To Opus 4.8?",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/DbeFq_uoaRs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=DbeFq_uoaRs",
-    "published": "2026-06-06T20:10:34.000Z"
   },
   {
     "id": "1cd4146480ab38d2f8c890bd04e1bbd0250d491c",
