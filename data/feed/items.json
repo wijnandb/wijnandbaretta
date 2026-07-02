@@ -1,5 +1,53 @@
 [
   {
+    "id": "10fa9c6f0268e0b512859e90f056df6703434ee2",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] not much happened today",
+    "summary": "another quiet day.",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-900",
+    "published": "2026-07-02T07:10:14.000Z"
+  },
+  {
+    "id": "4c99de8b8da6557cd4a5d0f92047dd540cd61135",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "AIEWF Daily Dispatch: Autoresearch and the tension between AI and human agency",
+    "summary": "The software factory vision met resistance today from speakers defending human understanding and control.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!yyfq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5879355c-6a34-432c-bd6a-a4ace5715f5e_1280x850.jpeg",
+    "url": "https://www.latent.space/p/aiewf-daily-dispatch-agency",
+    "published": "2026-07-02T06:13:49.000Z"
+  },
+  {
+    "id": "10d091a58570789e020c6d17cfd1a6a44f237802",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Autoresearch: The feedback loop behind self-improving agents",
+    "summary": "Introspection co-founder Roland Gavrilescu explains autoresearch, agent “recipes,” self-improving loops, and why humans remain central to the software factory.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!p4Th!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe316b2cb-4200-4a71-bdcc-c398467b53ef_1280x720.jpeg",
+    "url": "https://www.latent.space/p/autoresearch-introspection",
+    "published": "2026-07-01T23:52:30.000Z"
+  },
+  {
+    "id": "dda2ba54cd705a34c132f89486cffc5f5906a323",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "How Cursor deploys AI inside the enterprise",
+    "summary": "Cursor's Pauline Brunet explains how her team of Forward Deployed Engineers help organizations implement agents — essentially setting up software factories.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!e2BU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a8c541c-264c-476f-b47c-029cd970acf9_1280x720.jpeg",
+    "url": "https://www.latent.space/p/cursor-forward-deployed-engineers",
+    "published": "2026-07-01T19:03:44.000Z"
+  },
+  {
     "id": "5ed8c5201e4d393e64163aec8ee372c05d067560",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -72,18 +120,6 @@
     "published": "2026-07-01T01:40:30.000Z"
   },
   {
-    "id": "a6f88e064bc9c8e199cfc8ec5dc8a3e34b189b42",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Forward Deployed Engineers and the future of software engineering",
-    "summary": "Sierra's Natalie Meurer on why product engineers and forward deployed engineers are starting to converge.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!FQL_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf8be96e-5c79-4412-baaa-e987da5ef53a_1280x960.jpeg",
-    "url": "https://www.latent.space/p/forward-deployed-engineers-aiewf",
-    "published": "2026-07-01T00:20:18.000Z"
-  },
-  {
     "id": "77069007a59447630c507a4327bad0270b718f9b",
     "source": "Simon Willison",
     "type": "blog",
@@ -94,18 +130,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
     "published": "2026-06-30T23:58:15.000Z"
-  },
-  {
-    "id": "f0383cc6d5a20e7a73c439892191283f99fa95b7",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Ahmad Osman on why local AI is catching up",
-    "summary": "After two packed AIEWF workshops, Ahmad Osman makes the case that local AI is catching up fast — from laptops and phones to enterprise-grade infrastructure.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!9BC6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9842112b-570d-48b7-92f3-7cbb05681776_1280x720.jpeg",
-    "url": "https://www.latent.space/p/ahmad-osman-local-ai",
-    "published": "2026-06-30T23:39:29.000Z"
   },
   {
     "id": "96ca38fd070e8b16a14424e8d36484a3ae26e5c4",
@@ -204,18 +228,6 @@
     "published": "2026-06-30T11:19:17.000Z"
   },
   {
-    "id": "b246fc079aca295c4d452a1d51005599031e1292",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] not much happened today",
-    "summary": "a quiet day before the storm.",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/ainews-not-much-happened-today-07e",
-    "published": "2026-06-30T06:47:27.000Z"
-  },
-  {
     "id": "582c1bec315572fa98b115b2a863f2b552820fa7",
     "source": "Astro",
     "type": "blog",
@@ -286,18 +298,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aee61758faef4482f94e54b4d9534a8d2a9a9131",
     "published": "2026-06-29T07:50:57.000Z"
-  },
-  {
-    "id": "89cad2c640a7e3e8d6e2a6eba904c9004fbb6b26",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
-    "summary": "Oddly tiered releases to both OAI and ANT on the same day.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!xf8R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2899dbdf-7aed-499f-92b9-63cc194a604e_1328x932.png",
-    "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
-    "published": "2026-06-27T05:23:22.000Z"
   },
   {
     "id": "a7906cb53b5040afa1db7a165172f6303fcc9700",
