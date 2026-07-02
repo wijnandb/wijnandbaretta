@@ -1,5 +1,65 @@
 [
   {
+    "id": "38aa5ad2c12dd9a0f88601b0ffc22eb86ca84b33",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
+    "summary": "Research: Using DSPy to evaluate and improve Datasette Agent's SQL system prompts One of this morning's AIE keynotes covered dspy, which reminded me I've been meaning to see if it could help me...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
+    "published": "2026-07-02T18:25:00.000Z"
+  },
+  {
+    "id": "2b2bf522faae1994ebfb5d6a4b00677ffa33339c",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Understand to participate",
+    "summary": "I saw Geoffrey Litt speak at AIE yesterday, and one framing he used particularly resonated with me: Understand to participate Geoffrey was talking about the challenge of collaborating with coding...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
+    "published": "2026-07-02T17:07:14.000Z"
+  },
+  {
+    "id": "78ad82bcc2179ebac79cbebd5e6a85a3110fb234",
+    "source": "AI Report",
+    "type": "podcast",
+    "category": "nl",
+    "lang": "nl",
+    "title": "Fable vs GPT-5.6 + NVIDIAs macht wankelt + onze halfjaarlijkse voorspellingen",
+    "summary": "Terwijl de Amerikaanse overheid Claude Fable 5 na weken exportbeperkingen eindelijk vrijgeeft, grijpt ze meteen in bij OpenAIs kersverse GPT-5.6, dat voorlopig op de plank blijft liggen. Die greep...",
+    "thumbnail": null,
+    "url": "https://www.aireport.nl/podcast/s/aireport/fable_vs_gpt-5_6_nvidias_macht_wankelt_onze_halfjaarlijkse_voorspellingen",
+    "published": "2026-07-02T15:15:03.000Z"
+  },
+  {
+    "id": "90512464cdc0fa834676e94e09cd5e382a5139f1",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Skill engineering and the case against one-shot AI design",
+    "summary": "Paul Bakaus talks to us about Impeccable, human judgment in a 'loopmaxxing' era, and why agents still need people to steer them.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!JOvz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c23df3d-275c-48a8-a914-994c53dcd352_1280x720.jpeg",
+    "url": "https://www.latent.space/p/skill-engineering-design",
+    "published": "2026-07-02T14:36:05.000Z"
+  },
+  {
+    "id": "c6299e51f20e69536a9639af84083fb24fdedeca",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "ElevenLabs in 100 Seconds (For Developers)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/FJlcJWlLgC8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=FJlcJWlLgC8",
+    "published": "2026-07-02T12:58:48.000Z"
+  },
+  {
     "id": "10fa9c6f0268e0b512859e90f056df6703434ee2",
     "source": "Latent Space",
     "type": "podcast",
@@ -94,18 +154,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!i4cw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee341b9f-8fd3-47e5-87db-9b3d0fc72de5_1280x720.jpeg",
     "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
     "published": "2026-07-01T04:46:21.000Z"
-  },
-  {
-    "id": "5f80fed945d6cddb9b8bea5eafdfe3b6da7240e0",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Sonnet 5 today, and Fable 5 tomorrow",
-    "summary": "Everything is open again!",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!V4wu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHMF3K5vakAAfUEM.png",
-    "url": "https://www.latent.space/p/ainews-sonnet-5-today-and-fable-5",
-    "published": "2026-07-01T03:01:09.000Z"
   },
   {
     "id": "6ede1897168d71144659e7bd7ba51ebe3573da75",
@@ -238,30 +286,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/whats-new-june-2026/",
     "published": "2026-06-30T00:00:00.000Z"
-  },
-  {
-    "id": "7be15e2e0b232a7c67738399d341bd63fb0da0de",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "HTML table extractor",
-    "summary": "Tool: HTML table extractor Yet another in my growing collection of paste-conversion tools. This one accepts pasted rich text from browsers (with embedded HTML tables) and converts every detected...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything",
-    "published": "2026-06-29T23:38:21.000Z"
-  },
-  {
-    "id": "35a54d6099b9f555ea992be9025663f94a192cf7",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Count the number of Safari tabs",
-    "summary": "Tiniest TIL, using AppleScript to count the number of open browser tabs in Safari: osascript -e 'tell application \"Safari\" to count tabs of every window' Tags: safari, til, applescript",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything",
-    "published": "2026-06-29T18:36:18.000Z"
   },
   {
     "id": "f48474b24629bd165e2aae3c276d77af618ec552",
@@ -960,18 +984,6 @@
     "published": "2026-05-28T00:00:00.000Z"
   },
   {
-    "id": "218d8e3a9cc2544f378077adbfc436994516c16a",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Get started with ElevenLabs Text to Speech",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/oFV4H7xgyKQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/oFV4H7xgyKQ",
-    "published": "2026-05-26T19:54:24.000Z"
-  },
-  {
     "id": "144132956818476386f215ae8c67ed41315562a5",
     "source": "AI Report",
     "type": "podcast",
@@ -1090,18 +1102,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
     "url": "https://github.com/antfu/skills/commit/50deaeb269d80d92db7a2c5a677290309ae307fc",
     "published": "2026-05-01T16:46:24.000Z"
-  },
-  {
-    "id": "abaede7a9029d8074e411e4c796ae2176ab755a9",
-    "source": "AI Report",
-    "type": "podcast",
-    "category": "nl",
-    "lang": "nl",
-    "title": "OpenAI's super-app ambitie met GPT-5.5 + DeepSeek V4 voor een schijntje + Rick Lamers over AGI",
-    "summary": "OpenAI lanceert GPT-5.5, een model dat zelfstandig spreadsheets analyseert, presentaties bouwt en onderzoek doet zonder dat je elke stap hoeft voor te kauwen. Greg Brockman ziet het als de eerste...",
-    "thumbnail": null,
-    "url": "https://www.aireport.nl/podcast/s/aireport/openai_s_super-app_ambitie_met_gpt-5_5_deepseek_v4_voor_een_schijntje_rick_lamers_over_agi",
-    "published": "2026-04-30T16:56:41.000Z"
   },
   {
     "id": "800bfab7e9df1251e8fb4f738cc9b7030d0470b4",
