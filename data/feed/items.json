@@ -1,5 +1,77 @@
 [
   {
+    "id": "01284d0383fd4caedfb85ff1d74cf143845eb650",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Fable's judgement",
+    "summary": "One of the most interesting tips I got from the Fireside Chat I hosted with Cat Wu and Thariq Shihipar from the Claude Code team at AIE on Wednesday was to let Fable (and to a certain extent Opus)...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
+    "published": "2026-07-03T18:51:06.000Z"
+  },
+  {
+    "id": "feab28a5bd569a224b3791197ce47b1e317d19d5",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3376421ab11d780c29ab8120415c5f0d19cf4146",
+    "published": "2026-07-03T18:30:03.000Z"
+  },
+  {
+    "id": "1b276d2241c7f87369eb8ee073edbc088c07d242",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4e41f303801d6c806af0a5c8d3e31fe26ae13575",
+    "published": "2026-07-03T15:40:29.000Z"
+  },
+  {
+    "id": "76cf026fcffb369aa6c6d711f8c793c0808a72d3",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "June 2026 newsletter",
+    "summary": "The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here. This month: Claude Fable 5, GPT-5.6, and US export...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything",
+    "published": "2026-07-03T14:50:50.000Z"
+  },
+  {
+    "id": "1ff4eb112c5c729833aba245b85e26b5a86e9996",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/462d95505b0126269f49a6406027a1e54e40b439",
+    "published": "2026-07-03T12:40:34.000Z"
+  },
+  {
+    "id": "099fe2f1c18869535e869383d007aaa0203108c6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/92a0907b70a75cc58a18843e43df9b21fa716896",
+    "published": "2026-07-03T10:02:07.000Z"
+  },
+  {
     "id": "de5f477cf9a71e8e2b7dafd89bdaee5c65aa5139",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -108,15 +180,15 @@
     "published": "2026-07-02T17:07:14.000Z"
   },
   {
-    "id": "78ad82bcc2179ebac79cbebd5e6a85a3110fb234",
+    "id": "300ce3325ded83f6b9a24b0ed9dfde0a6a9650c6",
     "source": "AI Report",
     "type": "podcast",
     "category": "nl",
     "lang": "nl",
-    "title": "Fable vs GPT-5.6 + NVIDIAs macht wankelt + onze halfjaarlijkse voorspellingen",
+    "title": "Fable is terug + de vooruitblik: wat kan AI eind dit jaar?",
     "summary": "Terwijl de Amerikaanse overheid Claude Fable 5 na weken exportbeperkingen eindelijk vrijgeeft, grijpt ze meteen in bij OpenAIs kersverse GPT-5.6, dat voorlopig op de plank blijft liggen. Die greep...",
     "thumbnail": null,
-    "url": "https://www.aireport.nl/podcast/s/aireport/fable_vs_gpt-5_6_nvidias_macht_wankelt_onze_halfjaarlijkse_voorspellingen",
+    "url": "https://www.aireport.nl/podcast/s/aireport/fable_is_terug_de_vooruitblik_wat_kan_ai_eind_dit_jaar",
     "published": "2026-07-02T15:15:03.000Z"
   },
   {
@@ -252,18 +324,6 @@
     "published": "2026-06-30T21:23:02.000Z"
   },
   {
-    "id": "fbfd8fd7fd5638789cfb92df592c6d72c28fdcab",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "The AI Compass",
-    "summary": "The AI Compass This political compass style quiz by bambamramfan is pretty neat - answer 29 questions about AI and AI ethics to see which of the 30 archetypes you best fit. I'm impressed that my...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything",
-    "published": "2026-06-30T17:39:23.000Z"
-  },
-  {
     "id": "cadb0581921887784654f716ff290ddc70c522c9",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -274,18 +334,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!JLz_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17f00be6-8fd8-474c-9e1f-9dab109ef86f_2048x1536.jpeg",
     "url": "https://newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai",
     "published": "2026-06-30T17:21:05.000Z"
-  },
-  {
-    "id": "85dc2c8d361b8407731ee5bb20df96ea33d80030",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Have your agent record video demos of its work with shot-scraper video",
-    "summary": "shot-scraper video is a new command introduced in today's shot-scraper 1.10 release which accepts a storyboard.yml file defining a routine to run against a web application and uses Playwright to...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
-    "published": "2026-06-30T16:54:26.000Z"
   },
   {
     "id": "d66509b0c928a5218e10ebda9aafa002ec1561ea",
@@ -334,30 +382,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/29755104e1f15404f99db9e5f381e23960efc4a0",
     "published": "2026-06-29T18:24:00.000Z"
-  },
-  {
-    "id": "3d73c86050d8de6a3b22852c9dc0784676545435",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "fix",
-    "summary": "fix Signed-off-by: Really Him",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2ca2f07cefe3f7e4bd2aa39323a5dceef5c1d3fe",
-    "published": "2026-06-29T08:05:37.000Z"
-  },
-  {
-    "id": "d3856bc083d41e71fff444067f1718c07ec1f509",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add files via upload (#2146)",
-    "summary": "Add files via upload (#2146)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aee61758faef4482f94e54b4d9534a8d2a9a9131",
-    "published": "2026-06-29T07:50:57.000Z"
   },
   {
     "id": "a7906cb53b5040afa1db7a165172f6303fcc9700",
@@ -1150,30 +1174,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/astro-620/",
     "published": "2026-04-30T00:00:00.000Z"
-  },
-  {
-    "id": "a2d9206e1ecd675b78348718e6706a3410d3584e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "feat: ToC (wip)",
-    "summary": "feat: ToC (wip)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/614f102accbcd48206d63a21df64adc984026b40",
-    "published": "2026-04-27T14:40:18.000Z"
-  },
-  {
-    "id": "751cd2bcff1f182e8dbdd6c405d8e2c40157d69a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Update in progress (#1735)",
-    "summary": "Update in progress (#1735) * docs: update-in-progress * Update print statement from 'Hello' to 'Goodbye'",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d45affed2d020226117cb7c6cbeeaf8a1071ed00",
-    "published": "2026-04-27T14:15:31.000Z"
   },
   {
     "id": "8415a521655539a1530b23dfca098d8419080977",
