@@ -1,5 +1,89 @@
 [
   {
+    "id": "de5f477cf9a71e8e2b7dafd89bdaee5c65aa5139",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0fc921d199950fd285b59b19e6caf7ae057e276a",
+    "published": "2026-07-03T07:08:18.000Z"
+  },
+  {
+    "id": "9cba500f7b7921f0d7da87cf5d5e5911dabdece6",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
+    "summary": "The AI Engineer World’s Fair ended with a debate about loops, a report on the state of AI engineering, and closing keynotes focused on what to build next.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!M0WA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d4f7346-6688-4240-b077-16bf6f4a4a34_1280x815.jpeg",
+    "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
+    "published": "2026-07-03T05:11:43.000Z"
+  },
+  {
+    "id": "2715b724664f17adb77bf974a422182c1a17e4df",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5a92ba7ebf778b362dd572d6642f5b12aa41cd4a",
+    "published": "2026-07-03T04:19:20.000Z"
+  },
+  {
+    "id": "09c4206d8b3fb78455b86396719af51e896fe7cb",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "release - renovation",
+    "summary": "release - renovation",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4f91064619b92add8927b722c8bca35f9f92b253",
+    "published": "2026-07-03T00:29:49.000Z"
+  },
+  {
+    "id": "a18ac96c7dbbfab3073bd1e6f66c55c349798b69",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Vercel's Andrew Qu on why agents are a new kind of software",
+    "summary": "The Vercel Chief of Software explains how its agent framework, eve, was created — and why skills, sandboxes and agent-readable websites now matter.",
+    "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/5d05f30e-e2cc-4895-b84a-d0cdd9835db8_1280x720.jpeg",
+    "url": "https://www.latent.space/p/vercel-agents-new-software",
+    "published": "2026-07-03T00:08:18.000Z"
+  },
+  {
+    "id": "9af1a1a7b5ccf25c4ebdd6fc648f43432523812d",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "The website of the future may assemble itself for every visitor",
+    "summary": "Adobe is experimenting with “agentic sites” that generate pages around an individual user’s intent. At AIEWF, we talked to Carlos Sanchez about the Web's future.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!KiR3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F888e1825-8152-418b-9a18-152de1328077_1280x720.jpeg",
+    "url": "https://www.latent.space/p/the-website-of-the-future",
+    "published": "2026-07-02T21:25:14.000Z"
+  },
+  {
+    "id": "304f4fc74033b4d43b6f7973bc55cfa27280b808",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "llm-coding-agent 0.1a0",
+    "summary": "Release: llm-coding-agent 0.1a0 Another Fable 5 experiment. Now that my LLM library has evolved into more of an agent framework it's time to see what a simple coding agent would look like built on...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
+    "published": "2026-07-02T19:33:12.000Z"
+  },
+  {
     "id": "38aa5ad2c12dd9a0f88601b0ffc22eb86ca84b33",
     "source": "Simon Willison",
     "type": "blog",
@@ -120,42 +204,6 @@
     "published": "2026-07-01T16:57:46.000Z"
   },
   {
-    "id": "455620d3c8607da00ee74d2656eff0f53810276d",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "🔬 The Coolest Diffusion Research Isn't in LLMs — Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
-    "summary": "Why the Llama lead left Meta for drug discovery, PEARL's zero-shot OpenBind win, and what becomes possible when co-folding finally crosses the accuracy threshold.",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
-    "published": "2026-07-01T14:42:39.000Z"
-  },
-  {
-    "id": "8c901437878656a4a32e00957807c2744ac0b935",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Warp CEO Zach Lloyd on why software factories are the next phase of coding",
-    "summary": "Warp's founder thinks every major software project will soon run on an automated factory. He discusses why and how engineers should prepare for this shift.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!kQB7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4140e59-9bc8-4685-8af0-0cf86b6f998f_1280x720.jpeg",
-    "url": "https://www.latent.space/p/software-factories",
-    "published": "2026-07-01T14:28:23.000Z"
-  },
-  {
-    "id": "d902ee7c263e7fc9ebf801785cc7b056ab7831b4",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
-    "summary": "On Tuesday at the AI Engineer World's Fair, there was a lot of talk about loops, agent engineering, and the emergence of software factories. Also a hot topic: open models.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!i4cw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee341b9f-8fd3-47e5-87db-9b3d0fc72de5_1280x720.jpeg",
-    "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
-    "published": "2026-07-01T04:46:21.000Z"
-  },
-  {
     "id": "6ede1897168d71144659e7bd7ba51ebe3573da75",
     "source": "Riley Brown",
     "type": "video",
@@ -238,18 +286,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
     "published": "2026-06-30T16:54:26.000Z"
-  },
-  {
-    "id": "347f26840e5ab6eca62d756020ae60deb695907f",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "shot-scraper 1.10",
-    "summary": "Release: shot-scraper 1.10 The big new feature is shot-scraper video storyboard.yml, described in detail in Have your agent record video demos of its work with shot-scraper video. Tags: shot-scraper",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything",
-    "published": "2026-06-30T15:10:14.000Z"
   },
   {
     "id": "d66509b0c928a5218e10ebda9aafa002ec1561ea",
@@ -1138,42 +1174,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d45affed2d020226117cb7c6cbeeaf8a1071ed00",
     "published": "2026-04-27T14:15:31.000Z"
-  },
-  {
-    "id": "180ac4d6950a940c42d3f0339de3fae0562a3ce0",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/94f417a417f382b9155eac1ce67e33f31b032e26",
-    "published": "2026-04-27T12:47:32.000Z"
-  },
-  {
-    "id": "7049c3b08ea120d1d7de7b0332bef9e03d03a768",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0ccfb00e1dca0dae0a72a3af3c2daaa0e91f33b6",
-    "published": "2026-04-27T09:55:29.000Z"
-  },
-  {
-    "id": "b7be752969f3eb29132a4552b9bb045e233bd387",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8ccdcc1a758b5c3f192f356119349223f1362a2e",
-    "published": "2026-04-27T07:09:16.000Z"
   },
   {
     "id": "8415a521655539a1530b23dfca098d8419080977",
