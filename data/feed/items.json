@@ -1,5 +1,77 @@
 [
   {
+    "id": "11d3d2f36ca633c073f14d755be00a49ce99ca8b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ce716dd409aa12d1035471818ec7db0a0024b2e5",
+    "published": "2026-07-04T07:02:51.000Z"
+  },
+  {
+    "id": "395592257c915e2ad79f475dca8cfa7dee0685fe",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9cb4c56e2152f70615df411b29002330c8c2ebbc",
+    "published": "2026-07-04T04:16:42.000Z"
+  },
+  {
+    "id": "7d873a8bd7670dd5c69e42353dc2960b7ce5c00f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e2d99ee6e847a952a423dc4afe98e0527608efda",
+    "published": "2026-07-04T00:38:03.000Z"
+  },
+  {
+    "id": "4c8e751a878dcbfc29320add4b3e4e9973c34a6f",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Open Source AI Gap Map",
+    "summary": "Open Source AI Gap Map Current AI is \"a global partnership building a public option for AI\", founded as a non-profit at the AI Action Summit in Paris in February 2025 and backed by serious capital...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
+    "published": "2026-07-03T22:04:31.000Z"
+  },
+  {
+    "id": "99e7dd3d67e98f6a07cf19ce70e8c071b22dc883",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0b9037d50fdf73116d42c4eae61c713c46dce636",
+    "published": "2026-07-03T21:26:27.000Z"
+  },
+  {
+    "id": "35ed231cc09c49d33d31780aee3515e379ad95b6",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Josh W. Comeau",
+    "summary": "I just launched my third course, Whimsical Animations, and so far, it’s on track to sell roughly ⅓ as many copies as a typical course launch. It’s a similar story with my two existing courses. Sales...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
+    "published": "2026-07-03T21:25:52.000Z"
+  },
+  {
     "id": "01284d0383fd4caedfb85ff1d74cf143845eb650",
     "source": "Simon Willison",
     "type": "blog",
@@ -72,18 +144,6 @@
     "published": "2026-07-03T10:02:07.000Z"
   },
   {
-    "id": "de5f477cf9a71e8e2b7dafd89bdaee5c65aa5139",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0fc921d199950fd285b59b19e6caf7ae057e276a",
-    "published": "2026-07-03T07:08:18.000Z"
-  },
-  {
     "id": "9cba500f7b7921f0d7da87cf5d5e5911dabdece6",
     "source": "Latent Space",
     "type": "podcast",
@@ -94,30 +154,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!M0WA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d4f7346-6688-4240-b077-16bf6f4a4a34_1280x815.jpeg",
     "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
     "published": "2026-07-03T05:11:43.000Z"
-  },
-  {
-    "id": "2715b724664f17adb77bf974a422182c1a17e4df",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5a92ba7ebf778b362dd572d6642f5b12aa41cd4a",
-    "published": "2026-07-03T04:19:20.000Z"
-  },
-  {
-    "id": "09c4206d8b3fb78455b86396719af51e896fe7cb",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "release - renovation",
-    "summary": "release - renovation",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4f91064619b92add8927b722c8bca35f9f92b253",
-    "published": "2026-07-03T00:29:49.000Z"
   },
   {
     "id": "a18ac96c7dbbfab3073bd1e6f66c55c349798b69",
@@ -300,30 +336,6 @@
     "published": "2026-06-30T23:58:15.000Z"
   },
   {
-    "id": "96ca38fd070e8b16a14424e8d36484a3ae26e5c4",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Nano Banana 2 Lite",
-    "summary": "Nano Banana 2 Lite Also known as Gemini 3.1 Flash Lite Image (gemini-3.1-flash-lite-image in their API), this is the \"fastest and cheapest Gemini image model, engineered for velocity and scale\". I...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
-    "published": "2026-06-30T22:15:35.000Z"
-  },
-  {
-    "id": "ab37cad98a0d69714af8c016cb456b6a902b2682",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "What's new in Claude Sonnet 5",
-    "summary": "What's new in Claude Sonnet 5 Claude Sonnet 5 came out this morning. I always head straight for the \"what's new\" developer docs because they tend to have more actionable information than the official...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
-    "published": "2026-06-30T21:23:02.000Z"
-  },
-  {
     "id": "cadb0581921887784654f716ff290ddc70c522c9",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -370,18 +382,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/whats-new-june-2026/",
     "published": "2026-06-30T00:00:00.000Z"
-  },
-  {
-    "id": "f48474b24629bd165e2aae3c276d77af618ec552",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "acc-trailer",
-    "summary": "acc-trailer Signed-off-by: Really Him",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/29755104e1f15404f99db9e5f381e23960efc4a0",
-    "published": "2026-06-29T18:24:00.000Z"
   },
   {
     "id": "a7906cb53b5040afa1db7a165172f6303fcc9700",
