@@ -1,5 +1,65 @@
 [
   {
+    "id": "12e432560fccd5cca4ca2f3ebfc5db58abd26b66",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/cbcc35e107b1c7f00ebfd7ee80be5d43b1f30e13",
+    "published": "2026-07-05T18:24:42.000Z"
+  },
+  {
+    "id": "f25b0f85475582229abb14401435cccf3c0b91c4",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "add carousel",
+    "summary": "add carousel",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fa3199c666ed224a5727fdbf8cc1ed6bd07f0156",
+    "published": "2026-07-05T17:38:00.000Z"
+  },
+  {
+    "id": "4c7ebd10193717f19c4b32587f5c73d7061fbabd",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b784365a91a602a0b0acba666dae0514ae88acce",
+    "published": "2026-07-05T15:28:09.000Z"
+  },
+  {
+    "id": "5a67846bf95c52366827ce83851a2f1ce5b8732a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b59acdf82b8ac1b99cee1659b62a10a90a7aedc4",
+    "published": "2026-07-05T12:30:44.000Z"
+  },
+  {
+    "id": "5153a52bf0393e318e1993ac6b0905c86ce709a2",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/750618c4e4d9477f28b10352610cd5f341615768",
+    "published": "2026-07-05T09:50:58.000Z"
+  },
+  {
     "id": "2f05b9ec352668a2ff6904e6f25f1fd7625d53b9",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -82,42 +142,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
     "published": "2026-07-04T22:53:52.000Z"
-  },
-  {
-    "id": "8d8203c5baeafd98ee46c7dd654f06b8cc56bcc9",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3c1bb5e90d6326661f39e527d0dbf69d4d908d1c",
-    "published": "2026-07-04T21:20:28.000Z"
-  },
-  {
-    "id": "2275d220e95438fb35cc5e5ff34075b83ed0f2d3",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bd31c509021a3d352b02510bbe7ad37a944e62df",
-    "published": "2026-07-04T18:22:58.000Z"
-  },
-  {
-    "id": "c811ded3e9c930b69954ec7dd2e5c05510d7f18e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c87da508447aa808268119438a7ec8ad858c7f15",
-    "published": "2026-07-04T15:26:09.000Z"
   },
   {
     "id": "496594d51c31ea74f4ef4b98ff2de1fb1d018a77",
@@ -214,30 +238,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
     "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/2793b39dd4ebecc441c0047f6b80513e7abc4d76",
     "published": "2026-07-04T12:30:05.000Z"
-  },
-  {
-    "id": "c55e899e869841e5e932d9b41ca20073c16f36e3",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c320f6c4700e6bdd4121c860c387b8143008b353",
-    "published": "2026-07-04T12:27:17.000Z"
-  },
-  {
-    "id": "aa2dac6c5980e8e268bb9bcd4111663aa348feaa",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/54802383c7dcab98770882bcd40b7c2637d942b3",
-    "published": "2026-07-04T09:44:19.000Z"
   },
   {
     "id": "4c8e751a878dcbfc29320add4b3e4e9973c34a6f",
