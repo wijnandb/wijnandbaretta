@@ -1,5 +1,101 @@
 [
   {
+    "id": "2f05b9ec352668a2ff6904e6f25f1fd7625d53b9",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4f093be0d9433516b3c04bd111489f40acb49ae3",
+    "published": "2026-07-05T07:08:42.000Z"
+  },
+  {
+    "id": "256d7303736da4afee1b398e193746f22d37a569",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c9a444b2131eceee3bc0190cd451569f018e72bc",
+    "published": "2026-07-05T04:25:21.000Z"
+  },
+  {
+    "id": "3a3f83543daaa610dea4f11a38c4ca485fab2b25",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+    "summary": "I wrote about the sqlite-utils 4.0rc1 release a couple of weeks ago. Since we only have Claude Fable on our Max subscriptions for a few more days, I decided to see if it could help me get to a 4.0...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
+    "published": "2026-07-05T01:00:48.000Z"
+  },
+  {
+    "id": "e842d380740173d322fccfedc493e21cfd97b334",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "sqlite-utils 4.0rc2",
+    "summary": "Release: sqlite-utils 4.0rc2 See sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25).",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything",
+    "published": "2026-07-05T00:47:38.000Z"
+  },
+  {
+    "id": "0c1f39d92d9a6cf6d85a403314f39368b1f76aa9",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/69233ea75632b58046e89533662cfe6a8b79c722",
+    "published": "2026-07-05T00:40:59.000Z"
+  },
+  {
+    "id": "ad1d53808b5cb5641304348cec11bdff01e5b63e",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Building a World Map with only 500 bytes",
+    "summary": "Building a World Map with only 500 bytes Iwo Kadziela (assisted by Codex) figured out a way to generate a credible ASCII world map using 445 bytes of data: The key trick is to use deflate...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything",
+    "published": "2026-07-04T23:09:02.000Z"
+  },
+  {
+    "id": "63516e892da9cb43d769a2c678d20a5e9504e808",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Better Models: Worse Tools",
+    "summary": "Better Models: Worse Tools Armin reports on a weird problem he ran into while hacking on Pi: The short version is that newer Claude models sometimes call Pi’s edit tool with extra, invented fields in...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+    "published": "2026-07-04T22:53:52.000Z"
+  },
+  {
+    "id": "8d8203c5baeafd98ee46c7dd654f06b8cc56bcc9",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3c1bb5e90d6326661f39e527d0dbf69d4d908d1c",
+    "published": "2026-07-04T21:20:28.000Z"
+  },
+  {
     "id": "2275d220e95438fb35cc5e5ff34075b83ed0f2d3",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -144,42 +240,6 @@
     "published": "2026-07-04T09:44:19.000Z"
   },
   {
-    "id": "11d3d2f36ca633c073f14d755be00a49ce99ca8b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ce716dd409aa12d1035471818ec7db0a0024b2e5",
-    "published": "2026-07-04T07:02:51.000Z"
-  },
-  {
-    "id": "395592257c915e2ad79f475dca8cfa7dee0685fe",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9cb4c56e2152f70615df411b29002330c8c2ebbc",
-    "published": "2026-07-04T04:16:42.000Z"
-  },
-  {
-    "id": "7d873a8bd7670dd5c69e42353dc2960b7ce5c00f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e2d99ee6e847a952a423dc4afe98e0527608efda",
-    "published": "2026-07-04T00:38:03.000Z"
-  },
-  {
     "id": "4c8e751a878dcbfc29320add4b3e4e9973c34a6f",
     "source": "Simon Willison",
     "type": "blog",
@@ -190,18 +250,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
     "published": "2026-07-03T22:04:31.000Z"
-  },
-  {
-    "id": "99e7dd3d67e98f6a07cf19ce70e8c071b22dc883",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0b9037d50fdf73116d42c4eae61c713c46dce636",
-    "published": "2026-07-03T21:26:27.000Z"
   },
   {
     "id": "35ed231cc09c49d33d31780aee3515e379ad95b6",
@@ -274,42 +322,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!KiR3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F888e1825-8152-418b-9a18-152de1328077_1280x720.jpeg",
     "url": "https://www.latent.space/p/the-website-of-the-future",
     "published": "2026-07-02T21:25:14.000Z"
-  },
-  {
-    "id": "304f4fc74033b4d43b6f7973bc55cfa27280b808",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm-coding-agent 0.1a0",
-    "summary": "Release: llm-coding-agent 0.1a0 Another Fable 5 experiment. Now that my LLM library has evolved into more of an agent framework it's time to see what a simple coding agent would look like built on...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
-    "published": "2026-07-02T19:33:12.000Z"
-  },
-  {
-    "id": "38aa5ad2c12dd9a0f88601b0ffc22eb86ca84b33",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
-    "summary": "Research: Using DSPy to evaluate and improve Datasette Agent's SQL system prompts One of this morning's AIE keynotes covered dspy, which reminded me I've been meaning to see if it could help me...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
-    "published": "2026-07-02T18:25:00.000Z"
-  },
-  {
-    "id": "2b2bf522faae1994ebfb5d6a4b00677ffa33339c",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Understand to participate",
-    "summary": "I saw Geoffrey Litt speak at AIE yesterday, and one framing he used particularly resonated with me: Understand to participate Geoffrey was talking about the challenge of collaborating with coding...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
-    "published": "2026-07-02T17:07:14.000Z"
   },
   {
     "id": "300ce3325ded83f6b9a24b0ed9dfde0a6a9650c6",
@@ -418,18 +430,6 @@
     "thumbnail": "https://i.ytimg.com/vi/4WBOmhI11rQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4WBOmhI11rQ",
     "published": "2026-07-01T01:40:30.000Z"
-  },
-  {
-    "id": "77069007a59447630c507a4327bad0270b718f9b",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Anthropic",
-    "summary": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. &mdash;...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
-    "published": "2026-06-30T23:58:15.000Z"
   },
   {
     "id": "cadb0581921887784654f716ff290ddc70c522c9",
