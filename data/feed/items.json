@@ -1,5 +1,65 @@
 [
   {
+    "id": "bc1f64872999cce2d0237629c1e6cb94742cd6de",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/193dcfeb86273fac60622375ea55b100f16ab1ca",
+    "published": "2026-07-06T18:40:20.000Z"
+  },
+  {
+    "id": "328ba9e51d2e8fae03f3d5e790b684a30e57eb71",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "How to Design With Claude Fable (It's OVER for Figma)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/COh_cjrDOzc/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=COh_cjrDOzc",
+    "published": "2026-07-06T17:37:45.000Z"
+  },
+  {
+    "id": "024a4cae0ae679872c82a69f17f88ecc7c9489d4",
+    "source": "The Anthropic Stack",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "What’s at the center of Claude’s mind?",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/rKV5JcALQoQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
+    "published": "2026-07-06T16:59:51.000Z"
+  },
+  {
+    "id": "0ba4639fa57133cba0b40a3b9cc45f25b4b063cc",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/808aae95a62180b33da362aa55fee046cf165e26",
+    "published": "2026-07-06T16:08:52.000Z"
+  },
+  {
+    "id": "1909284236c578f0167f195ee0ce4e0d9cfa85e0",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7849403a70cbd25e9b3997409c4c63dd192b628d",
+    "published": "2026-07-06T13:17:23.000Z"
+  },
+  {
     "id": "d87e477adf2b16b82465fcc2650035d4c9f64c92",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -70,42 +130,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ac0bc2ac1626330a7d149ed91df2de269d600cb3",
     "published": "2026-07-05T21:24:04.000Z"
-  },
-  {
-    "id": "12e432560fccd5cca4ca2f3ebfc5db58abd26b66",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/cbcc35e107b1c7f00ebfd7ee80be5d43b1f30e13",
-    "published": "2026-07-05T18:24:42.000Z"
-  },
-  {
-    "id": "f25b0f85475582229abb14401435cccf3c0b91c4",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "add carousel",
-    "summary": "add carousel",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fa3199c666ed224a5727fdbf8cc1ed6bd07f0156",
-    "published": "2026-07-05T17:38:00.000Z"
-  },
-  {
-    "id": "4c7ebd10193717f19c4b32587f5c73d7061fbabd",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b784365a91a602a0b0acba666dae0514ae88acce",
-    "published": "2026-07-05T15:28:09.000Z"
   },
   {
     "id": "3a3f83543daaa610dea4f11a38c4ca485fab2b25",
@@ -353,7 +377,7 @@
     "type": "video",
     "category": "voice",
     "lang": "en",
-    "title": "ElevenLabs in 100 Seconds (For Developers)",
+    "title": "ElevenLabs in 100 Seconds",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/FJlcJWlLgC8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=FJlcJWlLgC8",
@@ -828,18 +852,6 @@
     "published": "2026-06-13T03:50:57.000Z"
   },
   {
-    "id": "afdc43219b68dfa5719d49a02cd6d87ff017eaae",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "This is Why They Banned Claude Fable 5",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/cv0Pspf6xno/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=cv0Pspf6xno",
-    "published": "2026-06-12T18:28:17.000Z"
-  },
-  {
     "id": "7ac12a072525de7cb0c845636593c8d679cc8903",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -1186,17 +1198,5 @@
     "thumbnail": null,
     "url": "https://www.allthingsdistributed.com/2026/04/the-invisible-engineering-behind-lambdas-network.html?utm_campaign=inbound&amp;utm_source=rss",
     "published": "2026-04-22T14:00:00.000Z"
-  },
-  {
-    "id": "509d981fa01d3cc78dbe77b6aa7131221713faa1",
-    "source": "Directus",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Evolving Our License for Long-Term Sustainability",
-    "summary": "The road to Directus v12 and an update on our license",
-    "thumbnail": null,
-    "url": "https://directus.com/resources/directus-v12-license-change",
-    "published": "2026-04-22T09:00:00.000Z"
   }
 ]
