@@ -1,5 +1,77 @@
 [
   {
+    "id": "b4eabf309db5e70c11a0e924b6517d2dff6b2c44",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e7fe28dc96251d40d6ef26f3d4e6ed9581244e14",
+    "published": "2026-07-07T07:14:02.000Z"
+  },
+  {
+    "id": "663b198dfcc42cb1b474b88ce59411ad970c791a",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] The Field Guide to Fable",
+    "summary": "a quiet day lets us digest the world's most significant model launch... to date.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!p3LG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F179f6ab6-62ad-492e-bb2c-67f7f2dbb861_862x1396.png",
+    "url": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
+    "published": "2026-07-07T04:44:53.000Z"
+  },
+  {
+    "id": "0f2ad97fcecb8ab82b04fe01143bb4684e94aa08",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0d70e28da4b8cb558d2a83f50f942d4f4ac89ea6",
+    "published": "2026-07-07T04:22:58.000Z"
+  },
+  {
+    "id": "c2e64ac57c6d28ea7230f19d150ebbae1ebf0053",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e50c7555ebeb8bfb9c163585711b5fc471a4dee5",
+    "published": "2026-07-07T00:41:12.000Z"
+  },
+  {
+    "id": "081c2c7849e9221ff5131f474b69fd6c14cd2456",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "tencent/Hy3",
+    "summary": "tencent/Hy3 New Apache 2.0 licensed model from Tencent in China: Hy3 is a 295B-parameter Mixture-of-Experts (MoE) model with 21B active parameters and 3.8B MTP layer parameters, developed by the...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
+    "published": "2026-07-06T23:57:35.000Z"
+  },
+  {
+    "id": "ff3a5477261fbdc0f9fc074b1f11b9fa8d6b460c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/957922fca4cc76739eb36ca5388d6295e815fef4",
+    "published": "2026-07-06T21:32:44.000Z"
+  },
+  {
     "id": "bc1f64872999cce2d0237629c1e6cb94742cd6de",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -17,7 +89,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "How to Design With Claude Fable (It's OVER for Figma)",
+    "title": "Claude Fable 5 Just Changed Design Forever",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/COh_cjrDOzc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=COh_cjrDOzc",
@@ -72,18 +144,6 @@
     "published": "2026-07-06T10:35:23.000Z"
   },
   {
-    "id": "d50a1bf6b1298b5bfa5286d22d0b50ea220a676f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/84048f01b8a30a85fe49f82dd66884950ffc579b",
-    "published": "2026-07-06T07:36:18.000Z"
-  },
-  {
     "id": "ced949b78ef30ccde6b39598b827729c6623eba7",
     "source": "Simon Willison",
     "type": "blog",
@@ -94,42 +154,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
     "published": "2026-07-06T05:40:08.000Z"
-  },
-  {
-    "id": "0a225ffb0c92608b8618f4a4558132a6095bb333",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5e1464ba8b57c013cf03397138905148d376e5a6",
-    "published": "2026-07-06T04:29:55.000Z"
-  },
-  {
-    "id": "f9203bd8b798e674508ba432a9c458d3dcdd69d0",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8bf77d0236c257b3567b9da9751341640170f019",
-    "published": "2026-07-06T00:40:41.000Z"
-  },
-  {
-    "id": "c2955103de6155edefb250eb52854599752b8932",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ac0bc2ac1626330a7d149ed91df2de269d600cb3",
-    "published": "2026-07-05T21:24:04.000Z"
   },
   {
     "id": "3a3f83543daaa610dea4f11a38c4ca485fab2b25",
@@ -300,18 +324,6 @@
     "published": "2026-07-03T21:25:52.000Z"
   },
   {
-    "id": "01284d0383fd4caedfb85ff1d74cf143845eb650",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Fable's judgement",
-    "summary": "One of the most interesting tips I got from the Fireside Chat I hosted with Cat Wu and Thariq Shihipar from the Claude Code team at AIE on Wednesday was to let Fable (and to a certain extent Opus)...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
-    "published": "2026-07-03T18:51:06.000Z"
-  },
-  {
     "id": "9cba500f7b7921f0d7da87cf5d5e5911dabdece6",
     "source": "Latent Space",
     "type": "podcast",
@@ -418,18 +430,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!p4Th!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe316b2cb-4200-4a71-bdcc-c398467b53ef_1280x720.jpeg",
     "url": "https://www.latent.space/p/autoresearch-introspection",
     "published": "2026-07-01T23:52:30.000Z"
-  },
-  {
-    "id": "dda2ba54cd705a34c132f89486cffc5f5906a323",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "How Cursor deploys AI inside the enterprise",
-    "summary": "Cursor's Pauline Brunet explains how her team of Forward Deployed Engineers help organizations implement agents — essentially setting up software factories.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!e2BU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a8c541c-264c-476f-b47c-029cd970acf9_1280x720.jpeg",
-    "url": "https://www.latent.space/p/cursor-forward-deployed-engineers",
-    "published": "2026-07-01T19:03:44.000Z"
   },
   {
     "id": "5ed8c5201e4d393e64163aec8ee372c05d067560",
