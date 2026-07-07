@@ -1,5 +1,77 @@
 [
   {
+    "id": "5432189dc8afccf46743e17472011918ff40ca80",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "sqlite-utils 4.0, now with database schema migrations",
+    "summary": "This morning I released sqlite-utils 4.0, the 124th release of that project and the first major version bump since 3.0 in November 2020. In addition to some small but significant breaking changes...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything",
+    "published": "2026-07-07T19:32:57.000Z"
+  },
+  {
+    "id": "f812274e560878d3d609547e71413bc09f2b0c12",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/59037c1cd9faa6eb279efc55e8eb87e4a2e3dc74",
+    "published": "2026-07-07T18:42:40.000Z"
+  },
+  {
+    "id": "b3dd400e1f5fb99bf9be12d71cf86f047bd29d73",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Tech jobs market in 2026, part 3: hiring managers & job seekers",
+    "summary": "The market where nobody finds each other, the hottest market for AI-related positions, tough for engineering leaders, and more. Based on details from 50+ hiring managers & job seekers",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!jug7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd16fca2a-ad43-4f69-9a9d-8dd72f2edda3_1182x704.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/tech-jobs-market-in-2026-part-3-hiring",
+    "published": "2026-07-07T17:25:41.000Z"
+  },
+  {
+    "id": "419a698f8b0ca6584455689644d1f4eea164d615",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d59657bbbefbfce867bcb6391122aac1f231ba12",
+    "published": "2026-07-07T15:54:20.000Z"
+  },
+  {
+    "id": "21e3eb673052c4bce3ab466c5fe585ee061c4c50",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/eb7b9b3db3545b55f880a84518d4b815c5561647",
+    "published": "2026-07-07T12:51:04.000Z"
+  },
+  {
+    "id": "316df017f766ccc4ff05dd141de1eb3c715859be",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/825e8ad499563b5ebc9f6e375e2613156159839a",
+    "published": "2026-07-07T10:11:57.000Z"
+  },
+  {
     "id": "b4eabf309db5e70c11a0e924b6517d2dff6b2c44",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -72,18 +144,6 @@
     "published": "2026-07-06T21:32:44.000Z"
   },
   {
-    "id": "bc1f64872999cce2d0237629c1e6cb94742cd6de",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/193dcfeb86273fac60622375ea55b100f16ab1ca",
-    "published": "2026-07-06T18:40:20.000Z"
-  },
-  {
     "id": "328ba9e51d2e8fae03f3d5e790b684a30e57eb71",
     "source": "Riley Brown",
     "type": "video",
@@ -106,42 +166,6 @@
     "thumbnail": "https://i.ytimg.com/vi/rKV5JcALQoQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
     "published": "2026-07-06T16:59:51.000Z"
-  },
-  {
-    "id": "0ba4639fa57133cba0b40a3b9cc45f25b4b063cc",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/808aae95a62180b33da362aa55fee046cf165e26",
-    "published": "2026-07-06T16:08:52.000Z"
-  },
-  {
-    "id": "1909284236c578f0167f195ee0ce4e0d9cfa85e0",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7849403a70cbd25e9b3997409c4c63dd192b628d",
-    "published": "2026-07-06T13:17:23.000Z"
-  },
-  {
-    "id": "d87e477adf2b16b82465fcc2650035d4c9f64c92",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/24b434674df8296f412393d42805cd2d5688871c",
-    "published": "2026-07-06T10:35:23.000Z"
   },
   {
     "id": "ced949b78ef30ccde6b39598b827729c6623eba7",
@@ -310,18 +334,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
     "published": "2026-07-03T22:04:31.000Z"
-  },
-  {
-    "id": "35ed231cc09c49d33d31780aee3515e379ad95b6",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Josh W. Comeau",
-    "summary": "I just launched my third course, Whimsical Animations, and so far, it’s on track to sell roughly ⅓ as many copies as a typical course launch. It’s a similar story with my two existing courses. Sales...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
-    "published": "2026-07-03T21:25:52.000Z"
   },
   {
     "id": "9cba500f7b7921f0d7da87cf5d5e5911dabdece6",
@@ -850,18 +862,6 @@
     "thumbnail": "https://i.ytimg.com/vi/zeVuhlKWRfI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=zeVuhlKWRfI",
     "published": "2026-06-13T03:50:57.000Z"
-  },
-  {
-    "id": "7ac12a072525de7cb0c845636593c8d679cc8903",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The Pulse: Did Anthropic’s new model just boost rival Codex’s market share?",
-    "summary": "Anthropic’s new model, Fable, has restrictions many users find unacceptable. Also: a new trend of smart model routing, Coinbase’s core service has no automatic cross-zone failover, and more.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!TeI_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0e46905-09eb-42df-ba51-722c91d4fb63_1316x1018.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/did-anthropics-new-model-just-boost",
-    "published": "2026-06-11T16:26:58.000Z"
   },
   {
     "id": "a73a8ef91acc7d61eb1f8c82b31b837c2fa158b8",
