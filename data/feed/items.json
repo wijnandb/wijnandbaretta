@@ -1,5 +1,77 @@
 [
   {
+    "id": "45a096207eea7d4aba64bcb4b9fccc24dd514346",
+    "source": "Werner Vogels",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Now Go Build CTO Fellowship: Season 2",
+    "summary": "Today, we're releasing the second season of the Now Go Build documentary series. Five episodes featuring technology leaders from around the world solving the hardest problems in healthcare and...",
+    "thumbnail": null,
+    "url": "https://www.allthingsdistributed.com/2026/07/now-go-build-cto-fellowship-season-2.html?utm_campaign=inbound&amp;utm_source=rss",
+    "published": "2026-07-08T09:00:00.000Z"
+  },
+  {
+    "id": "c9f6d789e34c397d47aa80cc5365123d0ec043ae",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3a0dd64f91c8512b7ad183c7c4a2a5086f7a5d2b",
+    "published": "2026-07-08T06:52:47.000Z"
+  },
+  {
+    "id": "75a6bf90a9a124e4697e3e2ef635625f72df8171",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3f5d0c48a638cd686d0ccf0de45c556b7114a58d",
+    "published": "2026-07-08T04:04:16.000Z"
+  },
+  {
+    "id": "b1619a08a4e225b927cd2751cad847bd3cfd8c07",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI",
+    "summary": "a quiet day lets us read some condensed insight",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!L_Ci!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F603a46c6-cedc-4b38-a660-2fa1d4b3f4ba_1626x1146.png",
+    "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
+    "published": "2026-07-08T02:20:25.000Z"
+  },
+  {
+    "id": "f5d7f36bf69c817d78f3ee701c40b47cb643c9d0",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0207ba7d10844a8ce7b9fb38daab704a9571ff73",
+    "published": "2026-07-08T00:34:15.000Z"
+  },
+  {
+    "id": "c0483fddae9f4455df1d07a0b2164353942b65d6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/860f2ddedfb02d2c512d73fcc6a649699b023bb3",
+    "published": "2026-07-07T21:31:24.000Z"
+  },
+  {
     "id": "5432189dc8afccf46743e17472011918ff40ca80",
     "source": "Simon Willison",
     "type": "blog",
@@ -36,6 +108,30 @@
     "published": "2026-07-07T17:25:41.000Z"
   },
   {
+    "id": "abd89a34a18434dec0a4bd7a5a16326299600863",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "sqlite-migrate 0.2",
+    "summary": "Release: sqlite-migrate 0.2 The version that retires the library, instead implementing a compatibility shim against the new sqlite-utils 4.0 dependency. Tags: sqlite-utils",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything",
+    "published": "2026-07-07T16:33:55.000Z"
+  },
+  {
+    "id": "f9e33da1b5c688eaa88ec7ff7a85d8ef09ac6765",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "github-code Web Component",
+    "summary": "Tool: github-code Web Component An experimental Web Component built using GPT-5.5 and the following prompt: let's build a Web Component for embedding code from GitHub It takes URLs like that,...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything",
+    "published": "2026-07-07T16:18:16.000Z"
+  },
+  {
     "id": "419a698f8b0ca6584455689644d1f4eea164d615",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -46,6 +142,18 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d59657bbbefbfce867bcb6391122aac1f231ba12",
     "published": "2026-07-07T15:54:20.000Z"
+  },
+  {
+    "id": "92f516348ce905ffeaff6f5514a23be97bb1b9ae",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "sqlite-utils 4.0",
+    "summary": "Release: sqlite-utils 4.0 See sqlite-utils 4.0, now with database schema migrations for details. Tags: sqlite-utils",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything",
+    "published": "2026-07-07T15:42:43.000Z"
   },
   {
     "id": "21e3eb673052c4bce3ab466c5fe585ee061c4c50",
@@ -72,16 +180,16 @@
     "published": "2026-07-07T10:11:57.000Z"
   },
   {
-    "id": "b4eabf309db5e70c11a0e924b6517d2dff6b2c44",
-    "source": "awesome-claude-code",
-    "type": "repo",
+    "id": "4d5348f66b9a173da43d421042919a68e856e57f",
+    "source": "Simon Willison",
+    "type": "blog",
     "category": "ai",
     "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e7fe28dc96251d40d6ef26f3d4e6ed9581244e14",
-    "published": "2026-07-07T07:14:02.000Z"
+    "title": "sqlite-utils 4.0rc4",
+    "summary": "Release: sqlite-utils 4.0rc4 The last RC before the 4.0 stable release. Mainly implements feedback from a detailed review by Claude Fable 5. Tags: sqlite-utils, claude-mythos-fable",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything",
+    "published": "2026-07-07T05:36:15.000Z"
   },
   {
     "id": "663b198dfcc42cb1b474b88ce59411ad970c791a",
@@ -96,30 +204,6 @@
     "published": "2026-07-07T04:44:53.000Z"
   },
   {
-    "id": "0f2ad97fcecb8ab82b04fe01143bb4684e94aa08",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0d70e28da4b8cb558d2a83f50f942d4f4ac89ea6",
-    "published": "2026-07-07T04:22:58.000Z"
-  },
-  {
-    "id": "c2e64ac57c6d28ea7230f19d150ebbae1ebf0053",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e50c7555ebeb8bfb9c163585711b5fc471a4dee5",
-    "published": "2026-07-07T00:41:12.000Z"
-  },
-  {
     "id": "081c2c7849e9221ff5131f474b69fd6c14cd2456",
     "source": "Simon Willison",
     "type": "blog",
@@ -130,18 +214,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
     "published": "2026-07-06T23:57:35.000Z"
-  },
-  {
-    "id": "ff3a5477261fbdc0f9fc074b1f11b9fa8d6b460c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/957922fca4cc76739eb36ca5388d6295e815fef4",
-    "published": "2026-07-06T21:32:44.000Z"
   },
   {
     "id": "328ba9e51d2e8fae03f3d5e790b684a30e57eb71",
@@ -161,7 +233,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "What’s at the center of Claude’s mind?",
+    "title": "The different levels of how Claude thinks",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/rKV5JcALQoQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
@@ -190,42 +262,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
     "published": "2026-07-05T01:00:48.000Z"
-  },
-  {
-    "id": "e842d380740173d322fccfedc493e21cfd97b334",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "sqlite-utils 4.0rc2",
-    "summary": "Release: sqlite-utils 4.0rc2 See sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25).",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything",
-    "published": "2026-07-05T00:47:38.000Z"
-  },
-  {
-    "id": "ad1d53808b5cb5641304348cec11bdff01e5b63e",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Building a World Map with only 500 bytes",
-    "summary": "Building a World Map with only 500 bytes Iwo Kadziela (assisted by Codex) figured out a way to generate a credible ASCII world map using 445 bytes of data: The key trick is to use deflate...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything",
-    "published": "2026-07-04T23:09:02.000Z"
-  },
-  {
-    "id": "63516e892da9cb43d769a2c678d20a5e9504e808",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Better Models: Worse Tools",
-    "summary": "Better Models: Worse Tools Armin reports on a weird problem he ran into while hacking on Pi: The short version is that newer Claude models sometimes call Pi’s edit tool with extra, invented fields in...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
-    "published": "2026-07-04T22:53:52.000Z"
   },
   {
     "id": "496594d51c31ea74f4ef4b98ff2de1fb1d018a77",
@@ -324,18 +360,6 @@
     "published": "2026-07-04T12:30:05.000Z"
   },
   {
-    "id": "4c8e751a878dcbfc29320add4b3e4e9973c34a6f",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Open Source AI Gap Map",
-    "summary": "Open Source AI Gap Map Current AI is \"a global partnership building a public option for AI\", founded as a non-profit at the AI Action Summit in Paris in February 2025 and backed by serious capital...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
-    "published": "2026-07-03T22:04:31.000Z"
-  },
-  {
     "id": "9cba500f7b7921f0d7da87cf5d5e5911dabdece6",
     "source": "Latent Space",
     "type": "podcast",
@@ -432,18 +456,6 @@
     "published": "2026-07-02T06:13:49.000Z"
   },
   {
-    "id": "10d091a58570789e020c6d17cfd1a6a44f237802",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Autoresearch: The feedback loop behind self-improving agents",
-    "summary": "Introspection co-founder Roland Gavrilescu explains autoresearch, agent “recipes,” self-improving loops, and why humans remain central to the software factory.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!p4Th!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe316b2cb-4200-4a71-bdcc-c398467b53ef_1280x720.jpeg",
-    "url": "https://www.latent.space/p/autoresearch-introspection",
-    "published": "2026-07-01T23:52:30.000Z"
-  },
-  {
     "id": "5ed8c5201e4d393e64163aec8ee372c05d067560",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -486,7 +498,7 @@
     "category": "systems",
     "lang": "en",
     "title": "A return to two-pizza culture",
-    "summary": "What made the Quick Desktop team successful is the same thing that has always produced the best work I've seen at Amazon: a small group of people who trusted each other, owned the problem end-to-end,...",
+    "summary": "What made the Quick desktop team successful is the same thing that has always produced the best work I've seen at Amazon: a small group of people who trusted each other, owned the problem end-to-end,...",
     "thumbnail": null,
     "url": "https://www.allthingsdistributed.com/2026/06/return-to-two-pizza-culture.html?utm_campaign=inbound&amp;utm_source=rss",
     "published": "2026-06-30T14:00:00.000Z"
@@ -1186,17 +1198,5 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/astro-620/",
     "published": "2026-04-30T00:00:00.000Z"
-  },
-  {
-    "id": "8415a521655539a1530b23dfca098d8419080977",
-    "source": "Werner Vogels",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The invisible engineering behind Lambda’s network",
-    "summary": "The subtle inventiveness that reduced cold start setup from seconds to 200μs.",
-    "thumbnail": null,
-    "url": "https://www.allthingsdistributed.com/2026/04/the-invisible-engineering-behind-lambdas-network.html?utm_campaign=inbound&amp;utm_source=rss",
-    "published": "2026-04-22T14:00:00.000Z"
   }
 ]
