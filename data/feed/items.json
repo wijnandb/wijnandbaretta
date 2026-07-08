@@ -1,5 +1,65 @@
 [
   {
+    "id": "009e390626778531cb0e9a7b75aba15ed49b9108",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3e59fb9b895e15fc90ad505ec54c48e585731abb",
+    "published": "2026-07-08T18:31:42.000Z"
+  },
+  {
+    "id": "b73c8f825057786c1d16fa2529387976816afa5e",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The Pragmatic Engineer AMA",
+    "summary": "In this AMA episode, Gergely Orosz answers listener questions on AI, engineering, hiring, and careers.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!THaU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe3aa9c7-c1c1-449c-97af-f000307b5b8d_1988x1180.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-ama",
+    "published": "2026-07-08T16:38:49.000Z"
+  },
+  {
+    "id": "eed870fbb8642f2fd275838ee81a3ceb742a03eb",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8d882fa8d99d252b46f2b2f79e5f263789963d65",
+    "published": "2026-07-08T15:46:52.000Z"
+  },
+  {
+    "id": "e03f6b32f21f98bec4b5ead5aa969c6a266d08cd",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9f0d278efacc8c8cb1ea89c2e353523624840046",
+    "published": "2026-07-08T12:36:29.000Z"
+  },
+  {
+    "id": "0c86db6d5bc4efd9f5bc5d1feb0acc960f28912e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/53376a9663dfc1e806c1c44f91057a989212ea69",
+    "published": "2026-07-08T09:49:49.000Z"
+  },
+  {
     "id": "45a096207eea7d4aba64bcb4b9fccc24dd514346",
     "source": "Werner Vogels",
     "type": "blog",
@@ -84,18 +144,6 @@
     "published": "2026-07-07T19:32:57.000Z"
   },
   {
-    "id": "f812274e560878d3d609547e71413bc09f2b0c12",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/59037c1cd9faa6eb279efc55e8eb87e4a2e3dc74",
-    "published": "2026-07-07T18:42:40.000Z"
-  },
-  {
     "id": "b3dd400e1f5fb99bf9be12d71cf86f047bd29d73",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -132,18 +180,6 @@
     "published": "2026-07-07T16:18:16.000Z"
   },
   {
-    "id": "419a698f8b0ca6584455689644d1f4eea164d615",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d59657bbbefbfce867bcb6391122aac1f231ba12",
-    "published": "2026-07-07T15:54:20.000Z"
-  },
-  {
     "id": "92f516348ce905ffeaff6f5514a23be97bb1b9ae",
     "source": "Simon Willison",
     "type": "blog",
@@ -154,30 +190,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything",
     "published": "2026-07-07T15:42:43.000Z"
-  },
-  {
-    "id": "21e3eb673052c4bce3ab466c5fe585ee061c4c50",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/eb7b9b3db3545b55f880a84518d4b815c5561647",
-    "published": "2026-07-07T12:51:04.000Z"
-  },
-  {
-    "id": "316df017f766ccc4ff05dd141de1eb3c715859be",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/825e8ad499563b5ebc9f6e375e2613156159839a",
-    "published": "2026-07-07T10:11:57.000Z"
   },
   {
     "id": "4d5348f66b9a173da43d421042919a68e856e57f",
@@ -473,7 +485,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Building a Real AI Jarvis (GPT Realtime 2 + Cursor)",
+    "title": "I Created the Ultimate Jarvis AI Assistant (It’s So Easy)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/4WBOmhI11rQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4WBOmhI11rQ",
@@ -814,18 +826,6 @@
     "thumbnail": "https://i.ytimg.com/vi/LSpEP9N_7iY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=LSpEP9N_7iY",
     "published": "2026-06-16T21:31:21.000Z"
-  },
-  {
-    "id": "d35c059761529ba1b2062d5379b6bd16273a8760",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Why is Meta destroying its engineering organization?",
-    "summary": "Leadership at the social media giant has been on an AI-fueled rampage through its engineering org. We report what’s happened",
-    "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/eabe4407-76aa-47a3-a8cb-1d955c05bf03_1972x1072.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
-    "published": "2026-06-16T16:27:43.000Z"
   },
   {
     "id": "28c0fc2d679a2d3967cc6b5f002ee2e177599bdc",
