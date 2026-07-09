@@ -1,5 +1,113 @@
 [
   {
+    "id": "b11e59dc63e78f5f881b31b9175c04ddebd99d17",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c79cc2c661e09ca0ac6db3bfb4130492784efdb2",
+    "published": "2026-07-09T07:14:26.000Z"
+  },
+  {
+    "id": "d9aedbf9734e78e7198bd5dcba762831384debc5",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
+    "summary": "SpaceXAI continues to move faster than any other frontier lab on earth.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!8D6O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHMuQw2BXUAAJaQd.png",
+    "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
+    "published": "2026-07-09T06:05:41.000Z"
+  },
+  {
+    "id": "8822910a4418fbe91790081f381a777ff4ce10ef",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0553944f104480339399606a41c2e684c4232f0a",
+    "published": "2026-07-09T04:21:20.000Z"
+  },
+  {
+    "id": "3dee472cffa5f6c3c85c08851f0f928475f46855",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7c3e353a920f1f6c82bbb062c90590eac9f1c1de",
+    "published": "2026-07-09T00:38:10.000Z"
+  },
+  {
+    "id": "d9be8582f02bacd45176105809bef2a9a9e23ba7",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Rewriting Bun in Rust",
+    "summary": "Rewriting Bun in Rust Jarred Sumner has been promising this blog post (since May 9th) about his Zig to Rust rewrite of Bun for significantly longer than it took him to finish the rewrite. Honestly,...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+    "published": "2026-07-08T23:57:21.000Z"
+  },
+  {
+    "id": "ea0729cfed39b58c070b919d5a9a3df29444cb69",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Introducing GPT‑Live",
+    "summary": "Introducing GPT‑Live OpenAI finally upgraded the model used by ChatGPT voice mode! I've had preview access for a few weeks in the iPhone app, and the new model is very impressive. It also has the...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
+    "published": "2026-07-08T23:20:48.000Z"
+  },
+  {
+    "id": "a8ed1f4debb94db3759335107f3e4801deba475f",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO",
+    "summary": "2 years after our first coverage, we return with Modal's other cofounder to explore why Agent Experience is working now, and everything they have learned building the new agent cloud.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!a5RX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9828917e-57a7-443a-983c-da258c66a614_1714x264.png",
+    "url": "https://www.latent.space/p/modal2026",
+    "published": "2026-07-08T22:55:07.000Z"
+  },
+  {
+    "id": "fe5bbd257e713105714be7f69284a1a9b4a48b18",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/13fc3b9e981314537e1774a9a1e5315d91e63ae4",
+    "published": "2026-07-08T21:26:18.000Z"
+  },
+  {
+    "id": "ffce1f7e1a36088584c05f236c47b2826a9b067a",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Kenton Varda",
+    "summary": "I just declared a moratorium against AI-written change descriptions (e.g. PR and commit messages, also issues/tickets) from my team. AI was writing change descriptions that were worse than useless to...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
+    "published": "2026-07-08T20:03:34.000Z"
+  },
+  {
     "id": "009e390626778531cb0e9a7b75aba15ed49b9108",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -72,30 +180,6 @@
     "published": "2026-07-08T09:00:00.000Z"
   },
   {
-    "id": "c9f6d789e34c397d47aa80cc5365123d0ec043ae",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3a0dd64f91c8512b7ad183c7c4a2a5086f7a5d2b",
-    "published": "2026-07-08T06:52:47.000Z"
-  },
-  {
-    "id": "75a6bf90a9a124e4697e3e2ef635625f72df8171",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3f5d0c48a638cd686d0ccf0de45c556b7114a58d",
-    "published": "2026-07-08T04:04:16.000Z"
-  },
-  {
     "id": "b1619a08a4e225b927cd2751cad847bd3cfd8c07",
     "source": "Latent Space",
     "type": "podcast",
@@ -106,30 +190,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!L_Ci!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F603a46c6-cedc-4b38-a660-2fa1d4b3f4ba_1626x1146.png",
     "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
     "published": "2026-07-08T02:20:25.000Z"
-  },
-  {
-    "id": "f5d7f36bf69c817d78f3ee701c40b47cb643c9d0",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0207ba7d10844a8ce7b9fb38daab704a9571ff73",
-    "published": "2026-07-08T00:34:15.000Z"
-  },
-  {
-    "id": "c0483fddae9f4455df1d07a0b2164353942b65d6",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/860f2ddedfb02d2c512d73fcc6a649699b023bb3",
-    "published": "2026-07-07T21:31:24.000Z"
   },
   {
     "id": "5432189dc8afccf46743e17472011918ff40ca80",
@@ -216,18 +276,6 @@
     "published": "2026-07-07T04:44:53.000Z"
   },
   {
-    "id": "081c2c7849e9221ff5131f474b69fd6c14cd2456",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "tencent/Hy3",
-    "summary": "tencent/Hy3 New Apache 2.0 licensed model from Tencent in China: Hy3 is a 295B-parameter Mixture-of-Experts (MoE) model with 21B active parameters and 3.8B MTP layer parameters, developed by the...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
-    "published": "2026-07-06T23:57:35.000Z"
-  },
-  {
     "id": "328ba9e51d2e8fae03f3d5e790b684a30e57eb71",
     "source": "Riley Brown",
     "type": "video",
@@ -250,30 +298,6 @@
     "thumbnail": "https://i.ytimg.com/vi/rKV5JcALQoQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
     "published": "2026-07-06T16:59:51.000Z"
-  },
-  {
-    "id": "ced949b78ef30ccde6b39598b827729c6623eba7",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "sqlite-utils 4.0rc3",
-    "summary": "Release: sqlite-utils 4.0rc3 I hoped to release sqlite-utils 4.0 stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claude Fable 5 and GPT-5.5 the...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
-    "published": "2026-07-06T05:40:08.000Z"
-  },
-  {
-    "id": "3a3f83543daaa610dea4f11a38c4ca485fab2b25",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-    "summary": "I wrote about the sqlite-utils 4.0rc1 release a couple of weeks ago. Since we only have Claude Fable on our Max subscriptions for a few more days, I decided to see if it could help me get to a 4.0...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
-    "published": "2026-07-05T01:00:48.000Z"
   },
   {
     "id": "496594d51c31ea74f4ef4b98ff2de1fb1d018a77",
@@ -442,30 +466,6 @@
     "thumbnail": "https://i.ytimg.com/vi/FJlcJWlLgC8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=FJlcJWlLgC8",
     "published": "2026-07-02T12:58:48.000Z"
-  },
-  {
-    "id": "10fa9c6f0268e0b512859e90f056df6703434ee2",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] not much happened today",
-    "summary": "another quiet day.",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/ainews-not-much-happened-today-900",
-    "published": "2026-07-02T07:10:14.000Z"
-  },
-  {
-    "id": "4c99de8b8da6557cd4a5d0f92047dd540cd61135",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "AIEWF Daily Dispatch: Autoresearch and the tension between AI and human agency",
-    "summary": "The software factory vision met resistance today from speakers defending human understanding and control.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!yyfq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5879355c-6a34-432c-bd6a-a4ace5715f5e_1280x850.jpeg",
-    "url": "https://www.latent.space/p/aiewf-daily-dispatch-agency",
-    "published": "2026-07-02T06:13:49.000Z"
   },
   {
     "id": "5ed8c5201e4d393e64163aec8ee372c05d067560",
