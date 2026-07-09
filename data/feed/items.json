@@ -1,5 +1,137 @@
 [
   {
+    "id": "c223296e0641446f9bd6419255eedb0456a03a60",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "The new GPT-5.6 family: Luna, Terra, Sol",
+    "summary": "OpenAI's latest flagship model hit general availability this morning, and comes in three sizes: Luna, Terra, and Sol (from smallest to largest). The new models are priced per 1M input/output tokens...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
+    "published": "2026-07-09T19:46:38.000Z"
+  },
+  {
+    "id": "cc1f7282ab98744dd51cd8f810f5f8bf87a2bf13",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4df3741b2e9a90044675dd422de29662205e8603",
+    "published": "2026-07-09T18:38:05.000Z"
+  },
+  {
+    "id": "e6e38c0d3a100fdaed12c309219320ea83072b23",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Grok 4.5 + Cursor is 4x Cheaper Than Opus… And Better",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/dLaIl6LehsU/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=dLaIl6LehsU",
+    "published": "2026-07-09T17:51:52.000Z"
+  },
+  {
+    "id": "2acbe8a7bbf788fa70b9a8241a14b3ea99796aef",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?",
+    "summary": "A rewrite done in 11 days that would have taken a small team a year to complete, for $165K in tokens. Also: coding LLM “wars” heat up, AI fakers from North Korea still a problem when hiring, and more",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Fvua!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56c0030d-bd49-45fb-b641-23017f5aa6af_1656x1200.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from",
+    "published": "2026-07-09T16:32:18.000Z"
+  },
+  {
+    "id": "917d665e932927c39b7c96e20d12830b883e1ac6",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Introducing Muse Spark 1.1",
+    "summary": "Introducing Muse Spark 1.1 Following Muse Spark in April, here's Muse Spark 1.1 - the first Spark model to offer an API. Meta claim significant improvements in agentic tool calling and computer use....",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
+    "published": "2026-07-09T16:24:09.000Z"
+  },
+  {
+    "id": "8dc7084411b4c914e6670080407f7c7aef3d81c5",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "llm-meta-ai 0.1",
+    "summary": "Release: llm-meta-ai 0.1 Let's LLM run prompts against the new muse-spark-1.1 model. Tags: llm, meta",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything",
+    "published": "2026-07-09T16:12:20.000Z"
+  },
+  {
+    "id": "89dd0faf7639f708e3b52d6a906356136eab3389",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "llm 0.31.1",
+    "summary": "Release: llm 0.31.1 Fix for a bug with OpenAI Chat Completion endpoints where a tool call with empty arguments could result in a JSON error from some providers. #1521 This bug came up when I was...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/9/llm/#atom-everything",
+    "published": "2026-07-09T16:06:15.000Z"
+  },
+  {
+    "id": "d24ddbbed50040a18fef31a76f2aecd7ccb8c21e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ec77b03af8ab65b9a7869d031c667a44a678f65b",
+    "published": "2026-07-09T16:01:24.000Z"
+  },
+  {
+    "id": "a8af98ca7b1bf65f1d4708590230e17d5f8052c2",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Accidentally building self-aware NPCs",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/C8f__nTxSX4/mqdefault.jpg",
+    "url": "https://www.youtube.com/shorts/C8f__nTxSX4",
+    "published": "2026-07-09T14:51:22.000Z"
+  },
+  {
+    "id": "dc0bd405d03cd4a31028da76b9a9ff0c73abf93c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/11f83bac9f0bed7e59dd579083007a5203f42625",
+    "published": "2026-07-09T13:00:48.000Z"
+  },
+  {
+    "id": "5c60daec9300014b6d637a74696bad2fcb52660a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c0757874fa1285b0521e9e9f59ffdb18b8141b0a",
+    "published": "2026-07-09T10:11:27.000Z"
+  },
+  {
     "id": "b11e59dc63e78f5f881b31b9175c04ddebd99d17",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -108,18 +240,6 @@
     "published": "2026-07-08T20:03:34.000Z"
   },
   {
-    "id": "009e390626778531cb0e9a7b75aba15ed49b9108",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3e59fb9b895e15fc90ad505ec54c48e585731abb",
-    "published": "2026-07-08T18:31:42.000Z"
-  },
-  {
     "id": "b73c8f825057786c1d16fa2529387976816afa5e",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -130,42 +250,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!THaU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe3aa9c7-c1c1-449c-97af-f000307b5b8d_1988x1180.png",
     "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-ama",
     "published": "2026-07-08T16:38:49.000Z"
-  },
-  {
-    "id": "eed870fbb8642f2fd275838ee81a3ceb742a03eb",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8d882fa8d99d252b46f2b2f79e5f263789963d65",
-    "published": "2026-07-08T15:46:52.000Z"
-  },
-  {
-    "id": "e03f6b32f21f98bec4b5ead5aa969c6a266d08cd",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9f0d278efacc8c8cb1ea89c2e353523624840046",
-    "published": "2026-07-08T12:36:29.000Z"
-  },
-  {
-    "id": "0c86db6d5bc4efd9f5bc5d1feb0acc960f28912e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/53376a9663dfc1e806c1c44f91057a989212ea69",
-    "published": "2026-07-08T09:49:49.000Z"
   },
   {
     "id": "45a096207eea7d4aba64bcb4b9fccc24dd514346",
@@ -214,54 +298,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!jug7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd16fca2a-ad43-4f69-9a9d-8dd72f2edda3_1182x704.png",
     "url": "https://newsletter.pragmaticengineer.com/p/tech-jobs-market-in-2026-part-3-hiring",
     "published": "2026-07-07T17:25:41.000Z"
-  },
-  {
-    "id": "abd89a34a18434dec0a4bd7a5a16326299600863",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "sqlite-migrate 0.2",
-    "summary": "Release: sqlite-migrate 0.2 The version that retires the library, instead implementing a compatibility shim against the new sqlite-utils 4.0 dependency. Tags: sqlite-utils",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything",
-    "published": "2026-07-07T16:33:55.000Z"
-  },
-  {
-    "id": "f9e33da1b5c688eaa88ec7ff7a85d8ef09ac6765",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "github-code Web Component",
-    "summary": "Tool: github-code Web Component An experimental Web Component built using GPT-5.5 and the following prompt: let's build a Web Component for embedding code from GitHub It takes URLs like that,...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything",
-    "published": "2026-07-07T16:18:16.000Z"
-  },
-  {
-    "id": "92f516348ce905ffeaff6f5514a23be97bb1b9ae",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "sqlite-utils 4.0",
-    "summary": "Release: sqlite-utils 4.0 See sqlite-utils 4.0, now with database schema migrations for details. Tags: sqlite-utils",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything",
-    "published": "2026-07-07T15:42:43.000Z"
-  },
-  {
-    "id": "4d5348f66b9a173da43d421042919a68e856e57f",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "sqlite-utils 4.0rc4",
-    "summary": "Release: sqlite-utils 4.0rc4 The last RC before the 4.0 stable release. Mainly implements feedback from a detailed review by Claude Fable 5. Tags: sqlite-utils, claude-mythos-fable",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything",
-    "published": "2026-07-07T05:36:15.000Z"
   },
   {
     "id": "663b198dfcc42cb1b474b88ce59411ad970c791a",
@@ -804,18 +840,6 @@
     "published": "2026-06-17T21:21:11.000Z"
   },
   {
-    "id": "fd6c44580fa4af3c3caf2b01382c00d65e53c43d",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "CI/CD with Robert Erez",
-    "summary": "Robert Erez of Octopus Deploy joins me to discuss Kubernetes, GitOps, progressive delivery, AI in CI/CD, and the evolving practices behind modern software delivery.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!YCsL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39bdfbb4-fb73-41d8-83cb-0ca4832aed49_1280x80.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/cicd-with-robert-erez",
-    "published": "2026-06-17T16:41:01.000Z"
-  },
-  {
     "id": "eaa440c88f377973e1a78419bb275ad0fd1a1755",
     "source": "Riley Brown",
     "type": "video",
@@ -862,18 +886,6 @@
     "thumbnail": "https://i.ytimg.com/vi/CrRQLy4DMw8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=CrRQLy4DMw8",
     "published": "2026-06-15T17:18:48.000Z"
-  },
-  {
-    "id": "0eafe165c8bde2c09529b7fc89bae8fd1d75d22d",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Why the Government Just Killed Claude Fable 5",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/zeVuhlKWRfI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=zeVuhlKWRfI",
-    "published": "2026-06-13T03:50:57.000Z"
   },
   {
     "id": "a73a8ef91acc7d61eb1f8c82b31b837c2fa158b8",
@@ -1030,18 +1042,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/whats-new-may-2026/",
     "published": "2026-05-31T00:00:00.000Z"
-  },
-  {
-    "id": "8286fb09ffee842dce1a60cd06ca6ffd91f0bc3d",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Isolate your Voice with ElevenLabs",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/Dtw60jlRUpM/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/Dtw60jlRUpM",
-    "published": "2026-05-28T12:17:09.000Z"
   },
   {
     "id": "55cba11daf92edec8b233e504c7aa61d2aef9b43",
