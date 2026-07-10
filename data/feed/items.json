@@ -1,5 +1,77 @@
 [
   {
+    "id": "c8b0c2129d94aae60a0178aa3e35d897103725e1",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8b75c80daadc2aeac7c31d3060fe3d9e2c297d74",
+    "published": "2026-07-10T07:13:26.000Z"
+  },
+  {
+    "id": "f7ffe7c764e66c3e473e015027c8a6ac4a74f860",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
+    "summary": "A big day for OpenAI.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!S2WI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d7bcf2a-7c60-4e1d-9aaf-db0b03cc4801_1470x1406.png",
+    "url": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
+    "published": "2026-07-10T06:19:40.000Z"
+  },
+  {
+    "id": "6741f555ffec67e702be05e704c57f88b051518b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9a21d1db4952655667e9d4ca0cdb552fe84d0ee1",
+    "published": "2026-07-10T04:23:10.000Z"
+  },
+  {
+    "id": "e11b299a33538b8ee9b83a04687e415702477cd8",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting OpenAI",
+    "summary": "[...] Work on web and mobile runs in the cloud. Work in the desktop app can also use local files and desktop apps with your permission. At launch, cloud Work conversations do not appear in desktop...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
+    "published": "2026-07-10T01:05:57.000Z"
+  },
+  {
+    "id": "2e26e00b848ad8cf9e9c7cad17b5d32123fe1a2d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f6bea375a2faee8d4f7e9ecf2915ae4ae8eaaf28",
+    "published": "2026-07-10T00:39:22.000Z"
+  },
+  {
+    "id": "a37651c203a482830e8a5a358825f6eeb44ae75c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/075395c4030e297464fa0707dd7422b4a28cc750",
+    "published": "2026-07-09T21:31:32.000Z"
+  },
+  {
     "id": "c223296e0641446f9bd6419255eedb0456a03a60",
     "source": "Simon Willison",
     "type": "blog",
@@ -29,7 +101,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Grok 4.5 + Cursor is 4x Cheaper Than Opus… And Better",
+    "title": "Grok 4.5 + Cursor Just Became Unstoppable",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/dLaIl6LehsU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=dLaIl6LehsU",
@@ -132,18 +204,6 @@
     "published": "2026-07-09T10:11:27.000Z"
   },
   {
-    "id": "b11e59dc63e78f5f881b31b9175c04ddebd99d17",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c79cc2c661e09ca0ac6db3bfb4130492784efdb2",
-    "published": "2026-07-09T07:14:26.000Z"
-  },
-  {
     "id": "d9aedbf9734e78e7198bd5dcba762831384debc5",
     "source": "Latent Space",
     "type": "podcast",
@@ -154,30 +214,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!8D6O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHMuQw2BXUAAJaQd.png",
     "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
     "published": "2026-07-09T06:05:41.000Z"
-  },
-  {
-    "id": "8822910a4418fbe91790081f381a777ff4ce10ef",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0553944f104480339399606a41c2e684c4232f0a",
-    "published": "2026-07-09T04:21:20.000Z"
-  },
-  {
-    "id": "3dee472cffa5f6c3c85c08851f0f928475f46855",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7c3e353a920f1f6c82bbb062c90590eac9f1c1de",
-    "published": "2026-07-09T00:38:10.000Z"
   },
   {
     "id": "d9be8582f02bacd45176105809bef2a9a9e23ba7",
@@ -214,18 +250,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!a5RX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9828917e-57a7-443a-983c-da258c66a614_1714x264.png",
     "url": "https://www.latent.space/p/modal2026",
     "published": "2026-07-08T22:55:07.000Z"
-  },
-  {
-    "id": "fe5bbd257e713105714be7f69284a1a9b4a48b18",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/13fc3b9e981314537e1774a9a1e5315d91e63ae4",
-    "published": "2026-07-08T21:26:18.000Z"
   },
   {
     "id": "ffce1f7e1a36088584c05f236c47b2826a9b067a",
@@ -274,18 +298,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!L_Ci!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F603a46c6-cedc-4b38-a660-2fa1d4b3f4ba_1626x1146.png",
     "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
     "published": "2026-07-08T02:20:25.000Z"
-  },
-  {
-    "id": "5432189dc8afccf46743e17472011918ff40ca80",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "sqlite-utils 4.0, now with database schema migrations",
-    "summary": "This morning I released sqlite-utils 4.0, the 124th release of that project and the first major version bump since 3.0 in November 2020. In addition to some small but significant breaking changes...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything",
-    "published": "2026-07-07T19:32:57.000Z"
   },
   {
     "id": "b3dd400e1f5fb99bf9be12d71cf86f047bd29d73",
@@ -478,18 +490,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/fable_is_terug_de_vooruitblik_wat_kan_ai_eind_dit_jaar",
     "published": "2026-07-02T15:15:03.000Z"
-  },
-  {
-    "id": "90512464cdc0fa834676e94e09cd5e382a5139f1",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Skill engineering and the case against one-shot AI design",
-    "summary": "Paul Bakaus talks to us about Impeccable, human judgment in a 'loopmaxxing' era, and why agents still need people to steer them.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!JOvz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c23df3d-275c-48a8-a914-994c53dcd352_1280x720.jpeg",
-    "url": "https://www.latent.space/p/skill-engineering-design",
-    "published": "2026-07-02T14:36:05.000Z"
   },
   {
     "id": "c6299e51f20e69536a9639af84083fb24fdedeca",
