@@ -1,5 +1,77 @@
 [
   {
+    "id": "3eeafeca95d791e256ba62a2e3440313d6946258",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ff4dfbed02a066e2087d09a51abd0abe63a5854c",
+    "published": "2026-07-10T18:32:16.000Z"
+  },
+  {
+    "id": "bc84c97b905e43b4003b8084f5e204c2d488d25d",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Nilay Patel",
+    "summary": "The reality is to make augmented reality glasses, you need to put a camera next to your eyes that is continuously recording everything you see and processing that to put information over it. There is...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything",
+    "published": "2026-07-10T17:05:26.000Z"
+  },
+  {
+    "id": "e45f4f5d0685d7178de737de9669856aa523eead",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Building agentic NPCs in Unity, part 2",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/-NhmnCbpAnM/mqdefault.jpg",
+    "url": "https://www.youtube.com/shorts/-NhmnCbpAnM",
+    "published": "2026-07-10T15:58:33.000Z"
+  },
+  {
+    "id": "81b5c0b14a14de0b8f5b059d18c455ec858176ff",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/74abcb1138aabf76bf5a9338cef5e585e3a1d701",
+    "published": "2026-07-10T15:49:04.000Z"
+  },
+  {
+    "id": "6476cc2a26df751ac5012a515d5b8a38b2bb4073",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8e7d6e7b29aa30a5a5803856efb500373adf7e03",
+    "published": "2026-07-10T12:47:22.000Z"
+  },
+  {
+    "id": "2bdbb1f3343cc245670eb85f89053dc3e22ac4d7",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/be83e8a7bdafb54e9a9cc48e9a5af72d3237947e",
+    "published": "2026-07-10T10:08:52.000Z"
+  },
+  {
     "id": "c8b0c2129d94aae60a0178aa3e35d897103725e1",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -84,18 +156,6 @@
     "published": "2026-07-09T19:46:38.000Z"
   },
   {
-    "id": "cc1f7282ab98744dd51cd8f810f5f8bf87a2bf13",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4df3741b2e9a90044675dd422de29662205e8603",
-    "published": "2026-07-09T18:38:05.000Z"
-  },
-  {
     "id": "e6e38c0d3a100fdaed12c309219320ea83072b23",
     "source": "Riley Brown",
     "type": "video",
@@ -156,18 +216,6 @@
     "published": "2026-07-09T16:06:15.000Z"
   },
   {
-    "id": "d24ddbbed50040a18fef31a76f2aecd7ccb8c21e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ec77b03af8ab65b9a7869d031c667a44a678f65b",
-    "published": "2026-07-09T16:01:24.000Z"
-  },
-  {
     "id": "a8af98ca7b1bf65f1d4708590230e17d5f8052c2",
     "source": "ElevenLabs",
     "type": "video",
@@ -178,30 +226,6 @@
     "thumbnail": "https://i.ytimg.com/vi/C8f__nTxSX4/mqdefault.jpg",
     "url": "https://www.youtube.com/shorts/C8f__nTxSX4",
     "published": "2026-07-09T14:51:22.000Z"
-  },
-  {
-    "id": "dc0bd405d03cd4a31028da76b9a9ff0c73abf93c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/11f83bac9f0bed7e59dd579083007a5203f42625",
-    "published": "2026-07-09T13:00:48.000Z"
-  },
-  {
-    "id": "5c60daec9300014b6d637a74696bad2fcb52660a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c0757874fa1285b0521e9e9f59ffdb18b8141b0a",
-    "published": "2026-07-09T10:11:27.000Z"
   },
   {
     "id": "d9aedbf9734e78e7198bd5dcba762831384debc5",
@@ -250,18 +274,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!a5RX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9828917e-57a7-443a-983c-da258c66a614_1714x264.png",
     "url": "https://www.latent.space/p/modal2026",
     "published": "2026-07-08T22:55:07.000Z"
-  },
-  {
-    "id": "ffce1f7e1a36088584c05f236c47b2826a9b067a",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Kenton Varda",
-    "summary": "I just declared a moratorium against AI-written change descriptions (e.g. PR and commit messages, also issues/tickets) from my team. AI was writing change descriptions that were worse than useless to...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
-    "published": "2026-07-08T20:03:34.000Z"
   },
   {
     "id": "b73c8f825057786c1d16fa2529387976816afa5e",
@@ -1018,18 +1030,6 @@
     "thumbnail": "https://i.ytimg.com/vi/ikH1--DSzMs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ikH1--DSzMs",
     "published": "2026-06-02T12:17:34.000Z"
-  },
-  {
-    "id": "d11963281f42e7ec0fca1666316bc80af6b312eb",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Hackathon with UK Government x ElevenLabs",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/cB9IK0vtCxA/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/cB9IK0vtCxA",
-    "published": "2026-06-01T13:43:20.000Z"
   },
   {
     "id": "0a681af572e37e36561fd4902f5c2cf106704b09",
