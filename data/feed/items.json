@@ -1,5 +1,65 @@
 [
   {
+    "id": "37c0f90e477865c205156e36c15c21a7e92b8bbf",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/99b17a625fad5b5e62eb3e5463c926e1163fdb18",
+    "published": "2026-07-11T06:47:57.000Z"
+  },
+  {
+    "id": "a66f237dda68826c1b88999734d427eec40cd60f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8e9d04807eefd9fcc99e32f02a7ecb81182351e2",
+    "published": "2026-07-11T04:03:45.000Z"
+  },
+  {
+    "id": "41160de586448d3c26bf0d3c24801471e64efdfe",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] not much happened today",
+    "summary": "a quiet day after a week of nonstop model releases",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!7odD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa462b771-b4e5-4d7a-b815-ac4ca35903f4_1328x982.png",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-f5c",
+    "published": "2026-07-11T02:53:08.000Z"
+  },
+  {
+    "id": "713d77ee79239b8a64e09dc713bcf70af29c763f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/41b7e65b7edfd34f64fea7e6caa7471900775c87",
+    "published": "2026-07-11T00:32:52.000Z"
+  },
+  {
+    "id": "e79523f872ca79ad1ff37b7d2c6102a67ab27981",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aa3832513cfbd9e628e2cfbac02360ad99ea747d",
+    "published": "2026-07-10T21:24:30.000Z"
+  },
+  {
     "id": "3eeafeca95d791e256ba62a2e3440313d6946258",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -72,18 +132,6 @@
     "published": "2026-07-10T10:08:52.000Z"
   },
   {
-    "id": "c8b0c2129d94aae60a0178aa3e35d897103725e1",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8b75c80daadc2aeac7c31d3060fe3d9e2c297d74",
-    "published": "2026-07-10T07:13:26.000Z"
-  },
-  {
     "id": "f7ffe7c764e66c3e473e015027c8a6ac4a74f860",
     "source": "Latent Space",
     "type": "podcast",
@@ -96,18 +144,6 @@
     "published": "2026-07-10T06:19:40.000Z"
   },
   {
-    "id": "6741f555ffec67e702be05e704c57f88b051518b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9a21d1db4952655667e9d4ca0cdb552fe84d0ee1",
-    "published": "2026-07-10T04:23:10.000Z"
-  },
-  {
     "id": "e11b299a33538b8ee9b83a04687e415702477cd8",
     "source": "Simon Willison",
     "type": "blog",
@@ -118,30 +154,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
     "published": "2026-07-10T01:05:57.000Z"
-  },
-  {
-    "id": "2e26e00b848ad8cf9e9c7cad17b5d32123fe1a2d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f6bea375a2faee8d4f7e9ecf2915ae4ae8eaaf28",
-    "published": "2026-07-10T00:39:22.000Z"
-  },
-  {
-    "id": "a37651c203a482830e8a5a358825f6eeb44ae75c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/075395c4030e297464fa0707dd7422b4a28cc750",
-    "published": "2026-07-09T21:31:32.000Z"
   },
   {
     "id": "c223296e0641446f9bd6419255eedb0456a03a60",
@@ -341,7 +353,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Claude Fable 5 Just Changed Design Forever",
+    "title": "Claude Fable 5 Built My Website in 20 Minutes (Here's How)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/COh_cjrDOzc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=COh_cjrDOzc",
@@ -480,18 +492,6 @@
     "published": "2026-07-03T00:08:18.000Z"
   },
   {
-    "id": "9af1a1a7b5ccf25c4ebdd6fc648f43432523812d",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "The website of the future may assemble itself for every visitor",
-    "summary": "Adobe is experimenting with “agentic sites” that generate pages around an individual user’s intent. At AIEWF, we talked to Carlos Sanchez about the Web's future.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!KiR3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F888e1825-8152-418b-9a18-152de1328077_1280x720.jpeg",
-    "url": "https://www.latent.space/p/the-website-of-the-future",
-    "published": "2026-07-02T21:25:14.000Z"
-  },
-  {
     "id": "300ce3325ded83f6b9a24b0ed9dfde0a6a9650c6",
     "source": "AI Report",
     "type": "podcast",
@@ -533,7 +533,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "I Created the Ultimate Jarvis AI Assistant (It’s So Easy)",
+    "title": "How to Create Your Own AI Assistant (It's So Easy)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/4WBOmhI11rQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=4WBOmhI11rQ",
