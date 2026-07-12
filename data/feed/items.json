@@ -1,5 +1,65 @@
 [
   {
+    "id": "89ffd1a8712fc89428806c0a34709ef7dc1213ac",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a375cf3a17fab3f84dc648488f37a92e9faa72b5",
+    "published": "2026-07-12T06:55:28.000Z"
+  },
+  {
+    "id": "0229fbe58b2c9b4e377dfb9970fb5704a82ecd24",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6736d3e4b3859f4f0d65ef4093a29013142b01fa",
+    "published": "2026-07-12T04:13:17.000Z"
+  },
+  {
+    "id": "a43f11a3122e031fab2beab84a42611ecf8917f4",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/154fd9fdbde699551cbc78669a96c700b00e3978",
+    "published": "2026-07-12T00:35:06.000Z"
+  },
+  {
+    "id": "03499c68059edb51236018c0763b4f508735dace",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "sqlite-utils 4.1",
+    "summary": "Release: sqlite-utils 4.1 The first dot-release since 4.0 a few days ago, introducing a number of minor new features. sqlite-utils insert and sqlite-utils upsert now accept a --code option for...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
+    "published": "2026-07-11T23:50:20.000Z"
+  },
+  {
+    "id": "461fe0717e275e63f77f6cba3ab95edfb1f1a865",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bda534a2b8092c1dc9e69ef6e6fcb3b601ac82c4",
+    "published": "2026-07-11T21:18:03.000Z"
+  },
+  {
     "id": "473b4c167f1f925cad4d19d239b0fac94012fc0f",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -48,30 +108,6 @@
     "published": "2026-07-11T09:32:39.000Z"
   },
   {
-    "id": "37c0f90e477865c205156e36c15c21a7e92b8bbf",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/99b17a625fad5b5e62eb3e5463c926e1163fdb18",
-    "published": "2026-07-11T06:47:57.000Z"
-  },
-  {
-    "id": "a66f237dda68826c1b88999734d427eec40cd60f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8e9d04807eefd9fcc99e32f02a7ecb81182351e2",
-    "published": "2026-07-11T04:03:45.000Z"
-  },
-  {
     "id": "41160de586448d3c26bf0d3c24801471e64efdfe",
     "source": "Latent Space",
     "type": "podcast",
@@ -82,30 +118,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!7odD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa462b771-b4e5-4d7a-b815-ac4ca35903f4_1328x982.png",
     "url": "https://www.latent.space/p/ainews-not-much-happened-today-f5c",
     "published": "2026-07-11T02:53:08.000Z"
-  },
-  {
-    "id": "713d77ee79239b8a64e09dc713bcf70af29c763f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/41b7e65b7edfd34f64fea7e6caa7471900775c87",
-    "published": "2026-07-11T00:32:52.000Z"
-  },
-  {
-    "id": "e79523f872ca79ad1ff37b7d2c6102a67ab27981",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aa3832513cfbd9e628e2cfbac02360ad99ea747d",
-    "published": "2026-07-10T21:24:30.000Z"
   },
   {
     "id": "bc84c97b905e43b4003b8084f5e204c2d488d25d",
@@ -262,18 +274,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
     "published": "2026-07-08T23:57:21.000Z"
-  },
-  {
-    "id": "ea0729cfed39b58c070b919d5a9a3df29444cb69",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Introducing GPT‑Live",
-    "summary": "Introducing GPT‑Live OpenAI finally upgraded the model used by ChatGPT voice mode! I've had preview access for a few weeks in the iPhone app, and the new model is very impressive. It also has the...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
-    "published": "2026-07-08T23:20:48.000Z"
   },
   {
     "id": "a8ed1f4debb94db3759335107f3e4801deba475f",
