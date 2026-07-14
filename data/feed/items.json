@@ -1,5 +1,101 @@
 [
   {
+    "id": "d82e760e0eb379415fcf46c9c0439ea79e0d76de",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "Astro 7.1",
+    "summary": "Astro 7.1 is about more control: CSP, pagination, dev server, and content collections.",
+    "thumbnail": null,
+    "url": "https://feat/blog/astro-710/",
+    "published": "2026-07-16T00:00:00.000Z"
+  },
+  {
+    "id": "82e188b6651b51fb7e09b9681fb912475b131b4d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7315b563c881f98a894c1b4380f5f2679cac746f",
+    "published": "2026-07-14T18:25:51.000Z"
+  },
+  {
+    "id": "7d60c1dd10bb5eaff695fcf525d54e1ac30eeae5",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Armin Ronacher",
+    "summary": "The shared language of a software project is not English or Python but it is the common understanding of what its concepts mean, where the boundaries are, which invariants matter, who owns what, and...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything",
+    "published": "2026-07-14T18:04:23.000Z"
+  },
+  {
+    "id": "17b10d10d281c33edfb340673cd6f4c3865fb94c",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "What is “loop engineering?”",
+    "summary": "There’s talk about loop engineering, but what is it exactly? I looked into it, and found triggers, cron jobs, AI slop & more. Is it a “here today, gone tomorrow” trend?",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!CaGY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d4f687c-ee1a-4bb9-89fe-148a7f8d07ca_2048x984.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/what-is-loop-engineering",
+    "published": "2026-07-14T17:01:57.000Z"
+  },
+  {
+    "id": "ba302330d578233dfb0993a713e81a7bd16d852c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/36ba8e2e3fb3a15b1e74fb64c5ad11a212e00a80",
+    "published": "2026-07-14T15:31:46.000Z"
+  },
+  {
+    "id": "72673682e4559ff3a78c388897788f0ea9c7043f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ee54c78a85457e49b7bb75424a58e51381d05e2b",
+    "published": "2026-07-14T12:29:37.000Z"
+  },
+  {
+    "id": "3b8b0400ac0f60807e2a17381257772b4178fc60",
+    "source": "AI Jason",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Why I switched to Pi...",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/MsPhMhfvgD4/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=MsPhMhfvgD4",
+    "published": "2026-07-14T10:35:00.000Z"
+  },
+  {
+    "id": "bd37a5d993df75f4c9437e6d8a20497f3eb8a2bb",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a2f697a0b367dffab56793c3fc642f2b8a74c4ef",
+    "published": "2026-07-14T09:35:58.000Z"
+  },
+  {
     "id": "e77c14379f3afc0b595ad69794ef53aa1089c0af",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -96,18 +192,6 @@
     "published": "2026-07-13T21:21:04.000Z"
   },
   {
-    "id": "3407a557800b3cc236bdba00aecb007cdf7a4778",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f908181893ffb3a902731895534824be5493a3bf",
-    "published": "2026-07-13T18:35:10.000Z"
-  },
-  {
     "id": "b9ae359ef57a087f5ce3ea0f26e893d07d399b07",
     "source": "ElevenLabs",
     "type": "video",
@@ -118,30 +202,6 @@
     "thumbnail": "https://i.ytimg.com/vi/5o5NQH7vqog/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=5o5NQH7vqog",
     "published": "2026-07-13T16:00:52.000Z"
-  },
-  {
-    "id": "5e30a3b97a68fc08c887ea7d265a33f9d9b955e7",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4e09a432048aaa01500dec320a0bb27f679c64ba",
-    "published": "2026-07-13T15:54:41.000Z"
-  },
-  {
-    "id": "b5cc852a58961650dd69610af0b2f8f7d653ed75",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6ca83fc8949e9bf5394fa5d41f9277a278d2454b",
-    "published": "2026-07-13T12:51:28.000Z"
   },
   {
     "id": "d46f68d824228d6e09f9e247ee9538c19e2c6bcc",
@@ -252,18 +312,6 @@
     "published": "2026-07-13T10:53:41.000Z"
   },
   {
-    "id": "c0475752bfb495785d4c3dff5ae1d2bee3dc4ba2",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/977d7a86b1357d521bad08d42ff0b4ecaeda52d9",
-    "published": "2026-07-13T10:08:05.000Z"
-  },
-  {
     "id": "06045cdb41d127f788889893c7b37597047e4cd9",
     "source": "Simon Willison",
     "type": "blog",
@@ -322,18 +370,6 @@
     "thumbnail": "https://i.ytimg.com/vi/Fv0XfyLT3xU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Fv0XfyLT3xU",
     "published": "2026-07-12T17:24:29.000Z"
-  },
-  {
-    "id": "03499c68059edb51236018c0763b4f508735dace",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "sqlite-utils 4.1",
-    "summary": "Release: sqlite-utils 4.1 The first dot-release since 4.0 a few days ago, introducing a number of minor new features. sqlite-utils insert and sqlite-utils upsert now accept a --code option for...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
-    "published": "2026-07-11T23:50:20.000Z"
   },
   {
     "id": "41160de586448d3c26bf0d3c24801471e64efdfe",
@@ -612,7 +648,7 @@
     "published": "2026-06-30T11:19:17.000Z"
   },
   {
-    "id": "582c1bec315572fa98b115b2a863f2b552820fa7",
+    "id": "2428726e64d937a47e90ae8aef344902956a2ddc",
     "source": "Astro",
     "type": "blog",
     "category": "astro",
@@ -620,7 +656,7 @@
     "title": "What's new in Astro - June 2026",
     "summary": "June 2026 - Astro 7, summer swag collection, Astro Germany meetup, and more!",
     "thumbnail": null,
-    "url": "https://astro.build/blog/whats-new-june-2026/",
+    "url": "https://feat/blog/whats-new-june-2026/",
     "published": "2026-06-30T00:00:00.000Z"
   },
   {
@@ -792,7 +828,7 @@
     "published": "2026-06-22T09:37:53.000Z"
   },
   {
-    "id": "2b10473a37358e56fb07ea4584f222e0d9e38d73",
+    "id": "3166eb71c816545568ad44e3461e2c91cc80e8c2",
     "source": "Astro",
     "type": "blog",
     "category": "astro",
@@ -800,7 +836,7 @@
     "title": "Astro 7.0",
     "summary": "Astro 7.0 brings faster builds with Vite 8, a new Rust compiler, Advanced Routing, background dev server support, and structured logging.",
     "thumbnail": null,
-    "url": "https://astro.build/blog/astro-7/",
+    "url": "https://feat/blog/astro-7/",
     "published": "2026-06-22T00:00:00.000Z"
   },
   {
@@ -826,18 +862,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/fable_is_down_maar_gelukkig_hebben_we_gpt-nl_toch",
     "published": "2026-06-19T07:48:18.000Z"
-  },
-  {
-    "id": "e7065f6abfe2141b3006a782a0af4237fe33cef3",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The Pulse: Big implications of US banning Anthropic’s new model, Fable",
-    "summary": "Also: a follow-up on Meta destroying its own engineering culture, the SpaceX IPO, SpaceX buys Cursor, Cursor’s GitHub competitor, and more.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!SNKX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F744904b3-18f6-46e7-a260-659673fed299_1186x1528.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-big-implications-of-us",
-    "published": "2026-06-18T17:11:03.000Z"
   },
   {
     "id": "065b107cac6eb1a4aecc05eca3da38f1579fd654",
@@ -1020,7 +1044,7 @@
     "published": "2026-06-04T08:04:16.000Z"
   },
   {
-    "id": "7189bad0ddda1aa37550b05edda7d29d3f52255b",
+    "id": "2b053f6024645c337434dc068d4bcd6f4abb7980",
     "source": "Astro",
     "type": "blog",
     "category": "astro",
@@ -1028,7 +1052,7 @@
     "title": "Astro Mart: Summer 2026 Collection",
     "summary": "Get ready for a summer of sport with our new personalizable merch.",
     "thumbnail": null,
-    "url": "https://astro.build/blog/astro-mart-ss26/",
+    "url": "https://feat/blog/astro-mart-ss26/",
     "published": "2026-06-04T00:00:00.000Z"
   },
   {
@@ -1044,7 +1068,7 @@
     "published": "2026-06-02T12:17:34.000Z"
   },
   {
-    "id": "0a681af572e37e36561fd4902f5c2cf106704b09",
+    "id": "4559c9b7730d31904a24e9f373100634c069a1a7",
     "source": "Astro",
     "type": "blog",
     "category": "astro",
@@ -1052,7 +1076,7 @@
     "title": "What's new in Astro - May 2026",
     "summary": "May 2026 - A new Astro jobs board, TinaCMS makes Astro their default template, experimental advanced routing, and more!",
     "thumbnail": null,
-    "url": "https://astro.build/blog/whats-new-may-2026/",
+    "url": "https://feat/blog/whats-new-may-2026/",
     "published": "2026-05-31T00:00:00.000Z"
   },
   {
@@ -1068,7 +1092,7 @@
     "published": "2026-05-28T04:30:00.000Z"
   },
   {
-    "id": "999ca2787ecc2b49f259e702a14db51488b89389",
+    "id": "3616ea9e69853b4703f453a3a407edd2fef669bb",
     "source": "Astro",
     "type": "blog",
     "category": "astro",
@@ -1076,7 +1100,7 @@
     "title": "Astro 6.4",
     "summary": "Astro 6.4 introduces a new pluggable Markdown processor API, a Rust-based Markdown processor for faster builds, and helpers to wire up experimental advanced routing with Cloudflare.",
     "thumbnail": null,
-    "url": "https://astro.build/blog/astro-640/",
+    "url": "https://feat/blog/astro-640/",
     "published": "2026-05-28T00:00:00.000Z"
   },
   {
@@ -1152,7 +1176,7 @@
     "published": "2026-05-07T15:30:21.000Z"
   },
   {
-    "id": "49f7e3b52683f986388027dfc63a691fb2aa9533",
+    "id": "fe8ffdcf097037b9ecd89ce2b103dd267bb6fe6e",
     "source": "Astro",
     "type": "blog",
     "category": "astro",
@@ -1160,11 +1184,11 @@
     "title": "Astro 6.3",
     "summary": "Astro 6.3 introduces experimental advanced routing with Hono support, image redirect handling, resilient island hydration, and more.",
     "thumbnail": null,
-    "url": "https://astro.build/blog/astro-630/",
+    "url": "https://feat/blog/astro-630/",
     "published": "2026-05-07T00:00:00.000Z"
   },
   {
-    "id": "36db6549372972977954d84ea494166acd93fd92",
+    "id": "828b75446c53188f32cb8260937918c5f36a8707",
     "source": "Astro",
     "type": "blog",
     "category": "astro",
@@ -1172,31 +1196,7 @@
     "title": "Starlight 0.39",
     "summary": "Get more flexible autogenerated sidebars, improved styling, and stronger multilingual docs support with the latest Starlight release.",
     "thumbnail": null,
-    "url": "https://astro.build/blog/starlight-039/",
+    "url": "https://feat/blog/starlight-039/",
     "published": "2026-05-07T00:00:00.000Z"
-  },
-  {
-    "id": "98c4762cc6b231dd983c38a736ab2e4d26ab7716",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "New AI coding paradiagm - OpenAI Symphony",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/M_AmPWmkpwA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=M_AmPWmkpwA",
-    "published": "2026-05-02T11:45:03.000Z"
-  },
-  {
-    "id": "bddc5fc6781f8eeebd2ec9f8c7ec03b1911e4cd4",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "feat(antfu): document tsnapi, tsdown-stale-guard, and fast-npm-meta (…",
-    "summary": "feat(antfu): document tsnapi, tsdown-stale-guard, and fast-npm-meta (#28) * feat(antfu): document tsnapi, tsdown-stale-guard, and fast-npm-meta Add an API Stability section to library-development...",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/50deaeb269d80d92db7a2c5a677290309ae307fc",
-    "published": "2026-05-01T16:46:24.000Z"
   }
 ]
