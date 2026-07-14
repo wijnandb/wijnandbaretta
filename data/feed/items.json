@@ -1,5 +1,101 @@
 [
   {
+    "id": "e77c14379f3afc0b595ad69794ef53aa1089c0af",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d40d781f65b17d534b36dc1ed41062b3019e2e25",
+    "published": "2026-07-14T06:46:39.000Z"
+  },
+  {
+    "id": "8d8601c1a65dd072dc3e85f8a499013264317366",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/52399786a7c8c5df8ca42e112523788098ab1908",
+    "published": "2026-07-14T04:01:16.000Z"
+  },
+  {
+    "id": "ac1def651d7c654d331c6e6b0fb0199a712d7bd9",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Codex usage up >10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??",
+    "summary": "a quiet day lets us fact check some numbers against the sound of silence of Claude Code reporting...",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!cqvt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09c078c3-d47d-4ab1-91e5-b09ad5d082dd_1388x902.png",
+    "url": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
+    "published": "2026-07-14T01:22:27.000Z"
+  },
+  {
+    "id": "ce449ffedfd5a51d23d16be8750105e953fc629f",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Using uvx in GitHub Actions in a cache-friendly way",
+    "summary": "TIL: Using uvx in GitHub Actions in a cache-friendly way I finally found a cache-friendly recipe for using uvx tool-name in GitHub Actions workflows that I like. The trick is setting a...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything",
+    "published": "2026-07-14T00:56:20.000Z"
+  },
+  {
+    "id": "bb5e207dd4651a6dd7f15b53c498bd4a0d8674d9",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/72553985f03128e6f4d6c2d99e2955c3bb73d9b1",
+    "published": "2026-07-14T00:31:00.000Z"
+  },
+  {
+    "id": "0c061fa391a67363d593bbcec900bee168cfd6a9",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "DOOMQL",
+    "summary": "DOOMQL Peter Gostev built this using GPT-5.6 Sol. This is a lot of fun: DOOMQL started with a deliberately unreasonable question: what if SQLite were the game engine, not merely the place where a...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything",
+    "published": "2026-07-13T22:34:41.000Z"
+  },
+  {
+    "id": "7a715de2fcddc52489fc900bff5a66d2ff65bce4",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette code-frequency chart on GitHub",
+    "summary": "datasette code-frequency chart on GitHub Out of curiosity I decided to see if I could find a useful illustration of the impact of coding agents and Opus 4.5 class models on my own output. The best...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
+    "published": "2026-07-13T21:45:27.000Z"
+  },
+  {
+    "id": "4410e8d33d5438f6b0e01c90cf71ca335b81cd6f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7053b673019eeceb43e4ef3bc0e7198c89636e72",
+    "published": "2026-07-13T21:21:04.000Z"
+  },
+  {
     "id": "3407a557800b3cc236bdba00aecb007cdf7a4778",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -168,42 +264,6 @@
     "published": "2026-07-13T10:08:05.000Z"
   },
   {
-    "id": "6117ee50db25f6752be2ce86043cd36d7e7224de",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5bcf9835aa8e460cecf9fa2cc4d528ae075d4e46",
-    "published": "2026-07-13T07:09:49.000Z"
-  },
-  {
-    "id": "46f9621f5fd65096fe2f5ded5b6edfe6f01499af",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/23ae88396edc2dd5c1b6462431ef80fab422ce6d",
-    "published": "2026-07-13T04:15:06.000Z"
-  },
-  {
-    "id": "8adb036e8ab3b015a2d5ef044883b19ac91e5e9a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2d79a5fb876839780dac48286a914ec427de4b96",
-    "published": "2026-07-13T00:34:56.000Z"
-  },
-  {
     "id": "06045cdb41d127f788889893c7b37597047e4cd9",
     "source": "Simon Willison",
     "type": "blog",
@@ -238,18 +298,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
     "published": "2026-07-12T21:20:07.000Z"
-  },
-  {
-    "id": "4aff28e9556d9845157fc99ebed3dfa461acedb6",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0f07c7115e25df0ec920a12f61f74d655ec24998",
-    "published": "2026-07-12T21:18:07.000Z"
   },
   {
     "id": "a88663736fbe0de1c2c644a07ac14f69017cff9f",
@@ -300,18 +348,6 @@
     "published": "2026-07-11T02:53:08.000Z"
   },
   {
-    "id": "bc84c97b905e43b4003b8084f5e204c2d488d25d",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Nilay Patel",
-    "summary": "The reality is to make augmented reality glasses, you need to put a camera next to your eyes that is continuously recording everything you see and processing that to put information over it. There is...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything",
-    "published": "2026-07-10T17:05:26.000Z"
-  },
-  {
     "id": "e45f4f5d0685d7178de737de9669856aa523eead",
     "source": "ElevenLabs",
     "type": "video",
@@ -334,30 +370,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!S2WI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d7bcf2a-7c60-4e1d-9aaf-db0b03cc4801_1470x1406.png",
     "url": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
     "published": "2026-07-10T06:19:40.000Z"
-  },
-  {
-    "id": "e11b299a33538b8ee9b83a04687e415702477cd8",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting OpenAI",
-    "summary": "[...] Work on web and mobile runs in the cloud. Work in the desktop app can also use local files and desktop apps with your permission. At launch, cloud Work conversations do not appear in desktop...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
-    "published": "2026-07-10T01:05:57.000Z"
-  },
-  {
-    "id": "c223296e0641446f9bd6419255eedb0456a03a60",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "The new GPT-5.6 family: Luna, Terra, Sol",
-    "summary": "OpenAI's latest flagship model hit general availability this morning, and comes in three sizes: Luna, Terra, and Sol (from smallest to largest). The new models are priced per 1M input/output tokens...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
-    "published": "2026-07-09T19:46:38.000Z"
   },
   {
     "id": "e6e38c0d3a100fdaed12c309219320ea83072b23",
@@ -514,18 +526,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!M0WA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d4f7346-6688-4240-b077-16bf6f4a4a34_1280x815.jpeg",
     "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
     "published": "2026-07-03T05:11:43.000Z"
-  },
-  {
-    "id": "a18ac96c7dbbfab3073bd1e6f66c55c349798b69",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Vercel's Andrew Qu on why agents are a new kind of software",
-    "summary": "The Vercel Chief of Software explains how its agent framework, eve, was created — and why skills, sandboxes and agent-readable websites now matter.",
-    "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/5d05f30e-e2cc-4895-b84a-d0cdd9835db8_1280x720.jpeg",
-    "url": "https://www.latent.space/p/vercel-agents-new-software",
-    "published": "2026-07-03T00:08:18.000Z"
   },
   {
     "id": "300ce3325ded83f6b9a24b0ed9dfde0a6a9650c6",
