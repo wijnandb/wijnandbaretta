@@ -1,5 +1,101 @@
 [
   {
+    "id": "98741c57530472c454ec2f8a342ca8a49cff5110",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ff2b85a7c7c8a573976900b8a8128b26c785baca",
+    "published": "2026-07-15T18:26:24.000Z"
+  },
+  {
+    "id": "86baf6bac5548d87a53f275bae4ddbac0b8d9a64",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Building agentic NPCs in Unity, part 3",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/0aXed_T9K6Y/mqdefault.jpg",
+    "url": "https://www.youtube.com/shorts/0aXed_T9K6Y",
+    "published": "2026-07-15T17:28:58.000Z"
+  },
+  {
+    "id": "7003f709a5a2a34854aeebea09f699db2aa20491",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Context engineering with Dex Horthy",
+    "summary": "Dex Horthy explains why context engineering is key to building more effective AI-assisted software without sacrificing code quality.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!HVBB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a9e89e3-866b-4248-91a9-e6461be25cd8_1497x131.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/context-engineering-with-dex-horthy",
+    "published": "2026-07-15T16:08:59.000Z"
+  },
+  {
+    "id": "fbbad0059bc9ff5348a84da0b191c03fad82d165",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9ee81c79eea1a9dc9e0dd4d27f3c52051d9e3151",
+    "published": "2026-07-15T15:32:20.000Z"
+  },
+  {
+    "id": "38e6035f3ab63f2b179b77c81e111d48d5a149f6",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "How I tricked Claude into leaking your deepest, darkest secrets",
+    "summary": "How I tricked Claude into leaking your deepest, darkest secrets I've been impressed by the way the Claude web_fetch tool is designed to avoid data exfiltration attacks. Ayush Paul found a hole in...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
+    "published": "2026-07-15T14:21:54.000Z"
+  },
+  {
+    "id": "3b6470d733ba80051f91cef9da38044dce6daef1",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Codex and Claude Shipped Browser Updates. This Changes Everything.",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/juPDqb89dew/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=juPDqb89dew",
+    "published": "2026-07-15T13:00:36.000Z"
+  },
+  {
+    "id": "8413bd2103dcf2698b147d4e5fb64eef1e39adf6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ef7cd2626525a1ca83ed2be565bc0926b47e3484",
+    "published": "2026-07-15T12:31:13.000Z"
+  },
+  {
+    "id": "d26786fd17a7d9b14195cae039ab0df5bf4bab5d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5241353f69df9f82dfb8119e6900aa42cbff062c",
+    "published": "2026-07-15T09:38:37.000Z"
+  },
+  {
     "id": "5b638ac9bf216b191222abd877c9f5dbc009ebdd",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -96,18 +192,6 @@
     "published": "2026-07-14T22:29:45.000Z"
   },
   {
-    "id": "3b1ea9defff36f898d71cfb18e2f8973193c44f5",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/193318798e3f8b4929180c3ca97fe51b9591609b",
-    "published": "2026-07-14T21:21:43.000Z"
-  },
-  {
     "id": "296256cdf6cc9c5d07856ee22ad44249c87f43e4",
     "source": "Simon Willison",
     "type": "blog",
@@ -118,18 +202,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything",
     "published": "2026-07-14T19:44:11.000Z"
-  },
-  {
-    "id": "82e188b6651b51fb7e09b9681fb912475b131b4d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7315b563c881f98a894c1b4380f5f2679cac746f",
-    "published": "2026-07-14T18:25:51.000Z"
   },
   {
     "id": "7d60c1dd10bb5eaff695fcf525d54e1ac30eeae5",
@@ -166,30 +238,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything",
     "published": "2026-07-14T16:31:41.000Z"
-  },
-  {
-    "id": "ba302330d578233dfb0993a713e81a7bd16d852c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/36ba8e2e3fb3a15b1e74fb64c5ad11a212e00a80",
-    "published": "2026-07-14T15:31:46.000Z"
-  },
-  {
-    "id": "72673682e4559ff3a78c388897788f0ea9c7043f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ee54c78a85457e49b7bb75424a58e51381d05e2b",
-    "published": "2026-07-14T12:29:37.000Z"
   },
   {
     "id": "3b8b0400ac0f60807e2a17381257772b4178fc60",
@@ -238,18 +286,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything",
     "published": "2026-07-13T22:34:41.000Z"
-  },
-  {
-    "id": "7a715de2fcddc52489fc900bff5a66d2ff65bce4",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette code-frequency chart on GitHub",
-    "summary": "datasette code-frequency chart on GitHub Out of curiosity I decided to see if I could find a useful illustration of the impact of coding agents and Opus 4.5 class models on my own output. The best...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
-    "published": "2026-07-13T21:45:27.000Z"
   },
   {
     "id": "b9ae359ef57a087f5ce3ea0f26e893d07d399b07",
@@ -732,18 +768,6 @@
     "published": "2026-06-24T08:45:00.000Z"
   },
   {
-    "id": "ffbe77ecc5b30926ffbfe9a78f067726a7252952",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Slow down to speed up: so much has changed in 6 months’ time",
-    "summary": "An overview of what’s changed in engineering during the last six months, how various tech companies are changing how they work, and why slowing down could be a sensible strategy",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!zjyL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc59abcfc-a72d-4957-b4e0-9fd6bde46c98_2048x1365.jpeg",
-    "url": "https://newsletter.pragmaticengineer.com/p/slow-down-to-speed-up",
-    "published": "2026-06-23T15:30:26.000Z"
-  },
-  {
     "id": "7173e6f4192a940864f20363029b2f3b74258d69",
     "source": "antfu/skills",
     "type": "repo",
@@ -888,18 +912,6 @@
     "published": "2026-06-18T02:27:07.000Z"
   },
   {
-    "id": "76cdec98274381db7ca992a78ee07ef4ff1c6743",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "How to build high quality internal tools with Retool",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/cHdaCCpJ1CY/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/cHdaCCpJ1CY",
-    "published": "2026-06-17T21:21:11.000Z"
-  },
-  {
     "id": "28c0fc2d679a2d3967cc6b5f002ee2e177599bdc",
     "source": "Coding in Public",
     "type": "video",
@@ -934,18 +946,6 @@
     "thumbnail": "https://i.ytimg.com/vi/CrRQLy4DMw8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=CrRQLy4DMw8",
     "published": "2026-06-15T17:18:48.000Z"
-  },
-  {
-    "id": "a73a8ef91acc7d61eb1f8c82b31b837c2fa158b8",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Let your Hermes Agent call you on the phone using ElevenAgents",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/lr8pxKgFRrI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=lr8pxKgFRrI",
-    "published": "2026-06-11T15:28:54.000Z"
   },
   {
     "id": "b7160109cd59448f790742c411e9dddb268553cb",
