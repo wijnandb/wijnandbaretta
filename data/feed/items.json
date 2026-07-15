@@ -1,15 +1,123 @@
 [
   {
-    "id": "d82e760e0eb379415fcf46c9c0439ea79e0d76de",
-    "source": "Astro",
-    "type": "blog",
-    "category": "astro",
+    "id": "5b638ac9bf216b191222abd877c9f5dbc009ebdd",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
     "lang": "en",
-    "title": "Astro 7.1",
-    "summary": "Astro 7.1 is about more control: CSP, pagination, dev server, and content collections.",
+    "title": "Add resource: Vox director skill (#2263)",
+    "summary": "Add resource: Vox director skill (#2263) Category: Creative Media Author: Alisa Qian From issue: #2238 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2575d5360dc2fe8709b02221ee4223971500edf1",
+    "published": "2026-07-15T08:09:10.000Z"
+  },
+  {
+    "id": "0c8da19f42cbfc9fa621f7f5228498e2e5e9446e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c6954681c860c3d82be4dbd9ecd7b7c9b64f7b44",
+    "published": "2026-07-15T06:47:55.000Z"
+  },
+  {
+    "id": "86f9223f401a3faf8600dae8fc8ef96df70100b3",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e0ecd33b0e18ed39717c9b75ace90798dd0b7485",
+    "published": "2026-07-15T04:01:48.000Z"
+  },
+  {
+    "id": "2c0d6ab56aafab64fbb379b73c3a57d01eefe136",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/dbf79fc97bdb10460e417c6109618fdda2b6dee8",
+    "published": "2026-07-15T00:28:28.000Z"
+  },
+  {
+    "id": "22032595394fd9a07ec8b21fcb961612103d886a",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] not much happened today",
+    "summary": "a continuation: Codex adding 1M users a day now.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!uoZg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHNOP2m2bAAAC2k7.jpg",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-c72",
+    "published": "2026-07-14T23:54:07.000Z"
+  },
+  {
+    "id": "8ec1cf2be3ad5d8d1172abb7dd0c42d2a0509f9e",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
+    "summary": "At this year's AIE World’s Fair, AI engineering entered a new phase: building systems around agents, rather than just building with agents.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!3Be9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4e070d1-3be3-48a9-a86b-ceaf34f4577b_1672x941.png",
+    "url": "https://www.latent.space/p/aiewf26trends",
+    "published": "2026-07-14T23:21:21.000Z"
+  },
+  {
+    "id": "7b744818ee2a343ecf9fbaf12bd038c5f1ebc487",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting GitHub Changelog",
+    "summary": "Dependabot now waits until a new release has been available on its registry for at least three days before opening a version update pull request. This cooldown is now the default and requires no...",
     "thumbnail": null,
-    "url": "https://feat/blog/astro-710/",
-    "published": "2026-07-16T00:00:00.000Z"
+    "url": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything",
+    "published": "2026-07-14T22:43:35.000Z"
+  },
+  {
+    "id": "7304da59b75cdd1c302b64e1e82c9e818519a4d1",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "simonw/pedalican",
+    "summary": "simonw/pedalican Clearly I wasn't paying attention when these were first announced back in May, but today I accidentally activated a \"pet\" in Codex Desktop - a little animated robot, reminiscent of...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
+    "published": "2026-07-14T22:29:45.000Z"
+  },
+  {
+    "id": "3b1ea9defff36f898d71cfb18e2f8973193c44f5",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/193318798e3f8b4929180c3ca97fe51b9591609b",
+    "published": "2026-07-14T21:21:43.000Z"
+  },
+  {
+    "id": "296256cdf6cc9c5d07856ee22ad44249c87f43e4",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "lobste.rs is now running on SQLite",
+    "summary": "lobste.rs is now running on SQLite Community site Lobsters has been planning a migration away from MariaDB since August 2018 - originally targeting PostgreSQL, but last year they decided to...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything",
+    "published": "2026-07-14T19:44:11.000Z"
   },
   {
     "id": "82e188b6651b51fb7e09b9681fb912475b131b4d",
@@ -48,6 +156,18 @@
     "published": "2026-07-14T17:01:57.000Z"
   },
   {
+    "id": "12868e4abe711141cfaa44792b5bc3783f912c4f",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette 1.0a37",
+    "summary": "Release: datasette 1.0a37 A minor release. Performance and documentation improvements to the permissions system, plus I reverted a cosmetic API change which caused almost every existing plugin test...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything",
+    "published": "2026-07-14T16:31:41.000Z"
+  },
+  {
     "id": "ba302330d578233dfb0993a713e81a7bd16d852c",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -84,42 +204,6 @@
     "published": "2026-07-14T10:35:00.000Z"
   },
   {
-    "id": "bd37a5d993df75f4c9437e6d8a20497f3eb8a2bb",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a2f697a0b367dffab56793c3fc642f2b8a74c4ef",
-    "published": "2026-07-14T09:35:58.000Z"
-  },
-  {
-    "id": "e77c14379f3afc0b595ad69794ef53aa1089c0af",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d40d781f65b17d534b36dc1ed41062b3019e2e25",
-    "published": "2026-07-14T06:46:39.000Z"
-  },
-  {
-    "id": "8d8601c1a65dd072dc3e85f8a499013264317366",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/52399786a7c8c5df8ca42e112523788098ab1908",
-    "published": "2026-07-14T04:01:16.000Z"
-  },
-  {
     "id": "ac1def651d7c654d331c6e6b0fb0199a712d7bd9",
     "source": "Latent Space",
     "type": "podcast",
@@ -144,18 +228,6 @@
     "published": "2026-07-14T00:56:20.000Z"
   },
   {
-    "id": "bb5e207dd4651a6dd7f15b53c498bd4a0d8674d9",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/72553985f03128e6f4d6c2d99e2955c3bb73d9b1",
-    "published": "2026-07-14T00:31:00.000Z"
-  },
-  {
     "id": "0c061fa391a67363d593bbcec900bee168cfd6a9",
     "source": "Simon Willison",
     "type": "blog",
@@ -178,18 +250,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
     "published": "2026-07-13T21:45:27.000Z"
-  },
-  {
-    "id": "4410e8d33d5438f6b0e01c90cf71ca335b81cd6f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7053b673019eeceb43e4ef3bc0e7198c89636e72",
-    "published": "2026-07-13T21:21:04.000Z"
   },
   {
     "id": "b9ae359ef57a087f5ce3ea0f26e893d07d399b07",
@@ -310,54 +370,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
     "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/4b5aa1ce34b451fec6fbb0c4779eda7e0ef5e3e7",
     "published": "2026-07-13T10:53:41.000Z"
-  },
-  {
-    "id": "06045cdb41d127f788889893c7b37597047e4cd9",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Directly Responsible Individuals (DRI)",
-    "summary": "Directly Responsible Individuals (DRI) I went looking for a definition of \"Directly Responsible Individuals\" and the best I found was in the GitLab handbook. Apparently the term originated at Apple,...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything",
-    "published": "2026-07-12T23:57:14.000Z"
-  },
-  {
-    "id": "4efac0ca1a0909d21cffb3c605ebcb88fce30be0",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "shot-scraper 1.11",
-    "summary": "Release: shot-scraper 1.11 Some minor improvements, mainly around command option consistency and making the server: mechanism used by both shot-scraper video and shot-scraper multi work if the server...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything",
-    "published": "2026-07-12T23:46:52.000Z"
-  },
-  {
-    "id": "2bd97dd7e923b74e8fc405286789843edd213bfa",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Fable gets another bump",
-    "summary": "One of the consequences of GPT-5.6 Sol being clearly a Fable/Mythos class model is that Anthropic have, once again, bumped the date that Fable stops being available in their Claude Max plans: We're...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
-    "published": "2026-07-12T21:20:07.000Z"
-  },
-  {
-    "id": "a88663736fbe0de1c2c644a07ac14f69017cff9f",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "sqlite-utils 4.1.1",
-    "summary": "Release: sqlite-utils 4.1.1 Mainly a fix for an edge case that regular Claude chat spotted while experimenting with the 4.1 release to answer a question about ON DELETE. table.transform() now raises...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
-    "published": "2026-07-12T20:55:30.000Z"
   },
   {
     "id": "bae801bd2fdd04c9b68bb2781ca415384b7d39a4",
@@ -516,18 +528,6 @@
     "published": "2026-07-07T17:25:41.000Z"
   },
   {
-    "id": "663b198dfcc42cb1b474b88ce59411ad970c791a",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] The Field Guide to Fable",
-    "summary": "a quiet day lets us digest the world's most significant model launch... to date.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!p3LG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F179f6ab6-62ad-492e-bb2c-67f7f2dbb861_862x1396.png",
-    "url": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
-    "published": "2026-07-07T04:44:53.000Z"
-  },
-  {
     "id": "328ba9e51d2e8fae03f3d5e790b684a30e57eb71",
     "source": "Riley Brown",
     "type": "video",
@@ -550,18 +550,6 @@
     "thumbnail": "https://i.ytimg.com/vi/rKV5JcALQoQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
     "published": "2026-07-06T16:59:51.000Z"
-  },
-  {
-    "id": "9cba500f7b7921f0d7da87cf5d5e5911dabdece6",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
-    "summary": "The AI Engineer World’s Fair ended with a debate about loops, a report on the state of AI engineering, and closing keynotes focused on what to build next.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!M0WA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d4f7346-6688-4240-b077-16bf6f4a4a34_1280x815.jpeg",
-    "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
-    "published": "2026-07-03T05:11:43.000Z"
   },
   {
     "id": "300ce3325ded83f6b9a24b0ed9dfde0a6a9650c6",
@@ -648,7 +636,7 @@
     "published": "2026-06-30T11:19:17.000Z"
   },
   {
-    "id": "2428726e64d937a47e90ae8aef344902956a2ddc",
+    "id": "582c1bec315572fa98b115b2a863f2b552820fa7",
     "source": "Astro",
     "type": "blog",
     "category": "astro",
@@ -656,7 +644,7 @@
     "title": "What's new in Astro - June 2026",
     "summary": "June 2026 - Astro 7, summer swag collection, Astro Germany meetup, and more!",
     "thumbnail": null,
-    "url": "https://feat/blog/whats-new-june-2026/",
+    "url": "https://astro.build/blog/whats-new-june-2026/",
     "published": "2026-06-30T00:00:00.000Z"
   },
   {
@@ -828,7 +816,7 @@
     "published": "2026-06-22T09:37:53.000Z"
   },
   {
-    "id": "3166eb71c816545568ad44e3461e2c91cc80e8c2",
+    "id": "2b10473a37358e56fb07ea4584f222e0d9e38d73",
     "source": "Astro",
     "type": "blog",
     "category": "astro",
@@ -836,7 +824,7 @@
     "title": "Astro 7.0",
     "summary": "Astro 7.0 brings faster builds with Vite 8, a new Rust compiler, Advanced Routing, background dev server support, and structured logging.",
     "thumbnail": null,
-    "url": "https://feat/blog/astro-7/",
+    "url": "https://astro.build/blog/astro-7/",
     "published": "2026-06-22T00:00:00.000Z"
   },
   {
@@ -1044,7 +1032,7 @@
     "published": "2026-06-04T08:04:16.000Z"
   },
   {
-    "id": "2b053f6024645c337434dc068d4bcd6f4abb7980",
+    "id": "7189bad0ddda1aa37550b05edda7d29d3f52255b",
     "source": "Astro",
     "type": "blog",
     "category": "astro",
@@ -1052,7 +1040,7 @@
     "title": "Astro Mart: Summer 2026 Collection",
     "summary": "Get ready for a summer of sport with our new personalizable merch.",
     "thumbnail": null,
-    "url": "https://feat/blog/astro-mart-ss26/",
+    "url": "https://astro.build/blog/astro-mart-ss26/",
     "published": "2026-06-04T00:00:00.000Z"
   },
   {
@@ -1068,7 +1056,7 @@
     "published": "2026-06-02T12:17:34.000Z"
   },
   {
-    "id": "4559c9b7730d31904a24e9f373100634c069a1a7",
+    "id": "0a681af572e37e36561fd4902f5c2cf106704b09",
     "source": "Astro",
     "type": "blog",
     "category": "astro",
@@ -1076,7 +1064,7 @@
     "title": "What's new in Astro - May 2026",
     "summary": "May 2026 - A new Astro jobs board, TinaCMS makes Astro their default template, experimental advanced routing, and more!",
     "thumbnail": null,
-    "url": "https://feat/blog/whats-new-may-2026/",
+    "url": "https://astro.build/blog/whats-new-may-2026/",
     "published": "2026-05-31T00:00:00.000Z"
   },
   {
@@ -1092,7 +1080,7 @@
     "published": "2026-05-28T04:30:00.000Z"
   },
   {
-    "id": "3616ea9e69853b4703f453a3a407edd2fef669bb",
+    "id": "999ca2787ecc2b49f259e702a14db51488b89389",
     "source": "Astro",
     "type": "blog",
     "category": "astro",
@@ -1100,7 +1088,7 @@
     "title": "Astro 6.4",
     "summary": "Astro 6.4 introduces a new pluggable Markdown processor API, a Rust-based Markdown processor for faster builds, and helpers to wire up experimental advanced routing with Cloudflare.",
     "thumbnail": null,
-    "url": "https://feat/blog/astro-640/",
+    "url": "https://astro.build/blog/astro-640/",
     "published": "2026-05-28T00:00:00.000Z"
   },
   {
@@ -1176,7 +1164,7 @@
     "published": "2026-05-07T15:30:21.000Z"
   },
   {
-    "id": "fe8ffdcf097037b9ecd89ce2b103dd267bb6fe6e",
+    "id": "49f7e3b52683f986388027dfc63a691fb2aa9533",
     "source": "Astro",
     "type": "blog",
     "category": "astro",
@@ -1184,11 +1172,11 @@
     "title": "Astro 6.3",
     "summary": "Astro 6.3 introduces experimental advanced routing with Hono support, image redirect handling, resilient island hydration, and more.",
     "thumbnail": null,
-    "url": "https://feat/blog/astro-630/",
+    "url": "https://astro.build/blog/astro-630/",
     "published": "2026-05-07T00:00:00.000Z"
   },
   {
-    "id": "828b75446c53188f32cb8260937918c5f36a8707",
+    "id": "36db6549372972977954d84ea494166acd93fd92",
     "source": "Astro",
     "type": "blog",
     "category": "astro",
@@ -1196,7 +1184,19 @@
     "title": "Starlight 0.39",
     "summary": "Get more flexible autogenerated sidebars, improved styling, and stronger multilingual docs support with the latest Starlight release.",
     "thumbnail": null,
-    "url": "https://feat/blog/starlight-039/",
+    "url": "https://astro.build/blog/starlight-039/",
     "published": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "98c4762cc6b231dd983c38a736ab2e4d26ab7716",
+    "source": "AI Jason",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "New AI coding paradiagm - OpenAI Symphony",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/M_AmPWmkpwA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=M_AmPWmkpwA",
+    "published": "2026-05-02T11:45:03.000Z"
   }
 ]
