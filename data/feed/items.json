@@ -1,5 +1,89 @@
 [
   {
+    "id": "edcf79d3e334e7c38975bd971b43a12b705d7aca",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/dd4d0ba23f7e03577a30b00c1e66afad432dfd6d",
+    "published": "2026-07-16T06:51:37.000Z"
+  },
+  {
+    "id": "7b9538ff9de748fd76ecdb6969184390945fd3cb",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
+    "summary": "Thinky's first full LLM release is a banger and bonus: it's open weights!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!AvrX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90048da3-a87f-44d8-8ad4-e954031d2721_2540x1692.png",
+    "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
+    "published": "2026-07-16T06:18:05.000Z"
+  },
+  {
+    "id": "4afb488be138a27fa299c5a186e7b57d4bcf1cbe",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/11cc446f03eaa7fb5f036ea03c276e8d03096b85",
+    "published": "2026-07-16T04:02:39.000Z"
+  },
+  {
+    "id": "9904e67143d8f4a36b4b268c412121edbdbff9bf",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Mermaid to Unicode box art (grok-mermaid)",
+    "summary": "Tool: Mermaid to Unicode box art (grok-mermaid) While exploring the codebase for the newly open-sourced Grok CLI coding agent I came across xai-grok-markdown/src/mermaid.rs, a \"self-contained...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
+    "published": "2026-07-16T00:33:18.000Z"
+  },
+  {
+    "id": "7a66d185bf9598b977aba3c22057a047e17bac63",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8633f29f7297d8816a39571fdb5f094cedd8a7b3",
+    "published": "2026-07-16T00:32:13.000Z"
+  },
+  {
+    "id": "b83655916b3b9675003440bae0360b24abf5002e",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "xai-org/grok-build, now open source",
+    "summary": "xai-org/grok-build, now open source xAI's grok CLI tool faced severe community backlash yesterday when it became apparent that running the command in a directory could upload that entire directory to...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
+    "published": "2026-07-15T23:59:30.000Z"
+  },
+  {
+    "id": "0c7ca3238a736e491970832f7ed805ec3672f33c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/29c89431d2a4f2abc8bf5ceb1117eaa5c11d2995",
+    "published": "2026-07-15T21:22:00.000Z"
+  },
+  {
     "id": "98741c57530472c454ec2f8a342ca8a49cff5110",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -94,54 +178,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5241353f69df9f82dfb8119e6900aa42cbff062c",
     "published": "2026-07-15T09:38:37.000Z"
-  },
-  {
-    "id": "5b638ac9bf216b191222abd877c9f5dbc009ebdd",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: Vox director skill (#2263)",
-    "summary": "Add resource: Vox director skill (#2263) Category: Creative Media Author: Alisa Qian From issue: #2238 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2575d5360dc2fe8709b02221ee4223971500edf1",
-    "published": "2026-07-15T08:09:10.000Z"
-  },
-  {
-    "id": "0c8da19f42cbfc9fa621f7f5228498e2e5e9446e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c6954681c860c3d82be4dbd9ecd7b7c9b64f7b44",
-    "published": "2026-07-15T06:47:55.000Z"
-  },
-  {
-    "id": "86f9223f401a3faf8600dae8fc8ef96df70100b3",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e0ecd33b0e18ed39717c9b75ace90798dd0b7485",
-    "published": "2026-07-15T04:01:48.000Z"
-  },
-  {
-    "id": "2c0d6ab56aafab64fbb379b73c3a57d01eefe136",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/dbf79fc97bdb10460e417c6109618fdda2b6dee8",
-    "published": "2026-07-15T00:28:28.000Z"
   },
   {
     "id": "22032595394fd9a07ec8b21fcb961612103d886a",
@@ -262,30 +298,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!cqvt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09c078c3-d47d-4ab1-91e5-b09ad5d082dd_1388x902.png",
     "url": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
     "published": "2026-07-14T01:22:27.000Z"
-  },
-  {
-    "id": "ce449ffedfd5a51d23d16be8750105e953fc629f",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Using uvx in GitHub Actions in a cache-friendly way",
-    "summary": "TIL: Using uvx in GitHub Actions in a cache-friendly way I finally found a cache-friendly recipe for using uvx tool-name in GitHub Actions workflows that I like. The trick is setting a...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything",
-    "published": "2026-07-14T00:56:20.000Z"
-  },
-  {
-    "id": "0c061fa391a67363d593bbcec900bee168cfd6a9",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "DOOMQL",
-    "summary": "DOOMQL Peter Gostev built this using GPT-5.6 Sol. This is a lot of fun: DOOMQL started with a deliberately unreasonable question: what if SQLite were the game engine, not merely the place where a...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything",
-    "published": "2026-07-13T22:34:41.000Z"
   },
   {
     "id": "b9ae359ef57a087f5ce3ea0f26e893d07d399b07",
@@ -540,18 +552,6 @@
     "published": "2026-07-08T09:00:00.000Z"
   },
   {
-    "id": "b1619a08a4e225b927cd2751cad847bd3cfd8c07",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI",
-    "summary": "a quiet day lets us read some condensed insight",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!L_Ci!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F603a46c6-cedc-4b38-a660-2fa1d4b3f4ba_1626x1146.png",
-    "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
-    "published": "2026-07-08T02:20:25.000Z"
-  },
-  {
     "id": "b3dd400e1f5fb99bf9be12d71cf86f047bd29d73",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -569,7 +569,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Claude Fable 5 Built My Website in 20 Minutes (Here's How)",
+    "title": "Build Beautiful Websites with Claude Fable 5 (Full Guide)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/COh_cjrDOzc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=COh_cjrDOzc",
