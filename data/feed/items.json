@@ -1,5 +1,137 @@
 [
   {
+    "id": "c9e5b45fbc389de8770699ba390fc434f9153f4d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/493f414642d86dbffaa5cd3e15b7dcde1c1f3781",
+    "published": "2026-07-16T18:26:28.000Z"
+  },
+  {
+    "id": "ef95bf634b69c3827c36b545617ff2db0c3464e9",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Devin AI: The Full Beginner’s Guide (Better Than Claude Code?)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/Vyyrvna-hUY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Vyyrvna-hUY",
+    "published": "2026-07-16T18:25:15.000Z"
+  },
+  {
+    "id": "86e0223db308a364f92fc5d2b8365a6d4ed3b0a5",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Director by OpenArt",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/0v9MGS_GMWI/mqdefault.jpg",
+    "url": "https://www.youtube.com/shorts/0v9MGS_GMWI",
+    "published": "2026-07-16T18:12:23.000Z"
+  },
+  {
+    "id": "b62b68c93c9c8e0d123831efebe46e954bb74df6",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Thibault Sottiaux",
+    "summary": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: Full access mode is enabled and codex...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+    "published": "2026-07-16T17:45:59.000Z"
+  },
+  {
+    "id": "1bed9fef2ad668a60fadd271eae717738e61d6c7",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The Pulse: Grok’s CLI caught uploading all your local files to the cloud",
+    "summary": "Also: engineering leaders concerned about continued increase in code review load, devs at enterprises surprised by high enterprise pricing, and more",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!8VV3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa1de119-a4fd-4a85-b20a-bdc73c9db948_1182x842.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-groks-cli-caught-uploading",
+    "published": "2026-07-16T16:48:53.000Z"
+  },
+  {
+    "id": "586447921181d5f3b8866abc9115226924f03277",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Inkling: Our open-weights model",
+    "summary": "Inkling: Our open-weights model Mira Murati's Thinking Machines Lab just released their first open-weights model. Inkling is \"a Mixture-of-Experts transformer with 975B total parameters, 41B active\"...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
+    "published": "2026-07-16T15:35:25.000Z"
+  },
+  {
+    "id": "b6152ee84132d9026b0d820cad99eff3c82e1cbf",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1daa4de59c06e235b4a8fc74c39208fce0837e04",
+    "published": "2026-07-16T15:33:00.000Z"
+  },
+  {
+    "id": "8fc6f843647df067356a9a713ae3f3914a2839a0",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "🔬 The Lab of the Future Should Feel Like a Data Center — Andy Beam & Rafa Gómez-Bombarelli, Lila Sciences",
+    "summary": "Lila is betting that science, not the internet, is the last untapped source of training data. We went to find out what that actually looks like in a room full of robots.",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
+    "published": "2026-07-16T13:30:44.000Z"
+  },
+  {
+    "id": "cf5f6e5324b6e79e0896bc452fd3b8ecf0d06d22",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Linus Torvalds",
+    "summary": "I realize that some people really dislike AI, but this is an area where I'm willing to absolutely put my foot down as the top-level maintainer. Linux is not one of those anti-AI projects, and if...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything",
+    "published": "2026-07-16T13:26:10.000Z"
+  },
+  {
+    "id": "70e83c013b041a057893b64d5049bfb4b45ef928",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/94b9c759924b230bd96ee33b8ab1104d1afbed79",
+    "published": "2026-07-16T12:35:32.000Z"
+  },
+  {
+    "id": "46d2ce76ef841bbe992a5723a56be5127f09186c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ed6266f6bfd4fb06055f5fb3eec76b9b9bc29be3",
+    "published": "2026-07-16T09:42:26.000Z"
+  },
+  {
     "id": "edcf79d3e334e7c38975bd971b43a12b705d7aca",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -60,6 +192,18 @@
     "published": "2026-07-16T00:32:13.000Z"
   },
   {
+    "id": "64d67544739883affdae5ed08807d689b17825e0",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "Astro 7.1",
+    "summary": "Astro 7.1 is about more control: CSP, pagination, dev server, and content collections.",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/astro-710/",
+    "published": "2026-07-16T00:00:00.000Z"
+  },
+  {
     "id": "b83655916b3b9675003440bae0360b24abf5002e",
     "source": "Simon Willison",
     "type": "blog",
@@ -82,18 +226,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/29c89431d2a4f2abc8bf5ceb1117eaa5c11d2995",
     "published": "2026-07-15T21:22:00.000Z"
-  },
-  {
-    "id": "98741c57530472c454ec2f8a342ca8a49cff5110",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ff2b85a7c7c8a573976900b8a8128b26c785baca",
-    "published": "2026-07-15T18:26:24.000Z"
   },
   {
     "id": "86baf6bac5548d87a53f275bae4ddbac0b8d9a64",
@@ -120,18 +252,6 @@
     "published": "2026-07-15T16:08:59.000Z"
   },
   {
-    "id": "fbbad0059bc9ff5348a84da0b191c03fad82d165",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9ee81c79eea1a9dc9e0dd4d27f3c52051d9e3151",
-    "published": "2026-07-15T15:32:20.000Z"
-  },
-  {
     "id": "38e6035f3ab63f2b179b77c81e111d48d5a149f6",
     "source": "Simon Willison",
     "type": "blog",
@@ -154,30 +274,6 @@
     "thumbnail": "https://i.ytimg.com/vi/juPDqb89dew/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=juPDqb89dew",
     "published": "2026-07-15T13:00:36.000Z"
-  },
-  {
-    "id": "8413bd2103dcf2698b147d4e5fb64eef1e39adf6",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ef7cd2626525a1ca83ed2be565bc0926b47e3484",
-    "published": "2026-07-15T12:31:13.000Z"
-  },
-  {
-    "id": "d26786fd17a7d9b14195cae039ab0df5bf4bab5d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5241353f69df9f82dfb8119e6900aa42cbff062c",
-    "published": "2026-07-15T09:38:37.000Z"
   },
   {
     "id": "22032595394fd9a07ec8b21fcb961612103d886a",
@@ -228,30 +324,6 @@
     "published": "2026-07-14T22:29:45.000Z"
   },
   {
-    "id": "296256cdf6cc9c5d07856ee22ad44249c87f43e4",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "lobste.rs is now running on SQLite",
-    "summary": "lobste.rs is now running on SQLite Community site Lobsters has been planning a migration away from MariaDB since August 2018 - originally targeting PostgreSQL, but last year they decided to...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything",
-    "published": "2026-07-14T19:44:11.000Z"
-  },
-  {
-    "id": "7d60c1dd10bb5eaff695fcf525d54e1ac30eeae5",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Armin Ronacher",
-    "summary": "The shared language of a software project is not English or Python but it is the common understanding of what its concepts mean, where the boundaries are, which invariants matter, who owns what, and...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything",
-    "published": "2026-07-14T18:04:23.000Z"
-  },
-  {
     "id": "17b10d10d281c33edfb340673cd6f4c3865fb94c",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -262,18 +334,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!CaGY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d4f687c-ee1a-4bb9-89fe-148a7f8d07ca_2048x984.png",
     "url": "https://newsletter.pragmaticengineer.com/p/what-is-loop-engineering",
     "published": "2026-07-14T17:01:57.000Z"
-  },
-  {
-    "id": "12868e4abe711141cfaa44792b5bc3783f912c4f",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette 1.0a37",
-    "summary": "Release: datasette 1.0a37 A minor release. Performance and documentation improvements to the permissions system, plus I reverted a cosmetic API change which caused almost every existing plugin test...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything",
-    "published": "2026-07-14T16:31:41.000Z"
   },
   {
     "id": "3b8b0400ac0f60807e2a17381257772b4178fc60",
@@ -516,18 +576,6 @@
     "published": "2026-07-09T06:05:41.000Z"
   },
   {
-    "id": "a8ed1f4debb94db3759335107f3e4801deba475f",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO",
-    "summary": "2 years after our first coverage, we return with Modal's other cofounder to explore why Agent Experience is working now, and everything they have learned building the new agent cloud.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!a5RX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9828917e-57a7-443a-983c-da258c66a614_1714x264.png",
-    "url": "https://www.latent.space/p/modal2026",
-    "published": "2026-07-08T22:55:07.000Z"
-  },
-  {
     "id": "b73c8f825057786c1d16fa2529387976816afa5e",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -732,18 +780,6 @@
     "published": "2026-06-24T22:39:42.000Z"
   },
   {
-    "id": "4e8837a277e4a33c4e7c5bdcf0d21435fc363deb",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Tech interviews with NeetCode",
-    "summary": "NeetCode shares his journey from Amazon and Google to building a startup, and why deep expertise still matters in the age of AI.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!n08S!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4aa00181-983e-4747-8240-67654eae98f4_1600x140.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/tech-interviews-with-neetcode",
-    "published": "2026-06-24T17:32:34.000Z"
-  },
-  {
     "id": "7fe03624b868c7936c4345990ac64652e8d0248a",
     "source": "AI Jason",
     "type": "video",
@@ -852,18 +888,6 @@
     "published": "2026-06-22T00:00:00.000Z"
   },
   {
-    "id": "1997e2826a819a9fb08c8e7575e7b73c26df69e1",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "AI Agents Just Changed Forever: GLM 5.2, Codex Skills, Claude & Cursor",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/Nbynj-mKcNI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Nbynj-mKcNI",
-    "published": "2026-06-21T13:30:32.000Z"
-  },
-  {
     "id": "53eca6accbb538e6c12a8af409738db48429f500",
     "source": "AI Report",
     "type": "podcast",
@@ -898,18 +922,6 @@
     "thumbnail": "https://i.ytimg.com/vi/xeohvm11KmM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=xeohvm11KmM",
     "published": "2026-06-18T08:58:47.000Z"
-  },
-  {
-    "id": "d16e1c4d6abae4e54151eaaed209504bc9653187",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "9 AI Agent Skills To Get Ahead of 99% of People",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/vhyna9ur6Gc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=vhyna9ur6Gc",
-    "published": "2026-06-18T02:27:07.000Z"
   },
   {
     "id": "28c0fc2d679a2d3967cc6b5f002ee2e177599bdc",
@@ -1186,17 +1198,5 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/starlight-039/",
     "published": "2026-05-07T00:00:00.000Z"
-  },
-  {
-    "id": "98c4762cc6b231dd983c38a736ab2e4d26ab7716",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "New AI coding paradiagm - OpenAI Symphony",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/M_AmPWmkpwA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=M_AmPWmkpwA",
-    "published": "2026-05-02T11:45:03.000Z"
   }
 ]
