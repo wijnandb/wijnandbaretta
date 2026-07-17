@@ -1,5 +1,77 @@
 [
   {
+    "id": "11c68a5a0418721ff74b6c4808b664afc133df60",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/334f445760f609071a4dfa1a321abed5177e8752",
+    "published": "2026-07-17T18:23:43.000Z"
+  },
+  {
+    "id": "611c9323ba58357330d6ae33d88fd8f7ffec923d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7d97672fcd9c2d8204a2e62ce35510fbd2860e55",
+    "published": "2026-07-17T15:29:17.000Z"
+  },
+  {
+    "id": "103bc7df9c8703eae66fa58639095ea81cebba4b",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Kimi K3",
+    "summary": "Is there something I can actually help you with today? &mdash; Kimi K3, after refusing to leak its system prompt Tags: kimi, ai-personality, generative-ai, ai, llms",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
+    "published": "2026-07-17T13:43:53.000Z"
+  },
+  {
+    "id": "dd791c8f2c5710451fb671ea706f48a544c8909c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/003be1907fd81752537c35c8d0bfc88b60d5f733",
+    "published": "2026-07-17T12:28:20.000Z"
+  },
+  {
+    "id": "64131661223d4f848234bbd0b7bbbf79ba51a2b3",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "LLM cliché highlighter",
+    "summary": "Tool: LLM cliché highlighter I got frustrated reading yet another article that was crammed with the clichés of LLM-generated writing - \"no fluff, no filler, no jargon\" type stuff - so I had Fable 5...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
+    "published": "2026-07-17T12:11:11.000Z"
+  },
+  {
+    "id": "abb532c5633d18c7a4048f161648c273353032a6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8c168b832718ff262c1f62df3f3e4771a47cc984",
+    "published": "2026-07-17T09:36:03.000Z"
+  },
+  {
     "id": "63062a9e6d73321cb2ccf575f86332b541b1e905",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -96,18 +168,6 @@
     "published": "2026-07-16T20:19:30.000Z"
   },
   {
-    "id": "c9e5b45fbc389de8770699ba390fc434f9153f4d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/493f414642d86dbffaa5cd3e15b7dcde1c1f3781",
-    "published": "2026-07-16T18:26:28.000Z"
-  },
-  {
     "id": "ef95bf634b69c3827c36b545617ff2db0c3464e9",
     "source": "Riley Brown",
     "type": "video",
@@ -168,18 +228,6 @@
     "published": "2026-07-16T15:35:25.000Z"
   },
   {
-    "id": "b6152ee84132d9026b0d820cad99eff3c82e1cbf",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1daa4de59c06e235b4a8fc74c39208fce0837e04",
-    "published": "2026-07-16T15:33:00.000Z"
-  },
-  {
     "id": "71ea2ad9c790b47346d488ccbfbadd7e863b508b",
     "source": "Simon Willison",
     "type": "blog",
@@ -204,42 +252,6 @@
     "published": "2026-07-16T13:30:44.000Z"
   },
   {
-    "id": "cf5f6e5324b6e79e0896bc452fd3b8ecf0d06d22",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Linus Torvalds",
-    "summary": "I realize that some people really dislike AI, but this is an area where I'm willing to absolutely put my foot down as the top-level maintainer. Linux is not one of those anti-AI projects, and if...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything",
-    "published": "2026-07-16T13:26:10.000Z"
-  },
-  {
-    "id": "70e83c013b041a057893b64d5049bfb4b45ef928",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/94b9c759924b230bd96ee33b8ab1104d1afbed79",
-    "published": "2026-07-16T12:35:32.000Z"
-  },
-  {
-    "id": "46d2ce76ef841bbe992a5723a56be5127f09186c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ed6266f6bfd4fb06055f5fb3eec76b9b9bc29be3",
-    "published": "2026-07-16T09:42:26.000Z"
-  },
-  {
     "id": "7b9538ff9de748fd76ecdb6969184390945fd3cb",
     "source": "Latent Space",
     "type": "podcast",
@@ -250,18 +262,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!AvrX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90048da3-a87f-44d8-8ad4-e954031d2721_2540x1692.png",
     "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
     "published": "2026-07-16T06:18:05.000Z"
-  },
-  {
-    "id": "9904e67143d8f4a36b4b268c412121edbdbff9bf",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Mermaid to Unicode box art (grok-mermaid)",
-    "summary": "Tool: Mermaid to Unicode box art (grok-mermaid) While exploring the codebase for the newly open-sourced Grok CLI coding agent I came across xai-grok-markdown/src/mermaid.rs, a \"self-contained...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
-    "published": "2026-07-16T00:33:18.000Z"
   },
   {
     "id": "64d67544739883affdae5ed08807d689b17825e0",
