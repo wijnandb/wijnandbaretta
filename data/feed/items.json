@@ -1,5 +1,89 @@
 [
   {
+    "id": "0a24f941fbac19467433ad9fae35f062341c07d8",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3c9c15ed6835127aaf320393b9395d5847265c42",
+    "published": "2026-07-18T06:41:20.000Z"
+  },
+  {
+    "id": "3c690c812db8d5d4ebf845e679fe337596a899ad",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Claude make Fable 5 permanent",
+    "summary": "Claude make Fable 5 permanent An update from the @claudeai account on Twitter: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+    "published": "2026-07-18T06:00:13.000Z"
+  },
+  {
+    "id": "0bc93da60f4af79ce59813c5908cc0aa9864ee82",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "nascheme/quixote",
+    "summary": "nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago. The oldest commit in that repo is from 21...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything",
+    "published": "2026-07-18T05:27:49.000Z"
+  },
+  {
+    "id": "6d98c368c9e8110d7af17623609f65c6641e005c",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] not much happened today",
+    "summary": "a quiet day",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-830",
+    "published": "2026-07-18T04:30:21.000Z"
+  },
+  {
+    "id": "797d48a0fdf8223fee44809745d56392d2f775b4",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/406ec1a591e7be93d5cdcb5e4ba9e4410fe86fe9",
+    "published": "2026-07-18T04:00:59.000Z"
+  },
+  {
+    "id": "c98656888d477ce16394f34fe0c9f90b8bb0457b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e2ce90783d8f1f7400dd33be28b7164dbfe2068a",
+    "published": "2026-07-18T00:31:28.000Z"
+  },
+  {
+    "id": "e61f5a5550e5dc6ddb2e404cab3b5822ec822778",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5363e3e979f259d169c6c32100742476f2bb33eb",
+    "published": "2026-07-17T21:17:29.000Z"
+  },
+  {
     "id": "11c68a5a0418721ff74b6c4808b664afc133df60",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -72,30 +156,6 @@
     "published": "2026-07-17T09:36:03.000Z"
   },
   {
-    "id": "63062a9e6d73321cb2ccf575f86332b541b1e905",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/160da70f6cd78b82ad7264468c606cb00de04dd1",
-    "published": "2026-07-17T06:49:47.000Z"
-  },
-  {
-    "id": "a77fab41589a59710ee9228c924e3138f9fd0a8c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8484a6c06a72802abc5da259d719cd1e1368c6a8",
-    "published": "2026-07-17T04:02:13.000Z"
-  },
-  {
     "id": "8840673948d8c1a85807ad948884412088da368b",
     "source": "Simon Willison",
     "type": "blog",
@@ -120,18 +180,6 @@
     "published": "2026-07-17T01:46:36.000Z"
   },
   {
-    "id": "39794dcf06a0294b7fa98813e9bf8d99850a38f9",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7ef2a6ec9893eba222f11486befea5009265138d",
-    "published": "2026-07-17T00:33:57.000Z"
-  },
-  {
     "id": "d54546b30bf811a45971b084ad11a0d6c2342581",
     "source": "Simon Willison",
     "type": "blog",
@@ -142,18 +190,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
     "published": "2026-07-16T23:34:16.000Z"
-  },
-  {
-    "id": "240fdd8c6fed75daf798350b267bab4d20896318",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e4542037bd4ffbdc86e8c158b29f901e7d9cc789",
-    "published": "2026-07-16T21:23:02.000Z"
   },
   {
     "id": "546beebc583832390d29b57bcb6b07e4491b440b",
@@ -214,30 +250,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!8VV3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa1de119-a4fd-4a85-b20a-bdc73c9db948_1182x842.png",
     "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-groks-cli-caught-uploading",
     "published": "2026-07-16T16:48:53.000Z"
-  },
-  {
-    "id": "586447921181d5f3b8866abc9115226924f03277",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Inkling: Our open-weights model",
-    "summary": "Inkling: Our open-weights model Mira Murati's Thinking Machines Lab just released their first open-weights model. Inkling is \"a Mixture-of-Experts transformer with 975B total parameters, 41B active\"...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
-    "published": "2026-07-16T15:35:25.000Z"
-  },
-  {
-    "id": "71ea2ad9c790b47346d488ccbfbadd7e863b508b",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Mermaid to ASCII art (mermaid-ascii)",
-    "summary": "Tool: Mermaid to ASCII art (mermaid-ascii) After building the Mermaid to ASCII tool based on Grok Build's Rust code I learned that there's an older, more fully-featured Go library called...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything",
-    "published": "2026-07-16T14:57:39.000Z"
   },
   {
     "id": "8fc6f843647df067356a9a713ae3f3914a2839a0",
@@ -526,18 +538,6 @@
     "thumbnail": "https://i.ytimg.com/vi/-NhmnCbpAnM/mqdefault.jpg",
     "url": "https://www.youtube.com/shorts/-NhmnCbpAnM",
     "published": "2026-07-10T15:58:33.000Z"
-  },
-  {
-    "id": "f7ffe7c764e66c3e473e015027c8a6ac4a74f860",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
-    "summary": "A big day for OpenAI.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!S2WI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d7bcf2a-7c60-4e1d-9aaf-db0b03cc4801_1470x1406.png",
-    "url": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
-    "published": "2026-07-10T06:19:40.000Z"
   },
   {
     "id": "e6e38c0d3a100fdaed12c309219320ea83072b23",
