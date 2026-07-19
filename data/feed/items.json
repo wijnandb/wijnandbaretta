@@ -1,5 +1,89 @@
 [
   {
+    "id": "2f071f504352bc34475179efd58cfa62849016bd",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "feat: restore maintainer welcome-issue notification on resource merge",
+    "summary": "feat: restore maintainer welcome-issue notification on resource merge Reimplements the old notify-on-merge badge notifier for the current pipeline (the old one needed PyGithub + scripts.utils.*,...",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8830aaf6381b0c22ce25f20143707f6bd5b43c4b",
+    "published": "2026-07-19T06:58:42.000Z"
+  },
+  {
+    "id": "878c094849c1d564655b3182b286387cda1f358a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5e0e0f0e4b34fe47a3cd31e3232feeca86f76e7e",
+    "published": "2026-07-19T06:53:28.000Z"
+  },
+  {
+    "id": "c54ae55d46e9b8ec0725019e6d8147ab8537e01f",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "AI Mania Is Eviscerating Global Decision-Making",
+    "summary": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
+    "published": "2026-07-19T05:06:21.000Z"
+  },
+  {
+    "id": "27d84a9f1a0d12ec8ffdd106daae79e0dbce5e7f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e82a6955b11d3e7031e1a5c44f41847ba14e0c2b",
+    "published": "2026-07-19T04:11:33.000Z"
+  },
+  {
+    "id": "165d33e669f422b64d04e4e77dffe5c8cebe0e57",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Claude Code uses Bun written in Rust now",
+    "summary": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
+    "published": "2026-07-19T03:54:09.000Z"
+  },
+  {
+    "id": "fff44b46a40db44aee789d6ccd8d9a04e90f0d43",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6648d16b1df9e5b20e71ed6b8dffd9637683251f",
+    "published": "2026-07-19T00:34:12.000Z"
+  },
+  {
+    "id": "8194f6749dba7b1590429ebcec889d804483da0b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c10be961bf8e3e3f40cc58940e7ad7ef0a74196a",
+    "published": "2026-07-18T21:17:44.000Z"
+  },
+  {
     "id": "c7793e78261fec638ddfac69d989cfb48acd1aac",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -10,6 +94,18 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/29964aeacde69b5e65d82a5f38a06aa114930a97",
     "published": "2026-07-18T18:19:47.000Z"
+  },
+  {
+    "id": "ccfb0a129469c16c7a665826b4d177a8903d0a4c",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "SQLite Query Explainer",
+    "summary": "Tool: SQLite Query Explainer Julia Evan's, in Learning a few things about running SQLite: Maybe one day I’ll learn to read a query plan. Big same.... which inspired me to have Fable build this...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
+    "published": "2026-07-18T17:19:10.000Z"
   },
   {
     "id": "b2c9f1225848185e4032153752973a3529792e1d",
@@ -34,30 +130,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8c7356a6677212745c6cd13b85cc0388c503ab01",
     "published": "2026-07-18T12:19:58.000Z"
-  },
-  {
-    "id": "4355dfdedb165de61b8839f1aed698a9d1f7f342",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4266abec7f4376447fda06175f68db92ce2e118c",
-    "published": "2026-07-18T09:31:59.000Z"
-  },
-  {
-    "id": "0a24f941fbac19467433ad9fae35f062341c07d8",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3c9c15ed6835127aaf320393b9395d5847265c42",
-    "published": "2026-07-18T06:41:20.000Z"
   },
   {
     "id": "3c690c812db8d5d4ebf845e679fe337596a899ad",
@@ -94,42 +166,6 @@
     "thumbnail": null,
     "url": "https://www.latent.space/p/ainews-not-much-happened-today-830",
     "published": "2026-07-18T04:30:21.000Z"
-  },
-  {
-    "id": "797d48a0fdf8223fee44809745d56392d2f775b4",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/406ec1a591e7be93d5cdcb5e4ba9e4410fe86fe9",
-    "published": "2026-07-18T04:00:59.000Z"
-  },
-  {
-    "id": "c98656888d477ce16394f34fe0c9f90b8bb0457b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e2ce90783d8f1f7400dd33be28b7164dbfe2068a",
-    "published": "2026-07-18T00:31:28.000Z"
-  },
-  {
-    "id": "e61f5a5550e5dc6ddb2e404cab3b5822ec822778",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5363e3e979f259d169c6c32100742476f2bb33eb",
-    "published": "2026-07-17T21:17:29.000Z"
   },
   {
     "id": "103bc7df9c8703eae66fa58639095ea81cebba4b",
@@ -180,30 +216,6 @@
     "published": "2026-07-17T01:46:36.000Z"
   },
   {
-    "id": "d54546b30bf811a45971b084ad11a0d6c2342581",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Firefox in WebAssembly",
-    "summary": "Firefox in WebAssembly This is absurdly cool: Puter compiled Firefox to WebAssembly such that the whole browser runs in another browser. Here's my blog, running in Firefox, running in WebAssembly,...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
-    "published": "2026-07-16T23:34:16.000Z"
-  },
-  {
-    "id": "546beebc583832390d29b57bcb6b07e4491b440b",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-    "summary": "Chinese AI lab Moonshot AI announced Kimi K3 this morning, describing it as their \"most capable model to date, with 2.8 trillion parameters\". It's currently available via their website and API, but...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
-    "published": "2026-07-16T20:19:30.000Z"
-  },
-  {
     "id": "ef95bf634b69c3827c36b545617ff2db0c3464e9",
     "source": "Riley Brown",
     "type": "video",
@@ -226,18 +238,6 @@
     "thumbnail": "https://i.ytimg.com/vi/0v9MGS_GMWI/mqdefault.jpg",
     "url": "https://www.youtube.com/shorts/0v9MGS_GMWI",
     "published": "2026-07-16T18:12:23.000Z"
-  },
-  {
-    "id": "b62b68c93c9c8e0d123831efebe46e954bb74df6",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Thibault Sottiaux",
-    "summary": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: Full access mode is enabled and codex...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
-    "published": "2026-07-16T17:45:59.000Z"
   },
   {
     "id": "1bed9fef2ad668a60fadd271eae717738e61d6c7",
