@@ -1,5 +1,77 @@
 [
   {
+    "id": "fbb1505c274cfd437039ea4b871bc55f6a094d63",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7e73d2de58e0fe5322aa22dd2eee2187f1de15ac",
+    "published": "2026-07-19T18:20:02.000Z"
+  },
+  {
+    "id": "6be6846630f8c8e2d92dc3b77a80e0465480151b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "observability",
+    "summary": "observability",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/015ad3a24c5a91d62fd68f586c856a2a7fd6725a",
+    "published": "2026-07-19T16:26:48.000Z"
+  },
+  {
+    "id": "82c9088a5bf29826955ef99b62716bf42cf047ab",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "add obsidian",
+    "summary": "add obsidian",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7a1aced36384b5d891655be047a5f109b300b202",
+    "published": "2026-07-19T15:49:55.000Z"
+  },
+  {
+    "id": "fe073a42899a57225a1e7686d93e853ca584568c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3bf4a97f16d28eeb05fb978f316f0de2572b66fc",
+    "published": "2026-07-19T15:22:18.000Z"
+  },
+  {
+    "id": "d59f236c8e75cf0b02ef4251edcb6fb4a8470840",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0a56bcd312cf03f87593974f8cf8b849146c0329",
+    "published": "2026-07-19T12:20:03.000Z"
+  },
+  {
+    "id": "7f43bb05c56899baff289a3eba038382395a5634",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/77439d03a27a541f79bfde1dfe7368cb74c268d4",
+    "published": "2026-07-19T09:35:45.000Z"
+  },
+  {
     "id": "2f071f504352bc34475179efd58cfa62849016bd",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -36,18 +108,6 @@
     "published": "2026-07-19T05:06:21.000Z"
   },
   {
-    "id": "27d84a9f1a0d12ec8ffdd106daae79e0dbce5e7f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e82a6955b11d3e7031e1a5c44f41847ba14e0c2b",
-    "published": "2026-07-19T04:11:33.000Z"
-  },
-  {
     "id": "165d33e669f422b64d04e4e77dffe5c8cebe0e57",
     "source": "Simon Willison",
     "type": "blog",
@@ -60,42 +120,6 @@
     "published": "2026-07-19T03:54:09.000Z"
   },
   {
-    "id": "fff44b46a40db44aee789d6ccd8d9a04e90f0d43",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6648d16b1df9e5b20e71ed6b8dffd9637683251f",
-    "published": "2026-07-19T00:34:12.000Z"
-  },
-  {
-    "id": "8194f6749dba7b1590429ebcec889d804483da0b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c10be961bf8e3e3f40cc58940e7ad7ef0a74196a",
-    "published": "2026-07-18T21:17:44.000Z"
-  },
-  {
-    "id": "c7793e78261fec638ddfac69d989cfb48acd1aac",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/29964aeacde69b5e65d82a5f38a06aa114930a97",
-    "published": "2026-07-18T18:19:47.000Z"
-  },
-  {
     "id": "ccfb0a129469c16c7a665826b4d177a8903d0a4c",
     "source": "Simon Willison",
     "type": "blog",
@@ -106,30 +130,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
     "published": "2026-07-18T17:19:10.000Z"
-  },
-  {
-    "id": "b2c9f1225848185e4032153752973a3529792e1d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/658e52723250bb806ac9dcb2b928c3e3db129b7e",
-    "published": "2026-07-18T15:21:11.000Z"
-  },
-  {
-    "id": "bb43a2516d8d29257594c5b2007a47af3951ea24",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8c7356a6677212745c6cd13b85cc0388c503ab01",
-    "published": "2026-07-18T12:19:58.000Z"
   },
   {
     "id": "3c690c812db8d5d4ebf845e679fe337596a899ad",
