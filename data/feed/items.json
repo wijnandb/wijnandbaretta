@@ -1,5 +1,89 @@
 [
   {
+    "id": "578e1115394f483ab1a6623a912efb44d1c933b2",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Reverse-engineering is cheap now",
+    "summary": "I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate devices in their homes. I think this is an interesting illustration of the impact of the reduced cost of...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
+    "published": "2026-07-20T19:24:05.000Z"
+  },
+  {
+    "id": "ca28382a61d06bcc1622b8bc52b7a78bc0125f9f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/09f8001f8c84e385f854fbb2fa5af999b89a1aaa",
+    "published": "2026-07-20T18:39:51.000Z"
+  },
+  {
+    "id": "1ee0543e2b9be04c4a16d699d9861612f6b8af6c",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Who’s Afraid of Chinese Models?",
+    "summary": "Who’s Afraid of Chinese Models? Interesting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlicensed data, and...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything",
+    "published": "2026-07-20T17:09:19.000Z"
+  },
+  {
+    "id": "a663e8f2788346416ccff984037eb317931b3231",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c4679026cd5f973d378ba7c6533489248672e4d2",
+    "published": "2026-07-20T15:37:40.000Z"
+  },
+  {
+    "id": "59aad6da869f8287f2c2c22e60d15328d58a2d78",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a8b883d0d52c2a6285a1bcb113287ebe2a5ecbf2",
+    "published": "2026-07-20T12:45:15.000Z"
+  },
+  {
+    "id": "2e77c20f7079164d76ee1b93e59f8a5ed8fffcf1",
+    "source": "AI Jason",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Tmux + Fable = Cut 35% less token",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/wCSPgHpcxdc/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=wCSPgHpcxdc",
+    "published": "2026-07-20T11:19:33.000Z"
+  },
+  {
+    "id": "70150f0cd4a23bb2bc204509a3d26ba656075518",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c4f0fafbf8fdcfa6ee77c80d3cc8e3c2169cb4c7",
+    "published": "2026-07-20T10:04:03.000Z"
+  },
+  {
     "id": "b041857630e78f82d49a0565c7875c3876c659c8",
     "source": "Coding in Public",
     "type": "video",
@@ -84,54 +168,6 @@
     "published": "2026-07-19T21:18:04.000Z"
   },
   {
-    "id": "fbb1505c274cfd437039ea4b871bc55f6a094d63",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7e73d2de58e0fe5322aa22dd2eee2187f1de15ac",
-    "published": "2026-07-19T18:20:02.000Z"
-  },
-  {
-    "id": "6be6846630f8c8e2d92dc3b77a80e0465480151b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "observability",
-    "summary": "observability",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/015ad3a24c5a91d62fd68f586c856a2a7fd6725a",
-    "published": "2026-07-19T16:26:48.000Z"
-  },
-  {
-    "id": "82c9088a5bf29826955ef99b62716bf42cf047ab",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "add obsidian",
-    "summary": "add obsidian",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7a1aced36384b5d891655be047a5f109b300b202",
-    "published": "2026-07-19T15:49:55.000Z"
-  },
-  {
-    "id": "fe073a42899a57225a1e7686d93e853ca584568c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3bf4a97f16d28eeb05fb978f316f0de2572b66fc",
-    "published": "2026-07-19T15:22:18.000Z"
-  },
-  {
     "id": "c54ae55d46e9b8ec0725019e6d8147ab8537e01f",
     "source": "Simon Willison",
     "type": "blog",
@@ -186,7 +222,7 @@
     "category": "ai",
     "lang": "en",
     "title": "nascheme/quixote",
-    "summary": "nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago. The oldest commit in that repo is from 21...",
+    "summary": "nascheme/quixote A certain vintage of Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago. The oldest commit in that repo is from 21...",
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything",
     "published": "2026-07-18T05:27:49.000Z"
@@ -202,30 +238,6 @@
     "thumbnail": null,
     "url": "https://www.latent.space/p/ainews-not-much-happened-today-830",
     "published": "2026-07-18T04:30:21.000Z"
-  },
-  {
-    "id": "103bc7df9c8703eae66fa58639095ea81cebba4b",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Kimi K3",
-    "summary": "Is there something I can actually help you with today? &mdash; Kimi K3, after refusing to leak its system prompt Tags: kimi, ai-personality, generative-ai, ai, llms",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
-    "published": "2026-07-17T13:43:53.000Z"
-  },
-  {
-    "id": "64131661223d4f848234bbd0b7bbbf79ba51a2b3",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "LLM cliché highlighter",
-    "summary": "Tool: LLM cliché highlighter I got frustrated reading yet another article that was crammed with the clichés of LLM-generated writing - \"no fluff, no filler, no jargon\" type stuff - so I had Fable 5...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
-    "published": "2026-07-17T12:11:11.000Z"
   },
   {
     "id": "08f77354ddc372358dcab9d0bc759928f95555c2",
@@ -1185,18 +1197,6 @@
     "summary": "Astro 6.3 introduces experimental advanced routing with Hono support, image redirect handling, resilient island hydration, and more.",
     "thumbnail": null,
     "url": "https://astro.build/blog/astro-630/",
-    "published": "2026-05-07T00:00:00.000Z"
-  },
-  {
-    "id": "36db6549372972977954d84ea494166acd93fd92",
-    "source": "Astro",
-    "type": "blog",
-    "category": "astro",
-    "lang": "en",
-    "title": "Starlight 0.39",
-    "summary": "Get more flexible autogenerated sidebars, improved styling, and stronger multilingual docs support with the latest Starlight release.",
-    "thumbnail": null,
-    "url": "https://astro.build/blog/starlight-039/",
     "published": "2026-05-07T00:00:00.000Z"
   }
 ]
