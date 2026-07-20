@@ -1,5 +1,89 @@
 [
   {
+    "id": "b041857630e78f82d49a0565c7875c3876c659c8",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase Crash Course (Auth & Firestore) #2 - Email & Password Authentication",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/laY6fvlwa4c/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=laY6fvlwa4c",
+    "published": "2026-07-20T08:05:27.000Z"
+  },
+  {
+    "id": "8353f91cc5be72075f1c46297dfe0e4ed4d9ca15",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase Crash Course (Auth & Firestore) #1 - Intro & Firebase Setup",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/sXLpkGHbKRY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=sXLpkGHbKRY",
+    "published": "2026-07-20T08:05:23.000Z"
+  },
+  {
+    "id": "94fd8f3b41261455fb17d840057a8ee36e935a7a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f71a7a51f300bba3f22c6a160b6214bfcbe4bd18",
+    "published": "2026-07-20T07:07:43.000Z"
+  },
+  {
+    "id": "4d225fcf64ec6656ad1401856be1dd55b07a7845",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6b821b671c25e9e0a7c9fe15f13ee708eb400475",
+    "published": "2026-07-20T04:17:39.000Z"
+  },
+  {
+    "id": "b5d7973c852acead8ecdf2da1b702bfde1c0ad04",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Sam Altman",
+    "summary": "We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
+    "published": "2026-07-20T03:47:59.000Z"
+  },
+  {
+    "id": "b12650774a3c21844ed804c005702873fca5663a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bd2cc145622ded5dce8937c1dc81b6f1299902d4",
+    "published": "2026-07-20T00:35:26.000Z"
+  },
+  {
+    "id": "f083b7ba0b7ef31976b80af9bc641405a4276f80",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3abe0276a08a086ef95cd526bde68c5286400e8a",
+    "published": "2026-07-19T21:18:04.000Z"
+  },
+  {
     "id": "fbb1505c274cfd437039ea4b871bc55f6a094d63",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -46,54 +130,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3bf4a97f16d28eeb05fb978f316f0de2572b66fc",
     "published": "2026-07-19T15:22:18.000Z"
-  },
-  {
-    "id": "d59f236c8e75cf0b02ef4251edcb6fb4a8470840",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0a56bcd312cf03f87593974f8cf8b849146c0329",
-    "published": "2026-07-19T12:20:03.000Z"
-  },
-  {
-    "id": "7f43bb05c56899baff289a3eba038382395a5634",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/77439d03a27a541f79bfde1dfe7368cb74c268d4",
-    "published": "2026-07-19T09:35:45.000Z"
-  },
-  {
-    "id": "2f071f504352bc34475179efd58cfa62849016bd",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "feat: restore maintainer welcome-issue notification on resource merge",
-    "summary": "feat: restore maintainer welcome-issue notification on resource merge Reimplements the old notify-on-merge badge notifier for the current pipeline (the old one needed PyGithub + scripts.utils.*,...",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8830aaf6381b0c22ce25f20143707f6bd5b43c4b",
-    "published": "2026-07-19T06:58:42.000Z"
-  },
-  {
-    "id": "878c094849c1d564655b3182b286387cda1f358a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5e0e0f0e4b34fe47a3cd31e3232feeca86f76e7e",
-    "published": "2026-07-19T06:53:28.000Z"
   },
   {
     "id": "c54ae55d46e9b8ec0725019e6d8147ab8537e01f",
@@ -190,18 +226,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
     "published": "2026-07-17T12:11:11.000Z"
-  },
-  {
-    "id": "8840673948d8c1a85807ad948884412088da368b",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Spot birds not golf",
-    "summary": "Suggestion for hyperscalers feeling pressure over data center water use: Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
-    "published": "2026-07-17T02:58:07.000Z"
   },
   {
     "id": "08f77354ddc372358dcab9d0bc759928f95555c2",
@@ -617,7 +641,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Build Beautiful Websites with Claude Fable 5 (Full Guide)",
+    "title": "Build Amazing Websites with Claude Fable 5 (Full Guide)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/COh_cjrDOzc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=COh_cjrDOzc",
@@ -996,18 +1020,6 @@
     "published": "2026-06-09T09:04:07.000Z"
   },
   {
-    "id": "ed43d9dd7aea75bbed5adc14cc3468c86f2b19ec",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Copilot CLI Tutorial #10 - Code Review Agent",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/OeQP8BdfMDQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=OeQP8BdfMDQ",
-    "published": "2026-06-08T08:57:45.000Z"
-  },
-  {
     "id": "18db61fd54e915be9417aa460f91cac4fb04719f",
     "source": "Yusuke Wada",
     "type": "blog",
@@ -1030,18 +1042,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/wietse_doet_opeens_alles_in_codex_van_openai_nieuwe_claude_verzint_minder",
     "published": "2026-06-04T15:02:51.000Z"
-  },
-  {
-    "id": "085d917aedce6d5a60b3954ae96653fa4590545d",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Copilot CLI Tutorial #9 - Custom Agents",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/qunjUnH7W6U/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=qunjUnH7W6U",
-    "published": "2026-06-04T08:04:16.000Z"
   },
   {
     "id": "7189bad0ddda1aa37550b05edda7d29d3f52255b",
