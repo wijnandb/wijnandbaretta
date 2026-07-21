@@ -1,5 +1,113 @@
 [
   {
+    "id": "98e4973bf53c2eae550edd5eb755ae14ba114e6e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d3c889aa6bc927ecd293adb53d6ffe459900bf27",
+    "published": "2026-07-21T06:53:59.000Z"
+  },
+  {
+    "id": "a7ebc676210cd098aa8a9f3e9601054db9988997",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "wip",
+    "summary": "wip",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/505bde90ba426a90a034eda1601a9107d5413b2e",
+    "published": "2026-07-21T06:03:33.000Z"
+  },
+  {
+    "id": "ddbe0d912d2f967917ed8eb3c9446c9dd42b5091",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "wip",
+    "summary": "wip",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/92146d922d5832d13d745e6466914391d7b4e5c9",
+    "published": "2026-07-21T05:55:44.000Z"
+  },
+  {
+    "id": "4748bf018fd457bd7d3c4b84a80e62a1a3e03348",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "wip",
+    "summary": "wip",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/38ad512a350c040e81d87f667775309a73dcee3f",
+    "published": "2026-07-21T05:40:46.000Z"
+  },
+  {
+    "id": "8349bb67e3e9bbccf3180207af84eeb66c1f04f8",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9aaaadd9604798734405512ad351a8aa4b0acc01",
+    "published": "2026-07-21T04:04:23.000Z"
+  },
+  {
+    "id": "9c0be6c676b54ea5810af3fdcef85c2059c9793a",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] not much happened today",
+    "summary": "a quiet day.",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-173",
+    "published": "2026-07-21T03:58:00.000Z"
+  },
+  {
+    "id": "e68f036d8a009ec121c32b2e80df44a45cd319e8",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: claude-replay (#2312)",
+    "summary": "Add resource: claude-replay (#2312) Category: Creative Media Author: es617 From issue: #2311 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/569b290f0f476db3364f365909fc868b02b4934e",
+    "published": "2026-07-21T03:26:18.000Z"
+  },
+  {
+    "id": "c60aa880c27c40be150c03eafcd201f0c1279c14",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/84548e8414aea64eedfbcbb49ee09f0872075191",
+    "published": "2026-07-21T00:33:54.000Z"
+  },
+  {
+    "id": "eb4010d01499f198546a8cd07aa3723ee4df34e0",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e424aee25fadaa344947db8cf7b6466981fa6009",
+    "published": "2026-07-20T21:26:33.000Z"
+  },
+  {
     "id": "578e1115394f483ab1a6623a912efb44d1c933b2",
     "source": "Simon Willison",
     "type": "blog",
@@ -10,18 +118,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
     "published": "2026-07-20T19:24:05.000Z"
-  },
-  {
-    "id": "ca28382a61d06bcc1622b8bc52b7a78bc0125f9f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/09f8001f8c84e385f854fbb2fa5af999b89a1aaa",
-    "published": "2026-07-20T18:39:51.000Z"
   },
   {
     "id": "1ee0543e2b9be04c4a16d699d9861612f6b8af6c",
@@ -36,30 +132,6 @@
     "published": "2026-07-20T17:09:19.000Z"
   },
   {
-    "id": "a663e8f2788346416ccff984037eb317931b3231",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c4679026cd5f973d378ba7c6533489248672e4d2",
-    "published": "2026-07-20T15:37:40.000Z"
-  },
-  {
-    "id": "59aad6da869f8287f2c2c22e60d15328d58a2d78",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a8b883d0d52c2a6285a1bcb113287ebe2a5ecbf2",
-    "published": "2026-07-20T12:45:15.000Z"
-  },
-  {
     "id": "2e77c20f7079164d76ee1b93e59f8a5ed8fffcf1",
     "source": "AI Jason",
     "type": "video",
@@ -70,18 +142,6 @@
     "thumbnail": "https://i.ytimg.com/vi/wCSPgHpcxdc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=wCSPgHpcxdc",
     "published": "2026-07-20T11:19:33.000Z"
-  },
-  {
-    "id": "70150f0cd4a23bb2bc204509a3d26ba656075518",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c4f0fafbf8fdcfa6ee77c80d3cc8e3c2169cb4c7",
-    "published": "2026-07-20T10:04:03.000Z"
   },
   {
     "id": "b041857630e78f82d49a0565c7875c3876c659c8",
@@ -108,30 +168,6 @@
     "published": "2026-07-20T08:05:23.000Z"
   },
   {
-    "id": "94fd8f3b41261455fb17d840057a8ee36e935a7a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f71a7a51f300bba3f22c6a160b6214bfcbe4bd18",
-    "published": "2026-07-20T07:07:43.000Z"
-  },
-  {
-    "id": "4d225fcf64ec6656ad1401856be1dd55b07a7845",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6b821b671c25e9e0a7c9fe15f13ee708eb400475",
-    "published": "2026-07-20T04:17:39.000Z"
-  },
-  {
     "id": "b5d7973c852acead8ecdf2da1b702bfde1c0ad04",
     "source": "Simon Willison",
     "type": "blog",
@@ -142,30 +178,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
     "published": "2026-07-20T03:47:59.000Z"
-  },
-  {
-    "id": "b12650774a3c21844ed804c005702873fca5663a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bd2cc145622ded5dce8937c1dc81b6f1299902d4",
-    "published": "2026-07-20T00:35:26.000Z"
-  },
-  {
-    "id": "f083b7ba0b7ef31976b80af9bc641405a4276f80",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3abe0276a08a086ef95cd526bde68c5286400e8a",
-    "published": "2026-07-19T21:18:04.000Z"
   },
   {
     "id": "c54ae55d46e9b8ec0725019e6d8147ab8537e01f",
@@ -550,18 +562,6 @@
     "thumbnail": "https://i.ytimg.com/vi/Fv0XfyLT3xU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Fv0XfyLT3xU",
     "published": "2026-07-12T17:24:29.000Z"
-  },
-  {
-    "id": "41160de586448d3c26bf0d3c24801471e64efdfe",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] not much happened today",
-    "summary": "a quiet day after a week of nonstop model releases",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!7odD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa462b771-b4e5-4d7a-b815-ac4ca35903f4_1328x982.png",
-    "url": "https://www.latent.space/p/ainews-not-much-happened-today-f5c",
-    "published": "2026-07-11T02:53:08.000Z"
   },
   {
     "id": "e45f4f5d0685d7178de737de9669856aa523eead",
