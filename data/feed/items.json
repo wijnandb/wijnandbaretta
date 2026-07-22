@@ -1,5 +1,161 @@
 [
   {
+    "id": "8b30ff35003cb8383dc529870a6de5fbc105b672",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Fix entry formatting",
+    "summary": "Fix entry formatting",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/85f70312323ae476e06aab82b8bd5dff62154e8c",
+    "published": "2026-07-22T19:26:41.000Z"
+  },
+  {
+    "id": "46356f362c6d532f222484369e4474372535c3f8",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #8642 from 609NFT/add-vibekit-mcp",
+    "summary": "Merge pull request #8642 from 609NFT/add-vibekit-mcp Add vibekit-mcp (Coding Agents) 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/1f335eedfd3d1cf12d58b78f93c30aa476d13358",
+    "published": "2026-07-22T19:26:21.000Z"
+  },
+  {
+    "id": "85967c14fa5d08e28b2511ef826047d5d908da2f",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #9536 from frindly/add-topicforge-mcp",
+    "summary": "Merge pull request #9536 from frindly/add-topicforge-mcp Add TopicForge MCP server",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/a95d1158c87aca00c751b7b23c3146c8b35c30d7",
+    "published": "2026-07-22T19:26:08.000Z"
+  },
+  {
+    "id": "712e8135edb1b14f5f4d37e45573630751568cc2",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10391 from aeoess/add-agent-passport-mcp",
+    "summary": "Merge pull request #10391 from aeoess/add-agent-passport-mcp Add agent-passport-mcp (agent identity, delegation, signed receipts) 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/47c17e86ffbded8ca00a97097a8452f8025a97d4",
+    "published": "2026-07-22T19:21:05.000Z"
+  },
+  {
+    "id": "628f47a872944ae414a9f1b61bc6365f9225821b",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10595 from cygnussystems/add-cygnus-ssh-mcp",
+    "summary": "Merge pull request #10595 from cygnussystems/add-cygnus-ssh-mcp Add cygnus-ssh-mcp to Command Line",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/622943356f532a1753f6878b2c09e43717c3bb3c",
+    "published": "2026-07-22T19:10:07.000Z"
+  },
+  {
+    "id": "ed0cf003eee2d1bb2393a2f9bdfa4c7a19b904f1",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #9426 from billy12151/add-memory-arbiter",
+    "summary": "Merge pull request #9426 from billy12151/add-memory-arbiter Add memory-arbiter-mcp to Knowledge & Memory",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/a5007d210f7d79dbb550d500fdcc8eca73c6568d",
+    "published": "2026-07-22T19:02:58.000Z"
+  },
+  {
+    "id": "21d8e2ddf6ed03dbce123ccbfe999ff7ea4fee40",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10674 from ogasurfproject-jpg/patch-3",
+    "summary": "Merge pull request #10674 from ogasurfproject-jpg/patch-3 Add HORIZON SHIELD (construction estimate auditor)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/64ed236b0e45c129e2c7f5e19764aed216e8abff",
+    "published": "2026-07-22T19:01:37.000Z"
+  },
+  {
+    "id": "bec904249850d5c1e07610ffb3b535857a02604b",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #9024 from avotsai/add-avots",
+    "summary": "Merge pull request #9024 from avotsai/add-avots Add avots (hosted multi-model AI media + chat MCP server)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/052a10f0a04ea7e3068da9f2ed39f4bfe326f45a",
+    "published": "2026-07-22T18:55:56.000Z"
+  },
+  {
+    "id": "c69f9075238bba216b9cc4856b8acc0551515543",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/97fcb8731697d5cd791b83efa16c3a8831718540",
+    "published": "2026-07-22T18:27:29.000Z"
+  },
+  {
+    "id": "08c3f0dafe56fd7d95f764e400e22448dcfd90ac",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Introducing FineTunes Music API",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/HrDcpJV_JKc/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=HrDcpJV_JKc",
+    "published": "2026-07-22T16:20:58.000Z"
+  },
+  {
+    "id": "e470338048b3fec3ce3b99afc45e97637e76f51b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/020a9507f18efec015e92bdf2a59f8e4260036bf",
+    "published": "2026-07-22T15:33:57.000Z"
+  },
+  {
+    "id": "e7fafaa887f4f32d8d6f9b8c0ba3efd83c1f20d5",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b7c8d4440bee8fb4d1fc8c653772eb6c43615ee2",
+    "published": "2026-07-22T12:34:49.000Z"
+  },
+  {
+    "id": "a9dc3db3951bd666d96ea1f0a96aef54bea6d7d7",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5a9e68db8074d24da5b12efc6ffef8fab266e465",
+    "published": "2026-07-22T09:50:29.000Z"
+  },
+  {
     "id": "9b2929ad0431946ffd5a9c9fe1d184b376569389",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -72,102 +228,6 @@
     "published": "2026-07-21T21:27:39.000Z"
   },
   {
-    "id": "0edef840d150052cc5f788b25d69914f7efca60f",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10163 from FoundryNet/add-forge-industrial-iot",
-    "summary": "Merge pull request #10163 from FoundryNet/add-forge-industrial-iot Add Industrial & IoT category with FoundryNet Forge",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/04f55a7e9ea6f417f64d3ac7386a339346566ff1",
-    "published": "2026-07-21T20:41:06.000Z"
-  },
-  {
-    "id": "15a80c2e6a2c5644f53cff4c8b17830f2c3c2829",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #9058 from 0xJosee/add-truetick-mcp",
-    "summary": "Merge pull request #9058 from 0xJosee/add-truetick-mcp Add truetick-gg/mcp - TrueTick Minecraft hosting 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/6d287835797b85d7cbc5b45e5076dac03b5603f3",
-    "published": "2026-07-21T20:39:14.000Z"
-  },
-  {
-    "id": "123c01d94bbe2578e9868c93bbb690abfa49a6fe",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #9454 from ontorata/add-ratary-memory-mcp",
-    "summary": "Merge pull request #9454 from ontorata/add-ratary-memory-mcp Add Ratary Memory MCP to awesome-mcp-servers",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/632de8ea6ce1cb8c68d5085505440c039a448837",
-    "published": "2026-07-21T20:01:54.000Z"
-  },
-  {
-    "id": "4c69fad83f01efcf8865612fcaf0e7b5c7842f29",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #9850 from agentIgris/add-agentfund-mcp",
-    "summary": "Merge pull request #9850 from agentIgris/add-agentfund-mcp Add @agentfund/mcp to Finance & Fintech 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/e3123562d1b3970f650b5bc32ff049e624e29f64",
-    "published": "2026-07-21T19:55:27.000Z"
-  },
-  {
-    "id": "1605618255b5de4ad0af416bcd6abebdb1b0859f",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10183 from FI-Mihej/add-new-server-text_file_read…",
-    "summary": "Merge pull request #10183 from FI-Mihej/add-new-server-text_file_read_and_refactor_mcp Add FI-Mihej/text_file_read_and_refactor_mcp to File Systems",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/7258c7f3a91c18442c62d344c4d8ed1f77fcff5a",
-    "published": "2026-07-21T19:54:27.000Z"
-  },
-  {
-    "id": "d46ea8da626e2b1f8bc1a53798056477fef02c9f",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #9732 from ajdelaguila/data-olympus-knowledge-memo…",
-    "summary": "Merge pull request #9732 from ajdelaguila/data-olympus-knowledge-memory-20260709-1783618398447 Add Data Olympus to Knowledge & Memory 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/138332044897000f7757154ef37ae4515dd2a514",
-    "published": "2026-07-21T19:52:36.000Z"
-  },
-  {
-    "id": "f82906ba5ec869b43c196ee33f9d2c65a17860bc",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Fix entry formatting",
-    "summary": "Fix entry formatting",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/83ef10aaa03bb299756a44999f8b6ab52f7b9844",
-    "published": "2026-07-21T19:48:13.000Z"
-  },
-  {
-    "id": "9d742bff1b513e78735796dc32d58d1e1f15fde7",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10305 from slenderongithub/add-fix-protocol-mcp",
-    "summary": "Merge pull request #10305 from slenderongithub/add-fix-protocol-mcp Add fix-protocol-mcp",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/116afcd2cf95423ab2c4fc18eb282a290d55ef49",
-    "published": "2026-07-21T19:47:58.000Z"
-  },
-  {
     "id": "3f246cbfa870f6d874a70040b44181599bfcb745",
     "source": "Latent Space",
     "type": "podcast",
@@ -180,18 +240,6 @@
     "published": "2026-07-21T19:34:06.000Z"
   },
   {
-    "id": "e86d17020f2706f89b866356727fbad9d6d6d20b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/520ee52a1f0cb2a4762d8987ccd221c448172fd4",
-    "published": "2026-07-21T18:30:01.000Z"
-  },
-  {
     "id": "0d3944e966fea04a89c46d6cc3bbf9fa3bf94414",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -202,18 +250,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!Gp-r!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7d73bb2-e470-41b1-afe7-059ddbd78d55_1294x916.png",
     "url": "https://newsletter.pragmaticengineer.com/p/pushing-software-engineering-limits",
     "published": "2026-07-21T16:52:07.000Z"
-  },
-  {
-    "id": "f52ae9f36ff9bea36040f1b0f8d0991c6d77c8eb",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fdbda6e379b061508c4f8a065c361a19ce576cc9",
-    "published": "2026-07-21T15:34:52.000Z"
   },
   {
     "id": "99e42382ba8639f444250862eb3cf4f731c88374",
@@ -238,30 +274,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
     "published": "2026-07-21T12:54:02.000Z"
-  },
-  {
-    "id": "8bb1061e7d9fc2daa85f118af057f43a61e34084",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6a0af3a1e61f87b3ccc759577b7d3fcd11c39f03",
-    "published": "2026-07-21T12:34:22.000Z"
-  },
-  {
-    "id": "9db93b8f79339427c83509396ad0e2b0b2c515ae",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/47bd5857df69463ce2a567b0e213a7ba71a9913b",
-    "published": "2026-07-21T09:51:13.000Z"
   },
   {
     "id": "e681ac8d9c31d7a93408f82b40dea0b0d6ba904d",
@@ -994,18 +1006,6 @@
     "thumbnail": "https://i.ytimg.com/vi/H7LZb20-fUY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=H7LZb20-fUY",
     "published": "2026-06-16T09:47:26.000Z"
-  },
-  {
-    "id": "5df1778cf49cfadf4fc44d92dbfbff741f045019",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Introducing Music v2 API",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/CrRQLy4DMw8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=CrRQLy4DMw8",
-    "published": "2026-06-15T17:18:48.000Z"
   },
   {
     "id": "b7160109cd59448f790742c411e9dddb268553cb",
