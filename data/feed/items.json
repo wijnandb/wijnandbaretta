@@ -1,18 +1,150 @@
 [
   {
-    "id": "3f246cbfa870f6d874a70040b44181599bfcb745",
+    "id": "9b2929ad0431946ffd5a9c9fe1d184b376569389",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/884e80a9632b02957a2e5d7c5fcf91b8ec82e232",
+    "published": "2026-07-22T06:54:37.000Z"
+  },
+  {
+    "id": "1d7a3bec0988847c8cef52c7b866472b65eedecd",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/76bbb8b575b17865142996570b3612d0f11836e6",
+    "published": "2026-07-22T04:05:23.000Z"
+  },
+  {
+    "id": "0a8336e800ca6c6632673398b0409a7d1a7d68a8",
     "source": "Latent Space",
     "type": "podcast",
     "category": "ai",
     "lang": "en",
-    "title": "Causal Models Need Causal Data - Xaira’s X-Cell model for Drug Discovery (Bo Wang & Ci Chu, Chief Discovery Officer & Chief AI Scientist)",
-    "summary": "Xaira Therapeutics is all in on data generation for model building! We talk with Bo Wang and Ci Chu about how and why.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!4Uba!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6c52f8c-8d38-4f63-8daa-ff6ab52e3aa5_827x883.png",
-    "url": "https://www.latent.space/p/xaira",
-    "published": "2026-07-21T19:34:06.000Z"
+    "title": "[AINews] AI Cybersecurity becomes top of mind",
+    "summary": "Several new Cyber headlines make us observe a trend",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top",
+    "published": "2026-07-22T03:27:29.000Z"
   },
   {
-    "id": "4846410dd6a07d4962484d7f2d3a343d50bf452d",
+    "id": "0b8777becd42d2e186b2d30bf44fb4d61d73e691",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2555041bb88b0bd48206b7a84eab99beec3c8dd4",
+    "published": "2026-07-22T00:32:43.000Z"
+  },
+  {
+    "id": "e60744a35cd22640e50c2d558ba67ff3eb0a34d8",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "I Turned Codex Into a Business Growth Machine",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/gOx37on-iA8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=gOx37on-iA8",
+    "published": "2026-07-21T22:27:56.000Z"
+  },
+  {
+    "id": "6fe2be0478ed5ddccbb0e02e48b436030202f6e0",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2bc8d60c4fc19ac8dadd99d8dcad6a8f683b4d82",
+    "published": "2026-07-21T21:27:39.000Z"
+  },
+  {
+    "id": "0edef840d150052cc5f788b25d69914f7efca60f",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10163 from FoundryNet/add-forge-industrial-iot",
+    "summary": "Merge pull request #10163 from FoundryNet/add-forge-industrial-iot Add Industrial & IoT category with FoundryNet Forge",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/04f55a7e9ea6f417f64d3ac7386a339346566ff1",
+    "published": "2026-07-21T20:41:06.000Z"
+  },
+  {
+    "id": "15a80c2e6a2c5644f53cff4c8b17830f2c3c2829",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #9058 from 0xJosee/add-truetick-mcp",
+    "summary": "Merge pull request #9058 from 0xJosee/add-truetick-mcp Add truetick-gg/mcp - TrueTick Minecraft hosting 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/6d287835797b85d7cbc5b45e5076dac03b5603f3",
+    "published": "2026-07-21T20:39:14.000Z"
+  },
+  {
+    "id": "123c01d94bbe2578e9868c93bbb690abfa49a6fe",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #9454 from ontorata/add-ratary-memory-mcp",
+    "summary": "Merge pull request #9454 from ontorata/add-ratary-memory-mcp Add Ratary Memory MCP to awesome-mcp-servers",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/632de8ea6ce1cb8c68d5085505440c039a448837",
+    "published": "2026-07-21T20:01:54.000Z"
+  },
+  {
+    "id": "4c69fad83f01efcf8865612fcaf0e7b5c7842f29",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #9850 from agentIgris/add-agentfund-mcp",
+    "summary": "Merge pull request #9850 from agentIgris/add-agentfund-mcp Add @agentfund/mcp to Finance & Fintech 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/e3123562d1b3970f650b5bc32ff049e624e29f64",
+    "published": "2026-07-21T19:55:27.000Z"
+  },
+  {
+    "id": "1605618255b5de4ad0af416bcd6abebdb1b0859f",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10183 from FI-Mihej/add-new-server-text_file_read…",
+    "summary": "Merge pull request #10183 from FI-Mihej/add-new-server-text_file_read_and_refactor_mcp Add FI-Mihej/text_file_read_and_refactor_mcp to File Systems",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/7258c7f3a91c18442c62d344c4d8ed1f77fcff5a",
+    "published": "2026-07-21T19:54:27.000Z"
+  },
+  {
+    "id": "d46ea8da626e2b1f8bc1a53798056477fef02c9f",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #9732 from ajdelaguila/data-olympus-knowledge-memo…",
+    "summary": "Merge pull request #9732 from ajdelaguila/data-olympus-knowledge-memory-20260709-1783618398447 Add Data Olympus to Knowledge & Memory 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/138332044897000f7757154ef37ae4515dd2a514",
+    "published": "2026-07-21T19:52:36.000Z"
+  },
+  {
+    "id": "f82906ba5ec869b43c196ee33f9d2c65a17860bc",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
@@ -20,56 +152,32 @@
     "title": "Fix entry formatting",
     "summary": "Fix entry formatting",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/0e10576c264cfd85679667940c4db1e7b8330b86",
-    "published": "2026-07-21T19:30:18.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/83ef10aaa03bb299756a44999f8b6ab52f7b9844",
+    "published": "2026-07-21T19:48:13.000Z"
   },
   {
-    "id": "b3b3d64c8f2c059893f5b7a4f78e3b35d4e7aa01",
+    "id": "9d742bff1b513e78735796dc32d58d1e1f15fde7",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #9300 from seanmarkwei/patch-1",
-    "summary": "Merge pull request #9300 from seanmarkwei/patch-1 Add seanmarkwei/agentram-mcp to Memory",
+    "title": "Merge pull request #10305 from slenderongithub/add-fix-protocol-mcp",
+    "summary": "Merge pull request #10305 from slenderongithub/add-fix-protocol-mcp Add fix-protocol-mcp",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/8102c99f5cfa87803ecba061411d4e4b13551847",
-    "published": "2026-07-21T19:29:49.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/116afcd2cf95423ab2c4fc18eb282a290d55ef49",
+    "published": "2026-07-21T19:47:58.000Z"
   },
   {
-    "id": "4ad205bde3ab4cc4ec9122dd1faadbfac55a4bc2",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
+    "id": "3f246cbfa870f6d874a70040b44181599bfcb745",
+    "source": "Latent Space",
+    "type": "podcast",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #9672 from taygunsavas/add-patina-unity-mcp",
-    "summary": "Merge pull request #9672 from taygunsavas/add-patina-unity-mcp Add Patina Unity MCP",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/d237463933368f6eb59ebb63cd9631f7f753a2ff",
-    "published": "2026-07-21T19:23:28.000Z"
-  },
-  {
-    "id": "7d7e70ff98404888b4b65e9a482a2db4a559ded7",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10299 from damienmeur/add-argot-server",
-    "summary": "Merge pull request #10299 from damienmeur/add-argot-server Add get-tmonier/argot MCP server 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/94b92820e5ebe7090fdbce563c438979912ae0d7",
-    "published": "2026-07-21T19:19:22.000Z"
-  },
-  {
-    "id": "141cdad1f9454ceb06691094f9dacb95a66155cf",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #8273 from trendbender/patch-1",
-    "summary": "Merge pull request #8273 from trendbender/patch-1 Add Italy transfer MCP server to README",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/5a4dcc8dd1ab5c0aed1a23e0d2452770d6bcbf4b",
-    "published": "2026-07-21T19:15:16.000Z"
+    "title": "🔬Causal Models Need Causal Data - Xaira’s X-Cell model for Drug Discovery (Bo Wang & Ci Chu, Chief Discovery Officer & Chief AI Scientist)",
+    "summary": "Xaira Therapeutics is all in on data generation for model building! We talk with Bo Wang and Ci Chu about how and why.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!4Uba!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6c52f8c-8d38-4f63-8daa-ff6ab52e3aa5_827x883.png",
+    "url": "https://www.latent.space/p/xaira",
+    "published": "2026-07-21T19:34:06.000Z"
   },
   {
     "id": "e86d17020f2706f89b866356727fbad9d6d6d20b",
@@ -94,18 +202,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!Gp-r!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7d73bb2-e470-41b1-afe7-059ddbd78d55_1294x916.png",
     "url": "https://newsletter.pragmaticengineer.com/p/pushing-software-engineering-limits",
     "published": "2026-07-21T16:52:07.000Z"
-  },
-  {
-    "id": "519f3b5de72753f370e4da586fd723611e23ca9c",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add Glama score badge to get-tmonier/argot entry",
-    "summary": "Add Glama score badge to get-tmonier/argot entry",
-    "thumbnail": "https://avatars.githubusercontent.com/u/264271853?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/e5774be8e0aa7fdb40b0f171b13820c29debed25",
-    "published": "2026-07-21T15:45:05.000Z"
   },
   {
     "id": "f52ae9f36ff9bea36040f1b0f8d0991c6d77c8eb",
@@ -178,54 +274,6 @@
     "thumbnail": "https://i.ytimg.com/vi/RzpQfdvCh34/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=RzpQfdvCh34",
     "published": "2026-07-21T09:25:35.000Z"
-  },
-  {
-    "id": "98e4973bf53c2eae550edd5eb755ae14ba114e6e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d3c889aa6bc927ecd293adb53d6ffe459900bf27",
-    "published": "2026-07-21T06:53:59.000Z"
-  },
-  {
-    "id": "a7ebc676210cd098aa8a9f3e9601054db9988997",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "wip",
-    "summary": "wip",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/505bde90ba426a90a034eda1601a9107d5413b2e",
-    "published": "2026-07-21T06:03:33.000Z"
-  },
-  {
-    "id": "ddbe0d912d2f967917ed8eb3c9446c9dd42b5091",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "wip",
-    "summary": "wip",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/92146d922d5832d13d745e6466914391d7b4e5c9",
-    "published": "2026-07-21T05:55:44.000Z"
-  },
-  {
-    "id": "4748bf018fd457bd7d3c4b84a80e62a1a3e03348",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "wip",
-    "summary": "wip",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/38ad512a350c040e81d87f667775309a73dcee3f",
-    "published": "2026-07-21T05:40:46.000Z"
   },
   {
     "id": "9c0be6c676b54ea5810af3fdcef85c2059c9793a",
@@ -360,18 +408,6 @@
     "published": "2026-07-18T04:30:21.000Z"
   },
   {
-    "id": "0b474acd67568122395d474e5e81643663ea8d1c",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add get-tmonier/argot MCP server",
-    "summary": "Add get-tmonier/argot MCP server",
-    "thumbnail": "https://avatars.githubusercontent.com/u/264271853?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/193851f1e9bec543cb4b1617869d3d3143ad57bc",
-    "published": "2026-07-17T09:51:30.000Z"
-  },
-  {
     "id": "08f77354ddc372358dcab9d0bc759928f95555c2",
     "source": "Latent Space",
     "type": "podcast",
@@ -492,18 +528,6 @@
     "published": "2026-07-15T13:00:36.000Z"
   },
   {
-    "id": "6f7e593eb9a7f2e9b5c583349f1a9a203f977026",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add Glama score badge",
-    "summary": "Add Glama score badge",
-    "thumbnail": "https://avatars.githubusercontent.com/u/255992777?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/507e5aee5bb6ca9cd49a9ff34141656871bdd7e3",
-    "published": "2026-07-15T05:55:46.000Z"
-  },
-  {
     "id": "22032595394fd9a07ec8b21fcb961612103d886a",
     "source": "Latent Space",
     "type": "podcast",
@@ -514,18 +538,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!uoZg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHNOP2m2bAAAC2k7.jpg",
     "url": "https://www.latent.space/p/ainews-not-much-happened-today-c72",
     "published": "2026-07-14T23:54:07.000Z"
-  },
-  {
-    "id": "8ec1cf2be3ad5d8d1172abb7dd0c42d2a0509f9e",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
-    "summary": "At this year's AIE World’s Fair, AI engineering entered a new phase: building systems around agents, rather than just building with agents.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!3Be9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4e070d1-3be3-48a9-a86b-ceaf34f4577b_1672x941.png",
-    "url": "https://www.latent.space/p/aiewf26trends",
-    "published": "2026-07-14T23:21:21.000Z"
   },
   {
     "id": "17b10d10d281c33edfb340673cd6f4c3865fb94c",
@@ -814,18 +826,6 @@
     "thumbnail": "https://i.ytimg.com/vi/HrGl01TpZpA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=HrGl01TpZpA",
     "published": "2026-06-25T15:15:13.000Z"
-  },
-  {
-    "id": "44e40b2fd196a1fd5a13d2bb51ebb958ea69c423",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Poweful Agents inside Slack",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/C64tVVgquhc/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/C64tVVgquhc",
-    "published": "2026-06-24T22:39:42.000Z"
   },
   {
     "id": "7fe03624b868c7936c4345990ac64652e8d0248a",
