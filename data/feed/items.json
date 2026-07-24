@@ -1,15 +1,159 @@
 [
   {
-    "id": "761877aacffc42be1a81b78ce4b8c8c22793c016",
+    "id": "8340137beca112798999740c7c8dc536e6fd67e7",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d2dc31176ed742fafea85ca2ce86bf0376847674",
+    "published": "2026-07-24T06:53:32.000Z"
+  },
+  {
+    "id": "1651e280128c3d7c66fedbcb0d90c0220a3e2e55",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
+    "summary": "A HUGE win for BFL!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!3n0x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2080308957898481664.jpg",
+    "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
+    "published": "2026-07-24T04:30:12.000Z"
+  },
+  {
+    "id": "42cefd446d7e42df0c6a3bede0f487f439b298ed",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #7304 from isco-tec/feat/add-scorezilla",
-    "summary": "Merge pull request #7304 from isco-tec/feat/add-scorezilla Add scorezilla-mcp (Gaming): leaderboard provisioning + inspection",
+    "title": "Merge pull request #7296 from realMNohgee/add-hermtica",
+    "summary": "Merge pull request #7296 from realMNohgee/add-hermtica Add Hermtica — AI agent social network with MCP server",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/027b4b9d3ba973325f0bb82097e50b87f30d0b10",
-    "published": "2026-07-23T19:02:09.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/bf5e584ec3beafb98b2fb416bb8bdde4b29a809c",
+    "published": "2026-07-24T03:06:43.000Z"
+  },
+  {
+    "id": "bf1743aee39383f01236f67be794d7bf0a665c1d",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "fix: resolve merge conflict, keep both hermtica and veezeehq",
+    "summary": "fix: resolve merge conflict, keep both hermtica and veezeehq",
+    "thumbnail": "https://1.gravatar.com/avatar/b6e3b3bf85cfd0f41a23a19452e45e5d?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/e1e74584d8129239b0ddd80caa4b9b8b83de2925",
+    "published": "2026-07-24T03:00:08.000Z"
+  },
+  {
+    "id": "2c85473302aca6f9354b9bd27291f8051b00b7b6",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10413 from bensynapse/add-livetennisapi-mcp",
+    "summary": "Merge pull request #10413 from bensynapse/add-livetennisapi-mcp Add livetennisapi-mcp to Sports 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/df0609d0f7d475b723a5cd8bb3fd0247bc3206e7",
+    "published": "2026-07-24T01:51:28.000Z"
+  },
+  {
+    "id": "7664c682d061349b773e24484e1c4edd41f31abc",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/974374393a5b1c382212d896896d4b1a5d5ba624",
+    "published": "2026-07-24T00:31:23.000Z"
+  },
+  {
+    "id": "c1fd869804d622fc1cec9d04983f02d1740ad5d2",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Fix entry formatting",
+    "summary": "Fix entry formatting",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/c9b7fe6203b041eb56a6e3b48612c1695f482f21",
+    "published": "2026-07-24T00:08:37.000Z"
+  },
+  {
+    "id": "de1b97c644645d86b702081db193aa73fc8f9900",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Fix entry formatting",
+    "summary": "Fix entry formatting",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/4f10f7ebb638345f2f0036a334f3ae89aeefa48e",
+    "published": "2026-07-24T00:08:17.000Z"
+  },
+  {
+    "id": "c72439dbaff9a26da26bd9a620b50bfe4629c6d5",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10790 from Musk-aaan/add-muze-cmo",
+    "summary": "Merge pull request #10790 from Musk-aaan/add-muze-cmo Add Muze CMO (Marketing)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/31c7e7cf9451398ec35df735c8473d58a094c44d",
+    "published": "2026-07-23T23:59:37.000Z"
+  },
+  {
+    "id": "56f0a18267e22142719e1188fbbf7eb38e60b60a",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add Glama score badge; point entry at the listed repo",
+    "summary": "Add Glama score badge; point entry at the listed repo Per the review requirement: the server is now submitted and evaluated on Glama, and the listing is claimed/verified by the Agent-Prod org. Entry...",
+    "thumbnail": "https://avatars.githubusercontent.com/u/100521409?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/0e27c5bd3d0ac8dbb26b486b3d371fdd24fb3bd1",
+    "published": "2026-07-23T23:50:04.000Z"
+  },
+  {
+    "id": "dc52ca5a9a9312f46b53a0c326a09b94d160cea1",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+    "summary": "The first known runaway AI agent - or a very bad marketing stunt? Martin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+    "published": "2026-07-23T22:53:08.000Z"
+  },
+  {
+    "id": "10a15e9c97fa2fbd355deb9a6ae7b27b9960811d",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10409 from infinityedgetadmin/add-ctxfile",
+    "summary": "Merge pull request #10409 from infinityedgetadmin/add-ctxfile Add ctxfile to Knowledge & Memory",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/557d7c4fc8e2c5ec31fae24027780a5d2e4afeb4",
+    "published": "2026-07-23T22:01:10.000Z"
+  },
+  {
+    "id": "ce1185039572765cf1c7c3d55d6a2804fb846388",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e7138ae9b355d69dfbe73a007fb89f900f71362e",
+    "published": "2026-07-23T21:25:05.000Z"
   },
   {
     "id": "de35f3e9fceac86bb08f9903d3e858035f55194d",
@@ -22,90 +166,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/81bc570c4c7bf6cb598ec9c1daf78fccec3531e8",
     "published": "2026-07-23T18:28:53.000Z"
-  },
-  {
-    "id": "a017b577e1602f62210d7665139f69b786d19ca1",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10767 from andreychernikh/add-machinegrade-validate",
-    "summary": "Merge pull request #10767 from andreychernikh/add-machinegrade-validate Add machinegrade/validate (Developer Tools)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/cc174b6e08344a2637afe44eae9eb6f10c522710",
-    "published": "2026-07-23T17:49:43.000Z"
-  },
-  {
-    "id": "f443692edab08114dff00c5f0123107e8bf969ee",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10581 from jmpdsevilla/main",
-    "summary": "Merge pull request #10581 from jmpdsevilla/main Add BovedIA to Knowledge & Memory",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/e2ff77b969be2a522be79469b9c2cdab38f5408c",
-    "published": "2026-07-23T17:33:22.000Z"
-  },
-  {
-    "id": "2fb1cab38c83859d7ad0f203735fabeaea8e8124",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10781 from HalidSaglam/add-saglitzdesign-mcp",
-    "summary": "Merge pull request #10781 from HalidSaglam/add-saglitzdesign-mcp Add saglitzdesign-mcp (Architecture & Design)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/daa319ed90d0061744d765e56fcfcdaaf4f20e52",
-    "published": "2026-07-23T17:22:29.000Z"
-  },
-  {
-    "id": "ce7bbad3bbb31bdd338afdd14e821f3c7f24f41b",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add Glama score badge",
-    "summary": "Add Glama score badge",
-    "thumbnail": "https://2.gravatar.com/avatar/443629ad20f0272ea143df4bad38b8e7?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/6dd72f0484a10ec1edf17718599f58b7ee2c0cc4",
-    "published": "2026-07-23T17:22:03.000Z"
-  },
-  {
-    "id": "61a31be4a0a514e1e9e4bf4facd4341fda408bb9",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add jmpdsevilla/BovedIA to Knowledge & Memory",
-    "summary": "Add jmpdsevilla/BovedIA to Knowledge & Memory",
-    "thumbnail": "https://avatars.githubusercontent.com/u/130416715?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/4f020add3df4853a35e79e96c823694cbaa684a2",
-    "published": "2026-07-23T17:13:26.000Z"
-  },
-  {
-    "id": "8eedb0f58e5a3e966711a461bc398b8d22f5132d",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add saglitzdesign-mcp to Architecture & Design",
-    "summary": "Add saglitzdesign-mcp to Architecture & Design",
-    "thumbnail": "https://avatars.githubusercontent.com/u/101805109?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/75ab86d2a0f815dd92683e45d72d68e6e0414078",
-    "published": "2026-07-23T16:53:52.000Z"
-  },
-  {
-    "id": "f775d3c86add53b69b86c25eae716465bfaf17b8",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #9123 from polsolbridge/main",
-    "summary": "Merge pull request #9123 from polsolbridge/main Add SwapTitan (solana-swap-api) — non-custodial swap MCP server",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/a31460fb6caa740b1c14e9b56feeb5b112d22210",
-    "published": "2026-07-23T16:09:17.000Z"
   },
   {
     "id": "01df3619cdf60a7b0b4e82bebebf529be82f79fc",
@@ -216,30 +276,6 @@
     "published": "2026-07-23T04:50:36.000Z"
   },
   {
-    "id": "3aa0fba92a5afe89a47ad960aa2b726d7cc1f0f0",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0b659522b680c557febfd98152b0d1b4a376f517",
-    "published": "2026-07-23T04:04:28.000Z"
-  },
-  {
-    "id": "9f1fdf17e66216f2cdfce685a06132af08b5b6e1",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7f15755885fbe5036771f80f3edc5c38f30cf90e",
-    "published": "2026-07-23T00:34:15.000Z"
-  },
-  {
     "id": "1c709fbdce5f5af7d86192b39d14b02f40692574",
     "source": "Simon Willison",
     "type": "blog",
@@ -274,18 +310,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything",
     "published": "2026-07-22T23:01:00.000Z"
-  },
-  {
-    "id": "8dca85f70534299b7aa62e1f2d49730e03dd6ab1",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/df98307baae0b54827b31d4a3dbcc50967b05bb8",
-    "published": "2026-07-22T21:25:38.000Z"
   },
   {
     "id": "08c3f0dafe56fd7d95f764e400e22448dcfd90ac",
@@ -342,7 +366,7 @@
     "category": "ai",
     "lang": "en",
     "title": "California Sea Lion",
-    "summary": "California Sea Lion, in San Francisco County, US, CAWe took some visiting family to Pier 39 to see the sea lions. They're somehow always even fun than I remember them being last time. Tags:...",
+    "summary": "California Sea Lion, in San Francisco County, US, CAWe took some visiting family to Pier 39 to see the sea lions. They're somehow always even more fun than I remember them being last time. Tags:...",
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything",
     "published": "2026-07-21T19:51:03.000Z"
@@ -382,18 +406,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
     "published": "2026-07-21T14:22:27.000Z"
-  },
-  {
-    "id": "009d8ac6eee77af2de25915a27166943cefa902c",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "A Fireside Chat with Cat and Thariq from the Claude Code team",
-    "summary": "Earlier this month I hosted a fireside chat session at the AI Engineer World's Fair with Cat Wu and Thariq Shihipar from Anthropic's Claude Code team. We talked about Claude Code, Claude Tag, Fable,...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
-    "published": "2026-07-21T12:54:02.000Z"
   },
   {
     "id": "e681ac8d9c31d7a93408f82b40dea0b0d6ba904d",
@@ -514,18 +526,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!8VV3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa1de119-a4fd-4a85-b20a-bdc73c9db948_1182x842.png",
     "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-groks-cli-caught-uploading",
     "published": "2026-07-16T16:48:53.000Z"
-  },
-  {
-    "id": "8fc6f843647df067356a9a713ae3f3914a2839a0",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "🔬 The Lab of the Future Should Feel Like a Data Center — Andy Beam & Rafa Gómez-Bombarelli, Lila Sciences",
-    "summary": "Lila is betting that science, not the internet, is the last untapped source of training data. We went to find out what that actually looks like in a room full of robots.",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
-    "published": "2026-07-16T13:30:44.000Z"
   },
   {
     "id": "64d67544739883affdae5ed08807d689b17825e0",
