@@ -1,5 +1,173 @@
 [
   {
+    "id": "63491185dc66183973da90a1fb6cfb10ebc24f2d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/587fc42770afe285b8f434c7aea0bf8c06f574f5",
+    "published": "2026-07-24T18:32:33.000Z"
+  },
+  {
+    "id": "0e753f0f02f89efe873d05e217ad1af3943007ef",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "OpenAI just released Codex Voice (It's basically Jarvis)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/hLFs9JtMaRg/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=hLFs9JtMaRg",
+    "published": "2026-07-24T16:09:30.000Z"
+  },
+  {
+    "id": "168235a69a5e10c5668ef24c9389f949c12d7c76",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4baac2ca85af06d1a5a733014b5d00030123befa",
+    "published": "2026-07-24T15:31:02.000Z"
+  },
+  {
+    "id": "4de4f2f3c91b968d82519e9a08eeb748a71592b8",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10588 from fixlyai/add-reelier",
+    "summary": "Merge pull request #10588 from fixlyai/add-reelier Add Reelier (deterministic tool-call replay + drift diff)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/1ff959355cbdcb961a993d3087b52327c67a9acd",
+    "published": "2026-07-24T15:10:33.000Z"
+  },
+  {
+    "id": "16be7e1fa69cd0e17729212e74da40658b09a7b1",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #6939 from Crindo2/add-getpracticehelp",
+    "summary": "Merge pull request #6939 from Crindo2/add-getpracticehelp Add GetPracticeHelp to Biology, Medicine and Bioinformatics 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/3f49f96cfa24aeb7a217e9da70c5d39d60020614",
+    "published": "2026-07-24T14:23:20.000Z"
+  },
+  {
+    "id": "3145527bba60c7d111f2ec5c6a188fe410ded6b3",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Update README to add Glama score badge; correct copy to 76,000+ curat…",
+    "summary": "Update README to add Glama score badge; correct copy to 76,000+ curated vendors Added the Glama score badge and corrected the listing copy. Ready for re-review — thanks!",
+    "thumbnail": "https://avatars.githubusercontent.com/u/272539829?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/05210f75bca51fdaff28560203f369ca1aae40c6",
+    "published": "2026-07-24T14:16:52.000Z"
+  },
+  {
+    "id": "351a2b1c227419b471b199c854c6751c352a8463",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Fix: remove broken Glama badge URL (connector path has no SVG endpoint)",
+    "summary": "Fix: remove broken Glama badge URL (connector path has no SVG endpoint)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/272539829?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/f511591687de42c56854fcf8c9dba3e38a9e2955",
+    "published": "2026-07-24T14:16:25.000Z"
+  },
+  {
+    "id": "d39be70c287ef7ebd066cc748689145fa2140347",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add GetPracticeHelp to Biology, Medicine and Bioinformatics",
+    "summary": "Add GetPracticeHelp to Biology, Medicine and Bioinformatics",
+    "thumbnail": "https://avatars.githubusercontent.com/u/272539829?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/642e02bd9d4b9af1541dab51cf7bc8cd47659d86",
+    "published": "2026-07-24T14:15:48.000Z"
+  },
+  {
+    "id": "5c60d6d82fa69038284a421244f89fbd009acb65",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10840 from MGM-FALCON/add-quelllm-mcp",
+    "summary": "Merge pull request #10840 from MGM-FALCON/add-quelllm-mcp Add quelllm-mcp to Developer Tools",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/b81b4fca6aba4d013acf93b5c946212f0e23ff0b",
+    "published": "2026-07-24T14:09:28.000Z"
+  },
+  {
+    "id": "0009e81d0f013e4516e13149de00b108fb8e3fc7",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10570 from Luminc/add-peil-mcp",
+    "summary": "Merge pull request #10570 from Luminc/add-peil-mcp Add peil-mcp (Finance & Fintech) 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/1c3ef60516196145b920a49fcf0c044f9e725973",
+    "published": "2026-07-24T14:08:13.000Z"
+  },
+  {
+    "id": "e9d581868652d125c122e0680f88c2195376d91e",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add quelllm-mcp to Developer Tools (with Glama score badge)",
+    "summary": "Add quelllm-mcp to Developer Tools (with Glama score badge)",
+    "thumbnail": "https://1.gravatar.com/avatar/eb97fbe998c29c8c27abce03d8ce6d5e?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/c972d8d0aaea10288f486ccb27c1b3e745fa33ac",
+    "published": "2026-07-24T14:02:39.000Z"
+  },
+  {
+    "id": "7e2fa475b43e395b68d2fbdb88a973d5238c0160",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase Crash Course (Auth & Firestore) #5 - Outputting User Details",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/GCYGoQJv3Fg/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=GCYGoQJv3Fg",
+    "published": "2026-07-24T13:23:01.000Z"
+  },
+  {
+    "id": "e59a1e680ded63fd029b285c732ac3bb989f4a21",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8e558637c7fe8ebd30658081a1a66648dac9d407",
+    "published": "2026-07-24T12:32:57.000Z"
+  },
+  {
+    "id": "7c0424aa8336f71fd3c766941717a027a4d6352c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/abff8388a115fb7ff006aefd8b2475e6c6a0718a",
+    "published": "2026-07-24T09:49:13.000Z"
+  },
+  {
     "id": "8340137beca112798999740c7c8dc536e6fd67e7",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -24,42 +192,6 @@
     "published": "2026-07-24T04:30:12.000Z"
   },
   {
-    "id": "42cefd446d7e42df0c6a3bede0f487f439b298ed",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #7296 from realMNohgee/add-hermtica",
-    "summary": "Merge pull request #7296 from realMNohgee/add-hermtica Add Hermtica — AI agent social network with MCP server",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/bf5e584ec3beafb98b2fb416bb8bdde4b29a809c",
-    "published": "2026-07-24T03:06:43.000Z"
-  },
-  {
-    "id": "bf1743aee39383f01236f67be794d7bf0a665c1d",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "fix: resolve merge conflict, keep both hermtica and veezeehq",
-    "summary": "fix: resolve merge conflict, keep both hermtica and veezeehq",
-    "thumbnail": "https://1.gravatar.com/avatar/b6e3b3bf85cfd0f41a23a19452e45e5d?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/e1e74584d8129239b0ddd80caa4b9b8b83de2925",
-    "published": "2026-07-24T03:00:08.000Z"
-  },
-  {
-    "id": "2c85473302aca6f9354b9bd27291f8051b00b7b6",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10413 from bensynapse/add-livetennisapi-mcp",
-    "summary": "Merge pull request #10413 from bensynapse/add-livetennisapi-mcp Add livetennisapi-mcp to Sports 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/df0609d0f7d475b723a5cd8bb3fd0247bc3206e7",
-    "published": "2026-07-24T01:51:28.000Z"
-  },
-  {
     "id": "7664c682d061349b773e24484e1c4edd41f31abc",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -72,54 +204,6 @@
     "published": "2026-07-24T00:31:23.000Z"
   },
   {
-    "id": "c1fd869804d622fc1cec9d04983f02d1740ad5d2",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Fix entry formatting",
-    "summary": "Fix entry formatting",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/c9b7fe6203b041eb56a6e3b48612c1695f482f21",
-    "published": "2026-07-24T00:08:37.000Z"
-  },
-  {
-    "id": "de1b97c644645d86b702081db193aa73fc8f9900",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Fix entry formatting",
-    "summary": "Fix entry formatting",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/4f10f7ebb638345f2f0036a334f3ae89aeefa48e",
-    "published": "2026-07-24T00:08:17.000Z"
-  },
-  {
-    "id": "c72439dbaff9a26da26bd9a620b50bfe4629c6d5",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10790 from Musk-aaan/add-muze-cmo",
-    "summary": "Merge pull request #10790 from Musk-aaan/add-muze-cmo Add Muze CMO (Marketing)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/31c7e7cf9451398ec35df735c8473d58a094c44d",
-    "published": "2026-07-23T23:59:37.000Z"
-  },
-  {
-    "id": "56f0a18267e22142719e1188fbbf7eb38e60b60a",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add Glama score badge; point entry at the listed repo",
-    "summary": "Add Glama score badge; point entry at the listed repo Per the review requirement: the server is now submitted and evaluated on Glama, and the listing is claimed/verified by the Agent-Prod org. Entry...",
-    "thumbnail": "https://avatars.githubusercontent.com/u/100521409?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/0e27c5bd3d0ac8dbb26b486b3d371fdd24fb3bd1",
-    "published": "2026-07-23T23:50:04.000Z"
-  },
-  {
     "id": "dc52ca5a9a9312f46b53a0c326a09b94d160cea1",
     "source": "Simon Willison",
     "type": "blog",
@@ -130,18 +214,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
     "published": "2026-07-23T22:53:08.000Z"
-  },
-  {
-    "id": "10a15e9c97fa2fbd355deb9a6ae7b27b9960811d",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10409 from infinityedgetadmin/add-ctxfile",
-    "summary": "Merge pull request #10409 from infinityedgetadmin/add-ctxfile Add ctxfile to Knowledge & Memory",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/557d7c4fc8e2c5ec31fae24027780a5d2e4afeb4",
-    "published": "2026-07-23T22:01:10.000Z"
   },
   {
     "id": "ce1185039572765cf1c7c3d55d6a2804fb846388",
@@ -180,18 +252,6 @@
     "published": "2026-07-23T15:59:37.000Z"
   },
   {
-    "id": "d5ea39eabdaf4fe56593ae80653e3cd27cd76d64",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/49499260d8b9562aba6c48d03497fcca175ca140",
-    "published": "2026-07-23T15:40:12.000Z"
-  },
-  {
     "id": "232cd48172f24d1e3ee92b1d0950b12caf42191d",
     "source": "Coding in Public",
     "type": "video",
@@ -202,42 +262,6 @@
     "thumbnail": "https://i.ytimg.com/vi/H_a_Ds2pmFA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=H_a_Ds2pmFA",
     "published": "2026-07-23T12:50:28.000Z"
-  },
-  {
-    "id": "15c07421565f7abe45ccda3a4f9d601e2d38a6a3",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6b15004a5dd10535ca0827d1d5b7c60a6cc6bbd9",
-    "published": "2026-07-23T12:35:02.000Z"
-  },
-  {
-    "id": "895aad2f84ac7501a3486a7d2bc0be930ff05cb4",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f57e2d96e9aa3ca5329e4dfb557200a603a53c2b",
-    "published": "2026-07-23T09:50:00.000Z"
-  },
-  {
-    "id": "2649c0f7ca2d732a773cf0be3087e8f4f4e5beea",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f1b98156954323cea59eeb122491bb5fe1d4d55c",
-    "published": "2026-07-23T06:52:55.000Z"
   },
   {
     "id": "43429d78e14c1c8fe6d71d611a00ce0397156f53",
@@ -768,18 +792,6 @@
     "published": "2026-07-02T12:58:48.000Z"
   },
   {
-    "id": "6ede1897168d71144659e7bd7ba51ebe3573da75",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "How to Create Your Own AI Assistant (It's So Easy)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/4WBOmhI11rQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=4WBOmhI11rQ",
-    "published": "2026-07-01T01:40:30.000Z"
-  },
-  {
     "id": "d66509b0c928a5218e10ebda9aafa002ec1561ea",
     "source": "Werner Vogels",
     "type": "blog",
@@ -994,18 +1006,6 @@
     "thumbnail": "https://i.ytimg.com/vi/xeohvm11KmM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=xeohvm11KmM",
     "published": "2026-06-18T08:58:47.000Z"
-  },
-  {
-    "id": "28c0fc2d679a2d3967cc6b5f002ee2e177599bdc",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Claude API Crash Course #2 - Sending a Message",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/ba_vrnfalYE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ba_vrnfalYE",
-    "published": "2026-06-16T09:47:29.000Z"
   },
   {
     "id": "b7160109cd59448f790742c411e9dddb268553cb",
