@@ -1,51 +1,147 @@
 [
   {
-    "id": "cc1dc638a4ac090d11093eb19addf66d8eb9cccb",
+    "id": "5e6ca41fd1aa7dbb290060971af256b3b33138c6",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Fix entry formatting",
-    "summary": "Fix entry formatting",
+    "title": "Merge pull request #10496 from vibecodebeast/add-swath-api",
+    "summary": "Merge pull request #10496 from vibecodebeast/add-swath-api Add Swath API — radar-verified storm detection & property intel (Location Services) 🤖🤖🤖",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/941870d4cff1e272371e14ae664a17743f33d4f4",
-    "published": "2026-07-25T07:40:51.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/f6951d4d60dd1e657add822de41dfb6efeeadf5d",
+    "published": "2026-07-25T18:35:47.000Z"
   },
   {
-    "id": "f72e3ed621b306fb59f8a57b9167c456615a7cc6",
-    "source": "awesome-mcp-servers",
+    "id": "3b4009eea3c6b5965938909946aceb934ddb6014",
+    "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #10866 from Darko893/name-haunt-in-entry",
-    "summary": "Merge pull request #10866 from Darko893/name-haunt-in-entry Name the Haunt project in the Darko893/mcp-server entry 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/0fd349abbf8a8980e5e003d60af079cce078a29e",
-    "published": "2026-07-25T07:40:07.000Z"
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8050b6861d1b5e350d131cf2284f06802974ee63",
+    "published": "2026-07-25T18:19:37.000Z"
   },
   {
-    "id": "ea819e4ccf0453c346a6cd2a68d379f4a13fa076",
+    "id": "952097099047391ec7e3d6865a6dc8fb8651dd07",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Use the renamed repo so the entry carries the project name",
-    "summary": "Use the renamed repo so the entry carries the project name The repository is now Darko893/haunt-mcp-server, so the link text itself says what the project is. Also names Cloudflare-protected pages,...",
-    "thumbnail": "https://avatars.githubusercontent.com/u/122820089?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/097ad8729cedfc9e7aaf834e8782f0e82252aabd",
-    "published": "2026-07-25T07:33:49.000Z"
+    "title": "Merge pull request #10895 from pcherkasov/add-wcagc-accessibility-server",
+    "summary": "Merge pull request #10895 from pcherkasov/add-wcagc-accessibility-server Add wcagc-mcp — accessibility scanning (WCAG / EN 301 549 / PDF-UA) 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/e283e2233182556ebbd54e819e823ef0a33fef34",
+    "published": "2026-07-25T18:16:50.000Z"
   },
   {
-    "id": "668222f9df53ec26607b80367f47ac8db7fd54f0",
+    "id": "c5743c3fa563b69f9f376b1b4b5d20c3190b4457",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #10734 from AkashGoenka/add-coldstart",
-    "summary": "Merge pull request #10734 from AkashGoenka/add-coldstart Add coldstart to Knowledge & Memory 🤖🤖🤖",
+    "title": "Merge pull request #8995 from pgalyen1987/add-gate402-mcp",
+    "summary": "Merge pull request #8995 from pgalyen1987/add-gate402-mcp Add gate402-mcp (Search & Data Extraction) 🤖🤖🤖",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/ae652351a1616d5b30f5f9e91031eb86713325d6",
-    "published": "2026-07-25T07:30:30.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/827b9118219ff374707cc60cd14b5c1e15d5b691",
+    "published": "2026-07-25T18:00:41.000Z"
+  },
+  {
+    "id": "118affd5583c6d1b24422f7736f9825e2d39ab55",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add gate402-mcp (compute + LLM inference + Base data over x402)",
+    "summary": "Add gate402-mcp (compute + LLM inference + Base data over x402) Co-Authored-By: Claude Opus 4.8",
+    "thumbnail": "https://0.gravatar.com/avatar/1ae1c2dbad3ce2586af4cedad83dc4e7?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/d26995c2bbce996ee288c2cb98ddf38fedb2611c",
+    "published": "2026-07-25T17:50:33.000Z"
+  },
+  {
+    "id": "98030c2b3b8750f711ef0056422258bc430ee83f",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10273 from singhpratech/add-crimson-crab-mcp-temp…",
+    "summary": "Merge pull request #10273 from singhpratech/add-crimson-crab-mcp-template Add crimson-crab-mcp-template (Rust, Claude via crimson-crab)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/5f0d6c8e664f0069f9e7623c4456f84469f89ce0",
+    "published": "2026-07-25T17:43:01.000Z"
+  },
+  {
+    "id": "4e3d1a03918719429b16b2220d76439c42339429",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10280 from dshakes/add-distil",
+    "summary": "Merge pull request #10280 from dshakes/add-distil Add dshakes/distil",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/96d7d9e6d32d4262c5dc3d5bafdd08efcd3a7de5",
+    "published": "2026-07-25T17:31:42.000Z"
+  },
+  {
+    "id": "bbdd262529121549132e0d1deb15cb29ffc62375",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add crimson-crab-mcp-template (Rust, Claude via crimson-crab)",
+    "summary": "Add crimson-crab-mcp-template (Rust, Claude via crimson-crab)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/42719720?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/ecb1d782ce1ecbd499adc38fb77f642f323959b7",
+    "published": "2026-07-25T17:28:03.000Z"
+  },
+  {
+    "id": "1bd92f1802e92ab274a70a2e4276081859ab53a9",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10919 from JessieJanie/add-skim402",
+    "summary": "Merge pull request #10919 from JessieJanie/add-skim402 Add JessieJanie/skim402 to Search & Data Extraction",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/d719d7373acc69c01c85f3cd41fe08b67b93f9f2",
+    "published": "2026-07-25T16:09:28.000Z"
+  },
+  {
+    "id": "efd2d2ecfe55bca4757b53f1ca952bc2604a411e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/141d756c86b0d50a59eee5d41a0b6477a8c8d1a5",
+    "published": "2026-07-25T15:24:39.000Z"
+  },
+  {
+    "id": "2ee5d556a80c09cceea4da0dccb6a0c72568ae61",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8f647e0d0815feecb8af30c598620da5abe30f9e",
+    "published": "2026-07-25T12:21:39.000Z"
+  },
+  {
+    "id": "1d5a231ee438f9f4958a3409365f484754af981d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/924aa0aa1e827c3d2d1939f4836b0d67720ef646",
+    "published": "2026-07-25T09:33:56.000Z"
   },
   {
     "id": "801eea5287d81e754e9156f446337af612992548",
@@ -60,42 +156,6 @@
     "published": "2026-07-25T07:25:38.000Z"
   },
   {
-    "id": "20a2845891395496f7607f42430e027451c4386f",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #7292 from isabellaliebgott/add-com-worldcitisim-m…",
-    "summary": "Merge pull request #7292 from isabellaliebgott/add-com-worldcitisim-mcp-esim Add com.worldcitisim/mcp-esim",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/4be792fb061b642dabaa28c84defdf4377be77da",
-    "published": "2026-07-25T07:24:57.000Z"
-  },
-  {
-    "id": "93a86ad4cc0baed206efabf0443d85dc810a0105",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add Glama score badge to the coldstart entry",
-    "summary": "Add Glama score badge to the coldstart entry",
-    "thumbnail": "https://avatars.githubusercontent.com/u/51223460?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/4daea0f14a36167592343f96cc514a11850e21d3",
-    "published": "2026-07-25T07:24:52.000Z"
-  },
-  {
-    "id": "178402039737d720dbff22e12e26b64487fa416e",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add coldstart to Knowledge & Memory",
-    "summary": "Add coldstart to Knowledge & Memory",
-    "thumbnail": "https://avatars.githubusercontent.com/u/51223460?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/04b20893f76982bcb6ad4d1d7907282e1e4a9ac1",
-    "published": "2026-07-25T07:24:19.000Z"
-  },
-  {
     "id": "50ffb3fe6af4e58e42a80c97c87950eda2e05d83",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -106,18 +166,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/79762b3b4c3b0c16c67558e02c67c7acf926b9a1",
     "published": "2026-07-25T06:49:07.000Z"
-  },
-  {
-    "id": "1ec54a6a8ea44da55d5b01738fea718964119ba2",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #6532 from kumari-jaya/add-emem",
-    "summary": "Merge pull request #6532 from kumari-jaya/add-emem Add emem to Location Services",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/68f26543afa4e67b824fbb33d37f83ab8300dfac",
-    "published": "2026-07-25T06:42:56.000Z"
   },
   {
     "id": "c2d858bdd90caa0234844b2f9bb9a4b1bcc0ea63",
@@ -180,18 +228,6 @@
     "published": "2026-07-24T21:24:51.000Z"
   },
   {
-    "id": "63491185dc66183973da90a1fb6cfb10ebc24f2d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/587fc42770afe285b8f434c7aea0bf8c06f574f5",
-    "published": "2026-07-24T18:32:33.000Z"
-  },
-  {
     "id": "0e753f0f02f89efe873d05e217ad1af3943007ef",
     "source": "Riley Brown",
     "type": "video",
@@ -204,18 +240,6 @@
     "published": "2026-07-24T16:09:30.000Z"
   },
   {
-    "id": "168235a69a5e10c5668ef24c9389f949c12d7c76",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4baac2ca85af06d1a5a733014b5d00030123befa",
-    "published": "2026-07-24T15:31:02.000Z"
-  },
-  {
     "id": "7e2fa475b43e395b68d2fbdb88a973d5238c0160",
     "source": "Coding in Public",
     "type": "video",
@@ -226,30 +250,6 @@
     "thumbnail": "https://i.ytimg.com/vi/GCYGoQJv3Fg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=GCYGoQJv3Fg",
     "published": "2026-07-24T13:23:01.000Z"
-  },
-  {
-    "id": "e59a1e680ded63fd029b285c732ac3bb989f4a21",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8e558637c7fe8ebd30658081a1a66648dac9d407",
-    "published": "2026-07-24T12:32:57.000Z"
-  },
-  {
-    "id": "7c0424aa8336f71fd3c766941717a027a4d6352c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/abff8388a115fb7ff006aefd8b2475e6c6a0718a",
-    "published": "2026-07-24T09:49:13.000Z"
   },
   {
     "id": "1651e280128c3d7c66fedbcb0d90c0220a3e2e55",
@@ -593,7 +593,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Browsers Are Dead. Codex Just Replaced Them.",
+    "title": "Codex New Browser: The Secret Weapon Everyone Should be Using",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/juPDqb89dew/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=juPDqb89dew",
