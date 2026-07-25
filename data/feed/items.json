@@ -1,5 +1,185 @@
 [
   {
+    "id": "cc1dc638a4ac090d11093eb19addf66d8eb9cccb",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Fix entry formatting",
+    "summary": "Fix entry formatting",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/941870d4cff1e272371e14ae664a17743f33d4f4",
+    "published": "2026-07-25T07:40:51.000Z"
+  },
+  {
+    "id": "f72e3ed621b306fb59f8a57b9167c456615a7cc6",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10866 from Darko893/name-haunt-in-entry",
+    "summary": "Merge pull request #10866 from Darko893/name-haunt-in-entry Name the Haunt project in the Darko893/mcp-server entry 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/0fd349abbf8a8980e5e003d60af079cce078a29e",
+    "published": "2026-07-25T07:40:07.000Z"
+  },
+  {
+    "id": "ea819e4ccf0453c346a6cd2a68d379f4a13fa076",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Use the renamed repo so the entry carries the project name",
+    "summary": "Use the renamed repo so the entry carries the project name The repository is now Darko893/haunt-mcp-server, so the link text itself says what the project is. Also names Cloudflare-protected pages,...",
+    "thumbnail": "https://avatars.githubusercontent.com/u/122820089?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/097ad8729cedfc9e7aaf834e8782f0e82252aabd",
+    "published": "2026-07-25T07:33:49.000Z"
+  },
+  {
+    "id": "668222f9df53ec26607b80367f47ac8db7fd54f0",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10734 from AkashGoenka/add-coldstart",
+    "summary": "Merge pull request #10734 from AkashGoenka/add-coldstart Add coldstart to Knowledge & Memory 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/ae652351a1616d5b30f5f9e91031eb86713325d6",
+    "published": "2026-07-25T07:30:30.000Z"
+  },
+  {
+    "id": "801eea5287d81e754e9156f446337af612992548",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Claude Opus 5: Fable-level performance at Opus price (half Fable)",
+    "summary": "ain't nobody beats Anthropic at distilling Fable!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!FqD_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOBjK6cbIAA2Yph.jpg",
+    "url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
+    "published": "2026-07-25T07:25:38.000Z"
+  },
+  {
+    "id": "20a2845891395496f7607f42430e027451c4386f",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #7292 from isabellaliebgott/add-com-worldcitisim-m…",
+    "summary": "Merge pull request #7292 from isabellaliebgott/add-com-worldcitisim-mcp-esim Add com.worldcitisim/mcp-esim",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/4be792fb061b642dabaa28c84defdf4377be77da",
+    "published": "2026-07-25T07:24:57.000Z"
+  },
+  {
+    "id": "93a86ad4cc0baed206efabf0443d85dc810a0105",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add Glama score badge to the coldstart entry",
+    "summary": "Add Glama score badge to the coldstart entry",
+    "thumbnail": "https://avatars.githubusercontent.com/u/51223460?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/4daea0f14a36167592343f96cc514a11850e21d3",
+    "published": "2026-07-25T07:24:52.000Z"
+  },
+  {
+    "id": "178402039737d720dbff22e12e26b64487fa416e",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add coldstart to Knowledge & Memory",
+    "summary": "Add coldstart to Knowledge & Memory",
+    "thumbnail": "https://avatars.githubusercontent.com/u/51223460?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/04b20893f76982bcb6ad4d1d7907282e1e4a9ac1",
+    "published": "2026-07-25T07:24:19.000Z"
+  },
+  {
+    "id": "50ffb3fe6af4e58e42a80c97c87950eda2e05d83",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/79762b3b4c3b0c16c67558e02c67c7acf926b9a1",
+    "published": "2026-07-25T06:49:07.000Z"
+  },
+  {
+    "id": "1ec54a6a8ea44da55d5b01738fea718964119ba2",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #6532 from kumari-jaya/add-emem",
+    "summary": "Merge pull request #6532 from kumari-jaya/add-emem Add emem to Location Services",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/68f26543afa4e67b824fbb33d37f83ab8300dfac",
+    "published": "2026-07-25T06:42:56.000Z"
+  },
+  {
+    "id": "c2d858bdd90caa0234844b2f9bb9a4b1bcc0ea63",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bdddd7683d63569281b1914332e3c297afa81679",
+    "published": "2026-07-25T04:02:54.000Z"
+  },
+  {
+    "id": "9e10b8bb9cb2c027c085e91b5dd9b4281bc23205",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Boris Cherny",
+    "summary": "More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and red...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
+    "published": "2026-07-25T00:42:59.000Z"
+  },
+  {
+    "id": "e6276f4554f282686a7ad41f944eabfa079f6ed4",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bf7b6fb0237a65362b8ecdef4e3adb25ee49b645",
+    "published": "2026-07-25T00:35:07.000Z"
+  },
+  {
+    "id": "3a60f07223b39aed37bbdd6a0989a0e1743bf6de",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Introducing Claude Opus 5",
+    "summary": "Introducing Claude Opus 5 I've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet. The buzz is...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
+    "published": "2026-07-24T23:48:50.000Z"
+  },
+  {
+    "id": "b8fbd4765e4afa8cdd7843e4f915e523b2f574b9",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f63374954975c5c8899d88555abc1a71b5fe11f8",
+    "published": "2026-07-24T21:24:51.000Z"
+  },
+  {
     "id": "63491185dc66183973da90a1fb6cfb10ebc24f2d",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -34,102 +214,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4baac2ca85af06d1a5a733014b5d00030123befa",
     "published": "2026-07-24T15:31:02.000Z"
-  },
-  {
-    "id": "4de4f2f3c91b968d82519e9a08eeb748a71592b8",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10588 from fixlyai/add-reelier",
-    "summary": "Merge pull request #10588 from fixlyai/add-reelier Add Reelier (deterministic tool-call replay + drift diff)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/1ff959355cbdcb961a993d3087b52327c67a9acd",
-    "published": "2026-07-24T15:10:33.000Z"
-  },
-  {
-    "id": "16be7e1fa69cd0e17729212e74da40658b09a7b1",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #6939 from Crindo2/add-getpracticehelp",
-    "summary": "Merge pull request #6939 from Crindo2/add-getpracticehelp Add GetPracticeHelp to Biology, Medicine and Bioinformatics 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/3f49f96cfa24aeb7a217e9da70c5d39d60020614",
-    "published": "2026-07-24T14:23:20.000Z"
-  },
-  {
-    "id": "3145527bba60c7d111f2ec5c6a188fe410ded6b3",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Update README to add Glama score badge; correct copy to 76,000+ curat…",
-    "summary": "Update README to add Glama score badge; correct copy to 76,000+ curated vendors Added the Glama score badge and corrected the listing copy. Ready for re-review — thanks!",
-    "thumbnail": "https://avatars.githubusercontent.com/u/272539829?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/05210f75bca51fdaff28560203f369ca1aae40c6",
-    "published": "2026-07-24T14:16:52.000Z"
-  },
-  {
-    "id": "351a2b1c227419b471b199c854c6751c352a8463",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Fix: remove broken Glama badge URL (connector path has no SVG endpoint)",
-    "summary": "Fix: remove broken Glama badge URL (connector path has no SVG endpoint)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/272539829?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/f511591687de42c56854fcf8c9dba3e38a9e2955",
-    "published": "2026-07-24T14:16:25.000Z"
-  },
-  {
-    "id": "d39be70c287ef7ebd066cc748689145fa2140347",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add GetPracticeHelp to Biology, Medicine and Bioinformatics",
-    "summary": "Add GetPracticeHelp to Biology, Medicine and Bioinformatics",
-    "thumbnail": "https://avatars.githubusercontent.com/u/272539829?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/642e02bd9d4b9af1541dab51cf7bc8cd47659d86",
-    "published": "2026-07-24T14:15:48.000Z"
-  },
-  {
-    "id": "5c60d6d82fa69038284a421244f89fbd009acb65",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10840 from MGM-FALCON/add-quelllm-mcp",
-    "summary": "Merge pull request #10840 from MGM-FALCON/add-quelllm-mcp Add quelllm-mcp to Developer Tools",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/b81b4fca6aba4d013acf93b5c946212f0e23ff0b",
-    "published": "2026-07-24T14:09:28.000Z"
-  },
-  {
-    "id": "0009e81d0f013e4516e13149de00b108fb8e3fc7",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10570 from Luminc/add-peil-mcp",
-    "summary": "Merge pull request #10570 from Luminc/add-peil-mcp Add peil-mcp (Finance & Fintech) 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/1c3ef60516196145b920a49fcf0c044f9e725973",
-    "published": "2026-07-24T14:08:13.000Z"
-  },
-  {
-    "id": "e9d581868652d125c122e0680f88c2195376d91e",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add quelllm-mcp to Developer Tools (with Glama score badge)",
-    "summary": "Add quelllm-mcp to Developer Tools (with Glama score badge)",
-    "thumbnail": "https://1.gravatar.com/avatar/eb97fbe998c29c8c27abce03d8ce6d5e?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/c972d8d0aaea10288f486ccb27c1b3e745fa33ac",
-    "published": "2026-07-24T14:02:39.000Z"
   },
   {
     "id": "7e2fa475b43e395b68d2fbdb88a973d5238c0160",
@@ -168,18 +252,6 @@
     "published": "2026-07-24T09:49:13.000Z"
   },
   {
-    "id": "8340137beca112798999740c7c8dc536e6fd67e7",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d2dc31176ed742fafea85ca2ce86bf0376847674",
-    "published": "2026-07-24T06:53:32.000Z"
-  },
-  {
     "id": "1651e280128c3d7c66fedbcb0d90c0220a3e2e55",
     "source": "Latent Space",
     "type": "podcast",
@@ -192,18 +264,6 @@
     "published": "2026-07-24T04:30:12.000Z"
   },
   {
-    "id": "7664c682d061349b773e24484e1c4edd41f31abc",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/974374393a5b1c382212d896896d4b1a5d5ba624",
-    "published": "2026-07-24T00:31:23.000Z"
-  },
-  {
     "id": "dc52ca5a9a9312f46b53a0c326a09b94d160cea1",
     "source": "Simon Willison",
     "type": "blog",
@@ -214,30 +274,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
     "published": "2026-07-23T22:53:08.000Z"
-  },
-  {
-    "id": "ce1185039572765cf1c7c3d55d6a2804fb846388",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e7138ae9b355d69dfbe73a007fb89f900f71362e",
-    "published": "2026-07-23T21:25:05.000Z"
-  },
-  {
-    "id": "de35f3e9fceac86bb08f9903d3e858035f55194d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/81bc570c4c7bf6cb598ec9c1daf78fccec3531e8",
-    "published": "2026-07-23T18:28:53.000Z"
   },
   {
     "id": "01df3619cdf60a7b0b4e82bebebf529be82f79fc",
@@ -384,18 +420,6 @@
     "published": "2026-07-21T22:27:56.000Z"
   },
   {
-    "id": "afd8a8808b0e8abb0e6115941306e2a63f5c795e",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "California Sea Lion",
-    "summary": "California Sea Lion, in San Francisco County, US, CAWe took some visiting family to Pier 39 to see the sea lions. They're somehow always even more fun than I remember them being last time. Tags:...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything",
-    "published": "2026-07-21T19:51:03.000Z"
-  },
-  {
     "id": "3f246cbfa870f6d874a70040b44181599bfcb745",
     "source": "Latent Space",
     "type": "podcast",
@@ -418,18 +442,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!Gp-r!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7d73bb2-e470-41b1-afe7-059ddbd78d55_1294x916.png",
     "url": "https://newsletter.pragmaticengineer.com/p/pushing-software-engineering-limits",
     "published": "2026-07-21T16:52:07.000Z"
-  },
-  {
-    "id": "99e42382ba8639f444250862eb3cf4f731c88374",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Nativ: Run AI models locally on your Mac",
-    "summary": "Nativ: Run AI models locally on your Mac Prince Canuma is the developer behind the excellent MLX-VLM Python library for running vision-LLMs using MLX on a Mac. I'm really excited about his new...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
-    "published": "2026-07-21T14:22:27.000Z"
   },
   {
     "id": "e681ac8d9c31d7a93408f82b40dea0b0d6ba904d",
@@ -502,18 +514,6 @@
     "thumbnail": null,
     "url": "https://www.latent.space/p/ainews-not-much-happened-today-830",
     "published": "2026-07-18T04:30:21.000Z"
-  },
-  {
-    "id": "08f77354ddc372358dcab9d0bc759928f95555c2",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
-    "summary": "a great week for open models continues.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!xVk0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d22c3fe-fde7-4c91-9e50-83b1597fe747_1958x1160.png",
-    "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
-    "published": "2026-07-17T01:46:36.000Z"
   },
   {
     "id": "ef95bf634b69c3827c36b545617ff2db0c3464e9",
