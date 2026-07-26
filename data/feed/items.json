@@ -1,5 +1,89 @@
 [
   {
+    "id": "a23d6f33448e5bd585d34a334f8229588132c078",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/02432d937ed157e00a5d1542fb647622d3c71b47",
+    "published": "2026-07-26T06:57:02.000Z"
+  },
+  {
+    "id": "b444eb6fd7423e0698eea5aba350eca169769c1b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5fccb1feef3caa2bd15243ac058088f1ee52b708",
+    "published": "2026-07-26T04:13:32.000Z"
+  },
+  {
+    "id": "d84c6434f7593588adad1fc18c8eaa1f9a15a9ee",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/436c0bff473dafa02c375d47e1c5abcb5231b248",
+    "published": "2026-07-26T00:37:18.000Z"
+  },
+  {
+    "id": "56eddc9d00c8c32b07aa85ff28aeaa985b94be8d",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Ruff v0.16.0",
+    "summary": "Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+    "published": "2026-07-25T22:44:05.000Z"
+  },
+  {
+    "id": "e49d003eb1066c5c00de26ca0d0870f0361dfe10",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bbfe4191ca9ebfd2576861928cb259b8d2f6d1e8",
+    "published": "2026-07-25T21:18:48.000Z"
+  },
+  {
+    "id": "6a44eae369ab34d17dd3b3bdddbf4b21e66523ab",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Opus 5 Is Here… But NEW Claude Voice Is Even Bigger",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/Hv8YGUXZY1g/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Hv8YGUXZY1g",
+    "published": "2026-07-25T20:28:01.000Z"
+  },
+  {
+    "id": "36c121de62e27d6f4e20b5f7f0bb5ed8d9f85321",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #7986 from tarunlnmiit/add-autopilot-jobhunt",
+    "summary": "Merge pull request #7986 from tarunlnmiit/add-autopilot-jobhunt Add autopilot-jobhunt to Workplace & Productivity",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/d0bf1db2bb11926c125e13fb69d4898da8ec1f93",
+    "published": "2026-07-25T19:50:40.000Z"
+  },
+  {
     "id": "5e6ca41fd1aa7dbb290060971af256b3b33138c6",
     "source": "awesome-mcp-servers",
     "type": "repo",
@@ -96,18 +180,6 @@
     "published": "2026-07-25T17:28:03.000Z"
   },
   {
-    "id": "1bd92f1802e92ab274a70a2e4276081859ab53a9",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10919 from JessieJanie/add-skim402",
-    "summary": "Merge pull request #10919 from JessieJanie/add-skim402 Add JessieJanie/skim402 to Search & Data Extraction",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/d719d7373acc69c01c85f3cd41fe08b67b93f9f2",
-    "published": "2026-07-25T16:09:28.000Z"
-  },
-  {
     "id": "efd2d2ecfe55bca4757b53f1ca952bc2604a411e",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -156,30 +228,6 @@
     "published": "2026-07-25T07:25:38.000Z"
   },
   {
-    "id": "50ffb3fe6af4e58e42a80c97c87950eda2e05d83",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/79762b3b4c3b0c16c67558e02c67c7acf926b9a1",
-    "published": "2026-07-25T06:49:07.000Z"
-  },
-  {
-    "id": "c2d858bdd90caa0234844b2f9bb9a4b1bcc0ea63",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bdddd7683d63569281b1914332e3c297afa81679",
-    "published": "2026-07-25T04:02:54.000Z"
-  },
-  {
     "id": "9e10b8bb9cb2c027c085e91b5dd9b4281bc23205",
     "source": "Simon Willison",
     "type": "blog",
@@ -192,18 +240,6 @@
     "published": "2026-07-25T00:42:59.000Z"
   },
   {
-    "id": "e6276f4554f282686a7ad41f944eabfa079f6ed4",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bf7b6fb0237a65362b8ecdef4e3adb25ee49b645",
-    "published": "2026-07-25T00:35:07.000Z"
-  },
-  {
     "id": "3a60f07223b39aed37bbdd6a0989a0e1743bf6de",
     "source": "Simon Willison",
     "type": "blog",
@@ -214,18 +250,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
     "published": "2026-07-24T23:48:50.000Z"
-  },
-  {
-    "id": "b8fbd4765e4afa8cdd7843e4f915e523b2f574b9",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f63374954975c5c8899d88555abc1a71b5fe11f8",
-    "published": "2026-07-24T21:24:51.000Z"
   },
   {
     "id": "0e753f0f02f89efe873d05e217ad1af3943007ef",
@@ -382,18 +406,6 @@
     "thumbnail": "https://i.ytimg.com/vi/HrDcpJV_JKc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=HrDcpJV_JKc",
     "published": "2026-07-22T16:20:58.000Z"
-  },
-  {
-    "id": "d07362b8568ac82851dfffb4ebd1ec846a340a20",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Orchestrions",
-    "summary": "San Francisco tip: it only costs around $15 ($10 in quarters plus a $5 bill for the self-playing violin) to activate every single Orchestrion in Musée Mécanique. And because most people are bad at...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything",
-    "published": "2026-07-22T14:48:52.000Z"
   },
   {
     "id": "0a8336e800ca6c6632673398b0409a7d1a7d68a8",
@@ -742,18 +754,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!jug7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd16fca2a-ad43-4f69-9a9d-8dd72f2edda3_1182x704.png",
     "url": "https://newsletter.pragmaticengineer.com/p/tech-jobs-market-in-2026-part-3-hiring",
     "published": "2026-07-07T17:25:41.000Z"
-  },
-  {
-    "id": "328ba9e51d2e8fae03f3d5e790b684a30e57eb71",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Build Amazing Websites with Claude Fable 5 (Full Guide)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/COh_cjrDOzc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=COh_cjrDOzc",
-    "published": "2026-07-06T17:37:45.000Z"
   },
   {
     "id": "024a4cae0ae679872c82a69f17f88ecc7c9489d4",
