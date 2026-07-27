@@ -1,5 +1,89 @@
 [
   {
+    "id": "ec833855c3b37372b19c062347162d070584a515",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase Crash Course (Auth & Firestore) #7 - Setting up a Firestore Database",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/60hVNuoDlwQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=60hVNuoDlwQ",
+    "published": "2026-07-27T09:42:28.000Z"
+  },
+  {
+    "id": "c78ee6a739e70c75babe30463e95635eb2c3c339",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase Crash Course (Auth & Firestore) #6 - Protecting Routes (in a Next.js app)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/-Z1KrG9f2v8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=-Z1KrG9f2v8",
+    "published": "2026-07-27T09:42:06.000Z"
+  },
+  {
+    "id": "358a7f764f3eae79ff9a33ac0a572647e386586c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9ac41f681d1c8dc76cdf77b5d3601eeb7494c4b8",
+    "published": "2026-07-27T07:11:19.000Z"
+  },
+  {
+    "id": "5a61cbb669965d51b26a8df03dacce8d860f5030",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/357087be93a9271fa32dc3f37863dfdc79f490b1",
+    "published": "2026-07-27T04:17:26.000Z"
+  },
+  {
+    "id": "68a475ccfdc9f06f6d2443b907ffed90893ae317",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a336c19ea44a56f7d3ba30d807fc2ed5a79279cf",
+    "published": "2026-07-27T00:36:39.000Z"
+  },
+  {
+    "id": "1c3ee084cde72aec51d21d84f88c36134d1fd21d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2e675f9cf0c506025048f17229db108068600610",
+    "published": "2026-07-26T21:19:33.000Z"
+  },
+  {
+    "id": "e7bd166c2dcc29ec5271b722acecf0c9fcdb6ae1",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+    "summary": "An Inside Look at the Relay Market Powering Token Resellers and Fraud Fascinating investigation by Matt Lenhard into the market that has grown up around reselling LLM tokens at a discount by pooling...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
+    "published": "2026-07-26T19:30:54.000Z"
+  },
+  {
     "id": "6e547bcd50f591a681ba8446736a9305e175792e",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -48,42 +132,6 @@
     "published": "2026-07-26T09:41:47.000Z"
   },
   {
-    "id": "a23d6f33448e5bd585d34a334f8229588132c078",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/02432d937ed157e00a5d1542fb647622d3c71b47",
-    "published": "2026-07-26T06:57:02.000Z"
-  },
-  {
-    "id": "b444eb6fd7423e0698eea5aba350eca169769c1b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5fccb1feef3caa2bd15243ac058088f1ee52b708",
-    "published": "2026-07-26T04:13:32.000Z"
-  },
-  {
-    "id": "d84c6434f7593588adad1fc18c8eaa1f9a15a9ee",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/436c0bff473dafa02c375d47e1c5abcb5231b248",
-    "published": "2026-07-26T00:37:18.000Z"
-  },
-  {
     "id": "56eddc9d00c8c32b07aa85ff28aeaa985b94be8d",
     "source": "Simon Willison",
     "type": "blog",
@@ -94,18 +142,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
     "published": "2026-07-25T22:44:05.000Z"
-  },
-  {
-    "id": "e49d003eb1066c5c00de26ca0d0870f0361dfe10",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bbfe4191ca9ebfd2576861928cb259b8d2f6d1e8",
-    "published": "2026-07-25T21:18:48.000Z"
   },
   {
     "id": "6a44eae369ab34d17dd3b3bdddbf4b21e66523ab",
@@ -384,18 +420,6 @@
     "published": "2026-07-22T23:51:33.000Z"
   },
   {
-    "id": "3c1466c701329bb01a406ba4fe40f72ca7e4d9e3",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Are AI labs pelicanmaxxing?",
-    "summary": "Are AI labs pelicanmaxxing? Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything",
-    "published": "2026-07-22T23:01:00.000Z"
-  },
-  {
     "id": "08c3f0dafe56fd7d95f764e400e22448dcfd90ac",
     "source": "ElevenLabs",
     "type": "video",
@@ -425,7 +449,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Codex Is Basically Running My Company Now",
+    "title": "Codex Basically Runs My Company Now. Here’s How.",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/gOx37on-iA8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=gOx37on-iA8",
@@ -948,18 +972,6 @@
     "published": "2026-06-23T00:05:55.000Z"
   },
   {
-    "id": "4c16777922a4e0a63a612d257eb669b93c154007",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Claude API Crash Course #4 - Output Format (using Zod)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/xqXrBI_n9rI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=xqXrBI_n9rI",
-    "published": "2026-06-22T09:37:53.000Z"
-  },
-  {
     "id": "2b10473a37358e56fb07ea4584f222e0d9e38d73",
     "source": "Astro",
     "type": "blog",
@@ -994,18 +1006,6 @@
     "thumbnail": "https://i.ytimg.com/vi/W6x-hb44C0c/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=W6x-hb44C0c",
     "published": "2026-06-18T14:04:35.000Z"
-  },
-  {
-    "id": "080692097a6037f6f33b34197bd7c10959a58c66",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Claude API Crash Course #3 - Making the Prompt Dynamic",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/xeohvm11KmM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=xeohvm11KmM",
-    "published": "2026-06-18T08:58:47.000Z"
   },
   {
     "id": "b7160109cd59448f790742c411e9dddb268553cb",
