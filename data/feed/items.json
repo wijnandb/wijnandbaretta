@@ -1,5 +1,53 @@
 [
   {
+    "id": "051410052a66fd12a3a671850274b0af76855a45",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ff054bbb2f53d73c3abde31d1b2c590496804d42",
+    "published": "2026-07-27T18:33:50.000Z"
+  },
+  {
+    "id": "d12a8bc4b8f28ae17831dcf8f53f7647105d78d9",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e7152c9d2df40169c45740d85b623a40808f00a2",
+    "published": "2026-07-27T15:52:58.000Z"
+  },
+  {
+    "id": "2516de4491999a8a6258a37eb5110f05328267d9",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c92e6f9ff0d5bd7bfe3aea1cafbe1911167d5dab",
+    "published": "2026-07-27T13:05:19.000Z"
+  },
+  {
+    "id": "1371a43a8e84f273280a9d8b1024c4b42d9cee3b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a6afdf1e9bb4171f31625861d3c2601294922dc3",
+    "published": "2026-07-27T10:20:04.000Z"
+  },
+  {
     "id": "ec833855c3b37372b19c062347162d070584a515",
     "source": "Coding in Public",
     "type": "video",
@@ -82,54 +130,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
     "published": "2026-07-26T19:30:54.000Z"
-  },
-  {
-    "id": "6e547bcd50f591a681ba8446736a9305e175792e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/dd58d9395687724528e06795df35d3f35cf6f7fe",
-    "published": "2026-07-26T18:22:45.000Z"
-  },
-  {
-    "id": "cd1919facd357d295ce1d34f799c00a904f9cf9b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3979882b8691f644fe15e8071ebea3ab349cae10",
-    "published": "2026-07-26T15:25:11.000Z"
-  },
-  {
-    "id": "b036b954ce6c21e651240e14ee24cf321ea0f671",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3dfddf3ff8dc5cf95b41f72c3269db4bdcfcefbf",
-    "published": "2026-07-26T12:25:31.000Z"
-  },
-  {
-    "id": "353405c5f230af9a0498a3ad7de12acd804a14bd",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/159522890d2722440ab7a2071118099c53784901",
-    "published": "2026-07-26T09:41:47.000Z"
   },
   {
     "id": "56eddc9d00c8c32b07aa85ff28aeaa985b94be8d",
@@ -600,18 +600,6 @@
     "published": "2026-07-16T00:00:00.000Z"
   },
   {
-    "id": "86baf6bac5548d87a53f275bae4ddbac0b8d9a64",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Building agentic NPCs in Unity, part 3",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/0aXed_T9K6Y/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/0aXed_T9K6Y",
-    "published": "2026-07-15T17:28:58.000Z"
-  },
-  {
     "id": "7003f709a5a2a34854aeebea09f699db2aa20491",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -696,18 +684,6 @@
     "published": "2026-07-12T17:24:29.000Z"
   },
   {
-    "id": "e45f4f5d0685d7178de737de9669856aa523eead",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Building agentic NPCs in Unity, part 2",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/-NhmnCbpAnM/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/-NhmnCbpAnM",
-    "published": "2026-07-10T15:58:33.000Z"
-  },
-  {
     "id": "e6e38c0d3a100fdaed12c309219320ea83072b23",
     "source": "Riley Brown",
     "type": "video",
@@ -730,18 +706,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!Fvua!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56c0030d-bd49-45fb-b641-23017f5aa6af_1656x1200.png",
     "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from",
     "published": "2026-07-09T16:32:18.000Z"
-  },
-  {
-    "id": "a8af98ca7b1bf65f1d4708590230e17d5f8052c2",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Accidentally building self-aware NPCs",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/C8f__nTxSX4/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/C8f__nTxSX4",
-    "published": "2026-07-09T14:51:22.000Z"
   },
   {
     "id": "b73c8f825057786c1d16fa2529387976816afa5e",
@@ -1006,6 +970,42 @@
     "thumbnail": "https://i.ytimg.com/vi/W6x-hb44C0c/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=W6x-hb44C0c",
     "published": "2026-06-18T14:04:35.000Z"
+  },
+  {
+    "id": "5df1778cf49cfadf4fc44d92dbfbff741f045019",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Introducing Music v2 API",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/CrRQLy4DMw8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=CrRQLy4DMw8",
+    "published": "2026-06-15T17:18:48.000Z"
+  },
+  {
+    "id": "a73a8ef91acc7d61eb1f8c82b31b837c2fa158b8",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Let your Hermes Agent call you on the phone using ElevenAgents",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/lr8pxKgFRrI/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=lr8pxKgFRrI",
+    "published": "2026-06-11T15:28:54.000Z"
+  },
+  {
+    "id": "d68d24044a6c98dfba2611e80d7b08fcea693b5d",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Call Your Hermes Agent over the phone using ElevenAgents",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/3bGN3_Xv4Ew/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=3bGN3_Xv4Ew",
+    "published": "2026-06-10T19:02:01.000Z"
   },
   {
     "id": "b7160109cd59448f790742c411e9dddb268553cb",
