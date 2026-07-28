@@ -1,5 +1,101 @@
 [
   {
+    "id": "0ea7fc2bef80389191d1a8cd53232749de93527f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a8f412b199ca6e60909c6b15329f08dbfdf2d9ae",
+    "published": "2026-07-28T06:54:54.000Z"
+  },
+  {
+    "id": "abde6a421348d4592caefd013770c4d59448a238",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Much ado about Open Weights",
+    "summary": "Everyone is writing a lot, but only Kimi K3 shipped today",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!90od!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOR8_rBbEAAhTr6.jpg",
+    "url": "https://www.latent.space/p/ainews-much-ado-about-open-weights",
+    "published": "2026-07-28T06:20:13.000Z"
+  },
+  {
+    "id": "99bcaf6fb3e5f45bedeac4873f4191de822fee07",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/849b6635137d151133e27346dfa1a957e7d181f5",
+    "published": "2026-07-28T04:02:42.000Z"
+  },
+  {
+    "id": "6cece4ea9bdbd85da6a1a6d84ef441633208f79e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/03d3cf9d46ab351ef26e1e669e3243748badefff",
+    "published": "2026-07-28T00:33:24.000Z"
+  },
+  {
+    "id": "64db355e6a0ca24465595f8f9858b3a7a81c47a0",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "moonshotai/Kimi-K3",
+    "summary": "moonshotai/Kimi-K3 As promised earlier this month, Moonshot have released the weights for their excellent 2.8 trillion parameter Kimi K3. They're a hefty 1.56TB on Hugging Face. Kimi introduced their...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
+    "published": "2026-07-27T23:39:04.000Z"
+  },
+  {
+    "id": "742ccd50e52bf1cae099f03c2f2386c3592ed115",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Claude Opus 5 is INSANE at Excel (Better Than Fable)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/fZ1Kmuafzzk/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=fZ1Kmuafzzk",
+    "published": "2026-07-27T23:23:11.000Z"
+  },
+  {
+    "id": "def96b54eb52415f08a01ba36314ad83ee44983f",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "An opinionated guide to which AI to use to do stuff",
+    "summary": "An opinionated guide to which AI to use to do stuff It's interesting watching the evolution of Ethan Mollick's guide over time. A year ago it was still all about chat - ChatGPT, Claude, Gemini - with...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
+    "published": "2026-07-27T21:55:53.000Z"
+  },
+  {
+    "id": "d5a5cb0c348cd4e99dd0952003226d4664c7fbe0",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e40d844492fbc304da14589c56b1edfebdb80943",
+    "published": "2026-07-27T21:25:52.000Z"
+  },
+  {
     "id": "051410052a66fd12a3a671850274b0af76855a45",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -70,54 +166,6 @@
     "thumbnail": "https://i.ytimg.com/vi/-Z1KrG9f2v8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=-Z1KrG9f2v8",
     "published": "2026-07-27T09:42:06.000Z"
-  },
-  {
-    "id": "358a7f764f3eae79ff9a33ac0a572647e386586c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9ac41f681d1c8dc76cdf77b5d3601eeb7494c4b8",
-    "published": "2026-07-27T07:11:19.000Z"
-  },
-  {
-    "id": "5a61cbb669965d51b26a8df03dacce8d860f5030",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/357087be93a9271fa32dc3f37863dfdc79f490b1",
-    "published": "2026-07-27T04:17:26.000Z"
-  },
-  {
-    "id": "68a475ccfdc9f06f6d2443b907ffed90893ae317",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a336c19ea44a56f7d3ba30d807fc2ed5a79279cf",
-    "published": "2026-07-27T00:36:39.000Z"
-  },
-  {
-    "id": "1c3ee084cde72aec51d21d84f88c36134d1fd21d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2e675f9cf0c506025048f17229db108068600610",
-    "published": "2026-07-26T21:19:33.000Z"
   },
   {
     "id": "e7bd166c2dcc29ec5271b722acecf0c9fcdb6ae1",
@@ -396,30 +444,6 @@
     "published": "2026-07-23T04:50:36.000Z"
   },
   {
-    "id": "1c709fbdce5f5af7d86192b39d14b02f40692574",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Thomas Ptacek",
-    "summary": "I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks. This is only...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything",
-    "published": "2026-07-22T23:59:01.000Z"
-  },
-  {
-    "id": "4fecb70b0c1b6f1f3a4b3f1ed7111cd4e78dc744",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
-    "summary": "This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model's guardrail features turned off. Rather than solve the test, the model...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything",
-    "published": "2026-07-22T23:51:33.000Z"
-  },
-  {
     "id": "08c3f0dafe56fd7d95f764e400e22448dcfd90ac",
     "source": "ElevenLabs",
     "type": "video",
@@ -538,18 +562,6 @@
     "thumbnail": "https://i.ytimg.com/vi/sXLpkGHbKRY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=sXLpkGHbKRY",
     "published": "2026-07-20T08:05:23.000Z"
-  },
-  {
-    "id": "6d98c368c9e8110d7af17623609f65c6641e005c",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] not much happened today",
-    "summary": "a quiet day",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/ainews-not-much-happened-today-830",
-    "published": "2026-07-18T04:30:21.000Z"
   },
   {
     "id": "ef95bf634b69c3827c36b545617ff2db0c3464e9",
@@ -682,18 +694,6 @@
     "thumbnail": "https://i.ytimg.com/vi/Fv0XfyLT3xU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Fv0XfyLT3xU",
     "published": "2026-07-12T17:24:29.000Z"
-  },
-  {
-    "id": "e6e38c0d3a100fdaed12c309219320ea83072b23",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Grok 4.5 + Cursor: Full Guide",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/dLaIl6LehsU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=dLaIl6LehsU",
-    "published": "2026-07-09T17:51:52.000Z"
   },
   {
     "id": "2acbe8a7bbf788fa70b9a8241a14b3ea99796aef",
