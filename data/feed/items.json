@@ -1,5 +1,101 @@
 [
   {
+    "id": "8beec65ddd48071a0dde2afcb75bea9b4bcafa5e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ca54e5e637bec27095704a8ae03145115e9b6932",
+    "published": "2026-07-28T18:31:24.000Z"
+  },
+  {
+    "id": "c7f48a671e65e712d799e4e00e70ab4bf7ca9a04",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1520c63874d35d93a34dd6dd3538928d355167f7",
+    "published": "2026-07-28T18:26:35.000Z"
+  },
+  {
+    "id": "3d9d918a3c26d58808ff3f24c4f4694aa9db27ba",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: My Claude Code Setup (#2344)",
+    "summary": "Add resource: My Claude Code Setup (#2344) Category: Research & Scientific Inquiry Author: Pedro H. C. Sant'Anna From issue: #2343 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a2a34a8a56156a9d93d39b62056d942e36edd568",
+    "published": "2026-07-28T18:26:14.000Z"
+  },
+  {
+    "id": "d3b28b1bc00edc45e3b2b960fb4a7d4e2225b377",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "How building software is changing at Anthropic",
+    "summary": "A deepdive on what’s changed in how the leading AI lab makes software. Ever more code review and testing is done by AI, two-pizza teams very much alive, and more. Details from inside of Anthropic",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!0GCi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff86124b7-b1c1-4e0e-9f57-42f5e6de75ed_2048x976.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/inside-anthropic",
+    "published": "2026-07-28T15:49:30.000Z"
+  },
+  {
+    "id": "bdf925c7140cd59fe67670b48b92fe777bbb5364",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f4dfdb8645d066c9d6e2d92571a713fc65eca500",
+    "published": "2026-07-28T15:47:39.000Z"
+  },
+  {
+    "id": "358e404db86d110ecb8e283c9d7b8f79a153a5c0",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI",
+    "summary": "OpenAI's core product engineering lead on how they are building ChatGPT Work to make AGI accessible to all of humanity: Sites, OpenClaw, Memory, Subagents, Finance, No-Code and advice.",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/chatgpt-work",
+    "published": "2026-07-28T15:26:30.000Z"
+  },
+  {
+    "id": "298627df995d5da25edb78ec0e254373797cdac7",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7035f73c1b7650022e5efc1a7fed47c8f68dd33f",
+    "published": "2026-07-28T12:38:52.000Z"
+  },
+  {
+    "id": "184a0d6d2232b1a652917be46da92ab11693f644",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8f1dadc37b563f3c9e156edc77df09c2faadc715",
+    "published": "2026-07-28T09:53:53.000Z"
+  },
+  {
     "id": "0ea7fc2bef80389191d1a8cd53232749de93527f",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -36,18 +132,6 @@
     "published": "2026-07-28T04:02:42.000Z"
   },
   {
-    "id": "6cece4ea9bdbd85da6a1a6d84ef441633208f79e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/03d3cf9d46ab351ef26e1e669e3243748badefff",
-    "published": "2026-07-28T00:33:24.000Z"
-  },
-  {
     "id": "64db355e6a0ca24465595f8f9858b3a7a81c47a0",
     "source": "Simon Willison",
     "type": "blog",
@@ -65,7 +149,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Claude Opus 5 is INSANE at Excel (Better Than Fable)",
+    "title": "How to Use Claude for Excel (Complete Beginner Guide)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/fZ1Kmuafzzk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=fZ1Kmuafzzk",
@@ -82,66 +166,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
     "published": "2026-07-27T21:55:53.000Z"
-  },
-  {
-    "id": "d5a5cb0c348cd4e99dd0952003226d4664c7fbe0",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e40d844492fbc304da14589c56b1edfebdb80943",
-    "published": "2026-07-27T21:25:52.000Z"
-  },
-  {
-    "id": "051410052a66fd12a3a671850274b0af76855a45",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ff054bbb2f53d73c3abde31d1b2c590496804d42",
-    "published": "2026-07-27T18:33:50.000Z"
-  },
-  {
-    "id": "d12a8bc4b8f28ae17831dcf8f53f7647105d78d9",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e7152c9d2df40169c45740d85b623a40808f00a2",
-    "published": "2026-07-27T15:52:58.000Z"
-  },
-  {
-    "id": "2516de4491999a8a6258a37eb5110f05328267d9",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c92e6f9ff0d5bd7bfe3aea1cafbe1911167d5dab",
-    "published": "2026-07-27T13:05:19.000Z"
-  },
-  {
-    "id": "1371a43a8e84f273280a9d8b1024c4b42d9cee3b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a6afdf1e9bb4171f31625861d3c2601294922dc3",
-    "published": "2026-07-27T10:20:04.000Z"
   },
   {
     "id": "ec833855c3b37372b19c062347162d070584a515",
@@ -516,18 +540,6 @@
     "published": "2026-07-21T09:25:35.000Z"
   },
   {
-    "id": "9c0be6c676b54ea5810af3fdcef85c2059c9793a",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] not much happened today",
-    "summary": "a quiet day.",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/ainews-not-much-happened-today-173",
-    "published": "2026-07-21T03:58:00.000Z"
-  },
-  {
     "id": "2e77c20f7079164d76ee1b93e59f8a5ed8fffcf1",
     "source": "AI Jason",
     "type": "video",
@@ -730,18 +742,6 @@
     "thumbnail": null,
     "url": "https://www.allthingsdistributed.com/2026/07/now-go-build-cto-fellowship-season-2.html?utm_campaign=inbound&amp;utm_source=rss",
     "published": "2026-07-08T09:00:00.000Z"
-  },
-  {
-    "id": "b3dd400e1f5fb99bf9be12d71cf86f047bd29d73",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Tech jobs market in 2026, part 3: hiring managers & job seekers",
-    "summary": "The market where nobody finds each other, the hottest market for AI-related positions, tough for engineering leaders, and more. Based on details from 50+ hiring managers & job seekers",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!jug7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd16fca2a-ad43-4f69-9a9d-8dd72f2edda3_1182x704.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/tech-jobs-market-in-2026-part-3-hiring",
-    "published": "2026-07-07T17:25:41.000Z"
   },
   {
     "id": "024a4cae0ae679872c82a69f17f88ecc7c9489d4",
