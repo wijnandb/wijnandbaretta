@@ -1,5 +1,257 @@
 [
   {
+    "id": "f202812d4a91f69d377d8a3e4bea1eaa6fc1b491",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Fix entry formatting",
+    "summary": "Fix entry formatting",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/29ccc1181e7a4f4a8f67a530997a6869fb486195",
+    "published": "2026-07-29T08:28:38.000Z"
+  },
+  {
+    "id": "66ee2ecd9c6bd2dc62a6ea70c14215210fbdbfa3",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #11119 from think-zone/add-mesh-connector",
+    "summary": "Merge pull request #11119 from think-zone/add-mesh-connector Add RightOnPar-LLC/mesh-connector (MeshMarket exchange) 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/1a377b94ae6f7f0ec2771914a25dd949dd39ec5d",
+    "published": "2026-07-29T08:28:35.000Z"
+  },
+  {
+    "id": "8470340c4a46b81693a146d31e9bca6181c2eb8f",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10669 from leonacostaok/add-quantakrypto-pqc-mcp",
+    "summary": "Merge pull request #10669 from leonacostaok/add-quantakrypto-pqc-mcp Add quantakrypto/pqc-tools — post-quantum readiness MCP server (Security) 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/05455ffff14c907e389612ddfd0f48b9023104ab",
+    "published": "2026-07-29T08:24:16.000Z"
+  },
+  {
+    "id": "eb58fe2e0c7d5dbb5e44b0011abcd6e830c0938b",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase Crash Course (Auth & Firestore) #8 - Adding Firestore Documents",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/Ib2JNI1Feoo/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Ib2JNI1Feoo",
+    "published": "2026-07-29T08:08:14.000Z"
+  },
+  {
+    "id": "9fa1878a418e2c2ab58ace357a6ccdb4e2fbc494",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #9770 from Christilut/add-sonovault-mcp",
+    "summary": "Merge pull request #9770 from Christilut/add-sonovault-mcp Add sonovault-mcp (music metadata: search, ISRC/ISWC, cross-platform IDs)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/2dfdce400346a8b6eca7167c4564f8a1ff706417",
+    "published": "2026-07-29T06:57:48.000Z"
+  },
+  {
+    "id": "c81e3417a23e5fe6ccc4ac63494221376f6f2ae4",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/eca6b3d508ca0d9b480fbe0c92a1f2a931df382f",
+    "published": "2026-07-29T06:57:04.000Z"
+  },
+  {
+    "id": "ecad386a5e959e28f29e542bda59de8a64448fc6",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10114 from healthai-hq/add-radar",
+    "summary": "Merge pull request #10114 from healthai-hq/add-radar Add 483 Risk Radar (FDA/NHTSA regulatory-risk MCP server)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/d18c2d2e3d54aaa36f43e56cf4e662666a09f84f",
+    "published": "2026-07-29T06:54:58.000Z"
+  },
+  {
+    "id": "169a113801dd0467438ee40cf37b173bf7495b42",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #9928 from healthai-hq/add-mcpqueen",
+    "summary": "Merge pull request #9928 from healthai-hq/add-mcpqueen Add MCP Queen (graded MCP registry) to Aggregators",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/60a13ad555e08f886f1ec35a7e0bc1fd5d069056",
+    "published": "2026-07-29T06:51:12.000Z"
+  },
+  {
+    "id": "e5cae28f4e71b3b5f4ef9ab92bfdf54f49fd88c8",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Update rekordcloud/sonovault-mcp entry in README",
+    "summary": "Update rekordcloud/sonovault-mcp entry in README Added glama badge",
+    "thumbnail": "https://avatars.githubusercontent.com/u/3471363?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/73e340ac80419d9287935f118199a463c48e9b6f",
+    "published": "2026-07-29T06:48:12.000Z"
+  },
+  {
+    "id": "f05f0fb3cd204f2d0e6ebc1d63e6320a9a8519d9",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #11131 from xDarkzx/add-reaper-mcp",
+    "summary": "Merge pull request #11131 from xDarkzx/add-reaper-mcp Add Reaper-MCP",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/5a41bdc66171202e798b4ddded1ead318dc72fdc",
+    "published": "2026-07-29T06:32:47.000Z"
+  },
+  {
+    "id": "092118b465e0ab0bdb4fbe5fc9eb695128ca05ae",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "new resources",
+    "summary": "new resources",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a86f58767ca1b4db34bd7005e60bd853cd8e80d6",
+    "published": "2026-07-29T05:44:11.000Z"
+  },
+  {
+    "id": "d802e3996e7694b556a748e470c8b3c83ad41054",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d77d90a951f2c3f4a962ffd5155d8e802f3765b4",
+    "published": "2026-07-29T04:03:59.000Z"
+  },
+  {
+    "id": "21bb05a890754ab863a89b70e7d07625e69f831d",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to \"Pace\" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack",
+    "summary": "The Big Pause is coming.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!u8gQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87c30d45-da74-47aa-80c6-77903e4c9cbf_2094x1890.png",
+    "url": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
+    "published": "2026-07-29T00:46:52.000Z"
+  },
+  {
+    "id": "f451ab4157c8c054599470aa7cb074e1b3532f9b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/13ea251c44bf0924e7f27945842a731ee5b8e76d",
+    "published": "2026-07-29T00:31:20.000Z"
+  },
+  {
+    "id": "b551bd5768348dd4ae08bba9f261452a05bd3699",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e3f0dd28626c73f57e1c2c9a7117e9996958eeec",
+    "published": "2026-07-29T00:03:21.000Z"
+  },
+  {
+    "id": "ed43346c56057e0661a6b3a50830d3c9846d22a9",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: Caveman (#2347)",
+    "summary": "Add resource: Caveman (#2347) Category: Skills Author: Julius Brussee From issue: #2346 Co-authored-by: github-actions[bot] Co-authored-by: Really Him",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/665c5747a41ee17b46b2bf1227001d46dc0851a9",
+    "published": "2026-07-29T00:02:59.000Z"
+  },
+  {
+    "id": "6a754bccfbb5b4968ece6cf4ebce1a6d0320a63a",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Discovering cryptographic weaknesses with Claude",
+    "summary": "Discovering cryptographic weaknesses with Claude The best part of this article (here's the repo) about how Anthropic researchers used Claude Mythos to find mathematical flaws in both HAWK and a...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
+    "published": "2026-07-28T22:45:37.000Z"
+  },
+  {
+    "id": "45a0faf36c1194c51e285c14a9bc177ec0aee3c0",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Akshat Bubna",
+    "summary": "We’re aware a Modal customer published an unauthenticated endpoint that allowed ​anyone on the internet to use ​their ⁠sandboxes for code execution. This was used by the rogue agent. Modal’s...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything",
+    "published": "2026-07-28T22:05:55.000Z"
+  },
+  {
+    "id": "c9d542dbf75e1e1586bec472fc1296db4c285582",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "uv 0.12.0",
+    "summary": "uv 0.12.0 Some interesting breaking changes in this release of uv, in particular to the default project produced by the uv init command. uv init is the uv shortcut for creating a new project. The...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/28/uv/#atom-everything",
+    "published": "2026-07-28T21:51:38.000Z"
+  },
+  {
+    "id": "53b868bd01d6a80968d65863e9b69a826457f113",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "summary": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident Hugging Face just released this extremely detailed technical description of OpenAI's recent accidental...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything",
+    "published": "2026-07-28T21:28:54.000Z"
+  },
+  {
+    "id": "a68c6e92556ea0878bd014de743d4a0d75b8adde",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8bb4851b19669854e44fc48ce1985306e278830d",
+    "published": "2026-07-28T21:26:31.000Z"
+  },
+  {
     "id": "8beec65ddd48071a0dde2afcb75bea9b4bcafa5e",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -10,30 +262,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ca54e5e637bec27095704a8ae03145115e9b6932",
     "published": "2026-07-28T18:31:24.000Z"
-  },
-  {
-    "id": "c7f48a671e65e712d799e4e00e70ab4bf7ca9a04",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1520c63874d35d93a34dd6dd3538928d355167f7",
-    "published": "2026-07-28T18:26:35.000Z"
-  },
-  {
-    "id": "3d9d918a3c26d58808ff3f24c4f4694aa9db27ba",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: My Claude Code Setup (#2344)",
-    "summary": "Add resource: My Claude Code Setup (#2344) Category: Research & Scientific Inquiry Author: Pedro H. C. Sant'Anna From issue: #2343 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a2a34a8a56156a9d93d39b62056d942e36edd568",
-    "published": "2026-07-28T18:26:14.000Z"
   },
   {
     "id": "d3b28b1bc00edc45e3b2b960fb4a7d4e2225b377",
@@ -48,18 +276,6 @@
     "published": "2026-07-28T15:49:30.000Z"
   },
   {
-    "id": "bdf925c7140cd59fe67670b48b92fe777bbb5364",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f4dfdb8645d066c9d6e2d92571a713fc65eca500",
-    "published": "2026-07-28T15:47:39.000Z"
-  },
-  {
     "id": "358e404db86d110ecb8e283c9d7b8f79a153a5c0",
     "source": "Latent Space",
     "type": "podcast",
@@ -72,42 +288,6 @@
     "published": "2026-07-28T15:26:30.000Z"
   },
   {
-    "id": "298627df995d5da25edb78ec0e254373797cdac7",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7035f73c1b7650022e5efc1a7fed47c8f68dd33f",
-    "published": "2026-07-28T12:38:52.000Z"
-  },
-  {
-    "id": "184a0d6d2232b1a652917be46da92ab11693f644",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8f1dadc37b563f3c9e156edc77df09c2faadc715",
-    "published": "2026-07-28T09:53:53.000Z"
-  },
-  {
-    "id": "0ea7fc2bef80389191d1a8cd53232749de93527f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a8f412b199ca6e60909c6b15329f08dbfdf2d9ae",
-    "published": "2026-07-28T06:54:54.000Z"
-  },
-  {
     "id": "abde6a421348d4592caefd013770c4d59448a238",
     "source": "Latent Space",
     "type": "podcast",
@@ -118,18 +298,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!90od!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOR8_rBbEAAhTr6.jpg",
     "url": "https://www.latent.space/p/ainews-much-ado-about-open-weights",
     "published": "2026-07-28T06:20:13.000Z"
-  },
-  {
-    "id": "99bcaf6fb3e5f45bedeac4873f4191de822fee07",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/849b6635137d151133e27346dfa1a957e7d181f5",
-    "published": "2026-07-28T04:02:42.000Z"
   },
   {
     "id": "64db355e6a0ca24465595f8f9858b3a7a81c47a0",
@@ -204,16 +372,16 @@
     "published": "2026-07-26T19:30:54.000Z"
   },
   {
-    "id": "56eddc9d00c8c32b07aa85ff28aeaa985b94be8d",
+    "id": "bb66b233b8a518bcf1b0eafb01bbbbe430ff997a",
     "source": "Simon Willison",
     "type": "blog",
     "category": "ai",
     "lang": "en",
-    "title": "Ruff v0.16.0",
-    "summary": "Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new...",
+    "title": "sqlite-utils 3.39.1",
+    "summary": "Release: sqlite-utils 3.39.1 I back-ported a fix for table.delete_where() that shipped in version 4. Tags: sqlite-utils",
     "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
-    "published": "2026-07-25T22:44:05.000Z"
+    "url": "https://simonwillison.net/2026/Jul/26/sqlite-utils/#atom-everything",
+    "published": "2026-07-26T04:38:46.000Z"
   },
   {
     "id": "6a44eae369ab34d17dd3b3bdddbf4b21e66523ab",
@@ -228,102 +396,6 @@
     "published": "2026-07-25T20:28:01.000Z"
   },
   {
-    "id": "36c121de62e27d6f4e20b5f7f0bb5ed8d9f85321",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #7986 from tarunlnmiit/add-autopilot-jobhunt",
-    "summary": "Merge pull request #7986 from tarunlnmiit/add-autopilot-jobhunt Add autopilot-jobhunt to Workplace & Productivity",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/d0bf1db2bb11926c125e13fb69d4898da8ec1f93",
-    "published": "2026-07-25T19:50:40.000Z"
-  },
-  {
-    "id": "5e6ca41fd1aa7dbb290060971af256b3b33138c6",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10496 from vibecodebeast/add-swath-api",
-    "summary": "Merge pull request #10496 from vibecodebeast/add-swath-api Add Swath API — radar-verified storm detection & property intel (Location Services) 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/f6951d4d60dd1e657add822de41dfb6efeeadf5d",
-    "published": "2026-07-25T18:35:47.000Z"
-  },
-  {
-    "id": "952097099047391ec7e3d6865a6dc8fb8651dd07",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10895 from pcherkasov/add-wcagc-accessibility-server",
-    "summary": "Merge pull request #10895 from pcherkasov/add-wcagc-accessibility-server Add wcagc-mcp — accessibility scanning (WCAG / EN 301 549 / PDF-UA) 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/e283e2233182556ebbd54e819e823ef0a33fef34",
-    "published": "2026-07-25T18:16:50.000Z"
-  },
-  {
-    "id": "c5743c3fa563b69f9f376b1b4b5d20c3190b4457",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #8995 from pgalyen1987/add-gate402-mcp",
-    "summary": "Merge pull request #8995 from pgalyen1987/add-gate402-mcp Add gate402-mcp (Search & Data Extraction) 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/827b9118219ff374707cc60cd14b5c1e15d5b691",
-    "published": "2026-07-25T18:00:41.000Z"
-  },
-  {
-    "id": "118affd5583c6d1b24422f7736f9825e2d39ab55",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add gate402-mcp (compute + LLM inference + Base data over x402)",
-    "summary": "Add gate402-mcp (compute + LLM inference + Base data over x402) Co-Authored-By: Claude Opus 4.8",
-    "thumbnail": "https://0.gravatar.com/avatar/1ae1c2dbad3ce2586af4cedad83dc4e7?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/d26995c2bbce996ee288c2cb98ddf38fedb2611c",
-    "published": "2026-07-25T17:50:33.000Z"
-  },
-  {
-    "id": "98030c2b3b8750f711ef0056422258bc430ee83f",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10273 from singhpratech/add-crimson-crab-mcp-temp…",
-    "summary": "Merge pull request #10273 from singhpratech/add-crimson-crab-mcp-template Add crimson-crab-mcp-template (Rust, Claude via crimson-crab)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/5f0d6c8e664f0069f9e7623c4456f84469f89ce0",
-    "published": "2026-07-25T17:43:01.000Z"
-  },
-  {
-    "id": "4e3d1a03918719429b16b2220d76439c42339429",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10280 from dshakes/add-distil",
-    "summary": "Merge pull request #10280 from dshakes/add-distil Add dshakes/distil",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/96d7d9e6d32d4262c5dc3d5bafdd08efcd3a7de5",
-    "published": "2026-07-25T17:31:42.000Z"
-  },
-  {
-    "id": "bbdd262529121549132e0d1deb15cb29ffc62375",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add crimson-crab-mcp-template (Rust, Claude via crimson-crab)",
-    "summary": "Add crimson-crab-mcp-template (Rust, Claude via crimson-crab)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/42719720?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/ecb1d782ce1ecbd499adc38fb77f642f323959b7",
-    "published": "2026-07-25T17:28:03.000Z"
-  },
-  {
     "id": "801eea5287d81e754e9156f446337af612992548",
     "source": "Latent Space",
     "type": "podcast",
@@ -334,30 +406,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!FqD_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOBjK6cbIAA2Yph.jpg",
     "url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
     "published": "2026-07-25T07:25:38.000Z"
-  },
-  {
-    "id": "9e10b8bb9cb2c027c085e91b5dd9b4281bc23205",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Boris Cherny",
-    "summary": "More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and red...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
-    "published": "2026-07-25T00:42:59.000Z"
-  },
-  {
-    "id": "3a60f07223b39aed37bbdd6a0989a0e1743bf6de",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Introducing Claude Opus 5",
-    "summary": "Introducing Claude Opus 5 I've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet. The buzz is...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
-    "published": "2026-07-24T23:48:50.000Z"
   },
   {
     "id": "0e753f0f02f89efe873d05e217ad1af3943007ef",
@@ -394,18 +442,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!3n0x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2080308957898481664.jpg",
     "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
     "published": "2026-07-24T04:30:12.000Z"
-  },
-  {
-    "id": "dc52ca5a9a9312f46b53a0c326a09b94d160cea1",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "The first known runaway AI agent - or a very bad marketing stunt?",
-    "summary": "The first known runaway AI agent - or a very bad marketing stunt? Martin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
-    "published": "2026-07-23T22:53:08.000Z"
   },
   {
     "id": "01df3619cdf60a7b0b4e82bebebf529be82f79fc",
@@ -456,18 +492,6 @@
     "published": "2026-07-23T05:09:14.000Z"
   },
   {
-    "id": "d64f4f789af1d5a7f6f00531bcc123ae2afa7289",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Seth Larson",
-    "summary": "The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was put in place to prevent old and long-stable releases from being...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything",
-    "published": "2026-07-23T04:50:36.000Z"
-  },
-  {
     "id": "08c3f0dafe56fd7d95f764e400e22448dcfd90ac",
     "source": "ElevenLabs",
     "type": "video",
@@ -502,18 +526,6 @@
     "thumbnail": "https://i.ytimg.com/vi/gOx37on-iA8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=gOx37on-iA8",
     "published": "2026-07-21T22:27:56.000Z"
-  },
-  {
-    "id": "3f246cbfa870f6d874a70040b44181599bfcb745",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "🔬Causal Models Need Causal Data - Xaira’s X-Cell model for Drug Discovery (Bo Wang & Ci Chu, Chief Discovery Officer & Chief AI Scientist)",
-    "summary": "Xaira Therapeutics is all in on data generation for model building! We talk with Bo Wang and Ci Chu about how and why.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!4Uba!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6c52f8c-8d38-4f63-8daa-ff6ab52e3aa5_827x883.png",
-    "url": "https://www.latent.space/p/xaira",
-    "published": "2026-07-21T19:34:06.000Z"
   },
   {
     "id": "0d3944e966fea04a89c46d6cc3bbf9fa3bf94414",
@@ -862,18 +874,6 @@
     "thumbnail": "https://i.ytimg.com/vi/1HkqTlXbQmQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=1HkqTlXbQmQ",
     "published": "2026-06-24T12:04:26.000Z"
-  },
-  {
-    "id": "1600a5d3a8ac33dfd2ac759f2d352761f8cb62a7",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Claude API Crash Course #5 - Rendering the Response as HTML",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/DPzxFXakItU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=DPzxFXakItU",
-    "published": "2026-06-24T08:45:00.000Z"
   },
   {
     "id": "7173e6f4192a940864f20363029b2f3b74258d69",
