@@ -1,6 +1,174 @@
 [
   {
-    "id": "f202812d4a91f69d377d8a3e4bea1eaa6fc1b491",
+    "id": "f34faab803310ac452d76aceaf16747e7ce669a7",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "AI Worming through Word",
+    "summary": "AI Worming through Word Neat new prompt injection variant by Håkon Måløy, who found a way to upgrade prompt injection attacks against Microsoft Word to full self-replicating worms: An attacker places...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
+    "published": "2026-07-29T18:43:03.000Z"
+  },
+  {
+    "id": "05311ed34da4a94b04009b0195bbf1d1be69e5c6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0eb64e8465732b9794cb1ffc0d36a5df4af3a9ec",
+    "published": "2026-07-29T18:22:16.000Z"
+  },
+  {
+    "id": "37a1e544eed9524bd8cb765bceedc886c5b719a3",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Matthew Green",
+    "summary": "Right now we’re in the midst of a historic transition from traditional public-key algorithms based on EC-based cryptography and RSA, moving over to new post-quantum algorithms based on novel...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything",
+    "published": "2026-07-29T18:18:15.000Z"
+  },
+  {
+    "id": "89a35691449a549c4fcf068de0aa9709da731ae3",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Formal methods with Hillel Wayne",
+    "summary": "Hillel Wayne explains why formal methods like TLA+ matter, how they help build reliable software, and whether AI will finally bring formal verification into the mainstream.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!YCsL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39bdfbb4-fb73-41d8-83cb-0ca4832aed49_1280x80.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/formal-methods-with-hillel-wayne",
+    "published": "2026-07-29T16:22:31.000Z"
+  },
+  {
+    "id": "6082e8f4e5b33fe6be806d4f09aff79a37df1497",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/af4ce290755a0a2603a1bda27366da31f1c827a7",
+    "published": "2026-07-29T15:38:15.000Z"
+  },
+  {
+    "id": "8d747dbaa1e413c43ac3e99364fbb24d81f0d659",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2550fb12d7a1a9fa1b70e1c15a47542dc755bea7",
+    "published": "2026-07-29T12:43:01.000Z"
+  },
+  {
+    "id": "2812bf1a61ea8005354f847282f1df9829ea1e76",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10893 from marccrutzen269-lab/add-departi-v2",
+    "summary": "Merge pull request #10893 from marccrutzen269-lab/add-departi-v2 Add Departi – Travel Compliance & Curated Booking MCP Server",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/375407c7290dd99d305938983f37adffa9d44275",
+    "published": "2026-07-29T10:26:20.000Z"
+  },
+  {
+    "id": "eb07bd6af8c826d1fef9ca4546abdd677ff2c7c4",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #11068 from Alepha188838884/add-context-firewall",
+    "summary": "Merge pull request #11068 from Alepha188838884/add-context-firewall Add context-firewall (aggregator proxy with output compression) 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/9a6239e018b7168b5106834da989886a178c3b6a",
+    "published": "2026-07-29T09:59:59.000Z"
+  },
+  {
+    "id": "a0b3df9cb3a851036b0a9a4e31f935c54ef7cdc7",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6679acbcd1a9572e6fcccde2bda5a501f1c1856a",
+    "published": "2026-07-29T09:54:33.000Z"
+  },
+  {
+    "id": "d6fca144789a70cbbe0aea282d19af8e935de5e3",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10561 from khrystynaDal/patch-1",
+    "summary": "Merge pull request #10561 from khrystynaDal/patch-1 Add drawing-converter-mcp (metric ⇄ imperial for technical drawings)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/706ef898ea9ba14ca3d5b1dcafbd235976e4110b",
+    "published": "2026-07-29T09:46:24.000Z"
+  },
+  {
+    "id": "db721e5ceaf21b85e497204d390e060b420356dd",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Update drawing-converter-mcp entry in README",
+    "summary": "Update drawing-converter-mcp entry in README",
+    "thumbnail": "https://avatars.githubusercontent.com/u/307393918?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/8855694329fb63126788f724f157ac9c701b6142",
+    "published": "2026-07-29T09:38:00.000Z"
+  },
+  {
+    "id": "4015c516f6890cfa4e45487f29493a84893f9189",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #11011 from gerard-kanters/cursor/add-mcp-linux-to…",
+    "summary": "Merge pull request #11011 from gerard-kanters/cursor/add-mcp-linux-tools-88ed Add gerard-kanters/mcp-linux-tools 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/00fe496716040e3cc6d5808ea9d5dcdb213d279c",
+    "published": "2026-07-29T09:13:54.000Z"
+  },
+  {
+    "id": "9650a76aee643888fbcb7e72135539076fd13aa6",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10709 from zw008/add-postgres",
+    "summary": "Merge pull request #10709 from zw008/add-postgres Add AIops-tools/Postgres-AIops governed MCP server",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/c0d0ed36b1874276bbc428a20f4671ac004caa48",
+    "published": "2026-07-29T09:04:46.000Z"
+  },
+  {
+    "id": "1950b049d5c41fc228bbd8b43cf6c69f1d81ef63",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "docs: add Glama score badge for AIops-tools/Postgres-AIops",
+    "summary": "docs: add Glama score badge for AIops-tools/Postgres-AIops",
+    "thumbnail": "https://avatars.githubusercontent.com/u/10613299?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/bfeea55a2e3b09212892aee625b6fee5b1dde9b3",
+    "published": "2026-07-29T08:58:22.000Z"
+  },
+  {
+    "id": "2f40081bd1a9179b7b2047696f9b854be027159e",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
@@ -8,32 +176,8 @@
     "title": "Fix entry formatting",
     "summary": "Fix entry formatting",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/29ccc1181e7a4f4a8f67a530997a6869fb486195",
-    "published": "2026-07-29T08:28:38.000Z"
-  },
-  {
-    "id": "66ee2ecd9c6bd2dc62a6ea70c14215210fbdbfa3",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #11119 from think-zone/add-mesh-connector",
-    "summary": "Merge pull request #11119 from think-zone/add-mesh-connector Add RightOnPar-LLC/mesh-connector (MeshMarket exchange) 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/1a377b94ae6f7f0ec2771914a25dd949dd39ec5d",
-    "published": "2026-07-29T08:28:35.000Z"
-  },
-  {
-    "id": "8470340c4a46b81693a146d31e9bca6181c2eb8f",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10669 from leonacostaok/add-quantakrypto-pqc-mcp",
-    "summary": "Merge pull request #10669 from leonacostaok/add-quantakrypto-pqc-mcp Add quantakrypto/pqc-tools — post-quantum readiness MCP server (Security) 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/05455ffff14c907e389612ddfd0f48b9023104ab",
-    "published": "2026-07-29T08:24:16.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/612d5697029c85f60c6d3bab57f3299f2f3b1cbd",
+    "published": "2026-07-29T08:54:31.000Z"
   },
   {
     "id": "eb58fe2e0c7d5dbb5e44b0011abcd6e830c0938b",
@@ -48,18 +192,6 @@
     "published": "2026-07-29T08:08:14.000Z"
   },
   {
-    "id": "9fa1878a418e2c2ab58ace357a6ccdb4e2fbc494",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #9770 from Christilut/add-sonovault-mcp",
-    "summary": "Merge pull request #9770 from Christilut/add-sonovault-mcp Add sonovault-mcp (music metadata: search, ISRC/ISWC, cross-platform IDs)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/2dfdce400346a8b6eca7167c4564f8a1ff706417",
-    "published": "2026-07-29T06:57:48.000Z"
-  },
-  {
     "id": "c81e3417a23e5fe6ccc4ac63494221376f6f2ae4",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -70,54 +202,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/eca6b3d508ca0d9b480fbe0c92a1f2a931df382f",
     "published": "2026-07-29T06:57:04.000Z"
-  },
-  {
-    "id": "ecad386a5e959e28f29e542bda59de8a64448fc6",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10114 from healthai-hq/add-radar",
-    "summary": "Merge pull request #10114 from healthai-hq/add-radar Add 483 Risk Radar (FDA/NHTSA regulatory-risk MCP server)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/d18c2d2e3d54aaa36f43e56cf4e662666a09f84f",
-    "published": "2026-07-29T06:54:58.000Z"
-  },
-  {
-    "id": "169a113801dd0467438ee40cf37b173bf7495b42",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #9928 from healthai-hq/add-mcpqueen",
-    "summary": "Merge pull request #9928 from healthai-hq/add-mcpqueen Add MCP Queen (graded MCP registry) to Aggregators",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/60a13ad555e08f886f1ec35a7e0bc1fd5d069056",
-    "published": "2026-07-29T06:51:12.000Z"
-  },
-  {
-    "id": "e5cae28f4e71b3b5f4ef9ab92bfdf54f49fd88c8",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Update rekordcloud/sonovault-mcp entry in README",
-    "summary": "Update rekordcloud/sonovault-mcp entry in README Added glama badge",
-    "thumbnail": "https://avatars.githubusercontent.com/u/3471363?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/73e340ac80419d9287935f118199a463c48e9b6f",
-    "published": "2026-07-29T06:48:12.000Z"
-  },
-  {
-    "id": "f05f0fb3cd204f2d0e6ebc1d63e6320a9a8519d9",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #11131 from xDarkzx/add-reaper-mcp",
-    "summary": "Merge pull request #11131 from xDarkzx/add-reaper-mcp Add Reaper-MCP",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/5a41bdc66171202e798b4ddded1ead318dc72fdc",
-    "published": "2026-07-29T06:32:47.000Z"
   },
   {
     "id": "092118b465e0ab0bdb4fbe5fc9eb695128ca05ae",
@@ -168,28 +252,16 @@
     "published": "2026-07-29T00:31:20.000Z"
   },
   {
-    "id": "b551bd5768348dd4ae08bba9f261452a05bd3699",
-    "source": "awesome-claude-code",
-    "type": "repo",
+    "id": "90749d760640e7084a4d6c6251adc773717602b7",
+    "source": "Simon Willison",
+    "type": "blog",
     "category": "ai",
     "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e3f0dd28626c73f57e1c2c9a7117e9996958eeec",
-    "published": "2026-07-29T00:03:21.000Z"
-  },
-  {
-    "id": "ed43346c56057e0661a6b3a50830d3c9846d22a9",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: Caveman (#2347)",
-    "summary": "Add resource: Caveman (#2347) Category: Skills Author: Julius Brussee From issue: #2346 Co-authored-by: github-actions[bot] Co-authored-by: Really Him",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/665c5747a41ee17b46b2bf1227001d46dc0851a9",
-    "published": "2026-07-29T00:02:59.000Z"
+    "title": "Adding a custom MCP server to Claude and ChatGPT",
+    "summary": "TIL: Adding a custom MCP server to Claude and ChatGPT Connecting a custom MCP server to Claude and ChatGPT's standard chat interfaces is possible, but can take quite a few steps. Tags: ai,...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything",
+    "published": "2026-07-29T00:13:18.000Z"
   },
   {
     "id": "6a754bccfbb5b4968ece6cf4ebce1a6d0320a63a",
@@ -238,30 +310,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything",
     "published": "2026-07-28T21:28:54.000Z"
-  },
-  {
-    "id": "a68c6e92556ea0878bd014de743d4a0d75b8adde",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8bb4851b19669854e44fc48ce1985306e278830d",
-    "published": "2026-07-28T21:26:31.000Z"
-  },
-  {
-    "id": "8beec65ddd48071a0dde2afcb75bea9b4bcafa5e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ca54e5e637bec27095704a8ae03145115e9b6932",
-    "published": "2026-07-28T18:31:24.000Z"
   },
   {
     "id": "d3b28b1bc00edc45e3b2b960fb4a7d4e2225b377",
@@ -324,18 +372,6 @@
     "published": "2026-07-27T23:23:11.000Z"
   },
   {
-    "id": "def96b54eb52415f08a01ba36314ad83ee44983f",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "An opinionated guide to which AI to use to do stuff",
-    "summary": "An opinionated guide to which AI to use to do stuff It's interesting watching the evolution of Ethan Mollick's guide over time. A year ago it was still all about chat - ChatGPT, Claude, Gemini - with...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
-    "published": "2026-07-27T21:55:53.000Z"
-  },
-  {
     "id": "ec833855c3b37372b19c062347162d070584a515",
     "source": "Coding in Public",
     "type": "video",
@@ -358,30 +394,6 @@
     "thumbnail": "https://i.ytimg.com/vi/-Z1KrG9f2v8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=-Z1KrG9f2v8",
     "published": "2026-07-27T09:42:06.000Z"
-  },
-  {
-    "id": "e7bd166c2dcc29ec5271b722acecf0c9fcdb6ae1",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
-    "summary": "An Inside Look at the Relay Market Powering Token Resellers and Fraud Fascinating investigation by Matt Lenhard into the market that has grown up around reselling LLM tokens at a discount by pooling...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
-    "published": "2026-07-26T19:30:54.000Z"
-  },
-  {
-    "id": "bb66b233b8a518bcf1b0eafb01bbbbe430ff997a",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "sqlite-utils 3.39.1",
-    "summary": "Release: sqlite-utils 3.39.1 I back-ported a fix for table.delete_where() that shipped in version 4. Tags: sqlite-utils",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/26/sqlite-utils/#atom-everything",
-    "published": "2026-07-26T04:38:46.000Z"
   },
   {
     "id": "6a44eae369ab34d17dd3b3bdddbf4b21e66523ab",
@@ -730,18 +742,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!Fvua!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56c0030d-bd49-45fb-b641-23017f5aa6af_1656x1200.png",
     "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from",
     "published": "2026-07-09T16:32:18.000Z"
-  },
-  {
-    "id": "b73c8f825057786c1d16fa2529387976816afa5e",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The Pragmatic Engineer AMA",
-    "summary": "In this AMA episode, Gergely Orosz answers listener questions on AI, engineering, hiring, and careers.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!THaU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe3aa9c7-c1c1-449c-97af-f000307b5b8d_1988x1180.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-ama",
-    "published": "2026-07-08T16:38:49.000Z"
   },
   {
     "id": "45a096207eea7d4aba64bcb4b9fccc24dd514346",
