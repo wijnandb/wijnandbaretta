@@ -1,5 +1,89 @@
 [
   {
+    "id": "a214b17c91cc60f9cbc339bf48ababb516f76061",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/113e6d95f8ee56f1da61b8c77d399acc9e3bbbf4",
+    "published": "2026-07-30T18:31:48.000Z"
+  },
+  {
+    "id": "c629b437b9787e8e5ce26d40c0bcb986598f9914",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Bruce Schneier",
+    "summary": "The writing assignments I give my students are gym tasks, not work tasks. I ask them to write policy memos not because the world needs more policy memos. I assign them because the very act of...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
+    "published": "2026-07-30T18:25:26.000Z"
+  },
+  {
+    "id": "8ed2124cb02610491e8e5ff537e1b8910c7846f6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aaf5f0b15fec3f01e8235f035ad32b06125e695e",
+    "published": "2026-07-30T15:39:23.000Z"
+  },
+  {
+    "id": "c649605dcce89948f7e8aaffba7b54c7ff8a7b9e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/90c05afbbf08e0804a6ffb9a5900bebf9310b64e",
+    "published": "2026-07-30T12:36:08.000Z"
+  },
+  {
+    "id": "eb04debe72ccc23b0c22c09139b9b9bcad978269",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
+    "summary": "AI engineers are rediscovering ontologies as a way to keep probabilistic agents inside deterministic boundaries.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!180z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33011df5-c14f-4770-9b91-efa55618b6eb_1672x941.png",
+    "url": "https://www.latent.space/p/ontologies-agentic-systems",
+    "published": "2026-07-30T11:17:55.000Z"
+  },
+  {
+    "id": "8ca00857c6dcd30347651ffca2967df3f800080c",
+    "source": "AI Jason",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Loop engineer practice #1: Reddit loop grew 0 to 95 Karma in 7 days",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/xn72yW9SNdA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=xn72yW9SNdA",
+    "published": "2026-07-30T11:07:03.000Z"
+  },
+  {
+    "id": "78a46c2cd86f29ac26a387fa404e0f6c86653161",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a6baa0c8a3df70597b1723deedcb0c95e54a3bd5",
+    "published": "2026-07-30T09:51:29.000Z"
+  },
+  {
     "id": "cd81f55beb88c60543a2d08cd31b3fe3aac0fae2",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -96,18 +180,6 @@
     "published": "2026-07-29T18:43:03.000Z"
   },
   {
-    "id": "05311ed34da4a94b04009b0195bbf1d1be69e5c6",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0eb64e8465732b9794cb1ffc0d36a5df4af3a9ec",
-    "published": "2026-07-29T18:22:16.000Z"
-  },
-  {
     "id": "37a1e544eed9524bd8cb765bceedc886c5b719a3",
     "source": "Simon Willison",
     "type": "blog",
@@ -132,30 +204,6 @@
     "published": "2026-07-29T16:22:31.000Z"
   },
   {
-    "id": "6082e8f4e5b33fe6be806d4f09aff79a37df1497",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/af4ce290755a0a2603a1bda27366da31f1c827a7",
-    "published": "2026-07-29T15:38:15.000Z"
-  },
-  {
-    "id": "8d747dbaa1e413c43ac3e99364fbb24d81f0d659",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2550fb12d7a1a9fa1b70e1c15a47542dc755bea7",
-    "published": "2026-07-29T12:43:01.000Z"
-  },
-  {
     "id": "2812bf1a61ea8005354f847282f1df9829ea1e76",
     "source": "awesome-mcp-servers",
     "type": "repo",
@@ -178,18 +226,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
     "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/9a6239e018b7168b5106834da989886a178c3b6a",
     "published": "2026-07-29T09:59:59.000Z"
-  },
-  {
-    "id": "a0b3df9cb3a851036b0a9a4e31f935c54ef7cdc7",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6679acbcd1a9572e6fcccde2bda5a501f1c1856a",
-    "published": "2026-07-29T09:54:33.000Z"
   },
   {
     "id": "d6fca144789a70cbbe0aea282d19af8e935de5e3",
@@ -334,18 +370,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/28/uv/#atom-everything",
     "published": "2026-07-28T21:51:38.000Z"
-  },
-  {
-    "id": "53b868bd01d6a80968d65863e9b69a826457f113",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-    "summary": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident Hugging Face just released this extremely detailed technical description of OpenAI's recent accidental...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything",
-    "published": "2026-07-28T21:28:54.000Z"
   },
   {
     "id": "d3b28b1bc00edc45e3b2b960fb4a7d4e2225b377",
@@ -514,18 +538,6 @@
     "thumbnail": null,
     "url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
     "published": "2026-07-23T05:18:47.000Z"
-  },
-  {
-    "id": "332d880765debabbd0d645e9c5f9a9bd6ca53894",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Inside the Model Factory — Eiso Kant, Poolside AI",
-    "summary": "Poolside's co-CEO on how his small team of top researchers built a model factory capable of training Laguna S - a 118B MOE beating Thinky's ~1T open weights model... and this is just the beginning.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!RGsJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15a65699-ea93-4572-addd-3c46060cb6b8_1200x822.png",
-    "url": "https://www.latent.space/p/poolside",
-    "published": "2026-07-23T05:09:14.000Z"
   },
   {
     "id": "08c3f0dafe56fd7d95f764e400e22448dcfd90ac",
@@ -1138,18 +1150,6 @@
     "thumbnail": "https://i.ytimg.com/vi/AzbJUZH9bno/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=AzbJUZH9bno",
     "published": "2026-05-18T11:42:00.000Z"
-  },
-  {
-    "id": "360b19e9d5e43847d8b589083c6797319754481b",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Ralph-loop 2.0? The real autonomous coder is coming...",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/rIs802-bXDY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=rIs802-bXDY",
-    "published": "2026-05-09T12:15:09.000Z"
   },
   {
     "id": "7d7b0841e9307efe21f2684c33634982a092ff39",
