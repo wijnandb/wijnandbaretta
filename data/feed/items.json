@@ -1,5 +1,89 @@
 [
   {
+    "id": "cd81f55beb88c60543a2d08cd31b3fe3aac0fae2",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/16582d58ffe9b4a78936b0d93889b5e191277b62",
+    "published": "2026-07-30T06:55:43.000Z"
+  },
+  {
+    "id": "c45c237a1dc9d3007f36471eb498b2a8e345b6fa",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/07db1b869e8a4ced07284b4f96a47c3e8ade873d",
+    "published": "2026-07-30T04:02:06.000Z"
+  },
+  {
+    "id": "92d394d98253b76664ce2a6533089cd59e62ceb7",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/788e109c6cc4fc803c497cc85ac5e5fcb98ebb92",
+    "published": "2026-07-30T00:31:48.000Z"
+  },
+  {
+    "id": "ba8a730289041e15f32c521711e048561c51db0b",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] AI is eating Finance; AIE NYC now open",
+    "summary": "a quiet day lets us cover how AI is permeating financial services as the next big vertical after coding.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!RprN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7ec12df-76c8-4af8-a4aa-d0eede187099_2582x1658.png",
+    "url": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
+    "published": "2026-07-29T23:32:12.000Z"
+  },
+  {
+    "id": "783d20b71009f3e81284d59dbb43fb3eb34afc41",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/41ec176a28e80f82a92b5e4fc96083c8c44b43aa",
+    "published": "2026-07-29T21:19:41.000Z"
+  },
+  {
+    "id": "9d4736f08b005ec2722921c5b867c62c760e8313",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting D. Richard Hipp",
+    "summary": "Years ago, we didn’t have SQL. There were people whose job was to generate software that would query large data sets. Their job title was COBOL programmer. Then SQL comes along—I’m simplifying this...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
+    "published": "2026-07-29T21:15:21.000Z"
+  },
+  {
+    "id": "5800aeb2b78e174752aa43c8cfe5e69f3d3470f0",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Claude Code + Codex Can FINALLY Work Together (Buzz AI)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/P1KpxzLVg7c/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=P1KpxzLVg7c",
+    "published": "2026-07-29T20:54:33.000Z"
+  },
+  {
     "id": "f34faab803310ac452d76aceaf16747e7ce669a7",
     "source": "Simon Willison",
     "type": "blog",
@@ -192,42 +276,6 @@
     "published": "2026-07-29T08:08:14.000Z"
   },
   {
-    "id": "c81e3417a23e5fe6ccc4ac63494221376f6f2ae4",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/eca6b3d508ca0d9b480fbe0c92a1f2a931df382f",
-    "published": "2026-07-29T06:57:04.000Z"
-  },
-  {
-    "id": "092118b465e0ab0bdb4fbe5fc9eb695128ca05ae",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "new resources",
-    "summary": "new resources",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a86f58767ca1b4db34bd7005e60bd853cd8e80d6",
-    "published": "2026-07-29T05:44:11.000Z"
-  },
-  {
-    "id": "d802e3996e7694b556a748e470c8b3c83ad41054",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d77d90a951f2c3f4a962ffd5155d8e802f3765b4",
-    "published": "2026-07-29T04:03:59.000Z"
-  },
-  {
     "id": "21bb05a890754ab863a89b70e7d07625e69f831d",
     "source": "Latent Space",
     "type": "podcast",
@@ -238,18 +286,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!u8gQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87c30d45-da74-47aa-80c6-77903e4c9cbf_2094x1890.png",
     "url": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
     "published": "2026-07-29T00:46:52.000Z"
-  },
-  {
-    "id": "f451ab4157c8c054599470aa7cb074e1b3532f9b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/13ea251c44bf0924e7f27945842a731ee5b8e76d",
-    "published": "2026-07-29T00:31:20.000Z"
   },
   {
     "id": "90749d760640e7084a4d6c6251adc773717602b7",
@@ -348,24 +384,12 @@
     "published": "2026-07-28T06:20:13.000Z"
   },
   {
-    "id": "64db355e6a0ca24465595f8f9858b3a7a81c47a0",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "moonshotai/Kimi-K3",
-    "summary": "moonshotai/Kimi-K3 As promised earlier this month, Moonshot have released the weights for their excellent 2.8 trillion parameter Kimi K3. They're a hefty 1.56TB on Hugging Face. Kimi introduced their...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
-    "published": "2026-07-27T23:39:04.000Z"
-  },
-  {
     "id": "742ccd50e52bf1cae099f03c2f2386c3592ed115",
     "source": "Riley Brown",
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "How to Use Claude for Excel (Complete Beginner Guide)",
+    "title": "Master Claude for Excel in 20 Minutes (Full Guide)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/fZ1Kmuafzzk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=fZ1Kmuafzzk",
@@ -514,18 +538,6 @@
     "thumbnail": "https://i.ytimg.com/vi/HrDcpJV_JKc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=HrDcpJV_JKc",
     "published": "2026-07-22T16:20:58.000Z"
-  },
-  {
-    "id": "0a8336e800ca6c6632673398b0409a7d1a7d68a8",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] AI Cybersecurity becomes top of mind",
-    "summary": "Several new Cyber headlines make us observe a trend",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top",
-    "published": "2026-07-22T03:27:29.000Z"
   },
   {
     "id": "e60744a35cd22640e50c2d558ba67ff3eb0a34d8",
@@ -718,18 +730,6 @@
     "thumbnail": "https://i.ytimg.com/vi/JQ_We_ztxrI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=JQ_We_ztxrI",
     "published": "2026-07-13T11:35:57.000Z"
-  },
-  {
-    "id": "bae801bd2fdd04c9b68bb2781ca415384b7d39a4",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "OpenAI Just Merged ChatGPT and Codex. This Changes Everything.",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/Fv0XfyLT3xU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Fv0XfyLT3xU",
-    "published": "2026-07-12T17:24:29.000Z"
   },
   {
     "id": "2acbe8a7bbf788fa70b9a8241a14b3ea99796aef",
