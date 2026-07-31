@@ -1,5 +1,65 @@
 [
   {
+    "id": "094158f500ad8be418df0c89fc8d3e4d20545a0e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e386d996b2e655d3d6b33161f14facd6ebb08f57",
+    "published": "2026-07-31T18:32:26.000Z"
+  },
+  {
+    "id": "89343718eee821c551133de09ab7f47ffc36cb78",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1a289179b14fae64490fa5e6c62cdc87e0538279",
+    "published": "2026-07-31T15:43:28.000Z"
+  },
+  {
+    "id": "e43f459edaffee083e69a9298e8ca65b94e3dfde",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase Crash Course (Auth & Firestore) #9 - Fetching Documents",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/I1y5gx2aUaM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=I1y5gx2aUaM",
+    "published": "2026-07-31T13:39:38.000Z"
+  },
+  {
+    "id": "9e1ba2897937fc97b5e158cee63deb3d27bc7f13",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c3368d92d456453939943716ee53cca5f402e60b",
+    "published": "2026-07-31T12:40:17.000Z"
+  },
+  {
+    "id": "6fa8613085223273940cc98e1ef3904a09818b3f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/686ac96617e5a45fc888c17f92532aaf800c8379",
+    "published": "2026-07-31T09:55:33.000Z"
+  },
+  {
     "id": "8eb2aa48ca260dec420abc79b9f834c22fc777be",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -46,6 +106,18 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c99874091219bc900c998ab8d34c2ff88367ff66",
     "published": "2026-07-31T00:35:34.000Z"
+  },
+  {
+    "id": "c9d99afb9217785697d07fdb63b10229abaac395",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "What's new in Astro - July 2026",
+    "summary": "July 2026 - CodeTV GSAP Webflow contest, Astro Germany, and more!",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/whats-new-july-2026/",
+    "published": "2026-07-31T00:00:00.000Z"
   },
   {
     "id": "cc6d8492c62779d8ad009dca8516a9b102800f86",
@@ -108,18 +180,6 @@
     "published": "2026-07-30T19:41:09.000Z"
   },
   {
-    "id": "a214b17c91cc60f9cbc339bf48ababb516f76061",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/113e6d95f8ee56f1da61b8c77d399acc9e3bbbf4",
-    "published": "2026-07-30T18:31:48.000Z"
-  },
-  {
     "id": "c629b437b9787e8e5ce26d40c0bcb986598f9914",
     "source": "Simon Willison",
     "type": "blog",
@@ -144,18 +204,6 @@
     "published": "2026-07-30T15:43:16.000Z"
   },
   {
-    "id": "8ed2124cb02610491e8e5ff537e1b8910c7846f6",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aaf5f0b15fec3f01e8235f035ad32b06125e695e",
-    "published": "2026-07-30T15:39:23.000Z"
-  },
-  {
     "id": "3c55230ddf74981fbeeb59ee1f20cdee9ede58b1",
     "source": "Simon Willison",
     "type": "blog",
@@ -166,18 +214,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything",
     "published": "2026-07-30T15:30:20.000Z"
-  },
-  {
-    "id": "c649605dcce89948f7e8aaffba7b54c7ff8a7b9e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/90c05afbbf08e0804a6ffb9a5900bebf9310b64e",
-    "published": "2026-07-30T12:36:08.000Z"
   },
   {
     "id": "eb04debe72ccc23b0c22c09139b9b9bcad978269",
@@ -202,18 +238,6 @@
     "thumbnail": "https://i.ytimg.com/vi/xn72yW9SNdA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=xn72yW9SNdA",
     "published": "2026-07-30T11:07:03.000Z"
-  },
-  {
-    "id": "78a46c2cd86f29ac26a387fa404e0f6c86653161",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a6baa0c8a3df70597b1723deedcb0c95e54a3bd5",
-    "published": "2026-07-30T09:51:29.000Z"
   },
   {
     "id": "ba8a730289041e15f32c521711e048561c51db0b",
@@ -622,18 +646,6 @@
     "thumbnail": "https://i.ytimg.com/vi/laY6fvlwa4c/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=laY6fvlwa4c",
     "published": "2026-07-20T08:05:27.000Z"
-  },
-  {
-    "id": "8353f91cc5be72075f1c46297dfe0e4ed4d9ca15",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Firebase Crash Course (Auth & Firestore) #1 - Intro & Firebase Setup",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/sXLpkGHbKRY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=sXLpkGHbKRY",
-    "published": "2026-07-20T08:05:23.000Z"
   },
   {
     "id": "ef95bf634b69c3827c36b545617ff2db0c3464e9",
@@ -1186,17 +1198,5 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/anthropic_de_laatste_uitvinding_komt_in_2028_microsoft_copilot_is_opeens_goed_geworden",
     "published": "2026-05-07T15:30:21.000Z"
-  },
-  {
-    "id": "49f7e3b52683f986388027dfc63a691fb2aa9533",
-    "source": "Astro",
-    "type": "blog",
-    "category": "astro",
-    "lang": "en",
-    "title": "Astro 6.3",
-    "summary": "Astro 6.3 introduces experimental advanced routing with Hono support, image redirect handling, resilient island hydration, and more.",
-    "thumbnail": null,
-    "url": "https://astro.build/blog/astro-630/",
-    "published": "2026-05-07T00:00:00.000Z"
   }
 ]
