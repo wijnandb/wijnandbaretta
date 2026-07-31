@@ -1,5 +1,113 @@
 [
   {
+    "id": "8eb2aa48ca260dec420abc79b9f834c22fc777be",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/32237816d0bda66904971ff1c0087faa761f93fe",
+    "published": "2026-07-31T07:01:25.000Z"
+  },
+  {
+    "id": "3ecd81bf402a2e79bcb48cc5121c4f24b9b96739",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] GPT 5.6 price cut by 20%-80%: Cost of GPT 5.4 Intelligence dropped 13x in 4 months due to GPT 5.6 recursive self-optimization",
+    "summary": "Distillation is all you need!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!gT87!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOfg3rSWsAACTkR.png",
+    "url": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
+    "published": "2026-07-31T04:40:54.000Z"
+  },
+  {
+    "id": "0b3023759b3c8578b3bd6ace6ea8bd39d026c0ea",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/088683334c168e4fd9f5d5e0344d30ddb9f17512",
+    "published": "2026-07-31T04:09:33.000Z"
+  },
+  {
+    "id": "923ca56dcd12818a0aae72ff5fe1df965368b68f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c99874091219bc900c998ab8d34c2ff88367ff66",
+    "published": "2026-07-31T00:35:34.000Z"
+  },
+  {
+    "id": "cc6d8492c62779d8ad009dca8516a9b102800f86",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Advancing the price-performance frontier with GPT‑5.6",
+    "summary": "Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+    "published": "2026-07-30T23:58:42.000Z"
+  },
+  {
+    "id": "1782a66a344a2c99d6adb2808ad800dae90e5a1f",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+    "summary": "Investigating three real-world incidents in our cybersecurity evaluations It happened again! This is turning into something of a pattern. Last week OpenAI accidentally exploited Hugging Face when one...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
+    "published": "2026-07-30T23:41:29.000Z"
+  },
+  {
+    "id": "51d4c308f3f453272ee4cd9e79e5eb62cb9fe7bd",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "llm 0.32rc2",
+    "summary": "Release: llm 0.32rc2 Hot on the heels of RC1, this fixes a dependency issue and also adds two neat new features: The default model for users who have not set their own default is now GPT-5.6 Luna. It...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
+    "published": "2026-07-30T22:52:06.000Z"
+  },
+  {
+    "id": "cc6ee93b3b1ce0ffd542f8840354f2a674695aed",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/22941e1d11ecd4c3708e3bc3bf3fc5d415130c38",
+    "published": "2026-07-30T21:26:02.000Z"
+  },
+  {
+    "id": "c106f535aaf056b0e5986aaf86dccc5146317dbb",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Master 95% of Cursor in 60 Minutes",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/5DnOOa-5dTU/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=5DnOOa-5dTU",
+    "published": "2026-07-30T19:41:09.000Z"
+  },
+  {
     "id": "a214b17c91cc60f9cbc339bf48ababb516f76061",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -24,6 +132,18 @@
     "published": "2026-07-30T18:25:26.000Z"
   },
   {
+    "id": "786e7f5fd72e4efb1dce2c4e5f6659edf5c7b3cf",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "llm-chat-completions-server 0.1a0",
+    "summary": "Release: llm-chat-completions-server 0.1a0 A key goal of the new content-addressable logs in LLM 0.32rc1 was being able to support OpenAI Chat Completion style requests where each incoming message...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
+    "published": "2026-07-30T15:43:16.000Z"
+  },
+  {
     "id": "8ed2124cb02610491e8e5ff537e1b8910c7846f6",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -34,6 +154,18 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aaf5f0b15fec3f01e8235f035ad32b06125e695e",
     "published": "2026-07-30T15:39:23.000Z"
+  },
+  {
+    "id": "3c55230ddf74981fbeeb59ee1f20cdee9ede58b1",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "llm 0.32rc1",
+    "summary": "Release: llm 0.32rc1 This RC for LLM 0.32 finishes the work that started in LLM 0.32a0 - it adds a new schema design that does a much better job of capturing the details of the prompts and responses...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything",
+    "published": "2026-07-30T15:30:20.000Z"
   },
   {
     "id": "c649605dcce89948f7e8aaffba7b54c7ff8a7b9e",
@@ -84,42 +216,6 @@
     "published": "2026-07-30T09:51:29.000Z"
   },
   {
-    "id": "cd81f55beb88c60543a2d08cd31b3fe3aac0fae2",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/16582d58ffe9b4a78936b0d93889b5e191277b62",
-    "published": "2026-07-30T06:55:43.000Z"
-  },
-  {
-    "id": "c45c237a1dc9d3007f36471eb498b2a8e345b6fa",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/07db1b869e8a4ced07284b4f96a47c3e8ade873d",
-    "published": "2026-07-30T04:02:06.000Z"
-  },
-  {
-    "id": "92d394d98253b76664ce2a6533089cd59e62ceb7",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/788e109c6cc4fc803c497cc85ac5e5fcb98ebb92",
-    "published": "2026-07-30T00:31:48.000Z"
-  },
-  {
     "id": "ba8a730289041e15f32c521711e048561c51db0b",
     "source": "Latent Space",
     "type": "podcast",
@@ -130,18 +226,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!RprN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7ec12df-76c8-4af8-a4aa-d0eede187099_2582x1658.png",
     "url": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
     "published": "2026-07-29T23:32:12.000Z"
-  },
-  {
-    "id": "783d20b71009f3e81284d59dbb43fb3eb34afc41",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/41ec176a28e80f82a92b5e4fc96083c8c44b43aa",
-    "published": "2026-07-29T21:19:41.000Z"
   },
   {
     "id": "9d4736f08b005ec2722921c5b867c62c760e8313",
@@ -178,18 +262,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
     "published": "2026-07-29T18:43:03.000Z"
-  },
-  {
-    "id": "37a1e544eed9524bd8cb765bceedc886c5b719a3",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Matthew Green",
-    "summary": "Right now we’re in the midst of a historic transition from traditional public-key algorithms based on EC-based cryptography and RSA, moving over to new post-quantum algorithms based on novel...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything",
-    "published": "2026-07-29T18:18:15.000Z"
   },
   {
     "id": "89a35691449a549c4fcf068de0aa9709da731ae3",
@@ -322,54 +394,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!u8gQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87c30d45-da74-47aa-80c6-77903e4c9cbf_2094x1890.png",
     "url": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
     "published": "2026-07-29T00:46:52.000Z"
-  },
-  {
-    "id": "90749d760640e7084a4d6c6251adc773717602b7",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Adding a custom MCP server to Claude and ChatGPT",
-    "summary": "TIL: Adding a custom MCP server to Claude and ChatGPT Connecting a custom MCP server to Claude and ChatGPT's standard chat interfaces is possible, but can take quite a few steps. Tags: ai,...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything",
-    "published": "2026-07-29T00:13:18.000Z"
-  },
-  {
-    "id": "6a754bccfbb5b4968ece6cf4ebce1a6d0320a63a",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Discovering cryptographic weaknesses with Claude",
-    "summary": "Discovering cryptographic weaknesses with Claude The best part of this article (here's the repo) about how Anthropic researchers used Claude Mythos to find mathematical flaws in both HAWK and a...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
-    "published": "2026-07-28T22:45:37.000Z"
-  },
-  {
-    "id": "45a0faf36c1194c51e285c14a9bc177ec0aee3c0",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Akshat Bubna",
-    "summary": "We’re aware a Modal customer published an unauthenticated endpoint that allowed ​anyone on the internet to use ​their ⁠sandboxes for code execution. This was used by the rogue agent. Modal’s...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything",
-    "published": "2026-07-28T22:05:55.000Z"
-  },
-  {
-    "id": "c9d542dbf75e1e1586bec472fc1296db4c285582",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "uv 0.12.0",
-    "summary": "uv 0.12.0 Some interesting breaking changes in this release of uv, in particular to the default project produced by the uv init command. uv init is the uv shortcut for creating a new project. The...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/28/uv/#atom-everything",
-    "published": "2026-07-28T21:51:38.000Z"
   },
   {
     "id": "d3b28b1bc00edc45e3b2b960fb4a7d4e2225b377",
@@ -528,18 +552,6 @@
     "published": "2026-07-23T12:50:28.000Z"
   },
   {
-    "id": "43429d78e14c1c8fe6d71d611a00ce0397156f53",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
-    "summary": "a quiet day lets us highlight a new neolab win.",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
-    "published": "2026-07-23T05:18:47.000Z"
-  },
-  {
     "id": "08c3f0dafe56fd7d95f764e400e22448dcfd90ac",
     "source": "ElevenLabs",
     "type": "video",
@@ -682,18 +694,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!HVBB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a9e89e3-866b-4248-91a9-e6461be25cd8_1497x131.png",
     "url": "https://newsletter.pragmaticengineer.com/p/context-engineering-with-dex-horthy",
     "published": "2026-07-15T16:08:59.000Z"
-  },
-  {
-    "id": "3b6470d733ba80051f91cef9da38044dce6daef1",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Codex New Browser: The Secret Weapon Everyone Should be Using",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/juPDqb89dew/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=juPDqb89dew",
-    "published": "2026-07-15T13:00:36.000Z"
   },
   {
     "id": "17b10d10d281c33edfb340673cd6f4c3865fb94c",
