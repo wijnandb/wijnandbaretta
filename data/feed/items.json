@@ -1,5 +1,125 @@
 [
   {
+    "id": "dd45317040169efa6ed59188ddc8eafc180c40dc",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f808efe5c19112060e07946bd5ce9c6f695d42df",
+    "published": "2026-08-01T06:52:01.000Z"
+  },
+  {
+    "id": "5901eb6d1c92716078cfe8257ee64ed7f28341d8",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a9c1743f53f84642ff7441748bfe621cfacd66d1",
+    "published": "2026-08-01T04:08:55.000Z"
+  },
+  {
+    "id": "13d64ee8a893e85623f36cfb67a526ec8b3eb62f",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] not much happened today",
+    "summary": "apart from DeepSeek V4-Flash 0731, a quiet day.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!1adH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOiugSLbQAAck-3.jpg",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-038",
+    "published": "2026-08-01T01:38:09.000Z"
+  },
+  {
+    "id": "28b366c3932242a0f336f2d3227834631cc6aec7",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8c02b652bcfaf65022aa8a93c2c463c8be836fd6",
+    "published": "2026-08-01T00:34:49.000Z"
+  },
+  {
+    "id": "49a3b4c1ef7d4f37c5327b989ad4e260b56c5546",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+    "summary": "deepseek-ai/DeepSeek-V4-Flash-0731 The latest release in DeepSeek's V4 family, \"with substantially enhanced agentic capabilities\". It's 304 billion parameters - 167GB on Hugging Face - but it appears...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+    "published": "2026-07-31T23:59:44.000Z"
+  },
+  {
+    "id": "b4abdb1547ac33aa848d16cab84961d32ea10e43",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+    "summary": "Tuesday was Stateless MCP day - the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant change to...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
+    "published": "2026-07-31T23:13:22.000Z"
+  },
+  {
+    "id": "68f6ae739f85bd999e2afbd1219d97b4ba7fd7bc",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "llm-mcp-client 0.1a0",
+    "summary": "Release: llm-mcp-client 0.1a0 See this blog entry. Tags: llm, model-context-protocol",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything",
+    "published": "2026-07-31T23:03:47.000Z"
+  },
+  {
+    "id": "c3ec41310ae97e7368afb49866dbdcb49e6ba3aa",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
+    "summary": "Oxide and Friends: The Open Weight Revolution with Simon Willison On Monday Bryan Cantrill and Adam Leventhal invited me to join their podcast to talk about the wild week we've had - with Kimi K3...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything",
+    "published": "2026-07-31T21:33:13.000Z"
+  },
+  {
+    "id": "75c943dffe699de40fd7ae6a0e3c8bc1dc7449ca",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d0826b010d5011931ca38b89a39f611fc02c5a83",
+    "published": "2026-07-31T21:24:46.000Z"
+  },
+  {
+    "id": "1310d77c864bcd284ff42e9f9d46e278eb2ec0ba",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+    "summary": "smevals - a small eval suite for evaluating models, prompts, and harnesses I've been working with Jesse Vincent's Prime Radiant applied AI research lab building out this evals framework to help...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
+    "published": "2026-07-31T21:15:23.000Z"
+  },
+  {
     "id": "094158f500ad8be418df0c89fc8d3e4d20545a0e",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -22,6 +142,18 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1a289179b14fae64490fa5e6c62cdc87e0538279",
     "published": "2026-07-31T15:43:28.000Z"
+  },
+  {
+    "id": "8a507da1614893adb385729831d1ac7e585dec4f",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette-agent 0.4a0",
+    "summary": "Release: datasette-agent 0.4a0 New await context.browser_task() mechanism allowing agent tools to run code directly in the user's browser. #33 This is an exciting new capability: it makes it easy for...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
+    "published": "2026-07-31T14:14:23.000Z"
   },
   {
     "id": "e43f459edaffee083e69a9298e8ca65b94e3dfde",
@@ -60,18 +192,6 @@
     "published": "2026-07-31T09:55:33.000Z"
   },
   {
-    "id": "8eb2aa48ca260dec420abc79b9f834c22fc777be",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/32237816d0bda66904971ff1c0087faa761f93fe",
-    "published": "2026-07-31T07:01:25.000Z"
-  },
-  {
     "id": "3ecd81bf402a2e79bcb48cc5121c4f24b9b96739",
     "source": "Latent Space",
     "type": "podcast",
@@ -82,30 +202,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!gT87!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOfg3rSWsAACTkR.png",
     "url": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
     "published": "2026-07-31T04:40:54.000Z"
-  },
-  {
-    "id": "0b3023759b3c8578b3bd6ace6ea8bd39d026c0ea",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/088683334c168e4fd9f5d5e0344d30ddb9f17512",
-    "published": "2026-07-31T04:09:33.000Z"
-  },
-  {
-    "id": "923ca56dcd12818a0aae72ff5fe1df965368b68f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c99874091219bc900c998ab8d34c2ff88367ff66",
-    "published": "2026-07-31T00:35:34.000Z"
   },
   {
     "id": "c9d99afb9217785697d07fdb63b10229abaac395",
@@ -144,30 +240,6 @@
     "published": "2026-07-30T23:41:29.000Z"
   },
   {
-    "id": "51d4c308f3f453272ee4cd9e79e5eb62cb9fe7bd",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm 0.32rc2",
-    "summary": "Release: llm 0.32rc2 Hot on the heels of RC1, this fixes a dependency issue and also adds two neat new features: The default model for users who have not set their own default is now GPT-5.6 Luna. It...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
-    "published": "2026-07-30T22:52:06.000Z"
-  },
-  {
-    "id": "cc6ee93b3b1ce0ffd542f8840354f2a674695aed",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/22941e1d11ecd4c3708e3bc3bf3fc5d415130c38",
-    "published": "2026-07-30T21:26:02.000Z"
-  },
-  {
     "id": "c106f535aaf056b0e5986aaf86dccc5146317dbb",
     "source": "Riley Brown",
     "type": "video",
@@ -178,42 +250,6 @@
     "thumbnail": "https://i.ytimg.com/vi/5DnOOa-5dTU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=5DnOOa-5dTU",
     "published": "2026-07-30T19:41:09.000Z"
-  },
-  {
-    "id": "c629b437b9787e8e5ce26d40c0bcb986598f9914",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Bruce Schneier",
-    "summary": "The writing assignments I give my students are gym tasks, not work tasks. I ask them to write policy memos not because the world needs more policy memos. I assign them because the very act of...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
-    "published": "2026-07-30T18:25:26.000Z"
-  },
-  {
-    "id": "786e7f5fd72e4efb1dce2c4e5f6659edf5c7b3cf",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm-chat-completions-server 0.1a0",
-    "summary": "Release: llm-chat-completions-server 0.1a0 A key goal of the new content-addressable logs in LLM 0.32rc1 was being able to support OpenAI Chat Completion style requests where each incoming message...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
-    "published": "2026-07-30T15:43:16.000Z"
-  },
-  {
-    "id": "3c55230ddf74981fbeeb59ee1f20cdee9ede58b1",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm 0.32rc1",
-    "summary": "Release: llm 0.32rc1 This RC for LLM 0.32 finishes the work that started in LLM 0.32a0 - it adds a new schema design that does a much better job of capturing the details of the prompts and responses...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything",
-    "published": "2026-07-30T15:30:20.000Z"
   },
   {
     "id": "eb04debe72ccc23b0c22c09139b9b9bcad978269",
@@ -252,18 +288,6 @@
     "published": "2026-07-29T23:32:12.000Z"
   },
   {
-    "id": "9d4736f08b005ec2722921c5b867c62c760e8313",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting D. Richard Hipp",
-    "summary": "Years ago, we didn’t have SQL. There were people whose job was to generate software that would query large data sets. Their job title was COBOL programmer. Then SQL comes along—I’m simplifying this...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
-    "published": "2026-07-29T21:15:21.000Z"
-  },
-  {
     "id": "5800aeb2b78e174752aa43c8cfe5e69f3d3470f0",
     "source": "Riley Brown",
     "type": "video",
@@ -274,18 +298,6 @@
     "thumbnail": "https://i.ytimg.com/vi/P1KpxzLVg7c/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=P1KpxzLVg7c",
     "published": "2026-07-29T20:54:33.000Z"
-  },
-  {
-    "id": "f34faab803310ac452d76aceaf16747e7ce669a7",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "AI Worming through Word",
-    "summary": "AI Worming through Word Neat new prompt injection variant by Håkon Måløy, who found a way to upgrade prompt injection attacks against Microsoft Word to full self-replicating worms: An attacker places...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
-    "published": "2026-07-29T18:43:03.000Z"
   },
   {
     "id": "89a35691449a549c4fcf068de0aa9709da731ae3",
@@ -538,18 +550,6 @@
     "thumbnail": "https://i.ytimg.com/vi/GCYGoQJv3Fg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=GCYGoQJv3Fg",
     "published": "2026-07-24T13:23:01.000Z"
-  },
-  {
-    "id": "1651e280128c3d7c66fedbcb0d90c0220a3e2e55",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
-    "summary": "A HUGE win for BFL!",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!3n0x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2080308957898481664.jpg",
-    "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
-    "published": "2026-07-24T04:30:12.000Z"
   },
   {
     "id": "01df3619cdf60a7b0b4e82bebebf529be82f79fc",
