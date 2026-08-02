@@ -1,5 +1,113 @@
 [
   {
+    "id": "7f9f40e425472645d36700e5dcfed8cfa9971210",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1d743cb7a1c88d79b7ea4c913db7aa26e4fc0a31",
+    "published": "2026-08-02T06:55:12.000Z"
+  },
+  {
+    "id": "44e3e0fe01cfb31e452170d1e709999ece8e600d",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Open letters about AI development",
+    "summary": "Open letters about AI development I wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it here as well. Open Weights and...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+    "published": "2026-08-02T04:16:52.000Z"
+  },
+  {
+    "id": "4f08835bebf480f04668e9a4db7291b24be526be",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "July 2026 newsletter",
+    "summary": "The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here. This month: Accidental cyberattacks by OpenAl and...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
+    "published": "2026-08-02T04:12:41.000Z"
+  },
+  {
+    "id": "97439e22d085f01c2df1657d307e2e6fbab5b634",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5b034d31f2faee33741386a2ecdf0dad9af06262",
+    "published": "2026-08-02T04:11:45.000Z"
+  },
+  {
+    "id": "9a05e7f1c9c3030edd377313d0095ca8cc9a9798",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/63caef0ab1f27ae07eab1dbc76022e8bb3638286",
+    "published": "2026-08-02T00:35:49.000Z"
+  },
+  {
+    "id": "ea51a590f580e76431919586838eb056b4b64bd2",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Greg Brockman",
+    "summary": "at openai, many people hook their chatgpt up to slack. people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
+    "published": "2026-08-01T22:29:44.000Z"
+  },
+  {
+    "id": "2290c5b63eda21ceec036188cdf4211540be63c2",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette-apps 0.2a0",
+    "summary": "Release: datasette-apps 0.2a0 Changes that improve Datasette Apps when created and edited using Datasette Agent: New app_debug() tool allowing agent to open an app (invisibly) and test it using...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+    "published": "2026-08-01T21:23:56.000Z"
+  },
+  {
+    "id": "a40f7f50233f75e5888e96873bb79395b33af945",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/36efb2ad1baeea4c816f8881a818dfe18211d864",
+    "published": "2026-08-01T21:18:42.000Z"
+  },
+  {
+    "id": "e2f861af97678f18ec5c125e6c30aad6e9d1c756",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "summary": "Ten advances in mathematics and theoretical computer science A few days ago it was Anthropic discovering cryptographic weaknesses with Claude using Mythos Preview, spending $100,000 on tokens and...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
+    "published": "2026-08-01T20:34:49.000Z"
+  },
+  {
     "id": "2b3cd7a34e1f11598c16eca43a5152bfc1316341",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -48,30 +156,6 @@
     "published": "2026-08-01T09:40:08.000Z"
   },
   {
-    "id": "dd45317040169efa6ed59188ddc8eafc180c40dc",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f808efe5c19112060e07946bd5ce9c6f695d42df",
-    "published": "2026-08-01T06:52:01.000Z"
-  },
-  {
-    "id": "5901eb6d1c92716078cfe8257ee64ed7f28341d8",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a9c1743f53f84642ff7441748bfe621cfacd66d1",
-    "published": "2026-08-01T04:08:55.000Z"
-  },
-  {
     "id": "13d64ee8a893e85623f36cfb67a526ec8b3eb62f",
     "source": "Latent Space",
     "type": "podcast",
@@ -82,18 +166,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!1adH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOiugSLbQAAck-3.jpg",
     "url": "https://www.latent.space/p/ainews-not-much-happened-today-038",
     "published": "2026-08-01T01:38:09.000Z"
-  },
-  {
-    "id": "28b366c3932242a0f336f2d3227834631cc6aec7",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8c02b652bcfaf65022aa8a93c2c463c8be836fd6",
-    "published": "2026-08-01T00:34:49.000Z"
   },
   {
     "id": "49a3b4c1ef7d4f37c5327b989ad4e260b56c5546",
@@ -132,54 +204,6 @@
     "published": "2026-07-31T23:03:47.000Z"
   },
   {
-    "id": "c3ec41310ae97e7368afb49866dbdcb49e6ba3aa",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
-    "summary": "Oxide and Friends: The Open Weight Revolution with Simon Willison On Monday Bryan Cantrill and Adam Leventhal invited me to join their podcast to talk about the wild week we've had - with Kimi K3...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything",
-    "published": "2026-07-31T21:33:13.000Z"
-  },
-  {
-    "id": "75c943dffe699de40fd7ae6a0e3c8bc1dc7449ca",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d0826b010d5011931ca38b89a39f611fc02c5a83",
-    "published": "2026-07-31T21:24:46.000Z"
-  },
-  {
-    "id": "1310d77c864bcd284ff42e9f9d46e278eb2ec0ba",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
-    "summary": "smevals - a small eval suite for evaluating models, prompts, and harnesses I've been working with Jesse Vincent's Prime Radiant applied AI research lab building out this evals framework to help...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
-    "published": "2026-07-31T21:15:23.000Z"
-  },
-  {
-    "id": "8a507da1614893adb385729831d1ac7e585dec4f",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette-agent 0.4a0",
-    "summary": "Release: datasette-agent 0.4a0 New await context.browser_task() mechanism allowing agent tools to run code directly in the user's browser. #33 This is an exciting new capability: it makes it easy for...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
-    "published": "2026-07-31T14:14:23.000Z"
-  },
-  {
     "id": "e43f459edaffee083e69a9298e8ca65b94e3dfde",
     "source": "Coding in Public",
     "type": "video",
@@ -214,30 +238,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/whats-new-july-2026/",
     "published": "2026-07-31T00:00:00.000Z"
-  },
-  {
-    "id": "cc6d8492c62779d8ad009dca8516a9b102800f86",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Advancing the price-performance frontier with GPT‑5.6",
-    "summary": "Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
-    "published": "2026-07-30T23:58:42.000Z"
-  },
-  {
-    "id": "1782a66a344a2c99d6adb2808ad800dae90e5a1f",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-    "summary": "Investigating three real-world incidents in our cybersecurity evaluations It happened again! This is turning into something of a pattern. Last week OpenAI accidentally exploited Hugging Face when one...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
-    "published": "2026-07-30T23:41:29.000Z"
   },
   {
     "id": "c106f535aaf056b0e5986aaf86dccc5146317dbb",
