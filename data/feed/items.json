@@ -1,5 +1,77 @@
 [
   {
+    "id": "8bff560f3649d25fbdefc5cfcaae1a6e42344577",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0b28480ccb184eee3b4ba02c64c2e309062357de",
+    "published": "2026-08-03T18:36:39.000Z"
+  },
+  {
+    "id": "765bf45633e2774670804c766f0a39fffb73b409",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting David Crawshaw's prompt",
+    "summary": "Set up a nightly cron job that executes the prompt: fetch upstream changes to the and rebase all local changes on top of upstream. Check that the software works as intended and replace the current...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
+    "published": "2026-08-03T16:15:27.000Z"
+  },
+  {
+    "id": "1d6182e0b91bfbe3de1c039aed972e88ea5c7005",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b1db660e2a30a3877f0bf848feb6c40cd7144b7e",
+    "published": "2026-08-03T15:53:29.000Z"
+  },
+  {
+    "id": "5439cd2e05240afac72e9785b62b665dbf5ececa",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Devtools must be open source (exe.dev)",
+    "summary": "My comment on Devtools must be open source (exe.dev) &mdash; Hacker News.One of the arguments for open source software for end-users has always been the freedom to examine and modify how that...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
+    "published": "2026-08-03T15:30:38.000Z"
+  },
+  {
+    "id": "29428be18ebde3b4ae30e87a9d5c75a23a263ebf",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/914337a5c1ffb1da817d8f8bc06305fc64fb9600",
+    "published": "2026-08-03T13:04:56.000Z"
+  },
+  {
+    "id": "609aa33cd6d3e34b0890ca243b2cdb22f22c9726",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e152acdd03a1b514e9ae0fcb3dd48ac6c186650b",
+    "published": "2026-08-03T10:19:09.000Z"
+  },
+  {
     "id": "a337e9e095df915ec3a57eb64a81e5d2eb360e19",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -72,18 +144,6 @@
     "published": "2026-08-03T02:28:02.000Z"
   },
   {
-    "id": "666b95599d74277201aeae704edea214f9d0d1fb",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a531b990e85575d7465c4530c48f25fb79ccc1fd",
-    "published": "2026-08-03T00:35:38.000Z"
-  },
-  {
     "id": "9af221d9f20290bc9baef877062a6487396b0c72",
     "source": "Simon Willison",
     "type": "blog",
@@ -94,42 +154,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
     "published": "2026-08-02T22:19:59.000Z"
-  },
-  {
-    "id": "6c2b5d831fe26a8737e4704096446008865d2350",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f3d39ddbaac3538e175edaa91f4da1e04fa9a018",
-    "published": "2026-08-02T21:18:51.000Z"
-  },
-  {
-    "id": "3cb004ab010bdf9a749d616e7c2581929d9a43d2",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6173ba205354635a1df31d22dcbf4f572e66542d",
-    "published": "2026-08-02T18:21:34.000Z"
-  },
-  {
-    "id": "06b252f4454a61e0d23d267ce81d02c82a4a94c1",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5c1191a65fdf1e1d29df9c43307189488eaaa912",
-    "published": "2026-08-02T15:24:12.000Z"
   },
   {
     "id": "44e3e0fe01cfb31e452170d1e709999ece8e600d",
@@ -202,30 +226,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!1adH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOiugSLbQAAck-3.jpg",
     "url": "https://www.latent.space/p/ainews-not-much-happened-today-038",
     "published": "2026-08-01T01:38:09.000Z"
-  },
-  {
-    "id": "49a3b4c1ef7d4f37c5327b989ad4e260b56c5546",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-    "summary": "deepseek-ai/DeepSeek-V4-Flash-0731 The latest release in DeepSeek's V4 family, \"with substantially enhanced agentic capabilities\". It's 304 billion parameters - 167GB on Hugging Face - but it appears...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
-    "published": "2026-07-31T23:59:44.000Z"
-  },
-  {
-    "id": "b4abdb1547ac33aa848d16cab84961d32ea10e43",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
-    "summary": "Tuesday was Stateless MCP day - the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant change to...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
-    "published": "2026-07-31T23:13:22.000Z"
   },
   {
     "id": "e43f459edaffee083e69a9298e8ca65b94e3dfde",
