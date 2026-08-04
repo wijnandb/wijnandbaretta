@@ -1,5 +1,89 @@
 [
   {
+    "id": "8b1f51d24bfa9ce234aaade50af44c5849c48727",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "PipeNetwork/minimax-h3-mlx",
+    "summary": "PipeNetwork/minimax-h3-mlx MiniMax released MiniMax-H3 two days ago - they describe it as a \"a general-purpose, omni-modal generative system\", which in practice means it accepts text, images, audio...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
+    "published": "2026-08-04T19:10:09.000Z"
+  },
+  {
+    "id": "1eb19677594218f0acb27e7adb8e9150ca472e0b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/dcb93b3317f2555f63504c1108b376c2be784368",
+    "published": "2026-08-04T18:33:31.000Z"
+  },
+  {
+    "id": "9ca725e460292febef5511ee19bb9c6bb2427836",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Unpacking ChatGPT Work: the Agent for a Billion Users",
+    "summary": "An external reconstruction of how Memory, Proactivity, Scheduling, Browser Use, Plugins, Skills and Tools work in the new ChatGPT Work.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Lavj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f4e59a2-820f-4225-abfd-6720ef85df8e_1315x1196.png",
+    "url": "https://www.latent.space/p/unpacking-chatgpt-work",
+    "published": "2026-08-04T18:20:14.000Z"
+  },
+  {
+    "id": "870e6320ab958ed8288df63686755715d92e8ff5",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "How to detect and redact PII in transcripts with Scribe",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/1rczYAFvg7w/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=1rczYAFvg7w",
+    "published": "2026-08-04T16:46:45.000Z"
+  },
+  {
+    "id": "a5c0215e879b74978f504762ec2f643cd7880411",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a404fcdec0f114f9d990958d3d56bce6291916f4",
+    "published": "2026-08-04T15:48:50.000Z"
+  },
+  {
+    "id": "9144bb2dcb2c5199bc21bc2e4c4f4c6602639525",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fecbf60c46e81c988815fac0014579ed35ead935",
+    "published": "2026-08-04T12:40:03.000Z"
+  },
+  {
+    "id": "a3a02be304ae02aaf752b0b49b409bbc42823096",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6254af1343ec04a5106121b712e13c7cef927c6b",
+    "published": "2026-08-04T09:55:06.000Z"
+  },
+  {
     "id": "cac2b87a2f096965c1f1521766c4fb39f31137d2",
     "source": "Coding in Public",
     "type": "video",
@@ -84,18 +168,6 @@
     "published": "2026-08-04T00:42:45.000Z"
   },
   {
-    "id": "45dddc64fb06e7ae26fe7a88fc8d0cf20b798c27",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/278ba607c6b0180cef509e9dff5b37232ffcedf6",
-    "published": "2026-08-04T00:34:35.000Z"
-  },
-  {
     "id": "1c5150c65d415e4b85699e35a293d578d53bcf56",
     "source": "Simon Willison",
     "type": "blog",
@@ -108,30 +180,6 @@
     "published": "2026-08-03T23:45:04.000Z"
   },
   {
-    "id": "bf5a16b6b89aebc297401748ca45c85c8fb016cc",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c152cd5a96563de46c61e44fcac16a75e649aa3a",
-    "published": "2026-08-03T23:17:19.000Z"
-  },
-  {
-    "id": "5954c3c72c248ff3571fa6fd4a4e3af77e6db0b9",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: Claude Code Harness (#2424)",
-    "summary": "Add resource: Claude Code Harness (#2424) Category: Agent Orchestration Author: Chachamaru From issue: #2423 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8fc2634fb991a01cf7d6e9c581c9fd78600e544f",
-    "published": "2026-08-03T23:16:57.000Z"
-  },
-  {
     "id": "a8f46de4b51b9c37ca89ffcad0719e62d73a08c4",
     "source": "Latent Space",
     "type": "podcast",
@@ -142,18 +190,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!-hTR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb397c5e-f16a-43cb-bcdf-9b6dd9897d48_1536x2048.jpeg",
     "url": "https://www.latent.space/p/inference-eng",
     "published": "2026-08-03T21:44:03.000Z"
-  },
-  {
-    "id": "39548f89c5ac772f41ce7e7d7950e8e3d4176776",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bbea7322125876f8703e99f0f10a9d800d268b42",
-    "published": "2026-08-03T21:25:48.000Z"
   },
   {
     "id": "765bf45633e2774670804c766f0a39fffb73b409",
@@ -238,18 +274,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
     "published": "2026-08-02T04:12:41.000Z"
-  },
-  {
-    "id": "ea51a590f580e76431919586838eb056b4b64bd2",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Greg Brockman",
-    "summary": "at openai, many people hook their chatgpt up to slack. people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
-    "published": "2026-08-01T22:29:44.000Z"
   },
   {
     "id": "13d64ee8a893e85623f36cfb67a526ec8b3eb62f",
@@ -478,18 +502,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!0GCi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff86124b7-b1c1-4e0e-9f57-42f5e6de75ed_2048x976.png",
     "url": "https://newsletter.pragmaticengineer.com/p/inside-anthropic",
     "published": "2026-07-28T15:49:30.000Z"
-  },
-  {
-    "id": "358e404db86d110ecb8e283c9d7b8f79a153a5c0",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI",
-    "summary": "OpenAI's core product engineering lead on how they are building ChatGPT Work to make AGI accessible to all of humanity: Sites, OpenClaw, Memory, Subagents, Finance, No-Code and advice.",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/chatgpt-work",
-    "published": "2026-07-28T15:26:30.000Z"
   },
   {
     "id": "742ccd50e52bf1cae099f03c2f2386c3592ed115",
@@ -1018,18 +1030,6 @@
     "thumbnail": "https://i.ytimg.com/vi/lr8pxKgFRrI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=lr8pxKgFRrI",
     "published": "2026-06-11T15:28:54.000Z"
-  },
-  {
-    "id": "d68d24044a6c98dfba2611e80d7b08fcea693b5d",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Call Your Hermes Agent over the phone using ElevenAgents",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/3bGN3_Xv4Ew/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=3bGN3_Xv4Ew",
-    "published": "2026-06-10T19:02:01.000Z"
   },
   {
     "id": "b7160109cd59448f790742c411e9dddb268553cb",
