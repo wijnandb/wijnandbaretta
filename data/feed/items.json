@@ -1,6 +1,18 @@
 [
   {
-    "id": "8bff560f3649d25fbdefc5cfcaae1a6e42344577",
+    "id": "cac2b87a2f096965c1f1521766c4fb39f31137d2",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase Crash Course (Auth & Firestore) #10 - Realtime Firestore Subscription",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/8b81f0ylDdE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=8b81f0ylDdE",
+    "published": "2026-08-04T08:00:12.000Z"
+  },
+  {
+    "id": "588d32aa20ce0b234e0ba8332651a1f637a5d509",
     "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
@@ -8,8 +20,140 @@
     "title": "chore: update repo ticker data and SVGs [skip ci]",
     "summary": "chore: update repo ticker data and SVGs [skip ci]",
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0b28480ccb184eee3b4ba02c64c2e309062357de",
-    "published": "2026-08-03T18:36:39.000Z"
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5ffcff0896b5275a43b93574779d03f824c0dc45",
+    "published": "2026-08-04T06:54:39.000Z"
+  },
+  {
+    "id": "623b3b14fa8a74a350a7681d294ac19408cc7120",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3572184904802a6e215090f56af44d346118b576",
+    "published": "2026-08-04T04:03:22.000Z"
+  },
+  {
+    "id": "5335707fa502f8bcc340302039902351f19f8763",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0be35e6a174fe24d4e7fc9c3f45dc4dfe373137f",
+    "published": "2026-08-04T04:00:42.000Z"
+  },
+  {
+    "id": "4f51ee958dbc7bfe55390eb52afd824cb26417e2",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: CC Harness (#2425)",
+    "summary": "Add resource: CC Harness (#2425) Category: Observability & Monitoring Author: lookfree From issue: #2416 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/49d51b604adab7156f3d9ee28d6ea7ad6727ed21",
+    "published": "2026-08-04T04:00:23.000Z"
+  },
+  {
+    "id": "228546f1ca612c160eb4d7e6436017e7c134f772",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
+    "summary": "Qwen is so back!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!W0RB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOw1F2ebgAAkpJJ.jpg",
+    "url": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
+    "published": "2026-08-04T03:49:14.000Z"
+  },
+  {
+    "id": "1ed1f6384a4fe3f009a1a57e0622f85ad5dde94f",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Steve Yegge",
+    "summary": "Gas Town was intended to be reusable, but I only ever wound up using it to build itself. Gas Town fell apart at the seams with Opus 4.7. Up through 4.6 it was working brilliantly. With 4.7 we saw the...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
+    "published": "2026-08-04T00:42:45.000Z"
+  },
+  {
+    "id": "45dddc64fb06e7ae26fe7a88fc8d0cf20b798c27",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/278ba607c6b0180cef509e9dff5b37232ffcedf6",
+    "published": "2026-08-04T00:34:35.000Z"
+  },
+  {
+    "id": "1c5150c65d415e4b85699e35a293d578d53bcf56",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Don't be a meat proxy",
+    "summary": "Don't be a meat proxy Niklas Gruhn coins an excellent new term - meat proxy - for people who blindly copy and paste the output of AI systems to their peers. By all means, prompt AI. But don't just...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
+    "published": "2026-08-03T23:45:04.000Z"
+  },
+  {
+    "id": "bf5a16b6b89aebc297401748ca45c85c8fb016cc",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c152cd5a96563de46c61e44fcac16a75e649aa3a",
+    "published": "2026-08-03T23:17:19.000Z"
+  },
+  {
+    "id": "5954c3c72c248ff3571fa6fd4a4e3af77e6db0b9",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: Claude Code Harness (#2424)",
+    "summary": "Add resource: Claude Code Harness (#2424) Category: Agent Orchestration Author: Chachamaru From issue: #2423 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8fc2634fb991a01cf7d6e9c581c9fd78600e544f",
+    "published": "2026-08-03T23:16:57.000Z"
+  },
+  {
+    "id": "a8f46de4b51b9c37ca89ffcad0719e62d73a08c4",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "The Inference Engineering Masterclass — Philip Kiely & Ali Taha, Baseten",
+    "summary": "Baseten just raised a $13B Series F and is now one of the leading kings of inference engineering. We go into everything you need to know for autoregressive and diffusion engineering.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!-hTR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb397c5e-f16a-43cb-bcdf-9b6dd9897d48_1536x2048.jpeg",
+    "url": "https://www.latent.space/p/inference-eng",
+    "published": "2026-08-03T21:44:03.000Z"
+  },
+  {
+    "id": "39548f89c5ac772f41ce7e7d7950e8e3d4176776",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bbea7322125876f8703e99f0f10a9d800d268b42",
+    "published": "2026-08-03T21:25:48.000Z"
   },
   {
     "id": "765bf45633e2774670804c766f0a39fffb73b409",
@@ -24,18 +168,6 @@
     "published": "2026-08-03T16:15:27.000Z"
   },
   {
-    "id": "1d6182e0b91bfbe3de1c039aed972e88ea5c7005",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b1db660e2a30a3877f0bf848feb6c40cd7144b7e",
-    "published": "2026-08-03T15:53:29.000Z"
-  },
-  {
     "id": "5439cd2e05240afac72e9785b62b665dbf5ececa",
     "source": "Simon Willison",
     "type": "blog",
@@ -46,78 +178,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
     "published": "2026-08-03T15:30:38.000Z"
-  },
-  {
-    "id": "29428be18ebde3b4ae30e87a9d5c75a23a263ebf",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/914337a5c1ffb1da817d8f8bc06305fc64fb9600",
-    "published": "2026-08-03T13:04:56.000Z"
-  },
-  {
-    "id": "609aa33cd6d3e34b0890ca243b2cdb22f22c9726",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e152acdd03a1b514e9ae0fcb3dd48ac6c186650b",
-    "published": "2026-08-03T10:19:09.000Z"
-  },
-  {
-    "id": "a337e9e095df915ec3a57eb64a81e5d2eb360e19",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "fix(ci): tighten GitHub URL parsing in the submission gate",
-    "summary": "fix(ci): tighten GitHub URL parsing in the submission gate The previous pattern used [^/\\s#?]+ for both path segments, which accepted path traversal, percent-encoding and unicode, and could not...",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a4c9e44053719a57c9a9841f3e656301250afc37",
-    "published": "2026-08-03T07:15:38.000Z"
-  },
-  {
-    "id": "48bc86e35e732dded32663b509ee73690d48d6b0",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "feat(ci): gate resource submissions on maturity conditions",
-    "summary": "feat(ci): gate resource submissions on maturity conditions Auto-close submissions that don't meet the CONTRIBUTING eligibility bar before any other validation runs. A GitHub-hosted resource passes if...",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/41289b0002eca0fcd4e1fabebc7363962b3c93c9",
-    "published": "2026-08-03T07:15:37.000Z"
-  },
-  {
-    "id": "b352605889eab53b805162a5231d8c191c977eba",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b9a767a110abeb1e62719f3a69e2efa3299be06e",
-    "published": "2026-08-03T07:10:37.000Z"
-  },
-  {
-    "id": "4d0583f23210c1e12d41af51c3b9da062c68e457",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3bb087dd2c865bdb3b00dfb4e855bb06b2fc65f1",
-    "published": "2026-08-03T04:14:16.000Z"
   },
   {
     "id": "aae882e180ed82d11a422bf5bed2c6e2eb3d35f4",
@@ -190,30 +250,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
     "published": "2026-08-01T22:29:44.000Z"
-  },
-  {
-    "id": "2290c5b63eda21ceec036188cdf4211540be63c2",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette-apps 0.2a0",
-    "summary": "Release: datasette-apps 0.2a0 Changes that improve Datasette Apps when created and edited using Datasette Agent: New app_debug() tool allowing agent to open an app (invisibly) and test it using...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
-    "published": "2026-08-01T21:23:56.000Z"
-  },
-  {
-    "id": "e2f861af97678f18ec5c125e6c30aad6e9d1c756",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "summary": "Ten advances in mathematics and theoretical computer science A few days ago it was Anthropic discovering cryptographic weaknesses with Claude using Mythos Preview, spending $100,000 on tokens and...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
-    "published": "2026-08-01T20:34:49.000Z"
   },
   {
     "id": "13d64ee8a893e85623f36cfb67a526ec8b3eb62f",
@@ -456,18 +492,6 @@
     "published": "2026-07-28T15:26:30.000Z"
   },
   {
-    "id": "abde6a421348d4592caefd013770c4d59448a238",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Much ado about Open Weights",
-    "summary": "Everyone is writing a lot, but only Kimi K3 shipped today",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!90od!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOR8_rBbEAAhTr6.jpg",
-    "url": "https://www.latent.space/p/ainews-much-ado-about-open-weights",
-    "published": "2026-07-28T06:20:13.000Z"
-  },
-  {
     "id": "742ccd50e52bf1cae099f03c2f2386c3592ed115",
     "source": "Riley Brown",
     "type": "video",
@@ -514,18 +538,6 @@
     "thumbnail": "https://i.ytimg.com/vi/Hv8YGUXZY1g/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Hv8YGUXZY1g",
     "published": "2026-07-25T20:28:01.000Z"
-  },
-  {
-    "id": "801eea5287d81e754e9156f446337af612992548",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Claude Opus 5: Fable-level performance at Opus price (half Fable)",
-    "summary": "ain't nobody beats Anthropic at distilling Fable!",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!FqD_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOBjK6cbIAA2Yph.jpg",
-    "url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
-    "published": "2026-07-25T07:25:38.000Z"
   },
   {
     "id": "0e753f0f02f89efe873d05e217ad1af3943007ef",
@@ -634,18 +646,6 @@
     "thumbnail": "https://i.ytimg.com/vi/wCSPgHpcxdc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=wCSPgHpcxdc",
     "published": "2026-07-20T11:19:33.000Z"
-  },
-  {
-    "id": "b041857630e78f82d49a0565c7875c3876c659c8",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Firebase Crash Course (Auth & Firestore) #2 - Email & Password Authentication",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/laY6fvlwa4c/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=laY6fvlwa4c",
-    "published": "2026-07-20T08:05:27.000Z"
   },
   {
     "id": "ef95bf634b69c3827c36b545617ff2db0c3464e9",
