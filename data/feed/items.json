@@ -1,5 +1,89 @@
 [
   {
+    "id": "74dbeb87615e9930d609d87f4f8d0185d8b5e25a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c69050cb12bfed8173a26fd9cc28c33797681dcb",
+    "published": "2026-08-05T18:33:49.000Z"
+  },
+  {
+    "id": "08608e9a0221edeb6d73e3441ffe6a1be5346905",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d15886347bb2f325599d7b0a05adcf1066ff5371",
+    "published": "2026-08-05T15:45:21.000Z"
+  },
+  {
+    "id": "7581159a8a6522241f4b12b4d976c095a83bba9f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a4238efa06e495ac79df748d134669afb8af474b",
+    "published": "2026-08-05T14:11:22.000Z"
+  },
+  {
+    "id": "7318989994649779170f122e950d844221cf2e75",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: claude-context-optimizer (#2435)",
+    "summary": "Add resource: claude-context-optimizer (#2435) Category: Memory & Context Persistence Author: Egor Fedorov From issue: #2434 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e208042cb6273d1c657680288a465585714695a3",
+    "published": "2026-08-05T14:10:51.000Z"
+  },
+  {
+    "id": "6ab4ee18f1daa256a569b0aa12762473775d62db",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase Crash Course (Auth & Firestore) #12 - Firestore Queries",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/9Duw5Tzo-_Y/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=9Duw5Tzo-_Y",
+    "published": "2026-08-05T13:08:53.000Z"
+  },
+  {
+    "id": "2524983378a100a0cef7425ac2af8713736cae94",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2e2b488a2d0f8247e2b9073d301f809a96b214ad",
+    "published": "2026-08-05T12:37:57.000Z"
+  },
+  {
+    "id": "2b3a222631e03e6d48a9d2ad8c1410a05e0bbc8a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3e23fda5f865d557ec2feef866d51d469b499316",
+    "published": "2026-08-05T09:54:25.000Z"
+  },
+  {
     "id": "ab23e51d941547eb7c9bb20335bf321da535ae44",
     "source": "Coding in Public",
     "type": "video",
@@ -48,18 +132,6 @@
     "published": "2026-08-05T01:21:47.000Z"
   },
   {
-    "id": "a5a86baa13cdb358ff5cd862e7c5dd110275b036",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4ee628103b6cc69f8d5e57a9bd1deac6f32fbe4b",
-    "published": "2026-08-05T00:32:53.000Z"
-  },
-  {
     "id": "a19f627762e6ac9eb4ee4c4194f3e19cd88018de",
     "source": "Simon Willison",
     "type": "blog",
@@ -84,18 +156,6 @@
     "published": "2026-08-04T22:00:58.000Z"
   },
   {
-    "id": "784df3812e1566d5474ba20d6723b1771e791530",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/99a449f0861c30f3ecdddc6c5732b5bd45d4ec60",
-    "published": "2026-08-04T21:27:58.000Z"
-  },
-  {
     "id": "8b1f51d24bfa9ce234aaade50af44c5849c48727",
     "source": "Simon Willison",
     "type": "blog",
@@ -106,18 +166,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
     "published": "2026-08-04T19:10:09.000Z"
-  },
-  {
-    "id": "1eb19677594218f0acb27e7adb8e9150ca472e0b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/dcb93b3317f2555f63504c1108b376c2be784368",
-    "published": "2026-08-04T18:33:31.000Z"
   },
   {
     "id": "9ca725e460292febef5511ee19bb9c6bb2427836",
@@ -154,42 +202,6 @@
     "thumbnail": "https://i.ytimg.com/vi/1rczYAFvg7w/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=1rczYAFvg7w",
     "published": "2026-08-04T16:46:45.000Z"
-  },
-  {
-    "id": "a5c0215e879b74978f504762ec2f643cd7880411",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a404fcdec0f114f9d990958d3d56bce6291916f4",
-    "published": "2026-08-04T15:48:50.000Z"
-  },
-  {
-    "id": "9144bb2dcb2c5199bc21bc2e4c4f4c6602639525",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fecbf60c46e81c988815fac0014579ed35ead935",
-    "published": "2026-08-04T12:40:03.000Z"
-  },
-  {
-    "id": "a3a02be304ae02aaf752b0b49b409bbc42823096",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6254af1343ec04a5106121b712e13c7cef927c6b",
-    "published": "2026-08-04T09:55:06.000Z"
   },
   {
     "id": "cac2b87a2f096965c1f1521766c4fb39f31137d2",
@@ -598,18 +610,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!nelU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fece389ea-6dd6-45c8-b269-718ee5fc0098_1100x620.png",
     "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-quitting-spotify-podcasts",
     "published": "2026-07-23T15:59:37.000Z"
-  },
-  {
-    "id": "232cd48172f24d1e3ee92b1d0950b12caf42191d",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Firebase Crash Course (Auth & Firestore) #4 - Realtime Auth Subscription",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/H_a_Ds2pmFA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=H_a_Ds2pmFA",
-    "published": "2026-07-23T12:50:28.000Z"
   },
   {
     "id": "08c3f0dafe56fd7d95f764e400e22448dcfd90ac",
