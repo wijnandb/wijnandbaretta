@@ -1,5 +1,125 @@
 [
   {
+    "id": "489a27b0b9f4bf306300b4b3d05a931341298e55",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1bfbe4b81b132aaa333f5efe04b513baf057c55c",
+    "published": "2026-08-06T06:56:35.000Z"
+  },
+  {
+    "id": "3189f1ce0fd506815fcc5cf856e5dd3cf87e7767",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
+    "summary": "The end of an era.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!1S7v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57c9d273-aa50-4bc7-a7c4-caaf9b4952c2_1540x1624.png",
+    "url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
+    "published": "2026-08-06T04:34:11.000Z"
+  },
+  {
+    "id": "8a930334ebc98930fe4932dae051e97b9e1a9708",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aa06b83e373f445bc97420553488dd112d781212",
+    "published": "2026-08-06T04:03:14.000Z"
+  },
+  {
+    "id": "04c82142096913138ca836ac135dda415c57719c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/35dca2681b547d36ad593adaf3b94b52a2a2e94a",
+    "published": "2026-08-06T00:29:38.000Z"
+  },
+  {
+    "id": "7c06bda1a57176cb0eb6cf83209f0eecea23e754",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "An AI model from Meta also hacked another company during testing",
+    "summary": "An AI model from Meta also hacked another company during testing Stop me if you've heard this one before: An AI model from the parent company of Facebook and Instagram hacked into another company’s...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
+    "published": "2026-08-06T00:25:27.000Z"
+  },
+  {
+    "id": "63074cc99dd1fc137d70e9cc0c72840d92dda10c",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Introducing Muse Code and Muse Spark 1.2",
+    "summary": "Introducing Muse Code and Muse Spark 1.2 Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their own coding agent as...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
+    "published": "2026-08-05T23:58:35.000Z"
+  },
+  {
+    "id": "85a5227beea0bd00db54bde67f925812874747dd",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "summary": "Third-party cyber evaluations involving OpenAI models And another one. I had to create a accidental-cyberattacks tag to keep track of them all! This post from OpenAI covers both the UK AI Safety...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything",
+    "published": "2026-08-05T23:45:32.000Z"
+  },
+  {
+    "id": "06ef03b135e6ab346fb99daa75e192b1dd74257f",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
+    "summary": "Incident Report: unsanctioned agent behaviour during cyber testing It happened again. This time it was the UK government's AI Security Institute who accidentally attacked other companies while...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
+    "published": "2026-08-05T23:32:06.000Z"
+  },
+  {
+    "id": "3e7ed1f0099661b409b1d75670e900468c70ac79",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/84621866873e1e700a0076ed31bd7a6ecab7090c",
+    "published": "2026-08-05T21:27:00.000Z"
+  },
+  {
+    "id": "910ad4eba2e33f195d744d421f35f5429880955a",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
+    "summary": "Back in 2024 I tweeted screenshots of a game concept generated by GPT-3 and some concept \"art\" created using DALL-E. Today, on the fourth anniversary of that tweet, I decided to see if Claude Fable 5...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
+    "published": "2026-08-05T19:42:38.000Z"
+  },
+  {
     "id": "74dbeb87615e9930d609d87f4f8d0185d8b5e25a",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -60,30 +180,6 @@
     "published": "2026-08-05T13:08:53.000Z"
   },
   {
-    "id": "2524983378a100a0cef7425ac2af8713736cae94",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2e2b488a2d0f8247e2b9073d301f809a96b214ad",
-    "published": "2026-08-05T12:37:57.000Z"
-  },
-  {
-    "id": "2b3a222631e03e6d48a9d2ad8c1410a05e0bbc8a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3e23fda5f865d557ec2feef866d51d469b499316",
-    "published": "2026-08-05T09:54:25.000Z"
-  },
-  {
     "id": "ab23e51d941547eb7c9bb20335bf321da535ae44",
     "source": "Coding in Public",
     "type": "video",
@@ -94,30 +190,6 @@
     "thumbnail": "https://i.ytimg.com/vi/edoy4FvJVkA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=edoy4FvJVkA",
     "published": "2026-08-05T08:30:52.000Z"
-  },
-  {
-    "id": "e5f9bca74082e599ce775cf1018c1fd4992d0d23",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/86bc8f3087f447c9cf4032c61820ad9c56b6e9b4",
-    "published": "2026-08-05T06:56:08.000Z"
-  },
-  {
-    "id": "6d119cf72ea2717de7671fefba41c0fb0b523c5a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1183353b192e944dd71fece50ca031caa195d4c6",
-    "published": "2026-08-05T04:02:38.000Z"
   },
   {
     "id": "858744584932412d8442b5ad1909193d2ffc38a5",
@@ -180,18 +252,6 @@
     "published": "2026-08-04T18:20:14.000Z"
   },
   {
-    "id": "d18d591f4b5180beea761052722d5fd6a677ba9e",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm 0.32",
-    "summary": "Release: llm 0.32 See my detailed blog post about this release. Tags: llm",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
-    "published": "2026-08-04T17:15:33.000Z"
-  },
-  {
     "id": "870e6320ab958ed8288df63686755715d92e8ff5",
     "source": "ElevenLabs",
     "type": "video",
@@ -202,6 +262,18 @@
     "thumbnail": "https://i.ytimg.com/vi/1rczYAFvg7w/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=1rczYAFvg7w",
     "published": "2026-08-04T16:46:45.000Z"
+  },
+  {
+    "id": "a9b8d470e8f5a4183a713f4cdba6c3d4ea7d1879",
+    "source": "Werner Vogels",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "On building scalable control planes",
+    "summary": "Zak van der Merwe has spent his entire career at AWS building control planes. First for EC2 and now for DSQL. On the surface, the control plane looks quite boring: it records what should exist and...",
+    "thumbnail": null,
+    "url": "https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html?utm_campaign=inbound&amp;utm_source=rss",
+    "published": "2026-08-04T14:00:00.000Z"
   },
   {
     "id": "cac2b87a2f096965c1f1521766c4fb39f31137d2",
@@ -228,30 +300,6 @@
     "published": "2026-08-04T03:49:14.000Z"
   },
   {
-    "id": "1ed1f6384a4fe3f009a1a57e0622f85ad5dde94f",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Steve Yegge",
-    "summary": "Gas Town was intended to be reusable, but I only ever wound up using it to build itself. Gas Town fell apart at the seams with Opus 4.7. Up through 4.6 it was working brilliantly. With 4.7 we saw the...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
-    "published": "2026-08-04T00:42:45.000Z"
-  },
-  {
-    "id": "1c5150c65d415e4b85699e35a293d578d53bcf56",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Don't be a meat proxy",
-    "summary": "Don't be a meat proxy Niklas Gruhn coins an excellent new term - meat proxy - for people who blindly copy and paste the output of AI systems to their peers. By all means, prompt AI. But don't just...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
-    "published": "2026-08-03T23:45:04.000Z"
-  },
-  {
     "id": "a8f46de4b51b9c37ca89ffcad0719e62d73a08c4",
     "source": "Latent Space",
     "type": "podcast",
@@ -262,30 +310,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!-hTR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb397c5e-f16a-43cb-bcdf-9b6dd9897d48_1536x2048.jpeg",
     "url": "https://www.latent.space/p/inference-eng",
     "published": "2026-08-03T21:44:03.000Z"
-  },
-  {
-    "id": "765bf45633e2774670804c766f0a39fffb73b409",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting David Crawshaw's prompt",
-    "summary": "Set up a nightly cron job that executes the prompt: fetch upstream changes to the and rebase all local changes on top of upstream. Check that the software works as intended and replace the current...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
-    "published": "2026-08-03T16:15:27.000Z"
-  },
-  {
-    "id": "5439cd2e05240afac72e9785b62b665dbf5ececa",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Devtools must be open source (exe.dev)",
-    "summary": "My comment on Devtools must be open source (exe.dev) &mdash; Hacker News.One of the arguments for open source software for end-users has always been the freedom to examine and modify how that...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
-    "published": "2026-08-03T15:30:38.000Z"
   },
   {
     "id": "aae882e180ed82d11a422bf5bed2c6e2eb3d35f4",
@@ -394,18 +418,6 @@
     "thumbnail": "https://i.ytimg.com/vi/xn72yW9SNdA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=xn72yW9SNdA",
     "published": "2026-07-30T11:07:03.000Z"
-  },
-  {
-    "id": "ba8a730289041e15f32c521711e048561c51db0b",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] AI is eating Finance; AIE NYC now open",
-    "summary": "a quiet day lets us cover how AI is permeating financial services as the next big vertical after coding.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!RprN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7ec12df-76c8-4af8-a4aa-d0eede187099_2582x1658.png",
-    "url": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
-    "published": "2026-07-29T23:32:12.000Z"
   },
   {
     "id": "5800aeb2b78e174752aa43c8cfe5e69f3d3470f0",
@@ -1186,17 +1198,5 @@
     "thumbnail": "https://i.ytimg.com/vi/j2knrqAzYVY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
     "published": "2026-05-07T17:01:21.000Z"
-  },
-  {
-    "id": "bdec6c5ce6bf3b208c599a91bb6b86d7c7301c95",
-    "source": "AI Report",
-    "type": "podcast",
-    "category": "nl",
-    "lang": "nl",
-    "title": "Anthropic: de laatste uitvinding komt in 2028 + Microsoft Copilot is opeens goed geworden?",
-    "summary": "Alexander keert terug uit Shenzhen met een ongemakkelijke conclusie: de Chinese tech-hoofdstad is geen fabriek meer maar een R&D-magneet die alles aanzuigt wat met hardware te maken heeft. Een VC...",
-    "thumbnail": null,
-    "url": "https://www.aireport.nl/podcast/s/aireport/anthropic_de_laatste_uitvinding_komt_in_2028_microsoft_copilot_is_opeens_goed_geworden",
-    "published": "2026-05-07T15:30:21.000Z"
   }
 ]
