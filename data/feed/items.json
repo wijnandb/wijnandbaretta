@@ -1,5 +1,53 @@
 [
   {
+    "id": "aea8b5ee15d79c4e6b52ba28b73d3d630062f68a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/31c6051f2652d19553a849af113f0750265abd5f",
+    "published": "2026-08-07T06:26:02.000Z"
+  },
+  {
+    "id": "2fea13078482837a39f8b4e707539057f397f167",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] AMD buys Taalas",
+    "summary": "The Inference Inflection is HEATING up.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!qA0L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3b60b0e-d47f-4723-bb40-be9594e9bab4_786x754.png",
+    "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
+    "published": "2026-08-07T05:13:46.000Z"
+  },
+  {
+    "id": "237a4e70ad95e6d1d689f430f460a9c2b7379725",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3529884f2c1cd5db10d41fc82b44355cd69370ea",
+    "published": "2026-08-07T03:58:33.000Z"
+  },
+  {
+    "id": "e41374bc6a3128e70afc940a38a61616cf2ea073",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c9610b6c1d89cb55f805167c0f09eb0d3bcdba1e",
+    "published": "2026-08-07T01:14:53.000Z"
+  },
+  {
     "id": "cd3cfb69cb57467e00eb96164cd1966bbb524735",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -132,30 +180,6 @@
     "published": "2026-08-06T04:34:11.000Z"
   },
   {
-    "id": "8a930334ebc98930fe4932dae051e97b9e1a9708",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aa06b83e373f445bc97420553488dd112d781212",
-    "published": "2026-08-06T04:03:14.000Z"
-  },
-  {
-    "id": "04c82142096913138ca836ac135dda415c57719c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/35dca2681b547d36ad593adaf3b94b52a2a2e94a",
-    "published": "2026-08-06T00:29:38.000Z"
-  },
-  {
     "id": "7c06bda1a57176cb0eb6cf83209f0eecea23e754",
     "source": "Simon Willison",
     "type": "blog",
@@ -214,18 +238,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
     "published": "2026-08-05T23:32:06.000Z"
-  },
-  {
-    "id": "3e7ed1f0099661b409b1d75670e900468c70ac79",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/84621866873e1e700a0076ed31bd7a6ecab7090c",
-    "published": "2026-08-05T21:27:00.000Z"
   },
   {
     "id": "910ad4eba2e33f195d744d421f35f5429880955a",
@@ -430,18 +442,6 @@
     "thumbnail": "https://i.ytimg.com/vi/5DnOOa-5dTU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=5DnOOa-5dTU",
     "published": "2026-07-30T19:41:09.000Z"
-  },
-  {
-    "id": "eb04debe72ccc23b0c22c09139b9b9bcad978269",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
-    "summary": "AI engineers are rediscovering ontologies as a way to keep probabilistic agents inside deterministic boundaries.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!180z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33011df5-c14f-4770-9b91-efa55618b6eb_1672x941.png",
-    "url": "https://www.latent.space/p/ontologies-agentic-systems",
-    "published": "2026-07-30T11:17:55.000Z"
   },
   {
     "id": "8ca00857c6dcd30347651ffca2967df3f800080c",
