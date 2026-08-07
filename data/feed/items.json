@@ -1,5 +1,65 @@
 [
   {
+    "id": "2316b44d5e70e2af30e821676f92c5e6fe044674",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/69cfb071da930638bad8974f5eb1ca0d3a306407",
+    "published": "2026-08-07T18:17:33.000Z"
+  },
+  {
+    "id": "11fab7eed4acb4fde65a30fd17f224209f6496d4",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+    "summary": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI There's a fun anecdote from Accenture (apparently via leaked meeting audio recordings) in this 404 Media piece from...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+    "published": "2026-08-07T16:18:51.000Z"
+  },
+  {
+    "id": "9c26430cbbd334cd936ede58b2cff379deed63bc",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7b8166091f957b1669a3e31772b991fae7df085d",
+    "published": "2026-08-07T15:18:57.000Z"
+  },
+  {
+    "id": "ee4c91734600f53fc740d651174f6d855500520d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/63e2fc2efbd6d28b42d9a90e847974ea02351e56",
+    "published": "2026-08-07T12:17:28.000Z"
+  },
+  {
+    "id": "6d5a07041a70de275def07708997536d3fd807d2",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0c2be6c5dcf5dfe27afce7e99c65c0de66eba1f0",
+    "published": "2026-08-07T09:22:42.000Z"
+  },
+  {
     "id": "aea8b5ee15d79c4e6b52ba28b73d3d630062f68a",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -60,18 +120,6 @@
     "published": "2026-08-06T23:51:30.000Z"
   },
   {
-    "id": "1d69598106c962f63699fcd9b0f119c826039c6a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/06263823dc2b39ae0d975a86a46c70e0cadd3218",
-    "published": "2026-08-06T22:57:25.000Z"
-  },
-  {
     "id": "e36aa14a96d8e499043e92ef3ef83a82fd9dda36",
     "source": "Simon Willison",
     "type": "blog",
@@ -130,42 +178,6 @@
     "thumbnail": "https://i.ytimg.com/vi/HQXi4snP36I/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=HQXi4snP36I",
     "published": "2026-08-06T13:34:28.000Z"
-  },
-  {
-    "id": "a20d7218aff46ae53a39c99ee4b73c3db80a82ac",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8a2d1f976d20af024cc48d2aab965ff240b940aa",
-    "published": "2026-08-06T12:39:44.000Z"
-  },
-  {
-    "id": "e48747f9c11059112808639b56c32c1274449c4e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5bf0eb0d29f63fbc5aadb4138f066edee85be433",
-    "published": "2026-08-06T09:55:30.000Z"
-  },
-  {
-    "id": "489a27b0b9f4bf306300b4b3d05a931341298e55",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1bfbe4b81b132aaa333f5efe04b513baf057c55c",
-    "published": "2026-08-06T06:56:35.000Z"
   },
   {
     "id": "3189f1ce0fd506815fcc5cf856e5dd3cf87e7767",
@@ -238,18 +250,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
     "published": "2026-08-05T23:32:06.000Z"
-  },
-  {
-    "id": "910ad4eba2e33f195d744d421f35f5429880955a",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
-    "summary": "Back in 2022 I tweeted screenshots of a game concept generated by GPT-3 and some concept \"art\" created using DALL-E. Today, on the fourth anniversary of that tweet, I decided to see if Claude Fable 5...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
-    "published": "2026-08-05T19:42:38.000Z"
   },
   {
     "id": "6ab4ee18f1daa256a569b0aa12762473775d62db",
