@@ -1,5 +1,113 @@
 [
   {
+    "id": "cd3cfb69cb57467e00eb96164cd1966bbb524735",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "add resources",
+    "summary": "add resources",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/89e549469251c6e4069c168a1c0336095bb66143",
+    "published": "2026-08-06T23:51:30.000Z"
+  },
+  {
+    "id": "1d69598106c962f63699fcd9b0f119c826039c6a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/06263823dc2b39ae0d975a86a46c70e0cadd3218",
+    "published": "2026-08-06T22:57:25.000Z"
+  },
+  {
+    "id": "e36aa14a96d8e499043e92ef3ef83a82fd9dda36",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette 1.0a38",
+    "summary": "Release: datasette 1.0a38 This release fixes a SQL injection security issue that affects Datasette instances that serve a mixture of public and private tables in the same database, with access...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
+    "published": "2026-08-06T18:24:34.000Z"
+  },
+  {
+    "id": "54cab4fc4b8cc72aa7d10fc3878c240aabd7c86c",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette 0.65.3",
+    "summary": "Release: datasette 0.65.3 Back-ported the SQL Injection security fix from 1.0a38. Tags: datasette",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything",
+    "published": "2026-08-06T18:22:07.000Z"
+  },
+  {
+    "id": "91d8b8ec90d8f9e2a6030833aa41d3c042bf5f93",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Simon Willison on Technical Blogging",
+    "summary": "Simon Willison on Technical Blogging I was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the interview from my own blog! It...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything",
+    "published": "2026-08-06T18:04:39.000Z"
+  },
+  {
+    "id": "488623fa078345549e3e5655f16eef6a431403df",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Introducing Dubbing v2 API",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/GSk5JyiT4sU/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=GSk5JyiT4sU",
+    "published": "2026-08-06T15:01:13.000Z"
+  },
+  {
+    "id": "7deb80285bd90f7ffebba52c9d313e5d73b42227",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/HQXi4snP36I/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=HQXi4snP36I",
+    "published": "2026-08-06T13:34:28.000Z"
+  },
+  {
+    "id": "a20d7218aff46ae53a39c99ee4b73c3db80a82ac",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8a2d1f976d20af024cc48d2aab965ff240b940aa",
+    "published": "2026-08-06T12:39:44.000Z"
+  },
+  {
+    "id": "e48747f9c11059112808639b56c32c1274449c4e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5bf0eb0d29f63fbc5aadb4138f066edee85be433",
+    "published": "2026-08-06T09:55:30.000Z"
+  },
+  {
     "id": "489a27b0b9f4bf306300b4b3d05a931341298e55",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -60,6 +168,18 @@
     "published": "2026-08-06T00:25:27.000Z"
   },
   {
+    "id": "4bb1e266a43996e8d8eee7759211ad493625280f",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "Astro 7.2",
+    "summary": "Astro 7.2 adds experimental incremental static builds, an option to opt out of session support, background mode for astro preview, and relative logger entrypoints.",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/astro-720/",
+    "published": "2026-08-06T00:00:00.000Z"
+  },
+  {
     "id": "63074cc99dd1fc137d70e9cc0c72840d92dda10c",
     "source": "Simon Willison",
     "type": "blog",
@@ -114,58 +234,10 @@
     "category": "ai",
     "lang": "en",
     "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
-    "summary": "Back in 2024 I tweeted screenshots of a game concept generated by GPT-3 and some concept \"art\" created using DALL-E. Today, on the fourth anniversary of that tweet, I decided to see if Claude Fable 5...",
+    "summary": "Back in 2022 I tweeted screenshots of a game concept generated by GPT-3 and some concept \"art\" created using DALL-E. Today, on the fourth anniversary of that tweet, I decided to see if Claude Fable 5...",
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
     "published": "2026-08-05T19:42:38.000Z"
-  },
-  {
-    "id": "74dbeb87615e9930d609d87f4f8d0185d8b5e25a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c69050cb12bfed8173a26fd9cc28c33797681dcb",
-    "published": "2026-08-05T18:33:49.000Z"
-  },
-  {
-    "id": "08608e9a0221edeb6d73e3441ffe6a1be5346905",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d15886347bb2f325599d7b0a05adcf1066ff5371",
-    "published": "2026-08-05T15:45:21.000Z"
-  },
-  {
-    "id": "7581159a8a6522241f4b12b4d976c095a83bba9f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a4238efa06e495ac79df748d134669afb8af474b",
-    "published": "2026-08-05T14:11:22.000Z"
-  },
-  {
-    "id": "7318989994649779170f122e950d844221cf2e75",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: claude-context-optimizer (#2435)",
-    "summary": "Add resource: claude-context-optimizer (#2435) Category: Memory & Context Persistence Author: Egor Fedorov From issue: #2434 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e208042cb6273d1c657680288a465585714695a3",
-    "published": "2026-08-05T14:10:51.000Z"
   },
   {
     "id": "6ab4ee18f1daa256a569b0aa12762473775d62db",
@@ -204,42 +276,6 @@
     "published": "2026-08-05T01:21:47.000Z"
   },
   {
-    "id": "a19f627762e6ac9eb4ee4c4194f3e19cd88018de",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
-    "summary": "I released LLM 0.32 this morning, the most significant new version of LLM since the initial launch of the project. The new version includes support for visible reasoning traces, server-side provider...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
-    "published": "2026-08-04T23:58:24.000Z"
-  },
-  {
-    "id": "6fbb52234be294ab3e0ca004dd34526e89d0679c",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm-anthropic 0.26",
-    "summary": "Release: llm-anthropic 0.26 Includes new features enabled by LLM 0.32: New models: claude-fable-5, claude-sonnet-5, and claude-opus-5. #75, #76 Added server-side tools for WebSearch, WebFetch,...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
-    "published": "2026-08-04T22:00:58.000Z"
-  },
-  {
-    "id": "8b1f51d24bfa9ce234aaade50af44c5849c48727",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "PipeNetwork/minimax-h3-mlx",
-    "summary": "PipeNetwork/minimax-h3-mlx MiniMax released MiniMax-H3 two days ago - they describe it as a \"a general-purpose, omni-modal generative system\", which in practice means it accepts text, images, audio...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
-    "published": "2026-08-04T19:10:09.000Z"
-  },
-  {
     "id": "9ca725e460292febef5511ee19bb9c6bb2427836",
     "source": "Latent Space",
     "type": "podcast",
@@ -257,7 +293,7 @@
     "type": "video",
     "category": "voice",
     "lang": "en",
-    "title": "How to detect and redact PII in transcripts with Scribe",
+    "title": "Entity Detection in Scribe V2",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/1rczYAFvg7w/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=1rczYAFvg7w",
@@ -684,18 +720,6 @@
     "published": "2026-07-16T18:25:15.000Z"
   },
   {
-    "id": "86e0223db308a364f92fc5d2b8365a6d4ed3b0a5",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Director by OpenArt",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/0v9MGS_GMWI/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/0v9MGS_GMWI",
-    "published": "2026-07-16T18:12:23.000Z"
-  },
-  {
     "id": "1bed9fef2ad668a60fadd271eae717738e61d6c7",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -1032,18 +1056,6 @@
     "published": "2026-06-15T17:18:48.000Z"
   },
   {
-    "id": "a73a8ef91acc7d61eb1f8c82b31b837c2fa158b8",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Let your Hermes Agent call you on the phone using ElevenAgents",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/lr8pxKgFRrI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=lr8pxKgFRrI",
-    "published": "2026-06-11T15:28:54.000Z"
-  },
-  {
     "id": "b7160109cd59448f790742c411e9dddb268553cb",
     "source": "AI Report",
     "type": "podcast",
@@ -1186,17 +1198,5 @@
     "thumbnail": "https://i.ytimg.com/vi/2poAKjYGEaI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=2poAKjYGEaI",
     "published": "2026-05-08T07:49:15.000Z"
-  },
-  {
-    "id": "2679786a73a762492c7d45de7be976e342be82fd",
-    "source": "The Anthropic Stack",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Translating Claude’s thoughts into language",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/j2knrqAzYVY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
-    "published": "2026-05-07T17:01:21.000Z"
   }
 ]
