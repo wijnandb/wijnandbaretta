@@ -1,5 +1,65 @@
 [
   {
+    "id": "83e82a7b0ecc29f5895955fa0db96851a658a0a3",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/be13803f439fdc606e5ea5803f7e3bf1f2bbb0fb",
+    "published": "2026-08-08T18:08:46.000Z"
+  },
+  {
+    "id": "f0625628d0ceb6ba61344e9e11ad1726d1e72778",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2b3be9961dd6ed334284d1923ab8bf8ef29b9b93",
+    "published": "2026-08-08T15:08:34.000Z"
+  },
+  {
+    "id": "79c1666962a93b8a15c56e4f705bd5cf18622956",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+    "summary": "My comment on Now we have a timeline of the OpenAI accidental attack against Hugging Face &mdash; Hacker News.I think one of the most interesting details here might be tucked away in that first...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
+    "published": "2026-08-08T14:06:41.000Z"
+  },
+  {
+    "id": "fb86db6792a9e478e669129a96be10d6e7694293",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f9bfa775c91a197bfce064946521a4c29cbbfc03",
+    "published": "2026-08-08T12:09:32.000Z"
+  },
+  {
+    "id": "f104e13fc3420a3171defbd078e0ea8a813cf9a6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d8d2a3b38a6cc421ddd5a89ee3d578aa988b4f86",
+    "published": "2026-08-08T09:15:19.000Z"
+  },
+  {
     "id": "47bc57123b18cf8b6e9a658da2f9f0770730fb50",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -96,18 +156,6 @@
     "published": "2026-08-07T19:18:09.000Z"
   },
   {
-    "id": "2316b44d5e70e2af30e821676f92c5e6fe044674",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/69cfb071da930638bad8974f5eb1ca0d3a306407",
-    "published": "2026-08-07T18:17:33.000Z"
-  },
-  {
     "id": "11fab7eed4acb4fde65a30fd17f224209f6496d4",
     "source": "Simon Willison",
     "type": "blog",
@@ -118,42 +166,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
     "published": "2026-08-07T16:18:51.000Z"
-  },
-  {
-    "id": "9c26430cbbd334cd936ede58b2cff379deed63bc",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7b8166091f957b1669a3e31772b991fae7df085d",
-    "published": "2026-08-07T15:18:57.000Z"
-  },
-  {
-    "id": "ee4c91734600f53fc740d651174f6d855500520d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/63e2fc2efbd6d28b42d9a90e847974ea02351e56",
-    "published": "2026-08-07T12:17:28.000Z"
-  },
-  {
-    "id": "6d5a07041a70de275def07708997536d3fd807d2",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0c2be6c5dcf5dfe27afce7e99c65c0de66eba1f0",
-    "published": "2026-08-07T09:22:42.000Z"
   },
   {
     "id": "2fea13078482837a39f8b4e707539057f397f167",
@@ -238,18 +250,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!1S7v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57c9d273-aa50-4bc7-a7c4-caaf9b4952c2_1540x1624.png",
     "url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
     "published": "2026-08-06T04:34:11.000Z"
-  },
-  {
-    "id": "7c06bda1a57176cb0eb6cf83209f0eecea23e754",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "An AI model from Meta also hacked another company during testing",
-    "summary": "An AI model from Meta also hacked another company during testing Stop me if you've heard this one before: An AI model from the parent company of Facebook and Instagram hacked into another company’s...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
-    "published": "2026-08-06T00:25:27.000Z"
   },
   {
     "id": "4bb1e266a43996e8d8eee7759211ad493625280f",
