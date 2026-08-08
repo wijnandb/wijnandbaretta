@@ -1,5 +1,101 @@
 [
   {
+    "id": "47bc57123b18cf8b6e9a658da2f9f0770730fb50",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/71a24e66cd29eee5fb5088e6cfed574813f8074e",
+    "published": "2026-08-08T06:16:11.000Z"
+  },
+  {
+    "id": "ee1757db2a4616cf90a008347b7cb017accc8007",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c0452a6f37a9d642b4303fdc61ac7643b243cad1",
+    "published": "2026-08-08T03:31:47.000Z"
+  },
+  {
+    "id": "0430b727e0cf2ee5638ff9c9220fcd0f0dc851e9",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Zawinski's Law of MultiAgents",
+    "summary": "a quiet day lets us find some connections among recent themes",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!CnI3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0c1de0a-be73-4969-9bbd-d3b178bf2ea2_2349x988.png",
+    "url": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
+    "published": "2026-08-08T01:12:07.000Z"
+  },
+  {
+    "id": "ea44508eda791b7d1fbfc196038b793e74d247af",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0f18502544b544f567acf980bb3ba577e6664668",
+    "published": "2026-08-08T00:17:39.000Z"
+  },
+  {
+    "id": "bdef73cd55eeb5b3821fba4b00f11d421e1aaa16",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting John Gruber",
+    "summary": "Me, I try to get into the mindset of playing live music, not recording a studio album. Except when I’m writing a piece where I really want it to be an album. Those aren’t rare, per se, but they’re...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything",
+    "published": "2026-08-08T00:10:40.000Z"
+  },
+  {
+    "id": "0aaa4cc9a36be3b53c3b60c44728353bf699ddd8",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+    "summary": "OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about \"the Hugging Face Incident\" (previously on this blog). The video was published yesterday. It's short and...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
+    "published": "2026-08-07T23:55:58.000Z"
+  },
+  {
+    "id": "b441eeb3e9e6a619df1de93f6ba6249d8894efad",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/35f97e0af8327b19c6006d8051fa87abe5afd63d",
+    "published": "2026-08-07T21:15:24.000Z"
+  },
+  {
+    "id": "6897ab4f3ed3d6b55734657d4cc006f3257a1b6a",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+    "summary": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) On Wednesday I wrote about One-shotting a Raccoon Heist game using Claude Fable 5, where I had Claude Fable 5 build a full working game...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+    "published": "2026-08-07T19:18:09.000Z"
+  },
+  {
     "id": "2316b44d5e70e2af30e821676f92c5e6fe044674",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -60,18 +156,6 @@
     "published": "2026-08-07T09:22:42.000Z"
   },
   {
-    "id": "aea8b5ee15d79c4e6b52ba28b73d3d630062f68a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/31c6051f2652d19553a849af113f0750265abd5f",
-    "published": "2026-08-07T06:26:02.000Z"
-  },
-  {
     "id": "2fea13078482837a39f8b4e707539057f397f167",
     "source": "Latent Space",
     "type": "podcast",
@@ -82,42 +166,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!qA0L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3b60b0e-d47f-4723-bb40-be9594e9bab4_786x754.png",
     "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
     "published": "2026-08-07T05:13:46.000Z"
-  },
-  {
-    "id": "237a4e70ad95e6d1d689f430f460a9c2b7379725",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3529884f2c1cd5db10d41fc82b44355cd69370ea",
-    "published": "2026-08-07T03:58:33.000Z"
-  },
-  {
-    "id": "e41374bc6a3128e70afc940a38a61616cf2ea073",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c9610b6c1d89cb55f805167c0f09eb0d3bcdba1e",
-    "published": "2026-08-07T01:14:53.000Z"
-  },
-  {
-    "id": "cd3cfb69cb57467e00eb96164cd1966bbb524735",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "add resources",
-    "summary": "add resources",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/89e549469251c6e4069c168a1c0336095bb66143",
-    "published": "2026-08-06T23:51:30.000Z"
   },
   {
     "id": "e36aa14a96d8e499043e92ef3ef83a82fd9dda36",
@@ -214,42 +262,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/astro-720/",
     "published": "2026-08-06T00:00:00.000Z"
-  },
-  {
-    "id": "63074cc99dd1fc137d70e9cc0c72840d92dda10c",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Introducing Muse Code and Muse Spark 1.2",
-    "summary": "Introducing Muse Code and Muse Spark 1.2 Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their own coding agent as...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
-    "published": "2026-08-05T23:58:35.000Z"
-  },
-  {
-    "id": "85a5227beea0bd00db54bde67f925812874747dd",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Third-party cyber evaluations involving OpenAI models",
-    "summary": "Third-party cyber evaluations involving OpenAI models And another one. I had to create a accidental-cyberattacks tag to keep track of them all! This post from OpenAI covers both the UK AI Safety...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything",
-    "published": "2026-08-05T23:45:32.000Z"
-  },
-  {
-    "id": "06ef03b135e6ab346fb99daa75e192b1dd74257f",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
-    "summary": "Incident Report: unsanctioned agent behaviour during cyber testing It happened again. This time it was the UK government's AI Security Institute who accidentally attacked other companies while...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
-    "published": "2026-08-05T23:32:06.000Z"
   },
   {
     "id": "6ab4ee18f1daa256a569b0aa12762473775d62db",
@@ -406,18 +418,6 @@
     "thumbnail": "https://i.ytimg.com/vi/I1y5gx2aUaM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=I1y5gx2aUaM",
     "published": "2026-07-31T13:39:38.000Z"
-  },
-  {
-    "id": "3ecd81bf402a2e79bcb48cc5121c4f24b9b96739",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] GPT 5.6 price cut by 20%-80%: Cost of GPT 5.4 Intelligence dropped 13x in 4 months due to GPT 5.6 recursive self-optimization",
-    "summary": "Distillation is all you need!",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!gT87!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOfg3rSWsAACTkR.png",
-    "url": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
-    "published": "2026-07-31T04:40:54.000Z"
   },
   {
     "id": "c9d99afb9217785697d07fdb63b10229abaac395",
