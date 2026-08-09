@@ -1,5 +1,65 @@
 [
   {
+    "id": "09a7c4130a0fa1cb1c8ae461a5705a1272b75ad1",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ff60d0f4b6abc3bde468828d7ee08c60442aeece",
+    "published": "2026-08-09T06:16:58.000Z"
+  },
+  {
+    "id": "b9ca2d3a2cdbb5caa7a8d2d0206d222316eedcdd",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/687752af124a5b49b25d5ad612f12a68b6a14278",
+    "published": "2026-08-09T03:33:40.000Z"
+  },
+  {
+    "id": "29f472a6f3163427647a3bac432ffee98ad082ad",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/eea9106a96bd7287be16e1db3b5c5d0e5ae57c22",
+    "published": "2026-08-09T00:18:04.000Z"
+  },
+  {
+    "id": "f43ad033701ae4875c1ebfdb0e1a859fc9a59dfa",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+    "summary": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans Anthropic are really confident in Claude Code's auto mode, to the point that they are making it the default setting for new...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
+    "published": "2026-08-08T22:36:03.000Z"
+  },
+  {
+    "id": "8892ebaada45f17e95886a0fa42c253a67740717",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/45114ea4f42ca2cd89ab7af1bb0bdfdd7ea3df2a",
+    "published": "2026-08-08T21:09:00.000Z"
+  },
+  {
     "id": "83e82a7b0ecc29f5895955fa0db96851a658a0a3",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -60,30 +120,6 @@
     "published": "2026-08-08T09:15:19.000Z"
   },
   {
-    "id": "47bc57123b18cf8b6e9a658da2f9f0770730fb50",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/71a24e66cd29eee5fb5088e6cfed574813f8074e",
-    "published": "2026-08-08T06:16:11.000Z"
-  },
-  {
-    "id": "ee1757db2a4616cf90a008347b7cb017accc8007",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c0452a6f37a9d642b4303fdc61ac7643b243cad1",
-    "published": "2026-08-08T03:31:47.000Z"
-  },
-  {
     "id": "0430b727e0cf2ee5638ff9c9220fcd0f0dc851e9",
     "source": "Latent Space",
     "type": "podcast",
@@ -94,18 +130,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!CnI3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0c1de0a-be73-4969-9bbd-d3b178bf2ea2_2349x988.png",
     "url": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
     "published": "2026-08-08T01:12:07.000Z"
-  },
-  {
-    "id": "ea44508eda791b7d1fbfc196038b793e74d247af",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0f18502544b544f567acf980bb3ba577e6664668",
-    "published": "2026-08-08T00:17:39.000Z"
   },
   {
     "id": "bdef73cd55eeb5b3821fba4b00f11d421e1aaa16",
@@ -130,18 +154,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
     "published": "2026-08-07T23:55:58.000Z"
-  },
-  {
-    "id": "b441eeb3e9e6a619df1de93f6ba6249d8894efad",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/35f97e0af8327b19c6006d8051fa87abe5afd63d",
-    "published": "2026-08-07T21:15:24.000Z"
   },
   {
     "id": "6897ab4f3ed3d6b55734657d4cc006f3257a1b6a",
@@ -202,18 +214,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything",
     "published": "2026-08-06T18:22:07.000Z"
-  },
-  {
-    "id": "91d8b8ec90d8f9e2a6030833aa41d3c042bf5f93",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Simon Willison on Technical Blogging",
-    "summary": "Simon Willison on Technical Blogging I was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the interview from my own blog! It...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything",
-    "published": "2026-08-06T18:04:39.000Z"
   },
   {
     "id": "488623fa078345549e3e5655f16eef6a431403df",
