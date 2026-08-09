@@ -1,5 +1,65 @@
 [
   {
+    "id": "6d3f1ddc491f4ab94417b730edcbe3a37f3d17d6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/16e726adb8218d57c9a3c02fe7b15a4aa4820b89",
+    "published": "2026-08-09T18:09:34.000Z"
+  },
+  {
+    "id": "284e4f2bd5cfd73cebcdb72cda770ead31d6f5f6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8b1255082d991e3e5d38c12cd5b18e875632afbf",
+    "published": "2026-08-09T15:09:42.000Z"
+  },
+  {
+    "id": "55a29136b2060544744ca2195f01b69baeceaeb7",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Learn 99% of ChatGPT Work in 61 Minutes (Codex for Work)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/zWL6XGP3Em8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=zWL6XGP3Em8",
+    "published": "2026-08-09T15:00:22.000Z"
+  },
+  {
+    "id": "4741c50aafdc579a817abd91ef4612fec7026637",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ac38c283b4b5c048df74bf046250d02eaf0b8989",
+    "published": "2026-08-09T12:09:51.000Z"
+  },
+  {
+    "id": "0467528f8f9157061100c4072132144414178241",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/131b64984b5ec46fc398f62758e42723eefa380e",
+    "published": "2026-08-09T09:15:40.000Z"
+  },
+  {
     "id": "09a7c4130a0fa1cb1c8ae461a5705a1272b75ad1",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -60,30 +120,6 @@
     "published": "2026-08-08T21:09:00.000Z"
   },
   {
-    "id": "83e82a7b0ecc29f5895955fa0db96851a658a0a3",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/be13803f439fdc606e5ea5803f7e3bf1f2bbb0fb",
-    "published": "2026-08-08T18:08:46.000Z"
-  },
-  {
-    "id": "f0625628d0ceb6ba61344e9e11ad1726d1e72778",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2b3be9961dd6ed334284d1923ab8bf8ef29b9b93",
-    "published": "2026-08-08T15:08:34.000Z"
-  },
-  {
     "id": "79c1666962a93b8a15c56e4f705bd5cf18622956",
     "source": "Simon Willison",
     "type": "blog",
@@ -94,30 +130,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
     "published": "2026-08-08T14:06:41.000Z"
-  },
-  {
-    "id": "fb86db6792a9e478e669129a96be10d6e7694293",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f9bfa775c91a197bfce064946521a4c29cbbfc03",
-    "published": "2026-08-08T12:09:32.000Z"
-  },
-  {
-    "id": "f104e13fc3420a3171defbd078e0ea8a813cf9a6",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d8d2a3b38a6cc421ddd5a89ee3d578aa988b4f86",
-    "published": "2026-08-08T09:15:19.000Z"
   },
   {
     "id": "0430b727e0cf2ee5638ff9c9220fcd0f0dc851e9",
@@ -706,18 +718,6 @@
     "thumbnail": "https://i.ytimg.com/vi/wCSPgHpcxdc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=wCSPgHpcxdc",
     "published": "2026-07-20T11:19:33.000Z"
-  },
-  {
-    "id": "ef95bf634b69c3827c36b545617ff2db0c3464e9",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Devin AI: The Full Beginner’s Guide (Better Than Claude Code?)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/Vyyrvna-hUY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Vyyrvna-hUY",
-    "published": "2026-07-16T18:25:15.000Z"
   },
   {
     "id": "1bed9fef2ad668a60fadd271eae717738e61d6c7",
