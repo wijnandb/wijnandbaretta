@@ -1,6 +1,6 @@
 [
   {
-    "id": "6d3f1ddc491f4ab94417b730edcbe3a37f3d17d6",
+    "id": "7a5467cc3544f89c52e44ba11d649a93dd00a7d3",
     "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
@@ -8,11 +8,11 @@
     "title": "chore: update repo ticker data and SVGs [skip ci]",
     "summary": "chore: update repo ticker data and SVGs [skip ci]",
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/16e726adb8218d57c9a3c02fe7b15a4aa4820b89",
-    "published": "2026-08-09T18:09:34.000Z"
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/53ed3f6120993f532f40dfa72dca571e5d3d3c6a",
+    "published": "2026-08-10T06:30:24.000Z"
   },
   {
-    "id": "284e4f2bd5cfd73cebcdb72cda770ead31d6f5f6",
+    "id": "b0c776445d50a8cc3c698fa9dc718e5e31f05edb",
     "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
@@ -20,8 +20,128 @@
     "title": "chore: update repo ticker data and SVGs [skip ci]",
     "summary": "chore: update repo ticker data and SVGs [skip ci]",
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8b1255082d991e3e5d38c12cd5b18e875632afbf",
-    "published": "2026-08-09T15:09:42.000Z"
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/166b9ba667e406c23b398f51eee26b1d2226d855",
+    "published": "2026-08-10T03:35:44.000Z"
+  },
+  {
+    "id": "c1b15acb01934c30a7d2e3bc84e75ae1cd84afe8",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting OpenClaw",
+    "summary": "The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through. So you've moved from #4 to #3...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
+    "published": "2026-08-10T02:05:16.000Z"
+  },
+  {
+    "id": "426d399d374a8e299f16989033ecdc46ce80b478",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/48848b1fc58110ae2541f79c5e60e388e7b496ff",
+    "published": "2026-08-10T00:19:11.000Z"
+  },
+  {
+    "id": "b9793ca1b93b04de904f7f35883f94c4cd4902ad",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Claude Opus 5 system prompt",
+    "summary": "Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+    "published": "2026-08-09T23:31:39.000Z"
+  },
+  {
+    "id": "1aa79843a7521bc99365e8deedcb9001ca2ab724",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "GitHub Models is now retired",
+    "summary": "GitHub Models is now retired I missed this news until today, when the GitHub Actions run for my simonw/research repository failed with this error message: GitHub Models is temporarily unavailable as...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+    "published": "2026-08-09T22:48:05.000Z"
+  },
+  {
+    "id": "f404485becb33fdbf64d13d7bcf26025ba0b112a",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "SQLite compressed text-history prototypes",
+    "summary": "Research: SQLite compressed text-history prototypes I'm perennially interested in options for storing revision histories in relational databases. While out on a dog walk I had a new idea: how about...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+    "published": "2026-08-09T22:05:00.000Z"
+  },
+  {
+    "id": "2093aa4da99a0ca0a8703e33a1a44cbdb27af05a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0d5f216c21f1855348154eaec21e836858c1ae71",
+    "published": "2026-08-09T21:09:34.000Z"
+  },
+  {
+    "id": "b6ded6c9a2a8069cf0944767882201655565e35d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e04bb8b85ab92f76ed616e3ed931c3b121900c51",
+    "published": "2026-08-09T20:06:28.000Z"
+  },
+  {
+    "id": "b3b58d16904d017b59e54e97f5a8904944d3ae60",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: Beyond the Prompt: Claude Code (#2480)",
+    "summary": "Add resource: Beyond the Prompt: Claude Code (#2480) Category: Start Here Author: Arpan Patel From issue: #2479 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5df9e12f8bd5ef7603685da308c3192bd7fcba31",
+    "published": "2026-08-09T20:06:09.000Z"
+  },
+  {
+    "id": "f8112317aaf1824774a2ef75b58bc7aab3fe8130",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/344cbc51ac8bb7940c5b144c500a44be83ebb536",
+    "published": "2026-08-09T19:42:37.000Z"
+  },
+  {
+    "id": "81fbd681c32b586cc527f530272b3f3e68ec9bfe",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: A Field Guide to Claude Fable 5 (#2478)",
+    "summary": "Add resource: A Field Guide to Claude Fable 5 (#2478) Category: Start Here Author: Thariq Shihipar, Anthropic From issue: #2477 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/12a3a1522fe8282c29729055ee892c9680e6824b",
+    "published": "2026-08-09T19:42:16.000Z"
   },
   {
     "id": "55a29136b2060544744ca2195f01b69baeceaeb7",
@@ -36,66 +156,6 @@
     "published": "2026-08-09T15:00:22.000Z"
   },
   {
-    "id": "4741c50aafdc579a817abd91ef4612fec7026637",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ac38c283b4b5c048df74bf046250d02eaf0b8989",
-    "published": "2026-08-09T12:09:51.000Z"
-  },
-  {
-    "id": "0467528f8f9157061100c4072132144414178241",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/131b64984b5ec46fc398f62758e42723eefa380e",
-    "published": "2026-08-09T09:15:40.000Z"
-  },
-  {
-    "id": "09a7c4130a0fa1cb1c8ae461a5705a1272b75ad1",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ff60d0f4b6abc3bde468828d7ee08c60442aeece",
-    "published": "2026-08-09T06:16:58.000Z"
-  },
-  {
-    "id": "b9ca2d3a2cdbb5caa7a8d2d0206d222316eedcdd",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/687752af124a5b49b25d5ad612f12a68b6a14278",
-    "published": "2026-08-09T03:33:40.000Z"
-  },
-  {
-    "id": "29f472a6f3163427647a3bac432ffee98ad082ad",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/eea9106a96bd7287be16e1db3b5c5d0e5ae57c22",
-    "published": "2026-08-09T00:18:04.000Z"
-  },
-  {
     "id": "f43ad033701ae4875c1ebfdb0e1a859fc9a59dfa",
     "source": "Simon Willison",
     "type": "blog",
@@ -106,18 +166,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
     "published": "2026-08-08T22:36:03.000Z"
-  },
-  {
-    "id": "8892ebaada45f17e95886a0fa42c253a67740717",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/45114ea4f42ca2cd89ab7af1bb0bdfdd7ea3df2a",
-    "published": "2026-08-08T21:09:00.000Z"
   },
   {
     "id": "79c1666962a93b8a15c56e4f705bd5cf18622956",
@@ -168,30 +216,6 @@
     "published": "2026-08-07T23:55:58.000Z"
   },
   {
-    "id": "6897ab4f3ed3d6b55734657d4cc006f3257a1b6a",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
-    "summary": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) On Wednesday I wrote about One-shotting a Raccoon Heist game using Claude Fable 5, where I had Claude Fable 5 build a full working game...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
-    "published": "2026-08-07T19:18:09.000Z"
-  },
-  {
-    "id": "11fab7eed4acb4fde65a30fd17f224209f6496d4",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-    "summary": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI There's a fun anecdote from Accenture (apparently via leaked meeting audio recordings) in this 404 Media piece from...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
-    "published": "2026-08-07T16:18:51.000Z"
-  },
-  {
     "id": "2fea13078482837a39f8b4e707539057f397f167",
     "source": "Latent Space",
     "type": "podcast",
@@ -202,30 +226,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!qA0L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3b60b0e-d47f-4723-bb40-be9594e9bab4_786x754.png",
     "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
     "published": "2026-08-07T05:13:46.000Z"
-  },
-  {
-    "id": "e36aa14a96d8e499043e92ef3ef83a82fd9dda36",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette 1.0a38",
-    "summary": "Release: datasette 1.0a38 This release fixes a SQL injection security issue that affects Datasette instances that serve a mixture of public and private tables in the same database, with access...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
-    "published": "2026-08-06T18:24:34.000Z"
-  },
-  {
-    "id": "54cab4fc4b8cc72aa7d10fc3878c240aabd7c86c",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette 0.65.3",
-    "summary": "Release: datasette 0.65.3 Back-ported the SQL Injection security fix from 1.0a38. Tags: datasette",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything",
-    "published": "2026-08-06T18:22:07.000Z"
   },
   {
     "id": "488623fa078345549e3e5655f16eef6a431403df",
