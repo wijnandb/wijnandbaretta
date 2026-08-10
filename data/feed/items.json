@@ -1,5 +1,77 @@
 [
   {
+    "id": "abd3c6038314623f658ef3d434010d777977f0b2",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b3bdacbc4f881e29ab56843c4e9cda5abbbc25ad",
+    "published": "2026-08-10T18:18:22.000Z"
+  },
+  {
+    "id": "3ce21042e07b7aa85d54392ee06881129aa418fe",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ccc886dabdb81b2c586d3f696914700123666be6",
+    "published": "2026-08-10T15:22:36.000Z"
+  },
+  {
+    "id": "f5e07aca5c01d2a1073f722b63dc49664468cadb",
+    "source": "The Anthropic Stack",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Dispatches from Iceland",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/iF5IWjOWcA4/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=iF5IWjOWcA4",
+    "published": "2026-08-10T14:30:52.000Z"
+  },
+  {
+    "id": "db634f126c9b86d54535a16a615482f5ae1ed9d4",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0767a66263e7f76be684117a1ec0eebbace86b4c",
+    "published": "2026-08-10T12:17:53.000Z"
+  },
+  {
+    "id": "6e896446a6834419a3f0df3419b53de7a62c4ecf",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1349c2a369b8720a2c73ede852f15d65b91eb83d",
+    "published": "2026-08-10T09:33:07.000Z"
+  },
+  {
+    "id": "14f1fc809dd9ad4391604729dc570450e347ee83",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase Crash Course (Auth & Firestore) #13 - Firestore Rules",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/kenfgIaK_sQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=kenfgIaK_sQ",
+    "published": "2026-08-10T07:44:14.000Z"
+  },
+  {
     "id": "7a5467cc3544f89c52e44ba11d649a93dd00a7d3",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -96,60 +168,12 @@
     "published": "2026-08-09T21:09:34.000Z"
   },
   {
-    "id": "b6ded6c9a2a8069cf0944767882201655565e35d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e04bb8b85ab92f76ed616e3ed931c3b121900c51",
-    "published": "2026-08-09T20:06:28.000Z"
-  },
-  {
-    "id": "b3b58d16904d017b59e54e97f5a8904944d3ae60",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: Beyond the Prompt: Claude Code (#2480)",
-    "summary": "Add resource: Beyond the Prompt: Claude Code (#2480) Category: Start Here Author: Arpan Patel From issue: #2479 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5df9e12f8bd5ef7603685da308c3192bd7fcba31",
-    "published": "2026-08-09T20:06:09.000Z"
-  },
-  {
-    "id": "f8112317aaf1824774a2ef75b58bc7aab3fe8130",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/344cbc51ac8bb7940c5b144c500a44be83ebb536",
-    "published": "2026-08-09T19:42:37.000Z"
-  },
-  {
-    "id": "81fbd681c32b586cc527f530272b3f3e68ec9bfe",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: A Field Guide to Claude Fable 5 (#2478)",
-    "summary": "Add resource: A Field Guide to Claude Fable 5 (#2478) Category: Start Here Author: Thariq Shihipar, Anthropic From issue: #2477 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/12a3a1522fe8282c29729055ee892c9680e6824b",
-    "published": "2026-08-09T19:42:16.000Z"
-  },
-  {
     "id": "55a29136b2060544744ca2195f01b69baeceaeb7",
     "source": "Riley Brown",
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Learn 99% of ChatGPT Work in 61 Minutes (Codex for Work)",
+    "title": "NEW ChatGPT Work is Insane (Better than Claude Cowork)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/zWL6XGP3Em8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=zWL6XGP3Em8",
@@ -456,18 +480,6 @@
     "published": "2026-07-30T19:41:09.000Z"
   },
   {
-    "id": "8ca00857c6dcd30347651ffca2967df3f800080c",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Loop engineer practice #1: Reddit loop grew 0 to 95 Karma in 7 days",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/xn72yW9SNdA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=xn72yW9SNdA",
-    "published": "2026-07-30T11:07:03.000Z"
-  },
-  {
     "id": "5800aeb2b78e174752aa43c8cfe5e69f3d3470f0",
     "source": "Riley Brown",
     "type": "video",
@@ -646,18 +658,6 @@
     "thumbnail": "https://i.ytimg.com/vi/hLFs9JtMaRg/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=hLFs9JtMaRg",
     "published": "2026-07-24T16:09:30.000Z"
-  },
-  {
-    "id": "7e2fa475b43e395b68d2fbdb88a973d5238c0160",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Firebase Crash Course (Auth & Firestore) #5 - Outputting User Details",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/GCYGoQJv3Fg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=GCYGoQJv3Fg",
-    "published": "2026-07-24T13:23:01.000Z"
   },
   {
     "id": "01df3619cdf60a7b0b4e82bebebf529be82f79fc",
@@ -1188,15 +1188,15 @@
     "published": "2026-05-18T11:42:00.000Z"
   },
   {
-    "id": "7d7b0841e9307efe21f2684c33634982a092ff39",
-    "source": "Code with Andrea",
+    "id": "360b19e9d5e43847d8b589083c6797319754481b",
+    "source": "AI Jason",
     "type": "video",
-    "category": "systems",
+    "category": "ai",
     "lang": "en",
-    "title": "Spec-Driven Development with AI: Building a Real Flutter Feature Step by Step",
+    "title": "Ralph-loop 2.0? The real autonomous coder is coming...",
     "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/2poAKjYGEaI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=2poAKjYGEaI",
-    "published": "2026-05-08T07:49:15.000Z"
+    "thumbnail": "https://i.ytimg.com/vi/rIs802-bXDY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=rIs802-bXDY",
+    "published": "2026-05-09T12:15:09.000Z"
   }
 ]
