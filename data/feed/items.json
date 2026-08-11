@@ -1,5 +1,77 @@
 [
   {
+    "id": "d5f06b0ccfb615ffb49d9c6973ceacb81b7e4a84",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3a965dbf332b02bb3c3993a5158fe53ae22cfd15",
+    "published": "2026-08-11T18:19:03.000Z"
+  },
+  {
+    "id": "16ec32b453a743c12971494345af22e43721d6f6",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Cursor Just Unleashed GrokBot (It’s Insane)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/8Yf9IoXkROM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=8Yf9IoXkROM",
+    "published": "2026-08-11T17:44:11.000Z"
+  },
+  {
+    "id": "6440b1f13f8cde1da7c45a113410c4b81be8b55e",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Software engineering at a proprietary trading company: Optiver",
+    "summary": "A shift from a focus on latency to building better AI models, owning the full stack from applications to building custom hardware, very different incentives to most tech companies in play, and more",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!GFOE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cebf337-7395-47d1-b080-c4145a269eed_1768x594.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/optiver",
+    "published": "2026-08-11T16:17:39.000Z"
+  },
+  {
+    "id": "97f4aa57bfbeb31ad767e775daf5f19468034bd7",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ea1d8ca528da6d07ae075c4c3547a0dfa2c51cda",
+    "published": "2026-08-11T15:22:01.000Z"
+  },
+  {
+    "id": "1f07593d9114780a7127c3fc318ad592e0795c90",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/415f8546680337465d9e479b3b07f922371c6985",
+    "published": "2026-08-11T12:18:16.000Z"
+  },
+  {
+    "id": "3162a2faa4e7291c03552f81fbeaadcc4ba16af4",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e71641896349e46d04698c5e5eee89699a6bbc66",
+    "published": "2026-08-11T09:21:23.000Z"
+  },
+  {
     "id": "36447cac5ab8dfcfaeed1b74e39b9720265d4903",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -77,35 +149,11 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Meta's NEW Muse Code is Here and Major Codex Updates",
+    "title": "Codex Is Winning… But Claude Has One HUGE Advantage",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/piOSL8Ms9mY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=piOSL8Ms9mY",
     "published": "2026-08-10T20:29:40.000Z"
-  },
-  {
-    "id": "abd3c6038314623f658ef3d434010d777977f0b2",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b3bdacbc4f881e29ab56843c4e9cda5abbbc25ad",
-    "published": "2026-08-10T18:18:22.000Z"
-  },
-  {
-    "id": "3ce21042e07b7aa85d54392ee06881129aa418fe",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ccc886dabdb81b2c586d3f696914700123666be6",
-    "published": "2026-08-10T15:22:36.000Z"
   },
   {
     "id": "f5e07aca5c01d2a1073f722b63dc49664468cadb",
@@ -118,30 +166,6 @@
     "thumbnail": "https://i.ytimg.com/vi/iF5IWjOWcA4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=iF5IWjOWcA4",
     "published": "2026-08-10T14:30:52.000Z"
-  },
-  {
-    "id": "db634f126c9b86d54535a16a615482f5ae1ed9d4",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0767a66263e7f76be684117a1ec0eebbace86b4c",
-    "published": "2026-08-10T12:17:53.000Z"
-  },
-  {
-    "id": "6e896446a6834419a3f0df3419b53de7a62c4ecf",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1349c2a369b8720a2c73ede852f15d65b91eb83d",
-    "published": "2026-08-10T09:33:07.000Z"
   },
   {
     "id": "14f1fc809dd9ad4391604729dc570450e347ee83",
@@ -161,7 +185,7 @@
     "type": "blog",
     "category": "ai",
     "lang": "en",
-    "title": "Quoting OpenClaw",
+    "title": "Quoting OpenClaw (running Opus 4.6)",
     "summary": "The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through. So you've moved from #4 to #3...",
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
@@ -660,18 +684,6 @@
     "published": "2026-07-25T20:28:01.000Z"
   },
   {
-    "id": "0e753f0f02f89efe873d05e217ad1af3943007ef",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "OpenAI just released Codex Voice (It's basically Jarvis)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/hLFs9JtMaRg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=hLFs9JtMaRg",
-    "published": "2026-07-24T16:09:30.000Z"
-  },
-  {
     "id": "01df3619cdf60a7b0b4e82bebebf529be82f79fc",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -802,18 +814,6 @@
     "thumbnail": "https://i.ytimg.com/vi/JQ_We_ztxrI/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=JQ_We_ztxrI",
     "published": "2026-07-13T11:35:57.000Z"
-  },
-  {
-    "id": "2acbe8a7bbf788fa70b9a8241a14b3ea99796aef",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?",
-    "summary": "A rewrite done in 11 days that would have taken a small team a year to complete, for $165K in tokens. Also: coding LLM “wars” heat up, AI fakers from North Korea still a problem when hiring, and more",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Fvua!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56c0030d-bd49-45fb-b641-23017f5aa6af_1656x1200.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from",
-    "published": "2026-07-09T16:32:18.000Z"
   },
   {
     "id": "45a096207eea7d4aba64bcb4b9fccc24dd514346",
