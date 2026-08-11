@@ -1,5 +1,89 @@
 [
   {
+    "id": "36447cac5ab8dfcfaeed1b74e39b9720265d4903",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b45279417f51010b9b5bd8db7aa8fb10ec255806",
+    "published": "2026-08-11T06:20:14.000Z"
+  },
+  {
+    "id": "8db30b5e91e1f45f5756c2257187256106423e1c",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise",
+    "summary": "a small win for american open models - Glimmer runs on a fits on a single RTX 3090!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!k-nI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHPWkSuDbkAExHc7.png",
+    "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
+    "published": "2026-08-11T05:16:41.000Z"
+  },
+  {
+    "id": "78f6fb4365e2e8f9fede5512fba9ecd0f51591dc",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0cc62387262b3d46bea2beb52c39296a5db9d901",
+    "published": "2026-08-11T03:33:32.000Z"
+  },
+  {
+    "id": "db14508956e8fa336d1ccff71c5d92143ed426d5",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bd1f6a6eb77d16cebf269b6ef5e88c5266d1ec06",
+    "published": "2026-08-11T00:18:30.000Z"
+  },
+  {
+    "id": "8aaf1cb28862e975c88d2dc652833f639ab3be89",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Introducing Muse Glimmer",
+    "summary": "Introducing Muse Glimmer Meta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama licenses of old). They claim to...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
+    "published": "2026-08-10T23:56:03.000Z"
+  },
+  {
+    "id": "76b6651d299616a4101a1f9240bfaf181a8db174",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6ab6be3456a7326452a0ea6d4f14cf57fe5d681a",
+    "published": "2026-08-10T21:16:36.000Z"
+  },
+  {
+    "id": "e2d1cb80fe05c45b36d384bb2e19ffcbdb1828e0",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Meta's NEW Muse Code is Here and Major Codex Updates",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/piOSL8Ms9mY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=piOSL8Ms9mY",
+    "published": "2026-08-10T20:29:40.000Z"
+  },
+  {
     "id": "abd3c6038314623f658ef3d434010d777977f0b2",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -29,7 +113,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Dispatches from Iceland",
+    "title": "How Icelanders are thinking about AI",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/iF5IWjOWcA4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=iF5IWjOWcA4",
@@ -72,30 +156,6 @@
     "published": "2026-08-10T07:44:14.000Z"
   },
   {
-    "id": "7a5467cc3544f89c52e44ba11d649a93dd00a7d3",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/53ed3f6120993f532f40dfa72dca571e5d3d3c6a",
-    "published": "2026-08-10T06:30:24.000Z"
-  },
-  {
-    "id": "b0c776445d50a8cc3c698fa9dc718e5e31f05edb",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/166b9ba667e406c23b398f51eee26b1d2226d855",
-    "published": "2026-08-10T03:35:44.000Z"
-  },
-  {
     "id": "c1b15acb01934c30a7d2e3bc84e75ae1cd84afe8",
     "source": "Simon Willison",
     "type": "blog",
@@ -106,18 +166,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
     "published": "2026-08-10T02:05:16.000Z"
-  },
-  {
-    "id": "426d399d374a8e299f16989033ecdc46ce80b478",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/48848b1fc58110ae2541f79c5e60e388e7b496ff",
-    "published": "2026-08-10T00:19:11.000Z"
   },
   {
     "id": "b9793ca1b93b04de904f7f35883f94c4cd4902ad",
@@ -156,24 +204,12 @@
     "published": "2026-08-09T22:05:00.000Z"
   },
   {
-    "id": "2093aa4da99a0ca0a8703e33a1a44cbdb27af05a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0d5f216c21f1855348154eaec21e836858c1ae71",
-    "published": "2026-08-09T21:09:34.000Z"
-  },
-  {
     "id": "55a29136b2060544744ca2195f01b69baeceaeb7",
     "source": "Riley Brown",
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "NEW ChatGPT Work is Insane (Better than Claude Cowork)",
+    "title": "14 Insane Things NEW ChatGPT Work Can Do (Automate Anything)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/zWL6XGP3Em8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=zWL6XGP3Em8",
@@ -226,18 +262,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything",
     "published": "2026-08-08T00:10:40.000Z"
-  },
-  {
-    "id": "0aaa4cc9a36be3b53c3b60c44728353bf699ddd8",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-    "summary": "OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about \"the Hugging Face Incident\" (previously on this blog). The video was published yesterday. It's short and...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
-    "published": "2026-08-07T23:55:58.000Z"
   },
   {
     "id": "2fea13078482837a39f8b4e707539057f397f167",
@@ -430,18 +454,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/253470234?s=30&amp;v=4",
     "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/1ee742c7a7a89ae88df262b37adda8d40eb17062",
     "published": "2026-08-03T02:28:02.000Z"
-  },
-  {
-    "id": "13d64ee8a893e85623f36cfb67a526ec8b3eb62f",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] not much happened today",
-    "summary": "apart from DeepSeek V4-Flash 0731, a quiet day.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!1adH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOiugSLbQAAck-3.jpg",
-    "url": "https://www.latent.space/p/ainews-not-much-happened-today-038",
-    "published": "2026-08-01T01:38:09.000Z"
   },
   {
     "id": "e43f459edaffee083e69a9298e8ca65b94e3dfde",
@@ -682,18 +694,6 @@
     "thumbnail": "https://i.ytimg.com/vi/HrDcpJV_JKc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=HrDcpJV_JKc",
     "published": "2026-07-22T16:20:58.000Z"
-  },
-  {
-    "id": "e60744a35cd22640e50c2d558ba67ff3eb0a34d8",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Codex Basically Runs My Company Now. Here’s How.",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/gOx37on-iA8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=gOx37on-iA8",
-    "published": "2026-07-21T22:27:56.000Z"
   },
   {
     "id": "0d3944e966fea04a89c46d6cc3bbf9fa3bf94414",
