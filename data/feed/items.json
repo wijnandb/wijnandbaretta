@@ -1,5 +1,113 @@
 [
   {
+    "id": "27a641e4d1b93c1480e4d2db53896268de9943d6",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] How to steal a Reasoning Trace",
+    "summary": "Speculative Decoding by any other name would distil as sweet",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!nQZJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHPcJLMtagAAx07t.jpg",
+    "url": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
+    "published": "2026-08-12T07:11:08.000Z"
+  },
+  {
+    "id": "040568c42857140f4da912b7feb2bc18ba38a33f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/835ac90b59f0eeaf4eb260babe391db3e42cfa1b",
+    "published": "2026-08-12T06:31:13.000Z"
+  },
+  {
+    "id": "3f08a9fdce2422fa94e5826fac4022afa815110c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/947b70c0f2b8d0cd5635cc4ce0f85f0d5bd06a15",
+    "published": "2026-08-12T03:45:02.000Z"
+  },
+  {
+    "id": "5eac844fc7ccc875612388d60350ecac5293f367",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a6e6c5253e81fd57cb2ec9ad50e24b23c97d6fc7",
+    "published": "2026-08-12T00:22:37.000Z"
+  },
+  {
+    "id": "d3d55184704f7664b2d648dd8affa094ce216821",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "There are no lossless transformations of natural-language text",
+    "summary": "There are no lossless transformations of natural-language text Sophie Alpert shares her \"internal policy on acceptable use of AI writing by engineers\". It's a short read (supporting its own...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything",
+    "published": "2026-08-11T23:48:35.000Z"
+  },
+  {
+    "id": "a2a745e3e9bd59580c79914c95586b658c979fd7",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "summary": "Stealing Reasoning Traces from Proprietary LLM APIs A vanity domain name (stolen-thoughts.com) for a neat paper: Anthropic, OpenAI, and Google return encrypted chain-of-thought blocks to clients that...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
+    "published": "2026-08-11T22:40:45.000Z"
+  },
+  {
+    "id": "3a54b4d3f300bf30dc75a1fc28c23ffa7d825c52",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2398368c7fa7e827dc7b26a9f2d37196b6bdd47e",
+    "published": "2026-08-11T21:17:44.000Z"
+  },
+  {
+    "id": "11fc41f45a951e9c75e57146b637ac44be9845fe",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "🔬The BioAI Phase Shift - Matthew McPartlon & Neil Patil, Chai Discovery",
+    "summary": "Pharma is suddenly paying for Bio × AI tools, and Chai is leading the pack with four deals closed this summer. Cofounder Matt McPartlon and Product leader Neil Patil explain why.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!7KZy!,w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3b182f3-d304-4e48-82bd-cc0079231a37_2400x2934.png",
+    "url": "https://www.latent.space/p/chai-discovery",
+    "published": "2026-08-11T21:03:50.000Z"
+  },
+  {
+    "id": "fdcf93c06f85412374c6b950ffae27eb319de0ca",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette-upload-dbs 0.5a0",
+    "summary": "Release: datasette-upload-dbs 0.5a0 This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point that database will start...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything",
+    "published": "2026-08-11T20:35:13.000Z"
+  },
+  {
     "id": "d5f06b0ccfb615ffb49d9c6973ceacb81b7e4a84",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -72,18 +180,6 @@
     "published": "2026-08-11T09:21:23.000Z"
   },
   {
-    "id": "36447cac5ab8dfcfaeed1b74e39b9720265d4903",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b45279417f51010b9b5bd8db7aa8fb10ec255806",
-    "published": "2026-08-11T06:20:14.000Z"
-  },
-  {
     "id": "8db30b5e91e1f45f5756c2257187256106423e1c",
     "source": "Latent Space",
     "type": "podcast",
@@ -96,30 +192,6 @@
     "published": "2026-08-11T05:16:41.000Z"
   },
   {
-    "id": "78f6fb4365e2e8f9fede5512fba9ecd0f51591dc",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0cc62387262b3d46bea2beb52c39296a5db9d901",
-    "published": "2026-08-11T03:33:32.000Z"
-  },
-  {
-    "id": "db14508956e8fa336d1ccff71c5d92143ed426d5",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bd1f6a6eb77d16cebf269b6ef5e88c5266d1ec06",
-    "published": "2026-08-11T00:18:30.000Z"
-  },
-  {
     "id": "8aaf1cb28862e975c88d2dc652833f639ab3be89",
     "source": "Simon Willison",
     "type": "blog",
@@ -130,18 +202,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
     "published": "2026-08-10T23:56:03.000Z"
-  },
-  {
-    "id": "76b6651d299616a4101a1f9240bfaf181a8db174",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6ab6be3456a7326452a0ea6d4f14cf57fe5d681a",
-    "published": "2026-08-10T21:16:36.000Z"
   },
   {
     "id": "e2d1cb80fe05c45b36d384bb2e19ffcbdb1828e0",
@@ -240,30 +300,6 @@
     "published": "2026-08-09T15:00:22.000Z"
   },
   {
-    "id": "f43ad033701ae4875c1ebfdb0e1a859fc9a59dfa",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-    "summary": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans Anthropic are really confident in Claude Code's auto mode, to the point that they are making it the default setting for new...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
-    "published": "2026-08-08T22:36:03.000Z"
-  },
-  {
-    "id": "79c1666962a93b8a15c56e4f705bd5cf18622956",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-    "summary": "My comment on Now we have a timeline of the OpenAI accidental attack against Hugging Face &mdash; Hacker News.I think one of the most interesting details here might be tucked away in that first...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
-    "published": "2026-08-08T14:06:41.000Z"
-  },
-  {
     "id": "0430b727e0cf2ee5638ff9c9220fcd0f0dc851e9",
     "source": "Latent Space",
     "type": "podcast",
@@ -274,18 +310,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!CnI3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0c1de0a-be73-4969-9bbd-d3b178bf2ea2_2349x988.png",
     "url": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
     "published": "2026-08-08T01:12:07.000Z"
-  },
-  {
-    "id": "bdef73cd55eeb5b3821fba4b00f11d421e1aaa16",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting John Gruber",
-    "summary": "Me, I try to get into the mindset of playing live music, not recording a studio album. Except when I’m writing a piece where I really want it to be an album. Those aren’t rare, per se, but they’re...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything",
-    "published": "2026-08-08T00:10:40.000Z"
   },
   {
     "id": "2fea13078482837a39f8b4e707539057f397f167",
@@ -430,30 +454,6 @@
     "thumbnail": "https://i.ytimg.com/vi/8b81f0ylDdE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=8b81f0ylDdE",
     "published": "2026-08-04T08:00:12.000Z"
-  },
-  {
-    "id": "228546f1ca612c160eb4d7e6436017e7c134f772",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
-    "summary": "Qwen is so back!",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!W0RB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOw1F2ebgAAkpJJ.jpg",
-    "url": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
-    "published": "2026-08-04T03:49:14.000Z"
-  },
-  {
-    "id": "a8f46de4b51b9c37ca89ffcad0719e62d73a08c4",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "The Inference Engineering Masterclass — Philip Kiely & Ali Taha, Baseten",
-    "summary": "Baseten just raised a $13B Series F and is now one of the leading kings of inference engineering. We go into everything you need to know for autoregressive and diffusion engineering.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!-hTR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb397c5e-f16a-43cb-bcdf-9b6dd9897d48_1536x2048.jpeg",
-    "url": "https://www.latent.space/p/inference-eng",
-    "published": "2026-08-03T21:44:03.000Z"
   },
   {
     "id": "aae882e180ed82d11a422bf5bed2c6e2eb3d35f4",
