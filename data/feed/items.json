@@ -1,5 +1,77 @@
 [
   {
+    "id": "dcbaebdf3433322c56a60029099e0704b5990c67",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b8f66f8f2f8446cc979829bcd1605c04805ccfdc",
+    "published": "2026-08-12T18:19:10.000Z"
+  },
+  {
+    "id": "05730340cf30fb078fb6a1c850d20e462406659e",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Stop being skeptical about AI for development with Charity Majors",
+    "summary": "In 2025, it was rational to be skeptical about AI. In 2026, it's not, anymore. With Charity Majors, CTO and co-founder of Honeycomb.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!TArv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bda57d7-998f-464d-bb13-7b961d6b3598_1600x140.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/stop-being-skeptical-about-ai-for",
+    "published": "2026-08-12T16:45:07.000Z"
+  },
+  {
+    "id": "64c938b9170ffd336af7ee15d211a907eb9dfa55",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/572c94a19c46f95685bc5bbbf9cb253512d32a4f",
+    "published": "2026-08-12T15:21:33.000Z"
+  },
+  {
+    "id": "cd20ea4fd093d5bc295bc7838cd5c63560d4e4cb",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Florian Herrengt",
+    "summary": "But then users start to report a weird bug. It's the 4th time your team has been trying to fix it. I mean... asking AI to fix it. Unfortunately, it seems like not even Fable can figure it out. You go...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/#atom-everything",
+    "published": "2026-08-12T15:08:47.000Z"
+  },
+  {
+    "id": "38c8615be2ce20758d080f9319b3597a2b34f2a8",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bc20c1f282c36c8727ef10ef43cefa6fb51bd5eb",
+    "published": "2026-08-12T12:18:59.000Z"
+  },
+  {
+    "id": "2217a49b4ed0eb05a32e8ef257e07a16986035fa",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2c335be83b4e253d107cbe7b335737f1e76959fe",
+    "published": "2026-08-12T09:26:50.000Z"
+  },
+  {
     "id": "27a641e4d1b93c1480e4d2db53896268de9943d6",
     "source": "Latent Space",
     "type": "podcast",
@@ -108,18 +180,6 @@
     "published": "2026-08-11T20:35:13.000Z"
   },
   {
-    "id": "d5f06b0ccfb615ffb49d9c6973ceacb81b7e4a84",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3a965dbf332b02bb3c3993a5158fe53ae22cfd15",
-    "published": "2026-08-11T18:19:03.000Z"
-  },
-  {
     "id": "16ec32b453a743c12971494345af22e43721d6f6",
     "source": "Riley Brown",
     "type": "video",
@@ -142,42 +202,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!GFOE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cebf337-7395-47d1-b080-c4145a269eed_1768x594.png",
     "url": "https://newsletter.pragmaticengineer.com/p/optiver",
     "published": "2026-08-11T16:17:39.000Z"
-  },
-  {
-    "id": "97f4aa57bfbeb31ad767e775daf5f19468034bd7",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ea1d8ca528da6d07ae075c4c3547a0dfa2c51cda",
-    "published": "2026-08-11T15:22:01.000Z"
-  },
-  {
-    "id": "1f07593d9114780a7127c3fc318ad592e0795c90",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/415f8546680337465d9e479b3b07f922371c6985",
-    "published": "2026-08-11T12:18:16.000Z"
-  },
-  {
-    "id": "3162a2faa4e7291c03552f81fbeaadcc4ba16af4",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e71641896349e46d04698c5e5eee89699a6bbc66",
-    "published": "2026-08-11T09:21:23.000Z"
   },
   {
     "id": "8db30b5e91e1f45f5756c2257187256106423e1c",
@@ -209,7 +233,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Codex Is Winning… But Claude Has One HUGE Advantage",
+    "title": "Codex Is Winning… So Why Am I Still Paying for Claude?",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/piOSL8Ms9mY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=piOSL8Ms9mY",
@@ -274,18 +298,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
     "published": "2026-08-09T22:48:05.000Z"
-  },
-  {
-    "id": "f404485becb33fdbf64d13d7bcf26025ba0b112a",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "SQLite compressed text-history prototypes",
-    "summary": "Research: SQLite compressed text-history prototypes I'm perennially interested in options for storing revision histories in relational databases. While out on a dog walk I had a new idea: how about...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
-    "published": "2026-08-09T22:05:00.000Z"
   },
   {
     "id": "55a29136b2060544744ca2195f01b69baeceaeb7",
@@ -766,18 +778,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!HVBB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a9e89e3-866b-4248-91a9-e6461be25cd8_1497x131.png",
     "url": "https://newsletter.pragmaticengineer.com/p/context-engineering-with-dex-horthy",
     "published": "2026-07-15T16:08:59.000Z"
-  },
-  {
-    "id": "17b10d10d281c33edfb340673cd6f4c3865fb94c",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "What is “loop engineering?”",
-    "summary": "There’s talk about loop engineering, but what is it exactly? I looked into it, and found triggers, cron jobs, AI slop & more. Is it a “here today, gone tomorrow” trend?",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!CaGY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d4f687c-ee1a-4bb9-89fe-148a7f8d07ca_2048x984.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/what-is-loop-engineering",
-    "published": "2026-07-14T17:01:57.000Z"
   },
   {
     "id": "3b8b0400ac0f60807e2a17381257772b4178fc60",
