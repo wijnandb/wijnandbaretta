@@ -1,6 +1,30 @@
 [
   {
-    "id": "dcbaebdf3433322c56a60029099e0704b5990c67",
+    "id": "e175efcf9eda6c8f85db6ac3b3cd66b8daf6aa38",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fdc63ce220b1e795c37ab6f05f1bf0149bf4f0bd",
+    "published": "2026-08-13T07:13:58.000Z"
+  },
+  {
+    "id": "aeaf312fe92cdc276226b80cc195ab43190f966f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: SuperSEO Skills (#2509)",
+    "summary": "Add resource: SuperSEO Skills (#2509) Category: Skills Author: sanderbz From issue: #1644 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e352687cb52ee47279da373e427b5fa5dbf684a7",
+    "published": "2026-08-13T07:13:40.000Z"
+  },
+  {
+    "id": "4eb505edaff7bf70703fbe58dff212694c0f6642",
     "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
@@ -8,8 +32,104 @@
     "title": "chore: update repo ticker data and SVGs [skip ci]",
     "summary": "chore: update repo ticker data and SVGs [skip ci]",
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b8f66f8f2f8446cc979829bcd1605c04805ccfdc",
-    "published": "2026-08-12T18:19:10.000Z"
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4d8c822ba5ba0a707624af26f5f55a16a598e319",
+    "published": "2026-08-13T06:32:26.000Z"
+  },
+  {
+    "id": "bd76df3fc52e7a516f32c3f53876c1a63a90e3f5",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9054918990bdd368d011c6ce09c381e92f35815d",
+    "published": "2026-08-13T03:47:43.000Z"
+  },
+  {
+    "id": "0fefd2a4343a10e63b7c3151c03dc98bf86c6cf2",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6c216d8991d21db441ee3fed9368796cf6d9987c",
+    "published": "2026-08-13T02:09:57.000Z"
+  },
+  {
+    "id": "93eeee85cb6cfb8f95021918d142870eb9fc6208",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: Diagram Design (#2505)",
+    "summary": "Add resource: Diagram Design (#2505) Category: Design & UI/UX Author: Cathryn Lavery From issue: #2504 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/31cf6c751da5d9af6e3604e4be2d6b2915cf3852",
+    "published": "2026-08-13T02:09:37.000Z"
+  },
+  {
+    "id": "814632afac7368feeee8d9d92bea1b1455a401e9",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] SpaceXAI Grok 4.6 and Grok @Bot",
+    "summary": "AI teammate category just had its most significant new entrant yet",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!HIbH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2087221157787525120.jpg",
+    "url": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
+    "published": "2026-08-13T01:53:47.000Z"
+  },
+  {
+    "id": "228c861542f3c2c3bbbe78b6725a2138162c547b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6da61eeca4f57c2cae0396411e5b55b0da68ae47",
+    "published": "2026-08-13T00:23:33.000Z"
+  },
+  {
+    "id": "04d62565190e878d6eff91bcd058432da0346395",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
+    "summary": "DeepSeek V4 Pro 0813 (on OpenRouter) The latest DeepSeek Pro model is now available, via API only. I had to link to OpenRouter because DeepSeek don't have any obvious announcement page for their new...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
+    "published": "2026-08-12T23:59:23.000Z"
+  },
+  {
+    "id": "ff82b1884f6bad1cc9ce546a559232430cbd1ab9",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2e0347ede6914ea17242559884228e99a3e55ccc",
+    "published": "2026-08-12T21:16:49.000Z"
+  },
+  {
+    "id": "96d1d535cf9d161f8cb06d104523297d9d2e6e79",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "alchemy-utils 0.1a0",
+    "summary": "Release: alchemy-utils 0.1a0 I've long pondered what a database agnostic version of my sqlite-utils Python library and CLI utility might look like. This morning (literally a shower project) I tasked...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/12/alchemy-utils/",
+    "published": "2026-08-12T19:51:30.000Z"
   },
   {
     "id": "05730340cf30fb078fb6a1c850d20e462406659e",
@@ -24,19 +144,7 @@
     "published": "2026-08-12T16:45:07.000Z"
   },
   {
-    "id": "64c938b9170ffd336af7ee15d211a907eb9dfa55",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/572c94a19c46f95685bc5bbbf9cb253512d32a4f",
-    "published": "2026-08-12T15:21:33.000Z"
-  },
-  {
-    "id": "cd20ea4fd093d5bc295bc7838cd5c63560d4e4cb",
+    "id": "4ed9ef2ed7b78a067fdb560894824b0d4a4a121f",
     "source": "Simon Willison",
     "type": "blog",
     "category": "ai",
@@ -44,32 +152,8 @@
     "title": "Quoting Florian Herrengt",
     "summary": "But then users start to report a weird bug. It's the 4th time your team has been trying to fix it. I mean... asking AI to fix it. Unfortunately, it seems like not even Fable can figure it out. You go...",
     "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/#atom-everything",
+    "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/",
     "published": "2026-08-12T15:08:47.000Z"
-  },
-  {
-    "id": "38c8615be2ce20758d080f9319b3597a2b34f2a8",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bc20c1f282c36c8727ef10ef43cefa6fb51bd5eb",
-    "published": "2026-08-12T12:18:59.000Z"
-  },
-  {
-    "id": "2217a49b4ed0eb05a32e8ef257e07a16986035fa",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2c335be83b4e253d107cbe7b335737f1e76959fe",
-    "published": "2026-08-12T09:26:50.000Z"
   },
   {
     "id": "27a641e4d1b93c1480e4d2db53896268de9943d6",
@@ -84,43 +168,7 @@
     "published": "2026-08-12T07:11:08.000Z"
   },
   {
-    "id": "040568c42857140f4da912b7feb2bc18ba38a33f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/835ac90b59f0eeaf4eb260babe391db3e42cfa1b",
-    "published": "2026-08-12T06:31:13.000Z"
-  },
-  {
-    "id": "3f08a9fdce2422fa94e5826fac4022afa815110c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/947b70c0f2b8d0cd5635cc4ce0f85f0d5bd06a15",
-    "published": "2026-08-12T03:45:02.000Z"
-  },
-  {
-    "id": "5eac844fc7ccc875612388d60350ecac5293f367",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a6e6c5253e81fd57cb2ec9ad50e24b23c97d6fc7",
-    "published": "2026-08-12T00:22:37.000Z"
-  },
-  {
-    "id": "d3d55184704f7664b2d648dd8affa094ce216821",
+    "id": "56be583fe5c24ff1d73f5ca99dad98daa7001eeb",
     "source": "Simon Willison",
     "type": "blog",
     "category": "ai",
@@ -128,11 +176,11 @@
     "title": "There are no lossless transformations of natural-language text",
     "summary": "There are no lossless transformations of natural-language text Sophie Alpert shares her \"internal policy on acceptable use of AI writing by engineers\". It's a short read (supporting its own...",
     "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything",
+    "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/",
     "published": "2026-08-11T23:48:35.000Z"
   },
   {
-    "id": "a2a745e3e9bd59580c79914c95586b658c979fd7",
+    "id": "5121059c9365ab44486e6737d255ba357d670540",
     "source": "Simon Willison",
     "type": "blog",
     "category": "ai",
@@ -140,20 +188,8 @@
     "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
     "summary": "Stealing Reasoning Traces from Proprietary LLM APIs A vanity domain name (stolen-thoughts.com) for a neat paper: Anthropic, OpenAI, and Google return encrypted chain-of-thought blocks to clients that...",
     "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
+    "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
     "published": "2026-08-11T22:40:45.000Z"
-  },
-  {
-    "id": "3a54b4d3f300bf30dc75a1fc28c23ffa7d825c52",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2398368c7fa7e827dc7b26a9f2d37196b6bdd47e",
-    "published": "2026-08-11T21:17:44.000Z"
   },
   {
     "id": "11fc41f45a951e9c75e57146b637ac44be9845fe",
@@ -168,7 +204,7 @@
     "published": "2026-08-11T21:03:50.000Z"
   },
   {
-    "id": "fdcf93c06f85412374c6b950ffae27eb319de0ca",
+    "id": "e163f4189a41176a00d1b148dc7efc0ee05f6c0b",
     "source": "Simon Willison",
     "type": "blog",
     "category": "ai",
@@ -176,7 +212,7 @@
     "title": "datasette-upload-dbs 0.5a0",
     "summary": "Release: datasette-upload-dbs 0.5a0 This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point that database will start...",
     "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything",
+    "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/",
     "published": "2026-08-11T20:35:13.000Z"
   },
   {
@@ -216,7 +252,7 @@
     "published": "2026-08-11T05:16:41.000Z"
   },
   {
-    "id": "8aaf1cb28862e975c88d2dc652833f639ab3be89",
+    "id": "e89d110517eaf9b44d69e56b3d10d20579c02831",
     "source": "Simon Willison",
     "type": "blog",
     "category": "ai",
@@ -224,7 +260,7 @@
     "title": "Introducing Muse Glimmer",
     "summary": "Introducing Muse Glimmer Meta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama licenses of old). They claim to...",
     "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
+    "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/",
     "published": "2026-08-10T23:56:03.000Z"
   },
   {
@@ -264,7 +300,7 @@
     "published": "2026-08-10T07:44:14.000Z"
   },
   {
-    "id": "c1b15acb01934c30a7d2e3bc84e75ae1cd84afe8",
+    "id": "c1e5494a54275b4482364590a74386d907bfd7d7",
     "source": "Simon Willison",
     "type": "blog",
     "category": "ai",
@@ -272,32 +308,8 @@
     "title": "Quoting OpenClaw (running Opus 4.6)",
     "summary": "The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through. So you've moved from #4 to #3...",
     "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
+    "url": "https://simonwillison.net/2026/Aug/10/openclaw/",
     "published": "2026-08-10T02:05:16.000Z"
-  },
-  {
-    "id": "b9793ca1b93b04de904f7f35883f94c4cd4902ad",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Claude Opus 5 system prompt",
-    "summary": "Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
-    "published": "2026-08-09T23:31:39.000Z"
-  },
-  {
-    "id": "1aa79843a7521bc99365e8deedcb9001ca2ab724",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "GitHub Models is now retired",
-    "summary": "GitHub Models is now retired I missed this news until today, when the GitHub Actions run for my simonw/research repository failed with this error message: GitHub Models is temporarily unavailable as...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
-    "published": "2026-08-09T22:48:05.000Z"
   },
   {
     "id": "55a29136b2060544744ca2195f01b69baeceaeb7",
@@ -418,18 +430,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!Gpou!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHNw6xyYaUAA_BVO.jpg",
     "url": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
     "published": "2026-08-05T01:21:47.000Z"
-  },
-  {
-    "id": "9ca725e460292febef5511ee19bb9c6bb2427836",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Unpacking ChatGPT Work: the Agent for a Billion Users",
-    "summary": "An external reconstruction of how Memory, Proactivity, Scheduling, Browser Use, Plugins, Skills and Tools work in the new ChatGPT Work.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Lavj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f4e59a2-820f-4225-abfd-6720ef85df8e_1315x1196.png",
-    "url": "https://www.latent.space/p/unpacking-chatgpt-work",
-    "published": "2026-08-04T18:20:14.000Z"
   },
   {
     "id": "870e6320ab958ed8288df63686755715d92e8ff5",
