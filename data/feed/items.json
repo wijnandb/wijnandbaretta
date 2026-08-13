@@ -1,5 +1,65 @@
 [
   {
+    "id": "0e8c41122ea744e3abbf2cf068723c894a4967f8",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0f19dec01bc26fccd8705a664cfb86ae8570e932",
+    "published": "2026-08-13T18:19:22.000Z"
+  },
+  {
+    "id": "b628076ad0168a3331b8a2e86179d687886ceaf9",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Deterministic Procedures in ElevenAgents",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/PNVq0l7Uhxs/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=PNVq0l7Uhxs",
+    "published": "2026-08-13T16:26:20.000Z"
+  },
+  {
+    "id": "7e82497cb039d97eab367836f9571aa66dad134a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c28455aef15bba03cfda9bc376ca4451146096f7",
+    "published": "2026-08-13T15:21:53.000Z"
+  },
+  {
+    "id": "5b4d417a183fd892164a368db00d005337ae2d8f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c5ee5b2045b8e6b692fe06d79be3f8ffa715d240",
+    "published": "2026-08-13T12:18:57.000Z"
+  },
+  {
+    "id": "4bf39366de66faa0cf8e3289a983863bf08d8354",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c408d9b1a0800a1f97fe8be8f601cc10f0a64e3c",
+    "published": "2026-08-13T09:27:03.000Z"
+  },
+  {
     "id": "e175efcf9eda6c8f85db6ac3b3cd66b8daf6aa38",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -48,30 +108,6 @@
     "published": "2026-08-13T03:47:43.000Z"
   },
   {
-    "id": "0fefd2a4343a10e63b7c3151c03dc98bf86c6cf2",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6c216d8991d21db441ee3fed9368796cf6d9987c",
-    "published": "2026-08-13T02:09:57.000Z"
-  },
-  {
-    "id": "93eeee85cb6cfb8f95021918d142870eb9fc6208",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: Diagram Design (#2505)",
-    "summary": "Add resource: Diagram Design (#2505) Category: Design & UI/UX Author: Cathryn Lavery From issue: #2504 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/31cf6c751da5d9af6e3604e4be2d6b2915cf3852",
-    "published": "2026-08-13T02:09:37.000Z"
-  },
-  {
     "id": "814632afac7368feeee8d9d92bea1b1455a401e9",
     "source": "Latent Space",
     "type": "podcast",
@@ -84,18 +120,6 @@
     "published": "2026-08-13T01:53:47.000Z"
   },
   {
-    "id": "228c861542f3c2c3bbbe78b6725a2138162c547b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6da61eeca4f57c2cae0396411e5b55b0da68ae47",
-    "published": "2026-08-13T00:23:33.000Z"
-  },
-  {
     "id": "04d62565190e878d6eff91bcd058432da0346395",
     "source": "Simon Willison",
     "type": "blog",
@@ -106,18 +130,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
     "published": "2026-08-12T23:59:23.000Z"
-  },
-  {
-    "id": "ff82b1884f6bad1cc9ce546a559232430cbd1ab9",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2e0347ede6914ea17242559884228e99a3e55ccc",
-    "published": "2026-08-12T21:16:49.000Z"
   },
   {
     "id": "96d1d535cf9d161f8cb06d104523297d9d2e6e79",
@@ -1042,18 +1054,6 @@
     "thumbnail": "https://i.ytimg.com/vi/W6x-hb44C0c/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=W6x-hb44C0c",
     "published": "2026-06-18T14:04:35.000Z"
-  },
-  {
-    "id": "5df1778cf49cfadf4fc44d92dbfbff741f045019",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Introducing Music v2 API",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/CrRQLy4DMw8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=CrRQLy4DMw8",
-    "published": "2026-06-15T17:18:48.000Z"
   },
   {
     "id": "b7160109cd59448f790742c411e9dddb268553cb",
