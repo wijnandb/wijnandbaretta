@@ -1,5 +1,101 @@
 [
   {
+    "id": "c4d45ad1c703258cee07c1515c1b9b9eb8fb542e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/09cb02b756d5f86ba7c971b9516ed18e827491a4",
+    "published": "2026-08-14T06:31:11.000Z"
+  },
+  {
+    "id": "086ace1c21ab97dd34dfba75185503a22a00ee10",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront",
+    "summary": "Down, but not out!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!dQiQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d28d24c-21c5-4e67-a9e6-00b50421ddfe_2112x1214.png",
+    "url": "https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm",
+    "published": "2026-08-14T05:30:39.000Z"
+  },
+  {
+    "id": "78ff6b55457ba4616d4ff7007280446594c749d6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/50aa321cfe667363c03b53d7bae856c18a28df2c",
+    "published": "2026-08-14T03:46:02.000Z"
+  },
+  {
+    "id": "9c2e1d8ba5686beb88afd58a6e24fecdd9d15c18",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f5c75dca3149b189873186c0289435d1dd05e705",
+    "published": "2026-08-14T00:24:00.000Z"
+  },
+  {
+    "id": "3a85f23ac32bfa8229273789467a93d764a41bb1",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "sqlite-utils 4.2.1",
+    "summary": "Release: sqlite-utils 4.2.1 Fixes a crashing bug in sqlite-utils 4.2. I'd introduced code that looks like this: from typing_extensions import Self It turned out the typing-extensions package was not...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
+    "published": "2026-08-13T23:53:47.000Z"
+  },
+  {
+    "id": "4bb5538599615dcee1a86a0d05fd287b7d6f0715",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fbc26a965aaea8e2730ca07e12d3050bbd224a9b",
+    "published": "2026-08-13T21:17:24.000Z"
+  },
+  {
+    "id": "9ae5cf1d718fd9b3ad5bb369007143b385c6b224",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "sqlite-utils 4.2",
+    "summary": "Release: sqlite-utils 4.2 Lots of improvements in this one relating to the table.transform() feature, which adds support for complex alter table operations by creating a fresh table, copying across...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
+    "published": "2026-08-13T20:11:29.000Z"
+  },
+  {
+    "id": "6d7f7c3a0398b0a888b517367e968b9b595c45c4",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "llm-gemini 0.33",
+    "summary": "Release: llm-gemini 0.33 It's been a while since the last llm-gemini release. This version of the plugin adds support for today's Gemini 3.7 Flash release, plus gemini-3.6-flash,...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
+    "published": "2026-08-13T19:37:34.000Z"
+  },
+  {
     "id": "0e8c41122ea744e3abbf2cf068723c894a4967f8",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -60,52 +156,16 @@
     "published": "2026-08-13T09:27:03.000Z"
   },
   {
-    "id": "e175efcf9eda6c8f85db6ac3b3cd66b8daf6aa38",
-    "source": "awesome-claude-code",
-    "type": "repo",
+    "id": "1294320a3f2b4836d34f6cffb259a8b9d9b0f971",
+    "source": "Simon Willison",
+    "type": "blog",
     "category": "ai",
     "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fdc63ce220b1e795c37ab6f05f1bf0149bf4f0bd",
-    "published": "2026-08-13T07:13:58.000Z"
-  },
-  {
-    "id": "aeaf312fe92cdc276226b80cc195ab43190f966f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: SuperSEO Skills (#2509)",
-    "summary": "Add resource: SuperSEO Skills (#2509) Category: Skills Author: sanderbz From issue: #1644 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e352687cb52ee47279da373e427b5fa5dbf684a7",
-    "published": "2026-08-13T07:13:40.000Z"
-  },
-  {
-    "id": "4eb505edaff7bf70703fbe58dff212694c0f6642",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4d8c822ba5ba0a707624af26f5f55a16a598e319",
-    "published": "2026-08-13T06:32:26.000Z"
-  },
-  {
-    "id": "bd76df3fc52e7a516f32c3f53876c1a63a90e3f5",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9054918990bdd368d011c6ce09c381e92f35815d",
-    "published": "2026-08-13T03:47:43.000Z"
+    "title": "alchemy-utils 0.1a1",
+    "summary": "Release: alchemy-utils 0.1a1 Performance boost for DuckDB exports and CSV imports, see here.",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/13/alchemy-utils/",
+    "published": "2026-08-13T03:03:17.000Z"
   },
   {
     "id": "814632afac7368feeee8d9d92bea1b1455a401e9",
@@ -192,18 +252,6 @@
     "published": "2026-08-11T23:48:35.000Z"
   },
   {
-    "id": "5121059c9365ab44486e6737d255ba357d670540",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-    "summary": "Stealing Reasoning Traces from Proprietary LLM APIs A vanity domain name (stolen-thoughts.com) for a neat paper: Anthropic, OpenAI, and Google return encrypted chain-of-thought blocks to clients that...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
-    "published": "2026-08-11T22:40:45.000Z"
-  },
-  {
     "id": "11fc41f45a951e9c75e57146b637ac44be9845fe",
     "source": "Latent Space",
     "type": "podcast",
@@ -214,18 +262,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!7KZy!,w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3b182f3-d304-4e48-82bd-cc0079231a37_2400x2934.png",
     "url": "https://www.latent.space/p/chai-discovery",
     "published": "2026-08-11T21:03:50.000Z"
-  },
-  {
-    "id": "e163f4189a41176a00d1b148dc7efc0ee05f6c0b",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette-upload-dbs 0.5a0",
-    "summary": "Release: datasette-upload-dbs 0.5a0 This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point that database will start...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/",
-    "published": "2026-08-11T20:35:13.000Z"
   },
   {
     "id": "16ec32b453a743c12971494345af22e43721d6f6",
@@ -264,18 +300,6 @@
     "published": "2026-08-11T05:16:41.000Z"
   },
   {
-    "id": "e89d110517eaf9b44d69e56b3d10d20579c02831",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Introducing Muse Glimmer",
-    "summary": "Introducing Muse Glimmer Meta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama licenses of old). They claim to...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/",
-    "published": "2026-08-10T23:56:03.000Z"
-  },
-  {
     "id": "e2d1cb80fe05c45b36d384bb2e19ffcbdb1828e0",
     "source": "Riley Brown",
     "type": "video",
@@ -310,18 +334,6 @@
     "thumbnail": "https://i.ytimg.com/vi/kenfgIaK_sQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=kenfgIaK_sQ",
     "published": "2026-08-10T07:44:14.000Z"
-  },
-  {
-    "id": "c1e5494a54275b4482364590a74386d907bfd7d7",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting OpenClaw (running Opus 4.6)",
-    "summary": "The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through. So you've moved from #4 to #3...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/10/openclaw/",
-    "published": "2026-08-10T02:05:16.000Z"
   },
   {
     "id": "55a29136b2060544744ca2195f01b69baeceaeb7",
@@ -430,18 +442,6 @@
     "thumbnail": "https://i.ytimg.com/vi/edoy4FvJVkA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=edoy4FvJVkA",
     "published": "2026-08-05T08:30:52.000Z"
-  },
-  {
-    "id": "858744584932412d8442b5ad1909193d2ffc38a5",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Megakernels are so dead and so back",
-    "summary": "A quiet day lets us highlight a Cursor launch and an engineering debate",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Gpou!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHNw6xyYaUAA_BVO.jpg",
-    "url": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
-    "published": "2026-08-05T01:21:47.000Z"
   },
   {
     "id": "870e6320ab958ed8288df63686755715d92e8ff5",
