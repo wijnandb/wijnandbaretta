@@ -1,5 +1,77 @@
 [
   {
+    "id": "4812ecb52fd9408858bcabe3769b250e8ebe914a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/424d07fa15238635b59f2a0e4acc36e7c0e46290",
+    "published": "2026-08-15T18:04:35.000Z"
+  },
+  {
+    "id": "73924d397f2f95cc1c5e0c228f675429b3f3b9c7",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue",
+    "summary": "Flue 2 takes its inspiration from React. Creator Fred Schott, of Astro fame, tells Latent Space why he added hooks and why agents are defined by their harnesses.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Osie!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F131d402d-63bf-4895-b5e7-b8990972a14c_1280x720.png",
+    "url": "https://www.latent.space/p/flue-2",
+    "published": "2026-08-15T15:46:22.000Z"
+  },
+  {
+    "id": "8c75e7be781a6ff683e1545705870bd2394ee882",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2833f7c7bb6162105f659a284f8ef7f179816a7d",
+    "published": "2026-08-15T15:04:35.000Z"
+  },
+  {
+    "id": "2bc8eb7c6080b0263e42f05cc4ecccee65b017b9",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Grok 4.6 is Actually Good… So Why Is It So Cheap?",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/VWDnptnvFrA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=VWDnptnvFrA",
+    "published": "2026-08-15T14:03:52.000Z"
+  },
+  {
+    "id": "a1905f0b9d5e7b2d6bd53e5622daebdea897ab96",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/15635a9351c2365c249f050a774491364a562652",
+    "published": "2026-08-15T12:05:41.000Z"
+  },
+  {
+    "id": "a7371571fbdc536e9d53f78ae7d3a169b53412cb",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b345ea1ba4cdc8182a1a011f364f0c95441f9147",
+    "published": "2026-08-15T09:07:28.000Z"
+  },
+  {
     "id": "a615343a3eb175d3d93ecc72d3876cc3a557c863",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -18,7 +90,7 @@
     "category": "ai",
     "lang": "en",
     "title": "Northern Gannet",
-    "summary": "Northern Gannet, in Pillar Point Harbor, CA, USThis is Morris. Morris is a local celebrity: the only known Northern Gannet (Morus bassanus) in the entire Pacific Ocean. He showed up in the Farallon...",
+    "summary": "Northern Gannet, in Pillar Point Harbor, CA, USThis is Morris. Morris is a local celebrity: the only known Northern Gannet (Morus bassanus) in the entire Pacific Ocean. They showed up in the Farallon...",
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
     "published": "2026-08-15T03:22:00.000Z"
@@ -72,18 +144,6 @@
     "published": "2026-08-14T21:07:05.000Z"
   },
   {
-    "id": "8d2b8475c140e22155536050664a40d965f08626",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7f2d22f43420d9ee0ffe2f3237e33baf88d8a542",
-    "published": "2026-08-14T18:19:42.000Z"
-  },
-  {
     "id": "68c233597f82a79bdad3bfdf7005fd5ddd9716a2",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -94,42 +154,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!O7v7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b8a274a-9a5f-42cb-9e73-e272ce48ef5f_1456x983.png",
     "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-metas-self-inflicted-resignation",
     "published": "2026-08-14T16:55:55.000Z"
-  },
-  {
-    "id": "97236830f12a5dbe2507b8302a75a8262efda452",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/613ced19bf93ba7cba2f630983f21f61bdf615ca",
-    "published": "2026-08-14T15:17:22.000Z"
-  },
-  {
-    "id": "54b0d22a17601a32c312d0db189e514d30de405b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9674a6f3767bb1c038a96bf5f4112a0f1865f68a",
-    "published": "2026-08-14T12:18:08.000Z"
-  },
-  {
-    "id": "8d639e808d33f511eb9bd1f2b01b3a56908b5cac",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1138935ba82f4e46eee83f947fd95970c1d7a39c",
-    "published": "2026-08-14T09:24:32.000Z"
   },
   {
     "id": "086ace1c21ab97dd34dfba75185503a22a00ee10",
@@ -178,6 +202,18 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
     "published": "2026-08-13T19:37:34.000Z"
+  },
+  {
+    "id": "b628076ad0168a3331b8a2e86179d687886ceaf9",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Deterministic Procedures in ElevenAgents",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/PNVq0l7Uhxs/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=PNVq0l7Uhxs",
+    "published": "2026-08-13T16:26:20.000Z"
   },
   {
     "id": "1294320a3f2b4836d34f6cffb259a8b9d9b0f971",
@@ -264,6 +300,18 @@
     "published": "2026-08-11T21:03:50.000Z"
   },
   {
+    "id": "16ec32b453a743c12971494345af22e43721d6f6",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Cursor Just Unleashed GrokBot (It’s Insane)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/8Yf9IoXkROM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=8Yf9IoXkROM",
+    "published": "2026-08-11T17:44:11.000Z"
+  },
+  {
     "id": "6440b1f13f8cde1da7c45a113410c4b81be8b55e",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -286,6 +334,54 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!k-nI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHPWkSuDbkAExHc7.png",
     "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
     "published": "2026-08-11T05:16:41.000Z"
+  },
+  {
+    "id": "e2d1cb80fe05c45b36d384bb2e19ffcbdb1828e0",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Codex Is Winning… So Why Am I Still Paying for Claude?",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/piOSL8Ms9mY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=piOSL8Ms9mY",
+    "published": "2026-08-10T20:29:40.000Z"
+  },
+  {
+    "id": "f5e07aca5c01d2a1073f722b63dc49664468cadb",
+    "source": "The Anthropic Stack",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "How Icelanders are thinking about AI",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/iF5IWjOWcA4/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=iF5IWjOWcA4",
+    "published": "2026-08-10T14:30:52.000Z"
+  },
+  {
+    "id": "14f1fc809dd9ad4391604729dc570450e347ee83",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase Crash Course (Auth & Firestore) #13 - Firestore Rules",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/kenfgIaK_sQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=kenfgIaK_sQ",
+    "published": "2026-08-10T07:44:14.000Z"
+  },
+  {
+    "id": "55a29136b2060544744ca2195f01b69baeceaeb7",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "14 Insane Things NEW ChatGPT Work Can Do (Automate Anything)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/zWL6XGP3Em8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=zWL6XGP3Em8",
+    "published": "2026-08-09T15:00:22.000Z"
   },
   {
     "id": "0430b727e0cf2ee5638ff9c9220fcd0f0dc851e9",
@@ -312,16 +408,28 @@
     "published": "2026-08-07T05:13:46.000Z"
   },
   {
-    "id": "3189f1ce0fd506815fcc5cf856e5dd3cf87e7767",
-    "source": "Latent Space",
-    "type": "podcast",
+    "id": "488623fa078345549e3e5655f16eef6a431403df",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Introducing Dubbing v2 API",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/GSk5JyiT4sU/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=GSk5JyiT4sU",
+    "published": "2026-08-06T15:01:13.000Z"
+  },
+  {
+    "id": "7deb80285bd90f7ffebba52c9d313e5d73b42227",
+    "source": "Riley Brown",
+    "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
-    "summary": "The end of an era.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!1S7v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57c9d273-aa50-4bc7-a7c4-caaf9b4952c2_1540x1624.png",
-    "url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
-    "published": "2026-08-06T04:34:11.000Z"
+    "title": "The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/HQXi4snP36I/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=HQXi4snP36I",
+    "published": "2026-08-06T13:34:28.000Z"
   },
   {
     "id": "4bb1e266a43996e8d8eee7759211ad493625280f",
@@ -336,6 +444,42 @@
     "published": "2026-08-06T00:00:00.000Z"
   },
   {
+    "id": "6ab4ee18f1daa256a569b0aa12762473775d62db",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase Crash Course (Auth & Firestore) #12 - Firestore Queries",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/9Duw5Tzo-_Y/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=9Duw5Tzo-_Y",
+    "published": "2026-08-05T13:08:53.000Z"
+  },
+  {
+    "id": "ab23e51d941547eb7c9bb20335bf321da535ae44",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase Crash Course (Auth & Firestore) #11 - Deleting Documents",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/edoy4FvJVkA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=edoy4FvJVkA",
+    "published": "2026-08-05T08:30:52.000Z"
+  },
+  {
+    "id": "870e6320ab958ed8288df63686755715d92e8ff5",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Entity Detection in Scribe V2",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/1rczYAFvg7w/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=1rczYAFvg7w",
+    "published": "2026-08-04T16:46:45.000Z"
+  },
+  {
     "id": "a9b8d470e8f5a4183a713f4cdba6c3d4ea7d1879",
     "source": "Werner Vogels",
     "type": "blog",
@@ -346,6 +490,18 @@
     "thumbnail": null,
     "url": "https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html?utm_campaign=inbound&amp;utm_source=rss",
     "published": "2026-08-04T14:00:00.000Z"
+  },
+  {
+    "id": "cac2b87a2f096965c1f1521766c4fb39f31137d2",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase Crash Course (Auth & Firestore) #10 - Realtime Firestore Subscription",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/8b81f0ylDdE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=8b81f0ylDdE",
+    "published": "2026-08-04T08:00:12.000Z"
   },
   {
     "id": "aae882e180ed82d11a422bf5bed2c6e2eb3d35f4",
@@ -372,6 +528,18 @@
     "published": "2026-08-03T02:28:02.000Z"
   },
   {
+    "id": "e43f459edaffee083e69a9298e8ca65b94e3dfde",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase Crash Course (Auth & Firestore) #9 - Fetching Documents",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/I1y5gx2aUaM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=I1y5gx2aUaM",
+    "published": "2026-07-31T13:39:38.000Z"
+  },
+  {
     "id": "c9d99afb9217785697d07fdb63b10229abaac395",
     "source": "Astro",
     "type": "blog",
@@ -382,6 +550,30 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/whats-new-july-2026/",
     "published": "2026-07-31T00:00:00.000Z"
+  },
+  {
+    "id": "c106f535aaf056b0e5986aaf86dccc5146317dbb",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Cursor 3.0 Tutorial For Beginners (Full Course)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/5DnOOa-5dTU/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=5DnOOa-5dTU",
+    "published": "2026-07-30T19:41:09.000Z"
+  },
+  {
+    "id": "5800aeb2b78e174752aa43c8cfe5e69f3d3470f0",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Claude Code + Codex Can FINALLY Work Together (Buzz AI)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/P1KpxzLVg7c/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=P1KpxzLVg7c",
+    "published": "2026-07-29T20:54:33.000Z"
   },
   {
     "id": "89a35691449a549c4fcf068de0aa9709da731ae3",
@@ -468,6 +660,18 @@
     "published": "2026-07-29T09:04:46.000Z"
   },
   {
+    "id": "eb58fe2e0c7d5dbb5e44b0011abcd6e830c0938b",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase Crash Course (Auth & Firestore) #8 - Adding Firestore Documents",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/Ib2JNI1Feoo/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Ib2JNI1Feoo",
+    "published": "2026-07-29T08:08:14.000Z"
+  },
+  {
     "id": "d3b28b1bc00edc45e3b2b960fb4a7d4e2225b377",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -478,6 +682,42 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!0GCi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff86124b7-b1c1-4e0e-9f57-42f5e6de75ed_2048x976.png",
     "url": "https://newsletter.pragmaticengineer.com/p/inside-anthropic",
     "published": "2026-07-28T15:49:30.000Z"
+  },
+  {
+    "id": "742ccd50e52bf1cae099f03c2f2386c3592ed115",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Master Claude for Excel in 20 Minutes (Full Guide)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/fZ1Kmuafzzk/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=fZ1Kmuafzzk",
+    "published": "2026-07-27T23:23:11.000Z"
+  },
+  {
+    "id": "ec833855c3b37372b19c062347162d070584a515",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase Crash Course (Auth & Firestore) #7 - Setting up a Firestore Database",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/60hVNuoDlwQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=60hVNuoDlwQ",
+    "published": "2026-07-27T09:42:28.000Z"
+  },
+  {
+    "id": "c78ee6a739e70c75babe30463e95635eb2c3c339",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase Crash Course (Auth & Firestore) #6 - Protecting Routes (in a Next.js app)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/-Z1KrG9f2v8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=-Z1KrG9f2v8",
+    "published": "2026-07-27T09:42:06.000Z"
   },
   {
     "id": "01df3619cdf60a7b0b4e82bebebf529be82f79fc",
@@ -492,6 +732,18 @@
     "published": "2026-07-23T15:59:37.000Z"
   },
   {
+    "id": "08c3f0dafe56fd7d95f764e400e22448dcfd90ac",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Introducing FineTunes Music API",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/HrDcpJV_JKc/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=HrDcpJV_JKc",
+    "published": "2026-07-22T16:20:58.000Z"
+  },
+  {
     "id": "0d3944e966fea04a89c46d6cc3bbf9fa3bf94414",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -502,6 +754,18 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!Gp-r!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7d73bb2-e470-41b1-afe7-059ddbd78d55_1294x916.png",
     "url": "https://newsletter.pragmaticengineer.com/p/pushing-software-engineering-limits",
     "published": "2026-07-21T16:52:07.000Z"
+  },
+  {
+    "id": "2e77c20f7079164d76ee1b93e59f8a5ed8fffcf1",
+    "source": "AI Jason",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Tmux + Fable = Cut 35% less token",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/wCSPgHpcxdc/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=wCSPgHpcxdc",
+    "published": "2026-07-20T11:19:33.000Z"
   },
   {
     "id": "1bed9fef2ad668a60fadd271eae717738e61d6c7",
@@ -528,6 +792,42 @@
     "published": "2026-07-16T00:00:00.000Z"
   },
   {
+    "id": "3b8b0400ac0f60807e2a17381257772b4178fc60",
+    "source": "AI Jason",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Why I switched to Pi...",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/MsPhMhfvgD4/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=MsPhMhfvgD4",
+    "published": "2026-07-14T10:35:00.000Z"
+  },
+  {
+    "id": "b9ae359ef57a087f5ce3ea0f26e893d07d399b07",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Add Voice to your AI Agents",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/5o5NQH7vqog/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=5o5NQH7vqog",
+    "published": "2026-07-13T16:00:52.000Z"
+  },
+  {
+    "id": "d46f68d824228d6e09f9e247ee9538c19e2c6bcc",
+    "source": "AI Jason",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "I was building loops wrong...",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/JQ_We_ztxrI/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=JQ_We_ztxrI",
+    "published": "2026-07-13T11:35:57.000Z"
+  },
+  {
     "id": "45a096207eea7d4aba64bcb4b9fccc24dd514346",
     "source": "Werner Vogels",
     "type": "blog",
@@ -538,6 +838,18 @@
     "thumbnail": null,
     "url": "https://www.allthingsdistributed.com/2026/07/now-go-build-cto-fellowship-season-2.html?utm_campaign=inbound&amp;utm_source=rss",
     "published": "2026-07-08T09:00:00.000Z"
+  },
+  {
+    "id": "024a4cae0ae679872c82a69f17f88ecc7c9489d4",
+    "source": "The Anthropic Stack",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "The different levels of how Claude thinks",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/rKV5JcALQoQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
+    "published": "2026-07-06T16:59:51.000Z"
   },
   {
     "id": "300ce3325ded83f6b9a24b0ed9dfde0a6a9650c6",
@@ -552,6 +864,18 @@
     "published": "2026-07-02T15:15:03.000Z"
   },
   {
+    "id": "c6299e51f20e69536a9639af84083fb24fdedeca",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "ElevenLabs in 100 Seconds",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/FJlcJWlLgC8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=FJlcJWlLgC8",
+    "published": "2026-07-02T12:58:48.000Z"
+  },
+  {
     "id": "d66509b0c928a5218e10ebda9aafa002ec1561ea",
     "source": "Werner Vogels",
     "type": "blog",
@@ -562,6 +886,18 @@
     "thumbnail": null,
     "url": "https://www.allthingsdistributed.com/2026/06/return-to-two-pizza-culture.html?utm_campaign=inbound&amp;utm_source=rss",
     "published": "2026-06-30T14:00:00.000Z"
+  },
+  {
+    "id": "2d635b33553d7291b7ae79fb32b12198f40a64f3",
+    "source": "AI Jason",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "I was giving my coding agent context the wrong way...",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/iWRmtPdFbGw/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=iWRmtPdFbGw",
+    "published": "2026-06-30T11:19:17.000Z"
   },
   {
     "id": "582c1bec315572fa98b115b2a863f2b552820fa7",
@@ -576,6 +912,18 @@
     "published": "2026-06-30T00:00:00.000Z"
   },
   {
+    "id": "a7906cb53b5040afa1db7a165172f6303fcc9700",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Esperanto mix from every country (3 hours)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/CfYCKdXheug/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=CfYCKdXheug",
+    "published": "2026-06-26T17:39:47.000Z"
+  },
+  {
     "id": "bce1e309efada19afffd378a6d1f1ec1c7ab66d6",
     "source": "AI Report",
     "type": "podcast",
@@ -586,6 +934,30 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/jeff_bezos_investeert_in_nederlandse_ai_europe_2031_het_doemscenario_van_europese_kwetsbaarheid",
     "published": "2026-06-25T15:40:51.000Z"
+  },
+  {
+    "id": "6b618071c54dc8d0e70a9aa5d90a26c23e576114",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Give Hermes Agent a Voice with ElevenLabs",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/HrGl01TpZpA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=HrGl01TpZpA",
+    "published": "2026-06-25T15:15:13.000Z"
+  },
+  {
+    "id": "7fe03624b868c7936c4345990ac64652e8d0248a",
+    "source": "AI Jason",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "OpenClaw Creator's new secret project...",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/1HkqTlXbQmQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=1HkqTlXbQmQ",
+    "published": "2026-06-24T12:04:26.000Z"
   },
   {
     "id": "7173e6f4192a940864f20363029b2f3b74258d69",
@@ -672,6 +1044,18 @@
     "published": "2026-06-19T07:48:18.000Z"
   },
   {
+    "id": "065b107cac6eb1a4aecc05eca3da38f1579fd654",
+    "source": "AI Jason",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "wtf is Loop Engineer & how to setup for real",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/W6x-hb44C0c/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=W6x-hb44C0c",
+    "published": "2026-06-18T14:04:35.000Z"
+  },
+  {
     "id": "b7160109cd59448f790742c411e9dddb268553cb",
     "source": "AI Report",
     "type": "podcast",
@@ -682,6 +1066,18 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/claude_fable_is_uit_het_beste_ai-model_ooit_apple_ai_niet_naar_de_eu",
     "published": "2026-06-10T16:20:00.000Z"
+  },
+  {
+    "id": "9d62ac82355a94483f168f8043226ba8ffe4deb2",
+    "source": "The Anthropic Stack",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Introducing Claude Fable 5",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/Y9Wz2PV404E/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+    "published": "2026-06-09T17:00:05.000Z"
   },
   {
     "id": "18db61fd54e915be9417aa460f91cac4fb04719f",
@@ -718,6 +1114,18 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/astro-mart-ss26/",
     "published": "2026-06-04T00:00:00.000Z"
+  },
+  {
+    "id": "14903e12ef60d49deb828db3b402cb9138c97a7b",
+    "source": "AI Jason",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "How to build proactive agents & self-improving company (Fully explained)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/ikH1--DSzMs/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=ikH1--DSzMs",
+    "published": "2026-06-02T12:17:34.000Z"
   },
   {
     "id": "0a681af572e37e36561fd4902f5c2cf106704b09",
@@ -768,387 +1176,27 @@
     "published": "2026-05-21T16:53:49.000Z"
   },
   {
-    "id": "bdec6c5ce6bf3b208c599a91bb6b86d7c7301c95",
-    "source": "AI Report",
-    "type": "podcast",
-    "category": "nl",
-    "lang": "nl",
-    "title": "Anthropic: de laatste uitvinding komt in 2028 + Microsoft Copilot is opeens goed geworden?",
-    "summary": "Alexander keert terug uit Shenzhen met een ongemakkelijke conclusie: de Chinese tech-hoofdstad is geen fabriek meer maar een R&D-magneet die alles aanzuigt wat met hardware te maken heeft. Een VC...",
-    "thumbnail": null,
-    "url": "https://www.aireport.nl/podcast/s/aireport/anthropic_de_laatste_uitvinding_komt_in_2028_microsoft_copilot_is_opeens_goed_geworden",
-    "published": "2026-05-07T15:30:21.000Z"
+    "id": "423f3ce3e50bcaa1873cc9790a67f1369d749829",
+    "source": "Code with Andrea",
+    "type": "video",
+    "category": "systems",
+    "lang": "en",
+    "title": "Should you use /init to generate CLAUDE.md or AGENTS.md?",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/AzbJUZH9bno/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=AzbJUZH9bno",
+    "published": "2026-05-18T11:42:00.000Z"
   },
   {
-    "id": "bddc5fc6781f8eeebd2ec9f8c7ec03b1911e4cd4",
-    "source": "antfu/skills",
-    "type": "repo",
+    "id": "360b19e9d5e43847d8b589083c6797319754481b",
+    "source": "AI Jason",
+    "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "feat(antfu): document tsnapi, tsdown-stale-guard, and fast-npm-meta (…",
-    "summary": "feat(antfu): document tsnapi, tsdown-stale-guard, and fast-npm-meta (#28) * feat(antfu): document tsnapi, tsdown-stale-guard, and fast-npm-meta Add an API Stability section to library-development...",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/50deaeb269d80d92db7a2c5a677290309ae307fc",
-    "published": "2026-05-01T16:46:24.000Z"
-  },
-  {
-    "id": "8415a521655539a1530b23dfca098d8419080977",
-    "source": "Werner Vogels",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The invisible engineering behind Lambda’s network",
-    "summary": "The subtle inventiveness that reduced cold start setup from seconds to 200μs.",
-    "thumbnail": null,
-    "url": "https://www.allthingsdistributed.com/2026/04/the-invisible-engineering-behind-lambdas-network.html?utm_campaign=inbound&amp;utm_source=rss",
-    "published": "2026-04-22T14:00:00.000Z"
-  },
-  {
-    "id": "509d981fa01d3cc78dbe77b6aa7131221713faa1",
-    "source": "Directus",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Evolving Our License for Long-Term Sustainability",
-    "summary": "The road to Directus v12 and an update on our license",
-    "thumbnail": null,
-    "url": "https://directus.com/resources/directus-v12-license-change",
-    "published": "2026-04-22T09:00:00.000Z"
-  },
-  {
-    "id": "8c811deb3de31c2052dbc33f7e848571d866568b",
-    "source": "Directus",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "How I Turned a Month-Long Migration Into a Weekend Project (And You Can Too)",
-    "summary": "A runthrough of how to handle your data migration using the Directus MCP (Model Context Protocol) server and Claude CLI.",
-    "thumbnail": null,
-    "url": "https://directus.com/resources/migration-weekend",
-    "published": "2026-04-15T13:54:00.000Z"
-  },
-  {
-    "id": "d25305cc0a4fece42b8150bcc903c09a63bed6af",
-    "source": "Directus",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Directus v11.17: Background Imports, Netlify Deployments, and a Translations Generator",
-    "summary": "A more capable deployment module, a smarter way to handle large data imports, and a utility that saves hours of translation setup work.",
-    "thumbnail": null,
-    "url": "https://directus.com/resources/directus-v11-17-release",
-    "published": "2026-04-10T14:25:00.000Z"
-  },
-  {
-    "id": "3cd16e96a7b1ff404eda3393a2e11293c4d8c967",
-    "source": "Werner Vogels",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "S3 Files and the changing face of S3",
-    "summary": "Andy Warfield writes about the hard-won lessons dealing with data friction that lead to S3 Files",
-    "thumbnail": null,
-    "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html?utm_campaign=inbound&amp;utm_source=rss",
-    "published": "2026-04-07T14:00:00.000Z"
-  },
-  {
-    "id": "1e43f5857f51ebcd22f7a6ac27c39cbada43cf85",
-    "source": "Directus",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Leap Week 4 Highlights",
-    "summary": "Get the recap on the UI Era keynote, partner workshops, what’s next for Directus, a new community program and much more!",
-    "thumbnail": null,
-    "url": "https://directus.com/resources/leap-week-4-highlights",
-    "published": "2026-03-30T18:25:00.000Z"
-  },
-  {
-    "id": "0dd557b22002eeaea0dbfdf7201f092fb40e96e4",
-    "source": "Directus",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The UI Era is Shifting",
-    "summary": "Hear from Directus CEO & Co-Founder Ben Haynes on software is shifting from UI-first to data-first. When everyone can build an interface, what is actually valuable?",
-    "thumbnail": null,
-    "url": "/tv/leap-week/ui-era-shifting",
-    "published": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "id": "9eecbd46a296ce6e73ce0b099b6019f0fb7ef375",
-    "source": "Directus",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The Build-Off",
-    "summary": "Three builders. Three AI tools. One backend. Who can ship the best frontend in 30 minutes?",
-    "thumbnail": null,
-    "url": "/tv/leap-week/the-build-off",
-    "published": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "id": "c5f3427c35a2c7ba4c1a42d37066b209179c9b94",
-    "source": "Directus",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "AI in the Enterprise",
-    "summary": "How are enterprises giving teams access to AI while managing governance, data privacy, and risk?",
-    "thumbnail": null,
-    "url": "/tv/leap-week/ai-in-the-enterprise",
-    "published": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "id": "5dc69425faeb8d880c8ce9f85a1843524296e168",
-    "source": "Directus",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "From Zero to Production",
-    "summary": "Spin up a backend, connect a frontend, and deploy to production - all in one session. Featuring Railway.",
-    "thumbnail": null,
-    "url": "/tv/leap-week/from-zero-to-production",
-    "published": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "id": "66c7e82297ae50c5c9db57b94318cbbd2773e23c",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "feat: update skills",
-    "summary": "feat: update skills",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/c35a5588a5158b5b404a14fb10469b2b6dc1952b",
-    "published": "2026-03-16T06:16:21.000Z"
-  },
-  {
-    "id": "e5a6eb3ea910479a61aa64f36d34a6771ba1662f",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update",
-    "summary": "chore: update",
-    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/5ee89195a6f767aeaa5cd7a206e39f4eeb1a3523",
-    "published": "2026-03-16T06:15:28.000Z"
-  },
-  {
-    "id": "1d1a177714e54aaeee0a0dcfa30adffdabb1fa0b",
-    "source": "Werner Vogels",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "A chat with Byron Cook on automated reasoning and trust in AI systems",
-    "summary": "Over the past decade, Byron's team has proven the correctness of our authorization engine, our cryptographic implementations, and our virtualization layer. Now they're taking those same techniques...",
-    "thumbnail": null,
-    "url": "https://www.allthingsdistributed.com/2026/02/a-chat-with-byron-cook-on-automated-reasoning-and-trust-in-ai-systems.html?utm_campaign=inbound&amp;utm_source=rss",
-    "published": "2026-02-17T14:00:00.000Z"
-  },
-  {
-    "id": "b9a988fdb8d2013ab442ef3b6abbb2341306b96d",
-    "source": "Werner Vogels",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Education is not one-size-fits-all for the latest CTO Fellows",
-    "summary": "Today, I’m honored to introduce you to the latest cohort of Now Go Build CTO Fellows. Individuals from around the world with diverse backgrounds (engineering, the humanities, business, healthcare,...",
-    "thumbnail": null,
-    "url": "https://www.allthingsdistributed.com/2026/01/education-cohort.html?utm_campaign=inbound&amp;utm_source=rss",
-    "published": "2026-01-27T14:00:00.000Z"
-  },
-  {
-    "id": "4ee6e3770d3a0a5a2edc476444bd8f977c435fe3",
-    "source": "Yusuke Wada",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "2025年振り返り - Hono、Cloudflare、OSS、ワールドツアー",
-    "summary": "2025年を振り返ってみる。 今日は大晦日。ギリギリだ。 色んな場所に行き、色んな人と出会った1年だった。 一つ一つのトピックを見ていく。 Hono 相変わらずHonoのメンテナンスをしている。Honoの「Initial Commit」は2021年の12月。開発から4年経った。",
-    "thumbnail": "https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-title.png",
-    "url": "https://yusukebe.com/posts/2025/lookback-2025/",
-    "published": "2025-12-31T00:13:11.000Z"
-  },
-  {
-    "id": "9094083b37f22cf390d24ff05ae07b13d9c0a8df",
-    "source": "Werner Vogels",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "A little bit uncomfortable",
-    "summary": "Fear is actually a pretty good signal that you are pushing into the unknown, that real growth doesn’t happen without a bit of that associated discomfort, and that it’s worth becoming aware when it...",
-    "thumbnail": null,
-    "url": "https://www.allthingsdistributed.com/2025/12/a-little-bit-uncomfortable.html?utm_campaign=inbound&amp;utm_source=rss",
-    "published": "2025-12-16T12:30:00.000Z"
-  },
-  {
-    "id": "cc64e75612ff0968f656eba3fee030fb3f931390",
-    "source": "Anthony Fu",
-    "type": "blog",
-    "category": "design",
-    "lang": "en",
-    "title": "Categorize Your Dependencies",
-    "summary": "When building a project, it's very likely that we will install third-party packages from npm to offload some tasks. On that topic, we know there are two major types of dependencies: dependencies...",
-    "thumbnail": "https://antfu.me/images/pnpm-catalogs-vscode.png",
-    "url": "https://antfu.me/posts/categorize-deps",
-    "published": "2025-04-28T14:00:00.000Z"
-  },
-  {
-    "id": "7e0a58c9bb2916e4f6f07b7c874c52672c947c75",
-    "source": "Anthony Fu",
-    "type": "blog",
-    "category": "design",
-    "lang": "en",
-    "title": "Hello Tokyo!",
-    "summary": "日本語 Seven years ago, my first visit to Japan - a trip to 大阪(Osaka), 京都(Kyoto), and 北海道(Hokkaido) - planted the seed of wanting to live in Japan one day. It was an unforgettable experience that...",
-    "thumbnail": null,
-    "url": "https://antfu.me/posts/hello-tokyo",
-    "published": "2025-04-08T00:00:00.000Z"
-  },
-  {
-    "id": "5b776a88a49311212cc61b8d6364b05d5f668eb2",
-    "source": "Anthony Fu",
-    "type": "blog",
-    "category": "design",
-    "lang": "en",
-    "title": "Photos Page",
-    "summary": "As you might have noticed, I added a photos page on this site recently. It's something I wanted to do for a very long time but always procrastinated on. During certain periods of my life, photography...",
-    "thumbnail": null,
-    "url": "https://antfu.me/posts/photos-page",
-    "published": "2025-03-12T12:00:00.000Z"
-  },
-  {
-    "id": "c52667d86b28de3f3431cf361e31d8817593b0f8",
-    "source": "Anthony Fu",
-    "type": "blog",
-    "category": "design",
-    "lang": "en",
-    "title": "Async, Sync, in Between",
-    "summary": "The coloring problem in modern programming, and a proposal of a new approach",
-    "thumbnail": null,
-    "url": "https://antfu.me/posts/async-sync-in-between",
-    "published": "2025-03-03T00:00:00.000Z"
-  },
-  {
-    "id": "1a8146c7b636825d51290a28ee959a0933a88846",
-    "source": "Anthony Fu",
-    "type": "blog",
-    "category": "design",
-    "lang": "en",
-    "title": "Move on to ESM-only",
-    "summary": "Let's move on to ESM-only",
-    "thumbnail": "https://antfu.me/images/npm-esm-vs-cjs-2024.svg",
-    "url": "https://antfu.me/posts/move-on-to-esm-only",
-    "published": "2025-02-05T00:00:00.000Z"
-  },
-  {
-    "id": "6efb6fc1203121865308e30315d49a123479bee4",
-    "source": "Anthony Fu",
-    "type": "blog",
-    "category": "design",
-    "lang": "en",
-    "title": "Epoch Semantic Versioning",
-    "summary": "Proposal for an extended Semantic Versioning called Epoch SemVer to provide more granular versioning information to users.",
-    "thumbnail": "https://antfu.me/images/epoch-semver-progressive-1.png",
-    "url": "https://antfu.me/posts/epoch-semver",
-    "published": "2025-01-07T12:00:00.000Z"
-  },
-  {
-    "id": "7d8e4c11e2b39e3fd47a2b10f48d2372498cc3aa",
-    "source": "Anthony Fu",
-    "type": "blog",
-    "category": "design",
-    "lang": "en",
-    "title": "CPU Profiling Nuxt",
-    "summary": "If you want to debug the bundling performance of your Nuxt app to generate CPU profiles. Node.js provides a built-in --cpu-prof flag that allows you to generate CPU profiles. However you can't...",
-    "thumbnail": null,
-    "url": "https://antfu.me/posts/nuxt-cpuprofile",
-    "published": "2024-12-31T16:00:00.000Z"
-  },
-  {
-    "id": "752cb03f9b508e157b32a8436ebbe04ec028eda3",
-    "source": "Yusuke Wada",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "2024年に買ってよかったもの「シャトルシェフ」",
-    "summary": "今年買ったのが2台目だからチートっぽいけど、とにかく推したいので… シャトルシェフという調理器具があって、めちゃくちゃいいので、紹介する。 調理器具のことを話すが、シャトルシェフ以外詳しいわけではない。 圧力鍋やホットクックは使ったことないので、それらと比較をしたわけではない。 また、自分はとりわけ料理が得意なわけではない。 ご了承いただきたい。",
-    "thumbnail": "https://ss.yusukebe.com/cdn-cgi/image/format=auto,quality=75/44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a_2978x2162.png",
-    "url": "https://yusukebe.com/posts/2024/best-buy-shuttlechef/",
-    "published": "2024-12-28T01:55:22.000Z"
-  },
-  {
-    "id": "635a484203459f0edc45bd0dc833a6e9b528f59b",
-    "source": "Anthony Fu",
-    "type": "blog",
-    "category": "design",
-    "lang": "en",
-    "title": "Introducing Nuxt Icon v1",
-    "summary": "Go to nuxt.com and read the full post.",
-    "thumbnail": null,
-    "url": "https://antfu.me/posts/nuxt-icon-v1",
-    "published": "2024-11-25T16:00:00.000Z"
-  },
-  {
-    "id": "eb46f93012504f7797ba9eedc767a23098ad71a7",
-    "source": "Yusuke Wada",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "エッジは誰のもの？",
-    "summary": "CDNの文脈でいうエッジコンピューティングはフロントエンドのものとされることが多い気がするけど、そうじゃない。フロントエンドの技術を使ったバックエンドである。 フロントエンド？...",
-    "thumbnail": null,
-    "url": "https://yusukebe.com/posts/2024/who-is-edge-for/",
-    "published": "2024-07-04T01:19:46.000Z"
-  },
-  {
-    "id": "503392f59318cf135e140cd37464adb441feb26a",
-    "source": "Yusuke Wada",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Cloudflareに入社して1年が経ちました",
-    "summary": "今日でCloudflareに入社してちょうど1年が経ちました。 DevRelチームに所属し、Developer AdvocateとしてHonoの開発をメインに活動してきました。 41歳にして初めての会社員ですが、楽しい時間を過ごしています。今日はそのことについて書いてみます。",
-    "thumbnail": null,
-    "url": "https://yusukebe.com/posts/2024/cloudflare-first-anniv/",
-    "published": "2024-04-17T00:09:40.000Z"
-  },
-  {
-    "id": "bbbbbbfe51c3b8aed48f021873ff8644344727fa",
-    "source": "Yusuke Wada",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Cloudflare Developer Week 2024 まとめ！",
-    "summary": "今年もこの一週間がやってきて終わりました。Cloudflareを使って開発をする開発者大歓喜のDeveloper Weekです。 新製品、新機能の発表や、既存製品のアップデート、技術的解説などをブログで行うというものです。 4月1日(月)〜4月5日(金)に行われました。",
-    "thumbnail": "./rate-limit.gif",
-    "url": "https://yusukebe.com/posts/2024/cloudflare-developer-week/",
-    "published": "2024-04-08T09:19:40.000Z"
-  },
-  {
-    "id": "6b47678c6a59681b7c4ea75adce2d768cec03494",
-    "source": "Yusuke Wada",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "最近のCloudflare Workers",
-    "summary": "最近のCloudflare Workersについて、知らない方向けにざっくばらんに書いてみます。 連絡事項 自己紹介しておくと、僕はCloudflareのDeveloper RelationsチームにいてDeveloper Advocateをやってます。 一方で、HonoというCloudflareのみならずDenoやBun、Fastly等で動くWebフレームワークを開発してます。",
-    "thumbnail": "./deploy.gif",
-    "url": "https://yusukebe.com/posts/2024/cloudflare-workers-updates/",
-    "published": "2024-02-20T04:07:23.000Z"
-  },
-  {
-    "id": "e4078a0ec01ab48cd32f3dc585a2f08737fcebc4",
-    "source": "Yusuke Wada",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "YAPC::Hiroshima 2024に行ってきた",
-    "summary": "ブログを書くまでがYAPC ってことでYAPCを終わらせにかかります。ざっくばらんに書きます。 開催前 「最高の広島の夜にしようぜ！」 YAPCは素晴らしいので、どうせなら行ったことのない人に来てほしいと思っていた。 なので、いろんな人に声をかけた。何人か僕の紹介で来ていた。 アフィリエイトプログラムがあればバックをもらうべきだと思う。",
-    "thumbnail": null,
-    "url": "https://yusukebe.com/posts/2024/yapc-hiroshima/",
-    "published": "2024-02-12T00:41:48.000Z"
+    "title": "Ralph-loop 2.0? The real autonomous coder is coming...",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/rIs802-bXDY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=rIs802-bXDY",
+    "published": "2026-05-09T12:15:09.000Z"
   }
 ]
