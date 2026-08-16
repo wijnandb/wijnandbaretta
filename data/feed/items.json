@@ -1,5 +1,77 @@
 [
   {
+    "id": "7f02b7090e312aa47877a3fee0d6b3154f8836dc",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0274895777208c9ba9417d2aaade576e76448fec",
+    "published": "2026-08-16T18:04:52.000Z"
+  },
+  {
+    "id": "7b67d0050f119be44f9b663970a300000823b9ab",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Dario Amodei",
+    "summary": "I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or any other AI leader warning about AI’s risks. I think it is...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
+    "published": "2026-08-16T15:05:36.000Z"
+  },
+  {
+    "id": "32f32298158af33423f9403465c2022f07097da0",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d33d6ca44fa680ea5380c57a6b6cba88f955216e",
+    "published": "2026-08-16T15:05:26.000Z"
+  },
+  {
+    "id": "7bd7da01a3e01da365ddeda0f87c6df589b57c61",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Everything Runs Through Codex Now | Bilawal Sidhu",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/NR_GMq2lDCE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=NR_GMq2lDCE",
+    "published": "2026-08-16T15:00:34.000Z"
+  },
+  {
+    "id": "1a73b51bbfb05319d0de30fb58d892bc18748140",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8c2d47d19887e59ed94ea47ebf1f5a480b15e869",
+    "published": "2026-08-16T12:06:20.000Z"
+  },
+  {
+    "id": "7b33629a334d0f72d2a0ff39bcc2a9e57ce6bee3",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d95c1126a7a28823fe773562558ebcaa679ec03d",
+    "published": "2026-08-16T09:07:24.000Z"
+  },
+  {
     "id": "61651a64f765e0530ca40ffd18f0e15e09ca1d11",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -48,18 +120,6 @@
     "published": "2026-08-15T21:05:23.000Z"
   },
   {
-    "id": "4812ecb52fd9408858bcabe3769b250e8ebe914a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/424d07fa15238635b59f2a0e4acc36e7c0e46290",
-    "published": "2026-08-15T18:04:35.000Z"
-  },
-  {
     "id": "73924d397f2f95cc1c5e0c228f675429b3f3b9c7",
     "source": "Latent Space",
     "type": "podcast",
@@ -70,18 +130,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!Osie!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F131d402d-63bf-4895-b5e7-b8990972a14c_1280x720.png",
     "url": "https://www.latent.space/p/flue-2",
     "published": "2026-08-15T15:46:22.000Z"
-  },
-  {
-    "id": "8c75e7be781a6ff683e1545705870bd2394ee882",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2833f7c7bb6162105f659a284f8ef7f179816a7d",
-    "published": "2026-08-15T15:04:35.000Z"
   },
   {
     "id": "b0ec4660c7028337721db809bf6a0995d305abdb",
@@ -106,30 +154,6 @@
     "thumbnail": "https://i.ytimg.com/vi/VWDnptnvFrA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=VWDnptnvFrA",
     "published": "2026-08-15T14:03:52.000Z"
-  },
-  {
-    "id": "a1905f0b9d5e7b2d6bd53e5622daebdea897ab96",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/15635a9351c2365c249f050a774491364a562652",
-    "published": "2026-08-15T12:05:41.000Z"
-  },
-  {
-    "id": "a7371571fbdc536e9d53f78ae7d3a169b53412cb",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b345ea1ba4cdc8182a1a011f364f0c95441f9147",
-    "published": "2026-08-15T09:07:28.000Z"
   },
   {
     "id": "69a56244fe9854e4e654c72b735c0ad2463ee6ba",
@@ -250,18 +274,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!HIbH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2087221157787525120.jpg",
     "url": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
     "published": "2026-08-13T01:53:47.000Z"
-  },
-  {
-    "id": "04d62565190e878d6eff91bcd058432da0346395",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
-    "summary": "DeepSeek V4 Pro 0813 (on OpenRouter) The latest DeepSeek Pro model is now available, via API only. I had to link to OpenRouter because DeepSeek don't have any obvious announcement page for their new...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
-    "published": "2026-08-12T23:59:23.000Z"
   },
   {
     "id": "05730340cf30fb078fb6a1c850d20e462406659e",
@@ -682,18 +694,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!0GCi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff86124b7-b1c1-4e0e-9f57-42f5e6de75ed_2048x976.png",
     "url": "https://newsletter.pragmaticengineer.com/p/inside-anthropic",
     "published": "2026-07-28T15:49:30.000Z"
-  },
-  {
-    "id": "742ccd50e52bf1cae099f03c2f2386c3592ed115",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Master Claude for Excel in 20 Minutes (Full Guide)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/fZ1Kmuafzzk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=fZ1Kmuafzzk",
-    "published": "2026-07-27T23:23:11.000Z"
   },
   {
     "id": "ec833855c3b37372b19c062347162d070584a515",
