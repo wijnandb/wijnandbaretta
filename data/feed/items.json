@@ -1,5 +1,53 @@
 [
   {
+    "id": "61651a64f765e0530ca40ffd18f0e15e09ca1d11",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/64d5a388b3869a95fb5d0a05b93caa56f5470db2",
+    "published": "2026-08-16T06:09:03.000Z"
+  },
+  {
+    "id": "176558b9309adfd0b324702e5bcab354fdcac0ef",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/256ea50caba7f12095bdc4f095a9e936038c56c9",
+    "published": "2026-08-16T03:20:07.000Z"
+  },
+  {
+    "id": "2b49503ac1f59be2c4e40afeeacd57b5ebcb7b9a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/498146c3e28fba273a0d75e073d215f935b58ab4",
+    "published": "2026-08-16T00:12:54.000Z"
+  },
+  {
+    "id": "13c911501c789989fe139c931f8fc73a365ddc18",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/05157fab3175cc3faa24d896b3114978bb9d6161",
+    "published": "2026-08-15T21:05:23.000Z"
+  },
+  {
     "id": "4812ecb52fd9408858bcabe3769b250e8ebe914a",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -36,12 +84,24 @@
     "published": "2026-08-15T15:04:35.000Z"
   },
   {
+    "id": "b0ec4660c7028337721db809bf6a0995d305abdb",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "CORS Chat",
+    "summary": "Tool: CORS Chat I built this today (with GPT-5.6-Sol xhigh) to help test Qwen 3.8 27B running in LM Studio on both my M5 MacBook Pro and an NVIDIA DGX Spark. It provides a web UI for exercising an...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
+    "published": "2026-08-15T14:49:54.000Z"
+  },
+  {
     "id": "2bc8eb7c6080b0263e42f05cc4ecccee65b017b9",
     "source": "Riley Brown",
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Grok 4.6 is Actually Good… So Why Is It So Cheap?",
+    "title": "Grok 4.6 is Actually Good… And Claude Keeps Getting Better",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/VWDnptnvFrA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=VWDnptnvFrA",
@@ -72,18 +132,6 @@
     "published": "2026-08-15T09:07:28.000Z"
   },
   {
-    "id": "a615343a3eb175d3d93ecc72d3876cc3a557c863",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/27d0532c17ff228e681e0a2de1e6c8d75943299a",
-    "published": "2026-08-15T06:08:07.000Z"
-  },
-  {
     "id": "69a56244fe9854e4e654c72b735c0ad2463ee6ba",
     "source": "Simon Willison",
     "type": "blog",
@@ -94,30 +142,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
     "published": "2026-08-15T03:22:00.000Z"
-  },
-  {
-    "id": "4f8e38a9fe1f68b4af6933f3993502e4d4b666c7",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8d2454084b5fac4e5550fbf1dc7294a3726c8d03",
-    "published": "2026-08-15T03:16:09.000Z"
-  },
-  {
-    "id": "53fdce85be91b89127ba9863fd0cd5e0d804d264",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/32f67b7f9a7a22814aa54e901209b0e03d5950ab",
-    "published": "2026-08-15T00:12:41.000Z"
   },
   {
     "id": "77478ebfdae20e21a52ae95015653205f092e61b",
@@ -132,18 +156,6 @@
     "published": "2026-08-14T21:54:35.000Z"
   },
   {
-    "id": "83c3f9ddfae3385ed410f327a57dfe84f5f1ebcc",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/10c7db8c94f215031a61d888675a1c1faebb60fb",
-    "published": "2026-08-14T21:07:05.000Z"
-  },
-  {
     "id": "68c233597f82a79bdad3bfdf7005fd5ddd9716a2",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -151,7 +163,7 @@
     "lang": "en",
     "title": "The Pulse: Meta’s self-inflicted resignation-wave",
     "summary": "The social media giant is offering $1M+ retainer equity grants to staff who are leaving: and even this is not effective. Also: is Grok Bot the “OpenClaw moment” for managed AI agents?",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!O7v7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b8a274a-9a5f-42cb-9e73-e272ce48ef5f_1456x983.png",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!o2YE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5bb821d-d4af-417c-8508-1b198148671a_1284x1228.png",
     "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-metas-self-inflicted-resignation",
     "published": "2026-08-14T16:55:55.000Z"
   },
@@ -250,18 +262,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
     "published": "2026-08-12T23:59:23.000Z"
-  },
-  {
-    "id": "96d1d535cf9d161f8cb06d104523297d9d2e6e79",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "alchemy-utils 0.1a0",
-    "summary": "Release: alchemy-utils 0.1a0 I've long pondered what a database agnostic version of my sqlite-utils Python library and CLI utility might look like. This morning (literally a shower project) I tasked...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/12/alchemy-utils/",
-    "published": "2026-08-12T19:51:30.000Z"
   },
   {
     "id": "05730340cf30fb078fb6a1c850d20e462406659e",
