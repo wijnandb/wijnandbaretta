@@ -1,5 +1,77 @@
 [
   {
+    "id": "d94d0023b473df77294282a27c91362edc5d569b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/76122e3c57a563ccc1800ccc9c6ef4421735ee19",
+    "published": "2026-08-17T18:08:49.000Z"
+  },
+  {
+    "id": "8933d03c7eacb4831e96f3613c2a422a0ea4cae4",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+    "summary": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility Excellent piece of reporting from 404 Media. For a while now there have been stories of book dealers receiving orders...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+    "published": "2026-08-17T15:21:29.000Z"
+  },
+  {
+    "id": "6d825bea202bb7898ecb62f138da4f4e998a0f8a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6c64bd7a491d9c44e69feb718bf332b86cedd1bd",
+    "published": "2026-08-17T15:07:40.000Z"
+  },
+  {
+    "id": "5f0a63c228e2900d58c3c5d81432c7637f3c21f1",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ea90ca2b94458a76bd2871916f87956fd34ee2e0",
+    "published": "2026-08-17T12:08:00.000Z"
+  },
+  {
+    "id": "1d123a1421cbd9fd4594b59129c71baa87b742e4",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c0bf3f381b66b729421b93c9f558deeed1e194c0",
+    "published": "2026-08-17T09:15:52.000Z"
+  },
+  {
+    "id": "430df7b4d5bdf6839c203c1e7725d32a90c292bb",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase AI Logic #1 - Introduction & Setup",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/5ePwfYBhgko/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=5ePwfYBhgko",
+    "published": "2026-08-17T08:58:53.000Z"
+  },
+  {
     "id": "28614715605c6b9296a8a135e7982ab366bf4dbd",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -72,18 +144,6 @@
     "published": "2026-08-16T21:05:03.000Z"
   },
   {
-    "id": "7f02b7090e312aa47877a3fee0d6b3154f8836dc",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0274895777208c9ba9417d2aaade576e76448fec",
-    "published": "2026-08-16T18:04:52.000Z"
-  },
-  {
     "id": "7b67d0050f119be44f9b663970a300000823b9ab",
     "source": "Simon Willison",
     "type": "blog",
@@ -96,18 +156,6 @@
     "published": "2026-08-16T15:05:36.000Z"
   },
   {
-    "id": "32f32298158af33423f9403465c2022f07097da0",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d33d6ca44fa680ea5380c57a6b6cba88f955216e",
-    "published": "2026-08-16T15:05:26.000Z"
-  },
-  {
     "id": "7bd7da01a3e01da365ddeda0f87c6df589b57c61",
     "source": "Riley Brown",
     "type": "video",
@@ -118,30 +166,6 @@
     "thumbnail": "https://i.ytimg.com/vi/NR_GMq2lDCE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=NR_GMq2lDCE",
     "published": "2026-08-16T15:00:34.000Z"
-  },
-  {
-    "id": "1a73b51bbfb05319d0de30fb58d892bc18748140",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8c2d47d19887e59ed94ea47ebf1f5a480b15e869",
-    "published": "2026-08-16T12:06:20.000Z"
-  },
-  {
-    "id": "7b33629a334d0f72d2a0ff39bcc2a9e57ce6bee3",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d95c1126a7a28823fe773562558ebcaa679ec03d",
-    "published": "2026-08-16T09:07:24.000Z"
   },
   {
     "id": "73924d397f2f95cc1c5e0c228f675429b3f3b9c7",
@@ -250,18 +274,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
     "published": "2026-08-13T23:53:47.000Z"
-  },
-  {
-    "id": "9ae5cf1d718fd9b3ad5bb369007143b385c6b224",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "sqlite-utils 4.2",
-    "summary": "Release: sqlite-utils 4.2 Lots of improvements in this one relating to the table.transform() feature, which adds support for complex alter table operations by creating a fresh table, copying across...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
-    "published": "2026-08-13T20:11:29.000Z"
   },
   {
     "id": "b628076ad0168a3331b8a2e86179d687886ceaf9",
@@ -569,7 +581,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Cursor 3.0 Tutorial For Beginners (Full Course)",
+    "title": "Cursor 3.0 Ultimate Guide: Beginner to Pro in 60 min",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/5DnOOa-5dTU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=5DnOOa-5dTU",
@@ -706,18 +718,6 @@
     "thumbnail": "https://i.ytimg.com/vi/60hVNuoDlwQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=60hVNuoDlwQ",
     "published": "2026-07-27T09:42:28.000Z"
-  },
-  {
-    "id": "c78ee6a739e70c75babe30463e95635eb2c3c339",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Firebase Crash Course (Auth & Firestore) #6 - Protecting Routes (in a Next.js app)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/-Z1KrG9f2v8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=-Z1KrG9f2v8",
-    "published": "2026-07-27T09:42:06.000Z"
   },
   {
     "id": "01df3619cdf60a7b0b4e82bebebf529be82f79fc",
