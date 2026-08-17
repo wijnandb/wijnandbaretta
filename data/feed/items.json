@@ -1,5 +1,77 @@
 [
   {
+    "id": "28614715605c6b9296a8a135e7982ab366bf4dbd",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1334a6b8173f0677ede0c127cd65843717cb4b47",
+    "published": "2026-08-17T06:12:34.000Z"
+  },
+  {
+    "id": "8c187138e4e9ee0f8b58373f03dec43cab5e5cb7",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2f6708f4ae487c1dcb7bcffe694eeb89758de4cc",
+    "published": "2026-08-17T03:20:17.000Z"
+  },
+  {
+    "id": "02ea4a46f4f154042626040667e7e8f83c35656b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/65a7cbbe3128e347db713776d20aea07bbe3f44c",
+    "published": "2026-08-17T00:12:14.000Z"
+  },
+  {
+    "id": "5d80ce7e11f5fa4255bd5ab2fba5f8e6c691f7cf",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Markdown SVG upgrades",
+    "summary": "I started building my markdown-svg-renderer tool in May, but I've since added enough features to it that it's worth talking about here again. It's evolved into my ideal tool for sharing Markdown...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
+    "published": "2026-08-16T23:59:37.000Z"
+  },
+  {
+    "id": "097582375e87a56f014a1cd201cf645b18ca1d17",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+    "summary": "Friday's big release was Qwen 3.8 27B, an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "published": "2026-08-16T22:00:39.000Z"
+  },
+  {
+    "id": "5186ec436531e700eea8275d1f998c3c965241a3",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e05b324fa898469e0412d3ef3c17cd35a7d7bd57",
+    "published": "2026-08-16T21:05:03.000Z"
+  },
+  {
     "id": "7f02b7090e312aa47877a3fee0d6b3154f8836dc",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -41,7 +113,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Everything Runs Through Codex Now | Bilawal Sidhu",
+    "title": "Codex Just Replaced All His Apps | Bilawal Sidhu",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/NR_GMq2lDCE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=NR_GMq2lDCE",
@@ -70,54 +142,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d95c1126a7a28823fe773562558ebcaa679ec03d",
     "published": "2026-08-16T09:07:24.000Z"
-  },
-  {
-    "id": "61651a64f765e0530ca40ffd18f0e15e09ca1d11",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/64d5a388b3869a95fb5d0a05b93caa56f5470db2",
-    "published": "2026-08-16T06:09:03.000Z"
-  },
-  {
-    "id": "176558b9309adfd0b324702e5bcab354fdcac0ef",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/256ea50caba7f12095bdc4f095a9e936038c56c9",
-    "published": "2026-08-16T03:20:07.000Z"
-  },
-  {
-    "id": "2b49503ac1f59be2c4e40afeeacd57b5ebcb7b9a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/498146c3e28fba273a0d75e073d215f935b58ab4",
-    "published": "2026-08-16T00:12:54.000Z"
-  },
-  {
-    "id": "13c911501c789989fe139c931f8fc73a365ddc18",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/05157fab3175cc3faa24d896b3114978bb9d6161",
-    "published": "2026-08-15T21:05:23.000Z"
   },
   {
     "id": "73924d397f2f95cc1c5e0c228f675429b3f3b9c7",
@@ -192,6 +216,18 @@
     "published": "2026-08-14T16:55:55.000Z"
   },
   {
+    "id": "6792ce8318bfd17cd2da4674289ca92c77d21a26",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Cursor's $60B acquisition by SpaceXai closes",
+    "summary": "Congrats to the team!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
+    "url": "https://www.latent.space/p/ainews-cursors-60b-acquisition-by",
+    "published": "2026-08-14T06:16:00.000Z"
+  },
+  {
     "id": "086ace1c21ab97dd34dfba75185503a22a00ee10",
     "source": "Latent Space",
     "type": "podcast",
@@ -228,18 +264,6 @@
     "published": "2026-08-13T20:11:29.000Z"
   },
   {
-    "id": "6d7f7c3a0398b0a888b517367e968b9b595c45c4",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm-gemini 0.33",
-    "summary": "Release: llm-gemini 0.33 It's been a while since the last llm-gemini release. This version of the plugin adds support for today's Gemini 3.7 Flash release, plus gemini-3.6-flash,...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
-    "published": "2026-08-13T19:37:34.000Z"
-  },
-  {
     "id": "b628076ad0168a3331b8a2e86179d687886ceaf9",
     "source": "ElevenLabs",
     "type": "video",
@@ -250,18 +274,6 @@
     "thumbnail": "https://i.ytimg.com/vi/PNVq0l7Uhxs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=PNVq0l7Uhxs",
     "published": "2026-08-13T16:26:20.000Z"
-  },
-  {
-    "id": "1294320a3f2b4836d34f6cffb259a8b9d9b0f971",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "alchemy-utils 0.1a1",
-    "summary": "Release: alchemy-utils 0.1a1 Performance boost for DuckDB exports and CSV imports, see here.",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/13/alchemy-utils/",
-    "published": "2026-08-13T03:03:17.000Z"
   },
   {
     "id": "814632afac7368feeee8d9d92bea1b1455a401e9",
@@ -406,18 +418,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!CnI3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0c1de0a-be73-4969-9bbd-d3b178bf2ea2_2349x988.png",
     "url": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
     "published": "2026-08-08T01:12:07.000Z"
-  },
-  {
-    "id": "2fea13078482837a39f8b4e707539057f397f167",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] AMD buys Taalas",
-    "summary": "The Inference Inflection is HEATING up.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!qA0L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3b60b0e-d47f-4723-bb40-be9594e9bab4_786x754.png",
-    "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
-    "published": "2026-08-07T05:13:46.000Z"
   },
   {
     "id": "488623fa078345549e3e5655f16eef6a431403df",
