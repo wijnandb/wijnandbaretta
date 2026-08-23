@@ -1,5 +1,65 @@
 [
   {
+    "id": "c2ba01b23f81fbac736e1075552457cad4c6a557",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/80a709c154bc13c5c4d37149c82a66f56123182a",
+    "published": "2026-08-23T06:09:31.000Z"
+  },
+  {
+    "id": "6f1407d04c0760c1bc9175426489335afa876e8e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/25c36f4d398727517c1a9322e3fb1e317a9297df",
+    "published": "2026-08-23T03:21:44.000Z"
+  },
+  {
+    "id": "0bdc82b15ce1efe8e80dcf86cdca250cb43e4099",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/832d69dc8a3c733f1e64bb57eecef77c4ad85af0",
+    "published": "2026-08-23T00:13:02.000Z"
+  },
+  {
+    "id": "9d84234957fe67ecd562f0bb218835c9a334d21e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/414cf9b751f4505637ade65f8a64360e5e1ab280",
+    "published": "2026-08-22T21:05:57.000Z"
+  },
+  {
+    "id": "d17933d43559704bbcebd7901e6b8994e79846a5",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Linus Torvalds",
+    "summary": "And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work. I'd like to call it my tireless helper, but the AI several times stated flat out that this was...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+    "published": "2026-08-22T21:04:26.000Z"
+  },
+  {
     "id": "e71c1cafa6f2fd21968a1efeff3d8e4b9506b5a8",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -96,42 +156,6 @@
     "published": "2026-08-22T07:30:52.000Z"
   },
   {
-    "id": "9c5a58c6f3cb81e1a5220897427dd56be979c1dd",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/13d137e996185821bf4fa0613e50e72c2b3cd658",
-    "published": "2026-08-22T06:08:14.000Z"
-  },
-  {
-    "id": "7986809ce366e0854d6339608066e95dec6d5ccb",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fd2beb189e6263b64e6fe383a8f755bef3594a9f",
-    "published": "2026-08-22T03:17:26.000Z"
-  },
-  {
-    "id": "1d53093b1ea8a4f1088a7f1e2331aba9c58b5fde",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/24033fb6dc66e6f5669b21924d9d9abede1d2292",
-    "published": "2026-08-22T00:12:43.000Z"
-  },
-  {
     "id": "7fc8fd49db2026d3b9c3be786709d1443b090183",
     "source": "Latent Space",
     "type": "podcast",
@@ -142,18 +166,6 @@
     "thumbnail": null,
     "url": "https://www.latent.space/p/simile",
     "published": "2026-08-21T23:37:38.000Z"
-  },
-  {
-    "id": "e5b147ae20e78172ad17333f6117b55a9982ced6",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fe24b143b1fcc3227ca0baa4ba9e2870c586a25c",
-    "published": "2026-08-21T21:06:38.000Z"
   },
   {
     "id": "8ecc51df967ec5182c210b7d7d7fd6ba5a907861",
@@ -262,18 +274,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!qxa1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F798d1525-1097-40a9-b68e-8ae5dbb6598f_970x666.png",
     "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-we-need-to-talk-about-migrations",
     "published": "2026-08-20T17:53:01.000Z"
-  },
-  {
-    "id": "4b6d1b0e0d57e07686aab2c0c0411686707a10d2",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
-    "summary": "Research: A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView Today saw the long awaited release of Bun 1.4, the first stable version since the infamous Rust rewrite a few months ago....",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
-    "published": "2026-08-20T15:37:00.000Z"
   },
   {
     "id": "2019b247822b54fc37e22842a1ceb21bc9a2e8ab",
