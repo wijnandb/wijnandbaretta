@@ -1,5 +1,77 @@
 [
   {
+    "id": "1eee8f513261a4733a1a65433167b93c2bd43c05",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c12e39526a5e08be1476b47862bd8bfde0ec61d2",
+    "published": "2026-08-24T06:14:48.000Z"
+  },
+  {
+    "id": "cf06ab66e9a4772e034baf1089a4235549348467",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c1ff98bf613e7368eba0f80084ac1bcabf2f3854",
+    "published": "2026-08-24T03:22:35.000Z"
+  },
+  {
+    "id": "44a541888a0bfc96ce21fe0ec4e4989aead024d3",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3da555547d761ffcfe1c18876516138560d74a78",
+    "published": "2026-08-24T00:12:57.000Z"
+  },
+  {
+    "id": "4488ebd9627c81bc9b71b051abce329bd0113656",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/685ded035c3b00cb3232599422f801dd3319de1b",
+    "published": "2026-08-23T21:05:09.000Z"
+  },
+  {
+    "id": "fc0f17557ab7491bbada73e90e22421fe047f953",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+    "summary": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\": Anthropic's \"annualized...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+    "published": "2026-08-23T20:24:52.000Z"
+  },
+  {
+    "id": "0e890f2df398c0d6833827174ff749d9682363a6",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Drew Breunig",
+    "summary": "Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over most of your...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+    "published": "2026-08-23T19:55:30.000Z"
+  },
+  {
     "id": "5bb5c2628508b474ccccad1db148f633b1010844",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -46,54 +118,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c0bfdbdbcf0bb55ad8114b29fe8abde0c5404a50",
     "published": "2026-08-23T09:08:03.000Z"
-  },
-  {
-    "id": "c2ba01b23f81fbac736e1075552457cad4c6a557",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/80a709c154bc13c5c4d37149c82a66f56123182a",
-    "published": "2026-08-23T06:09:31.000Z"
-  },
-  {
-    "id": "6f1407d04c0760c1bc9175426489335afa876e8e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/25c36f4d398727517c1a9322e3fb1e317a9297df",
-    "published": "2026-08-23T03:21:44.000Z"
-  },
-  {
-    "id": "0bdc82b15ce1efe8e80dcf86cdca250cb43e4099",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/832d69dc8a3c733f1e64bb57eecef77c4ad85af0",
-    "published": "2026-08-23T00:13:02.000Z"
-  },
-  {
-    "id": "9d84234957fe67ecd562f0bb218835c9a334d21e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/414cf9b751f4505637ade65f8a64360e5e1ab280",
-    "published": "2026-08-22T21:05:57.000Z"
   },
   {
     "id": "d17933d43559704bbcebd7901e6b8994e79846a5",
@@ -173,7 +197,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Codex Can CONTROL Your Messages Now (Endless Possibilities)",
+    "title": "Codex vs Claude vs Grokbot: What's The Best Super App?",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/ETa6ZYqoIXo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ETa6ZYqoIXo",
@@ -216,18 +240,6 @@
     "published": "2026-08-21T16:07:32.000Z"
   },
   {
-    "id": "16d33351d8eb402c9f6d5330d45fce8c21fdb0cd",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Matt Webb",
-    "summary": "After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn’t get it to write the code, but I got it to educate me. With a patient,...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
-    "published": "2026-08-21T15:06:26.000Z"
-  },
-  {
     "id": "9a19920264c99721985a0b800d1bb1961eee7fee",
     "source": "Latent Space",
     "type": "podcast",
@@ -238,18 +250,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!mQfw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a668ad4-aca6-4c1c-ac78-5132b8f3d7a8_834x844.png",
     "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
     "published": "2026-08-21T05:45:21.000Z"
-  },
-  {
-    "id": "d58dda0fceeadd9cee7d28a059176f9e8371eb58",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "ChatGPT search now uses the site:operator at scale",
-    "summary": "ChatGPT search now uses the site:operator at scale Promptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
-    "published": "2026-08-20T23:57:32.000Z"
   },
   {
     "id": "e791424eb124bfa1fcbfdc17ebe8bb0212ee0dad",
