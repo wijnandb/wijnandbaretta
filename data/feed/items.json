@@ -1,5 +1,77 @@
 [
   {
+    "id": "18c91a3b0620ab4b2305ad52561466a65d7fec84",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/205084e5241040db8ef940a8b037b098d5e75e31",
+    "published": "2026-08-24T18:09:27.000Z"
+  },
+  {
+    "id": "399f82584fa8c1088a2c5b6a3dbc186a5e0b2c37",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Introducing ElevenLabs CLI v1",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/MuORAEVtJIQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=MuORAEVtJIQ",
+    "published": "2026-08-24T15:48:12.000Z"
+  },
+  {
+    "id": "23fa4db95131cd12bff30f692143a02d367a91db",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8855cfcf72c0b4783c8e8ca4d4b366206ffc0335",
+    "published": "2026-08-24T15:15:07.000Z"
+  },
+  {
+    "id": "e582d341d4aa2bb14fcd6c662e964837d5cb2ded",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6ed2c37d279a0712245fd7e665618bcc91afb8c4",
+    "published": "2026-08-24T12:09:27.000Z"
+  },
+  {
+    "id": "45339259dc1eb1a52ad3eb58780352c20f76eb33",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Your executable is a SQLite database",
+    "summary": "Your executable is a SQLite database Farid Zakaria describes a neat Linux pattern for creating a SQLite database file that can be directly used as an executable binary. The trick sets the SQLite file...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
+    "published": "2026-08-24T11:38:15.000Z"
+  },
+  {
+    "id": "6b3e989d183891ce3b68f64d54c1ac351ca1de4a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/eebbe6b248d17be4138265e50f9f6f6e15f9309f",
+    "published": "2026-08-24T09:18:07.000Z"
+  },
+  {
     "id": "1eee8f513261a4733a1a65433167b93c2bd43c05",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -70,54 +142,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
     "published": "2026-08-23T19:55:30.000Z"
-  },
-  {
-    "id": "5bb5c2628508b474ccccad1db148f633b1010844",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/47b8c8ba0d496213f818d9585fbd6117cfce8c3d",
-    "published": "2026-08-23T18:05:01.000Z"
-  },
-  {
-    "id": "a3c46832adbf03230c4aefe7c214573ff8e2fe83",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a71f9e32b41212d2c9777c50f846bdb79c8a7659",
-    "published": "2026-08-23T15:05:48.000Z"
-  },
-  {
-    "id": "314b8da5ad9355e3ae67df9e35add3521af2b799",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c756bcdcd70baf5bf00a806eedd4a726a2189676",
-    "published": "2026-08-23T12:07:06.000Z"
-  },
-  {
-    "id": "7d3efbf6ca23a334c4ea75a042adaeec3e5cddbd",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c0bfdbdbcf0bb55ad8114b29fe8abde0c5404a50",
-    "published": "2026-08-23T09:08:03.000Z"
   },
   {
     "id": "d17933d43559704bbcebd7901e6b8994e79846a5",
@@ -226,18 +250,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
     "published": "2026-08-21T16:58:19.000Z"
-  },
-  {
-    "id": "bc0cc655f93c1944a04411e7bb579f89f0c003ec",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Stop Making TUIs",
-    "summary": "Stop Making TUIs Thomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, because coding agents have reduced the cost of getting a usable-enough GUI...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
-    "published": "2026-08-21T16:07:32.000Z"
   },
   {
     "id": "9a19920264c99721985a0b800d1bb1961eee7fee",
@@ -898,18 +910,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/fable_is_terug_de_vooruitblik_wat_kan_ai_eind_dit_jaar",
     "published": "2026-07-02T15:15:03.000Z"
-  },
-  {
-    "id": "c6299e51f20e69536a9639af84083fb24fdedeca",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "ElevenLabs in 100 Seconds",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/FJlcJWlLgC8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=FJlcJWlLgC8",
-    "published": "2026-07-02T12:58:48.000Z"
   },
   {
     "id": "d66509b0c928a5218e10ebda9aafa002ec1561ea",
