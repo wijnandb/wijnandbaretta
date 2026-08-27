@@ -1,5 +1,149 @@
 [
   {
+    "id": "6e24acd3ca81f7ceada9fe75197d9da4aa255004",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2fe364346e0bef2ef7e03e3ef3d83c862c47211a",
+    "published": "2026-08-27T15:43:02.000Z"
+  },
+  {
+    "id": "7f3ca5ba97051a6857d9f0d15ef93d40b4031ff8",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4c5585defa9e89cd4c0d31280ef7f42549b8b297",
+    "published": "2026-08-27T09:07:03.000Z"
+  },
+  {
+    "id": "09fd810985c91b0a07e3c996b9c06ec2d3861309",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c233a47c1f10ad43db139e7322c130b06633b39f",
+    "published": "2026-08-27T04:48:49.000Z"
+  },
+  {
+    "id": "f6298dcfed52b0318b35d4b7bda1e1ab2189dbc6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c046acdbb22a274501af19e27a8efe1bb4341b37",
+    "published": "2026-08-27T03:54:29.000Z"
+  },
+  {
+    "id": "839fcc35777ea85532dcf5f431f91acc5b66de4a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: seedeep (#2644)",
+    "summary": "Add resource: seedeep (#2644) Category: Observability & Monitoring Author: duqaXxX From issue: #2636 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c9215686f56a7d831301e6eca8eac89437aa61f4",
+    "published": "2026-08-27T03:54:08.000Z"
+  },
+  {
+    "id": "a31466f4f2ac70fb3dc0449978670d9d00ea1a5f",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro",
+    "summary": "Open Source wins!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!FSM7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa61da113-3d9b-4206-81c1-06da7b4a9a0c_1362x1278.png",
+    "url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
+    "published": "2026-08-27T01:50:54.000Z"
+  },
+  {
+    "id": "4773d88812f84f6b8425b4312ba77eede763b56d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/80b3e0b0f0bef0e5a8e41767778dd3d0c9a5519b",
+    "published": "2026-08-27T01:31:59.000Z"
+  },
+  {
+    "id": "1ea8eebd3701c752d90f53d9f2d12a394a1a4d78",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
+    "summary": "The conference with hot chips and even hotter companies",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!sZiW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2092299952433061888.jpg",
+    "url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+    "published": "2026-08-27T01:31:22.000Z"
+  },
+  {
+    "id": "8f7e44d8fdff1c9daee549d3ba5b1bc9d1b8c0a1",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Qwen3.8-Flash-Next",
+    "summary": "Qwen3.8-Flash-Next Another open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\". It's pretty big: 125B tokens, but...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+    "published": "2026-08-26T23:52:58.000Z"
+  },
+  {
+    "id": "4c6dbfffd513a4eccb34e74de948c132f24e65ab",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3fff3c6f8f79659d0cf06452bfe79a720065efe3",
+    "published": "2026-08-26T21:57:23.000Z"
+  },
+  {
+    "id": "2a26c52955edfd25f3c384cfc0f5f6bf338aade5",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #11168 from browserless/add-browserless",
+    "summary": "Merge pull request #11168 from browserless/add-browserless Add Browserless MCP server 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/a523ec62dad3a5e2b4575f45a89489fe239ce102",
+    "published": "2026-08-26T20:37:13.000Z"
+  },
+  {
+    "id": "cadc472eaf02fbbd7c4a17d32ed4da38af3ac956",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "11 Insane Things Cursor’s NEW GrokBot Can Do",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/XgkW4A6lrDY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=XgkW4A6lrDY",
+    "published": "2026-08-26T20:02:16.000Z"
+  },
+  {
     "id": "fedcb9324eabac717a1681951b2f29924cc4e404",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -36,18 +180,6 @@
     "published": "2026-08-26T15:59:59.000Z"
   },
   {
-    "id": "ab4f14c5d455eff776a14474d983e5ddec14a0da",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e7c0a4c494616b2214bc84be9ac11963a43f47ff",
-    "published": "2026-08-26T15:47:28.000Z"
-  },
-  {
     "id": "48713ac2d414dbdd995d94b7fd046f2874b19f4a",
     "source": "Latent Space",
     "type": "podcast",
@@ -72,30 +204,6 @@
     "published": "2026-08-26T14:00:00.000Z"
   },
   {
-    "id": "65e4504ccdcae8c2d82abc52941490a71b6b6fd5",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2963fc012bd552f04a2a4f4e4efbbef597a52ec4",
-    "published": "2026-08-26T12:10:07.000Z"
-  },
-  {
-    "id": "21bb483c2912b4bc82035964a8756804849d44e3",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0b93590eba0401a106a459919afa7644ad926fa2",
-    "published": "2026-08-26T09:16:14.000Z"
-  },
-  {
     "id": "e7386291854e2ef63c33e8eb8c943f5a5689b990",
     "source": "Simon Willison",
     "type": "blog",
@@ -106,30 +214,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/26/paul-dix/",
     "published": "2026-08-26T08:07:55.000Z"
-  },
-  {
-    "id": "51cc58421dec2805921fec140c6ae4c27879638e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6d4ce35da760a0b0279c932de97b3dd36136987c",
-    "published": "2026-08-26T06:11:16.000Z"
-  },
-  {
-    "id": "1486863ee59d93e60cd71f6d4a8b768e800ac7ac",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/28a77f975e4f79427a87cad7c848104b54f45706",
-    "published": "2026-08-26T03:22:59.000Z"
   },
   {
     "id": "34db913e1224ce823bdf9e72e9dc3443dbfad272",
@@ -144,18 +228,6 @@
     "published": "2026-08-26T00:41:14.000Z"
   },
   {
-    "id": "7e1b748386c6bb562fd6ab11237008b12c7e7318",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0a1fcfeeb5459140773a55c2e5c435ad1ac70221",
-    "published": "2026-08-26T00:13:11.000Z"
-  },
-  {
     "id": "f59c3acff0af2de2dd4474af4bb9c7fc6ec51bf6",
     "source": "Simon Willison",
     "type": "blog",
@@ -166,18 +238,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
     "published": "2026-08-25T22:59:30.000Z"
-  },
-  {
-    "id": "3cd30e0e016e0f36f19a1ce87c4bf180f89392c9",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/40bd3ea6abbd6595066ff67db26b03ac74d6cbd9",
-    "published": "2026-08-25T21:07:49.000Z"
   },
   {
     "id": "4e66e71e0084ef294634befd66700efac46ef416",
@@ -300,18 +360,6 @@
     "published": "2026-08-22T21:04:26.000Z"
   },
   {
-    "id": "d2a4852ea41c5f51ab50916bf60d1a275b4fa167",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm 0.33",
-    "summary": "Release: llm 0.33 My highlights from this release: Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2. #1608, #1631 I shipped a quick 0.32.1 fix...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/22/llm/",
-    "published": "2026-08-22T17:01:16.000Z"
-  },
-  {
     "id": "9e98c378bde5943a56254068a281a1027fe226dd",
     "source": "Latent Space",
     "type": "podcast",
@@ -358,30 +406,6 @@
     "thumbnail": "https://i.ytimg.com/vi/ETa6ZYqoIXo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ETa6ZYqoIXo",
     "published": "2026-08-21T20:41:12.000Z"
-  },
-  {
-    "id": "9a19920264c99721985a0b800d1bb1961eee7fee",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
-    "summary": "Yes, we’re confused too.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!mQfw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a668ad4-aca6-4c1c-ac78-5132b8f3d7a8_834x844.png",
-    "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
-    "published": "2026-08-21T05:45:21.000Z"
-  },
-  {
-    "id": "e791424eb124bfa1fcbfdc17ebe8bb0212ee0dad",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "The /wayfinder Skill: Navigating the “Fog of War” of Planning",
-    "summary": "Matt Pocock tells us about his /wayfinder skill, for greenfield projects or for when the way forward is unclear.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!gjWE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1de39b70-d389-48c7-aaac-623d91e6f959_2560x1440.png",
-    "url": "https://www.latent.space/p/wayfinder-skill",
-    "published": "2026-08-20T20:59:09.000Z"
   },
   {
     "id": "8908f6c83c5f5473874e1a1c63f1147f241a7e2a",
@@ -636,18 +660,6 @@
     "published": "2026-08-10T07:44:14.000Z"
   },
   {
-    "id": "55a29136b2060544744ca2195f01b69baeceaeb7",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "14 Insane Things NEW ChatGPT Work Can Do (Automate Anything)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/zWL6XGP3Em8/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=zWL6XGP3Em8",
-    "published": "2026-08-09T15:00:22.000Z"
-  },
-  {
     "id": "488623fa078345549e3e5655f16eef6a431403df",
     "source": "ElevenLabs",
     "type": "video",
@@ -780,6 +792,30 @@
     "published": "2026-07-30T06:20:10.000Z"
   },
   {
+    "id": "44ca85fbbf061544759bba7cd35007e2fd7c46c8",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add Glama badge to Browserless entry",
+    "summary": "Add Glama badge to Browserless entry Co-Authored-By: Claude Opus 4.8",
+    "thumbnail": "https://avatars.githubusercontent.com/u/26334725?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/9f81e8485de4f9de60bd1939d87157b6b181952d",
+    "published": "2026-07-29T18:25:35.000Z"
+  },
+  {
+    "id": "238ad2af9e4d49cd06189bc1c889e27643d1ad22",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add Browserless MCP server",
+    "summary": "Add Browserless MCP server Co-Authored-By: Claude Opus 4.8",
+    "thumbnail": "https://avatars.githubusercontent.com/u/26334725?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/b10ac99c4ae9b3731ad39124a3bebfb6d1d9eab5",
+    "published": "2026-07-29T18:08:37.000Z"
+  },
+  {
     "id": "2812bf1a61ea8005354f847282f1df9829ea1e76",
     "source": "awesome-mcp-servers",
     "type": "repo",
@@ -790,42 +826,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
     "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/375407c7290dd99d305938983f37adffa9d44275",
     "published": "2026-07-29T10:26:20.000Z"
-  },
-  {
-    "id": "eb07bd6af8c826d1fef9ca4546abdd677ff2c7c4",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #11068 from Alepha188838884/add-context-firewall",
-    "summary": "Merge pull request #11068 from Alepha188838884/add-context-firewall Add context-firewall (aggregator proxy with output compression) 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/9a6239e018b7168b5106834da989886a178c3b6a",
-    "published": "2026-07-29T09:59:59.000Z"
-  },
-  {
-    "id": "d6fca144789a70cbbe0aea282d19af8e935de5e3",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10561 from khrystynaDal/patch-1",
-    "summary": "Merge pull request #10561 from khrystynaDal/patch-1 Add drawing-converter-mcp (metric ⇄ imperial for technical drawings)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/706ef898ea9ba14ca3d5b1dcafbd235976e4110b",
-    "published": "2026-07-29T09:46:24.000Z"
-  },
-  {
-    "id": "db721e5ceaf21b85e497204d390e060b420356dd",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Update drawing-converter-mcp entry in README",
-    "summary": "Update drawing-converter-mcp entry in README",
-    "thumbnail": "https://avatars.githubusercontent.com/u/307393918?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/8855694329fb63126788f724f157ac9c701b6142",
-    "published": "2026-07-29T09:38:00.000Z"
   },
   {
     "id": "08c3f0dafe56fd7d95f764e400e22448dcfd90ac",
