@@ -1,5 +1,77 @@
 [
   {
+    "id": "47aa5e122dbd1dadcb2313f07a0c59fc42caaa5e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ed4067b32bb88088b841da40a6811ee521c40b59",
+    "published": "2026-08-28T16:08:57.000Z"
+  },
+  {
+    "id": "988c39a25e8e0342fb54dafa4315ed764f023ddb",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "Firebase AI Logic Tutorial #5 - AI Logic with Firestore",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/sOeMAP5pf-c/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=sOeMAP5pf-c",
+    "published": "2026-08-28T15:54:11.000Z"
+  },
+  {
+    "id": "3c82a0316398a68b348a9cf615fed10654c209a2",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d99fea7f4a35a20e6421f5fdcdbf6519b3946958",
+    "published": "2026-08-28T09:11:05.000Z"
+  },
+  {
+    "id": "1d5fd45befcaea1b17894df5e0bef85d58397c2e",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] OpenAI to reach AGI bar by end-2026",
+    "summary": "It’s Time. We’re in the Endgame now.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
+    "url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
+    "published": "2026-08-28T07:12:10.000Z"
+  },
+  {
+    "id": "711d4ccca33e232efa19ed0f041d4565b304e0d5",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e2fdce3e101b6095ee7b2b1b7095ff6b9409a5b4",
+    "published": "2026-08-28T05:43:45.000Z"
+  },
+  {
+    "id": "6ecc7b5593b73856a9d249181f85a3a2013efb3d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bfa5bad6f0589d2bec9298c84326b361cb43130e",
+    "published": "2026-08-28T02:53:24.000Z"
+  },
+  {
     "id": "8eda2df95dfbad75628f178af70a92467343d2ba",
     "source": "The Anthropic Stack",
     "type": "video",
@@ -144,30 +216,6 @@
     "published": "2026-08-27T04:48:49.000Z"
   },
   {
-    "id": "f6298dcfed52b0318b35d4b7bda1e1ab2189dbc6",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c046acdbb22a274501af19e27a8efe1bb4341b37",
-    "published": "2026-08-27T03:54:29.000Z"
-  },
-  {
-    "id": "839fcc35777ea85532dcf5f431f91acc5b66de4a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: seedeep (#2644)",
-    "summary": "Add resource: seedeep (#2644) Category: Observability & Monitoring Author: duqaXxX From issue: #2636 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c9215686f56a7d831301e6eca8eac89437aa61f4",
-    "published": "2026-08-27T03:54:08.000Z"
-  },
-  {
     "id": "a31466f4f2ac70fb3dc0449978670d9d00ea1a5f",
     "source": "Latent Space",
     "type": "podcast",
@@ -178,18 +226,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!FSM7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa61da113-3d9b-4206-81c1-06da7b4a9a0c_1362x1278.png",
     "url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
     "published": "2026-08-27T01:50:54.000Z"
-  },
-  {
-    "id": "4773d88812f84f6b8425b4312ba77eede763b56d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/80b3e0b0f0bef0e5a8e41767778dd3d0c9a5519b",
-    "published": "2026-08-27T01:31:59.000Z"
   },
   {
     "id": "1ea8eebd3701c752d90f53d9f2d12a394a1a4d78",
@@ -214,18 +250,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
     "published": "2026-08-26T23:52:58.000Z"
-  },
-  {
-    "id": "4c6dbfffd513a4eccb34e74de948c132f24e65ab",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3fff3c6f8f79659d0cf06452bfe79a720065efe3",
-    "published": "2026-08-26T21:57:23.000Z"
   },
   {
     "id": "2a26c52955edfd25f3c384cfc0f5f6bf338aade5",
@@ -420,6 +444,18 @@
     "published": "2026-08-24T16:27:04.000Z"
   },
   {
+    "id": "399f82584fa8c1088a2c5b6a3dbc186a5e0b2c37",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Introducing ElevenLabs CLI v1",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/MuORAEVtJIQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=MuORAEVtJIQ",
+    "published": "2026-08-24T15:48:12.000Z"
+  },
+  {
     "id": "45339259dc1eb1a52ad3eb58780352c20f76eb33",
     "source": "Simon Willison",
     "type": "blog",
@@ -480,18 +516,6 @@
     "published": "2026-08-22T07:30:52.000Z"
   },
   {
-    "id": "7fc8fd49db2026d3b9c3be786709d1443b090183",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
-    "summary": "Simile’s CEO about his journey from the viral Generative Agents to creating 8 Billion Digital Twins of every living human... and why it’s gone from fun exploration to very serious business.",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/simile",
-    "published": "2026-08-21T23:37:38.000Z"
-  },
-  {
     "id": "8ecc51df967ec5182c210b7d7d7fd6ba5a907861",
     "source": "Riley Brown",
     "type": "video",
@@ -540,6 +564,18 @@
     "published": "2026-08-20T08:12:37.000Z"
   },
   {
+    "id": "a55e85b0e1fed38f4b59a86fb4ef17bd79127585",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Eleven v3 Conversational, available via API",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/pNMYYsO_UBE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=pNMYYsO_UBE",
+    "published": "2026-08-19T17:59:55.000Z"
+  },
+  {
     "id": "4d7cecd4850bc52335fa49bfae70b5cb9a1fe29c",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -550,6 +586,18 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!-jSJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16f7884a-f725-4cff-84be-46c6e10c1df1_1600x140.png",
     "url": "https://newsletter.pragmaticengineer.com/p/from-chrome-devtools-to-ai-engineering",
     "published": "2026-08-19T16:53:57.000Z"
+  },
+  {
+    "id": "c2672687756771576f404163f89b80e7f349ca99",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Introducing ElevenLabs Hosted MCP",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/EtT3UiXBzuc/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=EtT3UiXBzuc",
+    "published": "2026-08-18T16:58:41.000Z"
   },
   {
     "id": "bff177c791283c085eaa60f0ae48e087575b0e64",
@@ -648,6 +696,18 @@
     "published": "2026-08-14T16:55:55.000Z"
   },
   {
+    "id": "b628076ad0168a3331b8a2e86179d687886ceaf9",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Deterministic Procedures in ElevenAgents",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/PNVq0l7Uhxs/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=PNVq0l7Uhxs",
+    "published": "2026-08-13T16:26:20.000Z"
+  },
+  {
     "id": "05730340cf30fb078fb6a1c850d20e462406659e",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -708,6 +768,18 @@
     "published": "2026-08-10T07:44:14.000Z"
   },
   {
+    "id": "488623fa078345549e3e5655f16eef6a431403df",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Introducing Dubbing v2 API",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/GSk5JyiT4sU/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=GSk5JyiT4sU",
+    "published": "2026-08-06T15:01:13.000Z"
+  },
+  {
     "id": "4bb1e266a43996e8d8eee7759211ad493625280f",
     "source": "Astro",
     "type": "blog",
@@ -744,6 +816,18 @@
     "published": "2026-08-05T08:30:52.000Z"
   },
   {
+    "id": "870e6320ab958ed8288df63686755715d92e8ff5",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Entity Detection in Scribe V2",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/1rczYAFvg7w/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=1rczYAFvg7w",
+    "published": "2026-08-04T16:46:45.000Z"
+  },
+  {
     "id": "a9b8d470e8f5a4183a713f4cdba6c3d4ea7d1879",
     "source": "Werner Vogels",
     "type": "blog",
@@ -754,18 +838,6 @@
     "thumbnail": null,
     "url": "https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html?utm_campaign=inbound&amp;utm_source=rss",
     "published": "2026-08-04T14:00:00.000Z"
-  },
-  {
-    "id": "cac2b87a2f096965c1f1521766c4fb39f31137d2",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Firebase Crash Course (Auth & Firestore) #10 - Realtime Firestore Subscription",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/8b81f0ylDdE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=8b81f0ylDdE",
-    "published": "2026-08-04T08:00:12.000Z"
   },
   {
     "id": "aae882e180ed82d11a422bf5bed2c6e2eb3d35f4",
@@ -816,6 +888,18 @@
     "published": "2026-07-30T06:20:10.000Z"
   },
   {
+    "id": "08c3f0dafe56fd7d95f764e400e22448dcfd90ac",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Introducing FineTunes Music API",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/HrDcpJV_JKc/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=HrDcpJV_JKc",
+    "published": "2026-07-22T16:20:58.000Z"
+  },
+  {
     "id": "2e77c20f7079164d76ee1b93e59f8a5ed8fffcf1",
     "source": "AI Jason",
     "type": "video",
@@ -850,6 +934,18 @@
     "thumbnail": "https://i.ytimg.com/vi/MsPhMhfvgD4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=MsPhMhfvgD4",
     "published": "2026-07-14T10:35:00.000Z"
+  },
+  {
+    "id": "b9ae359ef57a087f5ce3ea0f26e893d07d399b07",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Add Voice to your AI Agents",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/5o5NQH7vqog/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=5o5NQH7vqog",
+    "published": "2026-07-13T16:00:52.000Z"
   },
   {
     "id": "d46f68d824228d6e09f9e247ee9538c19e2c6bcc",
@@ -1102,101 +1198,5 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/wietse_doet_opeens_alles_in_codex_van_openai_nieuwe_claude_verzint_minder",
     "published": "2026-06-04T15:02:51.000Z"
-  },
-  {
-    "id": "7189bad0ddda1aa37550b05edda7d29d3f52255b",
-    "source": "Astro",
-    "type": "blog",
-    "category": "astro",
-    "lang": "en",
-    "title": "Astro Mart: Summer 2026 Collection",
-    "summary": "Get ready for a summer of sport with our new personalizable merch.",
-    "thumbnail": null,
-    "url": "https://astro.build/blog/astro-mart-ss26/",
-    "published": "2026-06-04T00:00:00.000Z"
-  },
-  {
-    "id": "14903e12ef60d49deb828db3b402cb9138c97a7b",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "How to build proactive agents & self-improving company (Fully explained)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/ikH1--DSzMs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ikH1--DSzMs",
-    "published": "2026-06-02T12:17:34.000Z"
-  },
-  {
-    "id": "0a681af572e37e36561fd4902f5c2cf106704b09",
-    "source": "Astro",
-    "type": "blog",
-    "category": "astro",
-    "lang": "en",
-    "title": "What's new in Astro - May 2026",
-    "summary": "May 2026 - A new Astro jobs board, TinaCMS makes Astro their default template, experimental advanced routing, and more!",
-    "thumbnail": null,
-    "url": "https://astro.build/blog/whats-new-may-2026/",
-    "published": "2026-05-31T00:00:00.000Z"
-  },
-  {
-    "id": "55cba11daf92edec8b233e504c7aa61d2aef9b43",
-    "source": "AI Report",
-    "type": "podcast",
-    "category": "nl",
-    "lang": "nl",
-    "title": "Moeten alle Nederlanders gratis AI krijgen? + de paus blijkt een AI-nerd",
-    "summary": "Alexander draagt sinds kort Google's Fitbit Air, een schermloze tracker die hem de hele dag pushberichten stuurt als een AI-coach: het ding analyseert zijn nacht en praat hem richting zijn...",
-    "thumbnail": null,
-    "url": "https://www.aireport.nl/podcast/s/aireport/moeten_alle_nederlanders_gratis_ai_krijgen_de_paus_blijkt_een_ai-nerd",
-    "published": "2026-05-28T04:30:00.000Z"
-  },
-  {
-    "id": "999ca2787ecc2b49f259e702a14db51488b89389",
-    "source": "Astro",
-    "type": "blog",
-    "category": "astro",
-    "lang": "en",
-    "title": "Astro 6.4",
-    "summary": "Astro 6.4 introduces a new pluggable Markdown processor API, a Rust-based Markdown processor for faster builds, and helpers to wire up experimental advanced routing with Cloudflare.",
-    "thumbnail": null,
-    "url": "https://astro.build/blog/astro-640/",
-    "published": "2026-05-28T00:00:00.000Z"
-  },
-  {
-    "id": "423f3ce3e50bcaa1873cc9790a67f1369d749829",
-    "source": "Code with Andrea",
-    "type": "video",
-    "category": "systems",
-    "lang": "en",
-    "title": "Should you use /init to generate CLAUDE.md or AGENTS.md?",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/AzbJUZH9bno/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=AzbJUZH9bno",
-    "published": "2026-05-18T11:42:00.000Z"
-  },
-  {
-    "id": "7d7b0841e9307efe21f2684c33634982a092ff39",
-    "source": "Code with Andrea",
-    "type": "video",
-    "category": "systems",
-    "lang": "en",
-    "title": "Spec-Driven Development with AI: Building a Real Flutter Feature Step by Step",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/2poAKjYGEaI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=2poAKjYGEaI",
-    "published": "2026-05-08T07:49:15.000Z"
-  },
-  {
-    "id": "2679786a73a762492c7d45de7be976e342be82fd",
-    "source": "The Anthropic Stack",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Translating Claude’s thoughts into language",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/j2knrqAzYVY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
-    "published": "2026-05-07T17:01:21.000Z"
   }
 ]
