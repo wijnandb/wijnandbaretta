@@ -1,5 +1,101 @@
 [
   {
+    "id": "8eda2df95dfbad75628f178af70a92467343d2ba",
+    "source": "The Anthropic Stack",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Model Hardware Standard: AI operating physical equipment",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/UxJZrCFzTHY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=UxJZrCFzTHY",
+    "published": "2026-08-28T00:40:16.000Z"
+  },
+  {
+    "id": "6f6843c5a98ae6d625d24f18c79a4be44dd8dc3c",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Breaking Claude Code Opus 5 Auto Mode",
+    "summary": "Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+    "published": "2026-08-27T22:50:25.000Z"
+  },
+  {
+    "id": "ecfee3048ac04b490b859d2c6091d9ab08896c6a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5cc4638716edb95c78204ca1e565b210f9e139bb",
+    "published": "2026-08-27T21:12:45.000Z"
+  },
+  {
+    "id": "84b2f3d8174f1f88581e6741b6996ceb816a2236",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #12919 from parasxos/add-apple-mail-mcp",
+    "summary": "Merge pull request #12919 from parasxos/add-apple-mail-mcp Add parasxos/apple-mail-mcp (communication)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/c1e7baea0df1d6dbb01c142bc3c5cf3887c28f21",
+    "published": "2026-08-27T21:09:23.000Z"
+  },
+  {
+    "id": "703bda7376473fcb6adc3f74f68977ce34eefaec",
+    "source": "AI Report",
+    "type": "podcast",
+    "category": "nl",
+    "lang": "nl",
+    "title": "De Hugging Face hack is als Tsjernobyl voor AI + Bill Gates slaat alarm",
+    "summary": "AI Report Premium vier weken proberen voor vier euro, inclusief het volledige webinar-archief? De actie loopt tot maandag 31 augustus. Ga naar aireport.nl/upgrade ( http://aireport.nl/upgrade )...",
+    "thumbnail": null,
+    "url": "https://www.aireport.nl/podcast/s/aireport/de_hugging_face_hack_is_als_tsjernobyl_voor_ai_bill_gates_slaat_alarm",
+    "published": "2026-08-27T20:49:41.000Z"
+  },
+  {
+    "id": "b5ae37610f9ca695643f9b4be32269353ab4ace0",
+    "source": "The Anthropic Stack",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "We're building a way for AI models to connect to any device and run real experiments.",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/djVUCj5i4sw/mqdefault.jpg",
+    "url": "https://www.youtube.com/shorts/djVUCj5i4sw",
+    "published": "2026-08-27T19:42:35.000Z"
+  },
+  {
+    "id": "2a6c1a23fb05fdf29ec091c8d77232f4309e576a",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI",
+    "summary": "We find out why Meta destroyed its standout engineering culture: it feared AI-native startups doing more with less. Also: thoughts on Ramp’s AI infra, GitHub’s load doubles in four months, and more",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!e8iR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4101a302-8ebd-44c4-906e-367d8be75b59_1242x892.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams",
+    "published": "2026-08-27T17:59:17.000Z"
+  },
+  {
+    "id": "6b1d02af48d3f2ab245de69ceab626bfc1499ea4",
+    "source": "The Anthropic Stack",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "AI models can now help run physical science experiments",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/P1zBiAQU1IA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=P1zBiAQU1IA",
+    "published": "2026-08-27T17:54:32.000Z"
+  },
+  {
     "id": "6e24acd3ca81f7ceada9fe75197d9da4aa255004",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -10,6 +106,18 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2fe364346e0bef2ef7e03e3ef3d83c862c47211a",
     "published": "2026-08-27T15:43:02.000Z"
+  },
+  {
+    "id": "3d53aaf6a40f8f795dd70f457687ffc42d58deba",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add Glama score badge",
+    "summary": "Add Glama score badge",
+    "thumbnail": "https://avatars.githubusercontent.com/u/8626960?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/50b464e5988dd1b97b6c5ae34e10e5bd3068071b",
+    "published": "2026-08-27T09:13:04.000Z"
   },
   {
     "id": "7f3ca5ba97051a6857d9f0d15ef93d40b4031ff8",
@@ -144,18 +252,6 @@
     "published": "2026-08-26T20:02:16.000Z"
   },
   {
-    "id": "fedcb9324eabac717a1681951b2f29924cc4e404",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b15421c10296e3db9de91ebc63d0073ca82095f6",
-    "published": "2026-08-26T18:38:17.000Z"
-  },
-  {
     "id": "3e8479c3da30035fceef7987792f9f27692df948",
     "source": "Latent Space",
     "type": "podcast",
@@ -214,6 +310,18 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/26/paul-dix/",
     "published": "2026-08-26T08:07:55.000Z"
+  },
+  {
+    "id": "980055d85e138649ad94762b700ba26d096238b8",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add parasxos/apple-mail-mcp to communication servers",
+    "summary": "Add parasxos/apple-mail-mcp to communication servers",
+    "thumbnail": "https://avatars.githubusercontent.com/u/8626960?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/f606809a33a266cae75e8ff8ad69dd9a9bb2d71f",
+    "published": "2026-08-26T07:10:24.000Z"
   },
   {
     "id": "34db913e1224ce823bdf9e72e9dc3443dbfad272",
@@ -288,6 +396,18 @@
     "published": "2026-08-25T02:50:57.000Z"
   },
   {
+    "id": "218629798f54d9025408fc6122801bb8bfd109b3",
+    "source": "Anthony Fu",
+    "type": "blog",
+    "category": "design",
+    "lang": "en",
+    "title": "Ecosystem Sponsorship Forwarding",
+    "summary": "The sponsorship-forwarding initiative redistributes funds to the dependencies and contributors that make open-source work possible. This living post tracks those redistributions.",
+    "thumbnail": null,
+    "url": "https://antfu.me/posts/ecosystem-sponsorship-forwarding",
+    "published": "2026-08-25T00:00:00.000Z"
+  },
+  {
     "id": "a6d4702c6822081617cfbf7b63e6ca1ddee8e734",
     "source": "Simon Willison",
     "type": "blog",
@@ -298,18 +418,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
     "published": "2026-08-24T16:27:04.000Z"
-  },
-  {
-    "id": "399f82584fa8c1088a2c5b6a3dbc186a5e0b2c37",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Introducing ElevenLabs CLI v1",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/MuORAEVtJIQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=MuORAEVtJIQ",
-    "published": "2026-08-24T15:48:12.000Z"
   },
   {
     "id": "45339259dc1eb1a52ad3eb58780352c20f76eb33",
@@ -346,18 +454,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
     "published": "2026-08-23T19:55:30.000Z"
-  },
-  {
-    "id": "d17933d43559704bbcebd7901e6b8994e79846a5",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Linus Torvalds",
-    "summary": "And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work. I'd like to call it my tireless helper, but the AI several times stated flat out that this was...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
-    "published": "2026-08-22T21:04:26.000Z"
   },
   {
     "id": "9e98c378bde5943a56254068a281a1027fe226dd",
@@ -444,18 +540,6 @@
     "published": "2026-08-20T08:12:37.000Z"
   },
   {
-    "id": "a55e85b0e1fed38f4b59a86fb4ef17bd79127585",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Eleven v3 Conversational, available via API",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/pNMYYsO_UBE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=pNMYYsO_UBE",
-    "published": "2026-08-19T17:59:55.000Z"
-  },
-  {
     "id": "4d7cecd4850bc52335fa49bfae70b5cb9a1fe29c",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -466,18 +550,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!-jSJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16f7884a-f725-4cff-84be-46c6e10c1df1_1600x140.png",
     "url": "https://newsletter.pragmaticengineer.com/p/from-chrome-devtools-to-ai-engineering",
     "published": "2026-08-19T16:53:57.000Z"
-  },
-  {
-    "id": "c2672687756771576f404163f89b80e7f349ca99",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Introducing ElevenLabs Hosted MCP",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/EtT3UiXBzuc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=EtT3UiXBzuc",
-    "published": "2026-08-18T16:58:41.000Z"
   },
   {
     "id": "bff177c791283c085eaa60f0ae48e087575b0e64",
@@ -576,18 +648,6 @@
     "published": "2026-08-14T16:55:55.000Z"
   },
   {
-    "id": "b628076ad0168a3331b8a2e86179d687886ceaf9",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Deterministic Procedures in ElevenAgents",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/PNVq0l7Uhxs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=PNVq0l7Uhxs",
-    "published": "2026-08-13T16:26:20.000Z"
-  },
-  {
     "id": "05730340cf30fb078fb6a1c850d20e462406659e",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -610,18 +670,6 @@
     "thumbnail": "https://i.ytimg.com/vi/8Yf9IoXkROM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=8Yf9IoXkROM",
     "published": "2026-08-11T17:44:11.000Z"
-  },
-  {
-    "id": "6440b1f13f8cde1da7c45a113410c4b81be8b55e",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Software engineering at a proprietary trading company: Optiver",
-    "summary": "A shift from a focus on latency to building better AI models, owning the full stack from applications to building custom hardware, very different incentives to most tech companies in play, and more",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!GFOE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cebf337-7395-47d1-b080-c4145a269eed_1768x594.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/optiver",
-    "published": "2026-08-11T16:17:39.000Z"
   },
   {
     "id": "e2d1cb80fe05c45b36d384bb2e19ffcbdb1828e0",
@@ -660,18 +708,6 @@
     "published": "2026-08-10T07:44:14.000Z"
   },
   {
-    "id": "488623fa078345549e3e5655f16eef6a431403df",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Introducing Dubbing v2 API",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/GSk5JyiT4sU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=GSk5JyiT4sU",
-    "published": "2026-08-06T15:01:13.000Z"
-  },
-  {
     "id": "4bb1e266a43996e8d8eee7759211ad493625280f",
     "source": "Astro",
     "type": "blog",
@@ -706,18 +742,6 @@
     "thumbnail": "https://i.ytimg.com/vi/edoy4FvJVkA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=edoy4FvJVkA",
     "published": "2026-08-05T08:30:52.000Z"
-  },
-  {
-    "id": "870e6320ab958ed8288df63686755715d92e8ff5",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Entity Detection in Scribe V2",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/1rczYAFvg7w/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=1rczYAFvg7w",
-    "published": "2026-08-04T16:46:45.000Z"
   },
   {
     "id": "a9b8d470e8f5a4183a713f4cdba6c3d4ea7d1879",
@@ -792,54 +816,6 @@
     "published": "2026-07-30T06:20:10.000Z"
   },
   {
-    "id": "44ca85fbbf061544759bba7cd35007e2fd7c46c8",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add Glama badge to Browserless entry",
-    "summary": "Add Glama badge to Browserless entry Co-Authored-By: Claude Opus 4.8",
-    "thumbnail": "https://avatars.githubusercontent.com/u/26334725?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/9f81e8485de4f9de60bd1939d87157b6b181952d",
-    "published": "2026-07-29T18:25:35.000Z"
-  },
-  {
-    "id": "238ad2af9e4d49cd06189bc1c889e27643d1ad22",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add Browserless MCP server",
-    "summary": "Add Browserless MCP server Co-Authored-By: Claude Opus 4.8",
-    "thumbnail": "https://avatars.githubusercontent.com/u/26334725?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/b10ac99c4ae9b3731ad39124a3bebfb6d1d9eab5",
-    "published": "2026-07-29T18:08:37.000Z"
-  },
-  {
-    "id": "2812bf1a61ea8005354f847282f1df9829ea1e76",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10893 from marccrutzen269-lab/add-departi-v2",
-    "summary": "Merge pull request #10893 from marccrutzen269-lab/add-departi-v2 Add Departi – Travel Compliance & Curated Booking MCP Server",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/375407c7290dd99d305938983f37adffa9d44275",
-    "published": "2026-07-29T10:26:20.000Z"
-  },
-  {
-    "id": "08c3f0dafe56fd7d95f764e400e22448dcfd90ac",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Introducing FineTunes Music API",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/HrDcpJV_JKc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=HrDcpJV_JKc",
-    "published": "2026-07-22T16:20:58.000Z"
-  },
-  {
     "id": "2e77c20f7079164d76ee1b93e59f8a5ed8fffcf1",
     "source": "AI Jason",
     "type": "video",
@@ -874,18 +850,6 @@
     "thumbnail": "https://i.ytimg.com/vi/MsPhMhfvgD4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=MsPhMhfvgD4",
     "published": "2026-07-14T10:35:00.000Z"
-  },
-  {
-    "id": "b9ae359ef57a087f5ce3ea0f26e893d07d399b07",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Add Voice to your AI Agents",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/5o5NQH7vqog/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=5o5NQH7vqog",
-    "published": "2026-07-13T16:00:52.000Z"
   },
   {
     "id": "d46f68d824228d6e09f9e247ee9538c19e2c6bcc",
@@ -1198,5 +1162,41 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/astro-640/",
     "published": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "id": "423f3ce3e50bcaa1873cc9790a67f1369d749829",
+    "source": "Code with Andrea",
+    "type": "video",
+    "category": "systems",
+    "lang": "en",
+    "title": "Should you use /init to generate CLAUDE.md or AGENTS.md?",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/AzbJUZH9bno/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=AzbJUZH9bno",
+    "published": "2026-05-18T11:42:00.000Z"
+  },
+  {
+    "id": "7d7b0841e9307efe21f2684c33634982a092ff39",
+    "source": "Code with Andrea",
+    "type": "video",
+    "category": "systems",
+    "lang": "en",
+    "title": "Spec-Driven Development with AI: Building a Real Flutter Feature Step by Step",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/2poAKjYGEaI/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=2poAKjYGEaI",
+    "published": "2026-05-08T07:49:15.000Z"
+  },
+  {
+    "id": "2679786a73a762492c7d45de7be976e342be82fd",
+    "source": "The Anthropic Stack",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Translating Claude’s thoughts into language",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/j2knrqAzYVY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+    "published": "2026-05-07T17:01:21.000Z"
   }
 ]
