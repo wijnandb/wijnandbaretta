@@ -1,99 +1,171 @@
 [
   {
-    "id": "376e2e6c20a581d5716ccdb5fd5accc4625d64a5",
-    "source": "awesome-mcp-servers",
+    "id": "fe54e73f80eb9ea1bccf2158f4f5f4a0b0e99d96",
+    "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Fix entry formatting",
-    "summary": "Fix entry formatting",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/463f83646deb8fd18888765823aad0e877ab296e",
-    "published": "2026-08-29T20:43:50.000Z"
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f8b356e600254ad749bb94675386b92ff63c97ad",
+    "published": "2026-08-30T09:09:34.000Z"
   },
   {
-    "id": "9eac83ab9569de88e9a42884dfb1f41a8fccd065",
-    "source": "awesome-mcp-servers",
+    "id": "a39f15cc9260743dd312e1762372fbb16037eff5",
+    "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #11155 from desek/add-desek-outlook-local-mcp",
-    "summary": "Merge pull request #11155 from desek/add-desek-outlook-local-mcp Add desek/outlook-local-mcp to Communication 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/0a60d12f725cc4e307f362eaa55e35ac91401c5c",
-    "published": "2026-08-29T20:43:45.000Z"
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f3a3bf8515d9c0e40f4256703feff17c8f10b1c5",
+    "published": "2026-08-30T06:15:43.000Z"
   },
   {
-    "id": "046db1d9eb2bb0e5837104cf5015d075476bf847",
-    "source": "awesome-mcp-servers",
+    "id": "00dd6e4326985bdaf20c3e2cf977542cc46337ec",
+    "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #12725 from trakshan-mishra/add-diffcontext",
-    "summary": "Merge pull request #12725 from trakshan-mishra/add-diffcontext Add DiffContext — static-analysis context compiler for LLM coding agents",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/53e243d90901424dce4c443268ba82f9e1664cff",
-    "published": "2026-08-29T20:37:26.000Z"
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8ced5e9d99ed48cfedb7488d931ec88fbd85816a",
+    "published": "2026-08-30T03:11:46.000Z"
   },
   {
-    "id": "87471f2db7a4f1d31c0afa9bcf831866685e5df6",
-    "source": "awesome-mcp-servers",
+    "id": "1c518b44555890ecee53f996146d3f7e38138fca",
+    "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #11664 from alejooroncoy/add-campus-cli",
-    "summary": "Merge pull request #11664 from alejooroncoy/add-campus-cli Add campus-cli under Education",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/be2e03bb2d494f44d6ad11899f7c3c4e9eb90f3c",
-    "published": "2026-08-29T20:36:58.000Z"
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0cabb4271492e3cc7b40228366692388b9f6c8c0",
+    "published": "2026-08-30T00:29:38.000Z"
   },
   {
-    "id": "3456da53fbcdb69e7030475cc85256b7a8fe6683",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
+    "id": "e99b0d4d4edfa874eb8408a93bc4fc0a51fceb13",
+    "source": "Simon Willison",
+    "type": "blog",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #12123 from smeet666/add-mcp-books",
-    "summary": "Merge pull request #12123 from smeet666/add-mcp-books Add smeet666/mcp-books",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/73a1f72b1e39e8931287145c5c861fde0285c30e",
-    "published": "2026-08-29T20:30:09.000Z"
+    "title": "Introducing Hy4 Preview",
+    "summary": "Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face....",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+    "published": "2026-08-29T23:53:13.000Z"
   },
   {
-    "id": "9b90613d9599e375b75df9b353d1626bfd8bacfa",
+    "id": "d398847d36270dc3ffd2316bc88659105161b7d0",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #11402 from conorbronsdon/add-apple-podcasts-mcp",
-    "summary": "Merge pull request #11402 from conorbronsdon/add-apple-podcasts-mcp Add apple-podcasts-mcp to Podcasts 🤖🤖🤖",
+    "title": "Merge pull request #12160 from ni-c/add-hetzner-dns-mcp",
+    "summary": "Merge pull request #12160 from ni-c/add-hetzner-dns-mcp Add hetzner-dns-mcp (cloud platforms) 🤖🤖🤖",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/bfc2d825be6020f2ff44d16e3d55a341cde93d8d",
-    "published": "2026-08-29T20:24:19.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/8dc03837219136b92eb7a4a5d0713806109a9f1a",
+    "published": "2026-08-29T22:03:27.000Z"
   },
   {
-    "id": "984e01c319f22d592dd9bd31f5f19ff43f50e54c",
+    "id": "488123e1e2ed081b7e2cb493100a3e9fca1ea742",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #12837 from sergey-ermakovich/add-hasdata-zillow",
-    "summary": "Merge pull request #12837 from sergey-ermakovich/add-hasdata-zillow Add HasData Zillow MCP server",
+    "title": "Merge pull request #12556 from kyisaiah47/add-kynth-mcp",
+    "summary": "Merge pull request #12556 from kyisaiah47/add-kynth-mcp Add kynth-mcp to Developer Tools 🤖🤖🤖",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/3c27dd0c336067f3c99dd3cc2f160fd49828be76",
-    "published": "2026-08-29T20:23:44.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/29bd7ea842170fc187905fdc104705b72fcd8ec3",
+    "published": "2026-08-29T22:01:12.000Z"
   },
   {
-    "id": "c089dd38a042e5bac64e04cf5ef7fa4a731b9f22",
+    "id": "634b6b956764ec314b373d635fa941e27cd328c0",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Fix entry formatting",
-    "summary": "Fix entry formatting",
+    "title": "Merge pull request #13032 from findsaunaplunge/add-findsaunaplunge",
+    "summary": "Merge pull request #13032 from findsaunaplunge/add-findsaunaplunge Add FindSaunaPlunge MCP server (Health & Wellness) 🤖🤖🤖",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/3c182ca6fdb3c2c3d785d4f55ecd4cb76a8d8942",
-    "published": "2026-08-29T20:17:49.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/6d5f27f785abd8b97754e52d3a75c833b0b2bd3a",
+    "published": "2026-08-29T21:56:16.000Z"
+  },
+  {
+    "id": "53af0f63577c95d40e851085814e628dbcc81612",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #11425 from BenyD/add-haypile",
+    "summary": "Merge pull request #11425 from BenyD/add-haypile Add Haypile to Search & Data Extraction 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/88ca903ba8b26623759f2f1e1085f0b5fd4f476d",
+    "published": "2026-08-29T21:51:59.000Z"
+  },
+  {
+    "id": "6937cf1b5b598693f2eb035e9f2231691659ccef",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #12830 from aliasunder/update-vault-cortex-aug-2026",
+    "summary": "Merge pull request #12830 from aliasunder/update-vault-cortex-aug-2026 Update vault-cortex listing description",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/7a2661e2c4ddf2deb80e1aea5ddc494def9a9bdf",
+    "published": "2026-08-29T21:49:47.000Z"
+  },
+  {
+    "id": "0e52bc729112dc0594339c09da9b1ba013d45c8a",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #12568 from astradivari/patch-1",
+    "summary": "Merge pull request #12568 from astradivari/patch-1 Add Hypawave MCP server",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/817378c25d4a337547c5b93f06a20e29b640f597",
+    "published": "2026-08-29T21:44:36.000Z"
+  },
+  {
+    "id": "ac1745fd33d6be512302e14d53314ed7f1dcba3d",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #11759 from belcairn/add-editmamei",
+    "summary": "Merge pull request #11759 from belcairn/add-editmamei Add Editmamei to Multimedia Process 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/326c62e6986a5288dd5ea4d88b619b4987b964f4",
+    "published": "2026-08-29T21:43:49.000Z"
+  },
+  {
+    "id": "b9913e2a5fa9ff87b606c129e55233ba37435716",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #11084 from drpancake/patch-2",
+    "summary": "Merge pull request #11084 from drpancake/patch-2 Add Rephonic MCP server",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/88607eef6a552c757bd9f48a43f5df0ad464c74d",
+    "published": "2026-08-29T21:42:04.000Z"
+  },
+  {
+    "id": "3ff204783640e392862a98bb6cf4591fc2b476e6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/230ede458c6c7700f93eb58d11a1deacdbb7f180",
+    "published": "2026-08-29T21:07:39.000Z"
   },
   {
     "id": "ad4d612b4f81a04fe47af4e8d0cfb51abfd589af",
@@ -132,30 +204,6 @@
     "published": "2026-08-29T12:13:03.000Z"
   },
   {
-    "id": "fa7280d41d6ac9ca11c454eeeee5874e94d3ca7a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b52f649e56fbe9f8cbc4c06e40713f4bc807d016",
-    "published": "2026-08-29T09:08:52.000Z"
-  },
-  {
-    "id": "132bf00176e959623a93e7c42caaf43d02fbaebe",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/08bdc89d88f631cf1921650a2a98c8358760fc60",
-    "published": "2026-08-29T06:15:02.000Z"
-  },
-  {
     "id": "5dcea7d65eb470eb6b6e4e509d06bc55e0bada85",
     "source": "Latent Space",
     "type": "podcast",
@@ -168,30 +216,6 @@
     "published": "2026-08-29T05:11:52.000Z"
   },
   {
-    "id": "a42773467efcf4650b6b987a54833fc48021865c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/942c3c6e2e1e2fd9f2fc65b2a81ab725a0f3d777",
-    "published": "2026-08-29T03:10:53.000Z"
-  },
-  {
-    "id": "03fd28212ab265842b020bca1541d8ad4bdc2581",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c4aebbfc24b8842dc920e18046044ed05fb11fe5",
-    "published": "2026-08-29T00:24:29.000Z"
-  },
-  {
     "id": "c03b509bb377bca67a41cfa564f6785e59efe2c6",
     "source": "Simon Willison",
     "type": "blog",
@@ -202,18 +226,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
     "published": "2026-08-28T22:12:02.000Z"
-  },
-  {
-    "id": "376da5ee5360a866b82df08988ef55c6f67c313c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/416feea64dd3f936f63669d08eba44fae2de01c6",
-    "published": "2026-08-28T21:24:14.000Z"
   },
   {
     "id": "988c39a25e8e0342fb54dafa4315ed764f023ddb",
@@ -492,18 +504,6 @@
     "published": "2026-08-25T02:50:57.000Z"
   },
   {
-    "id": "218629798f54d9025408fc6122801bb8bfd109b3",
-    "source": "Anthony Fu",
-    "type": "blog",
-    "category": "design",
-    "lang": "en",
-    "title": "Ecosystem Sponsorship Forwarding",
-    "summary": "The sponsorship-forwarding initiative redistributes funds to the dependencies and contributors that make open-source work possible. This living post tracks those redistributions.",
-    "thumbnail": null,
-    "url": "https://antfu.me/posts/ecosystem-sponsorship-forwarding",
-    "published": "2026-08-25T00:00:00.000Z"
-  },
-  {
     "id": "a6d4702c6822081617cfbf7b63e6ca1ddee8e734",
     "source": "Simon Willison",
     "type": "blog",
@@ -538,18 +538,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
     "published": "2026-08-24T11:38:15.000Z"
-  },
-  {
-    "id": "fc0f17557ab7491bbada73e90e22421fe047f953",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-    "summary": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\": Anthropic's \"annualized...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
-    "published": "2026-08-23T20:24:52.000Z"
   },
   {
     "id": "9e98c378bde5943a56254068a281a1027fe226dd",
@@ -1198,5 +1186,17 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/wietse_doet_opeens_alles_in_codex_van_openai_nieuwe_claude_verzint_minder",
     "published": "2026-06-04T15:02:51.000Z"
+  },
+  {
+    "id": "7189bad0ddda1aa37550b05edda7d29d3f52255b",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "Astro Mart: Summer 2026 Collection",
+    "summary": "Get ready for a summer of sport with our new personalizable merch.",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/astro-mart-ss26/",
+    "published": "2026-06-04T00:00:00.000Z"
   }
 ]
