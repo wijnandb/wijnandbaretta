@@ -1,5 +1,41 @@
 [
   {
+    "id": "5b6978262619dad3d1b5ba7d9c9c610eec404cfb",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8e220ed2433ee8b01aff669220bc0586a718eb0e",
+    "published": "2026-08-30T18:10:34.000Z"
+  },
+  {
+    "id": "b67f165fd3fb5496f99172f03215559f66c7dd1f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/58394c5f507ae4a438b331b38956282b0a5cf756",
+    "published": "2026-08-30T15:08:03.000Z"
+  },
+  {
+    "id": "422c99a80e4adab8012aafeb8bd5ac58cb93e4ed",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/14ada496821413425da42c671f334eddf1f10d2e",
+    "published": "2026-08-30T12:13:13.000Z"
+  },
+  {
     "id": "fe54e73f80eb9ea1bccf2158f4f5f4a0b0e99d96",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -166,42 +202,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/230ede458c6c7700f93eb58d11a1deacdbb7f180",
     "published": "2026-08-29T21:07:39.000Z"
-  },
-  {
-    "id": "ad4d612b4f81a04fe47af4e8d0cfb51abfd589af",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/92c7013bcc326220023015d5108d2b664fe2d324",
-    "published": "2026-08-29T18:10:37.000Z"
-  },
-  {
-    "id": "94280651805d4e894ae99926fa9455dbb2cfaec6",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/efa8b1abc0eb92fdc7d07312de9d3e585c07b02c",
-    "published": "2026-08-29T15:07:52.000Z"
-  },
-  {
-    "id": "27339ee0a87a0319b3bb124acbef1f9d5c6f4eb7",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9a6adf74148e83c1a6ea534e4c37da622e9dd9a3",
-    "published": "2026-08-29T12:13:03.000Z"
   },
   {
     "id": "5dcea7d65eb470eb6b6e4e509d06bc55e0bada85",
@@ -502,6 +502,18 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!2Hw4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3107842a-995c-42c3-a41a-592339e041f8_1002x1182.png",
     "url": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
     "published": "2026-08-25T02:50:57.000Z"
+  },
+  {
+    "id": "218629798f54d9025408fc6122801bb8bfd109b3",
+    "source": "Anthony Fu",
+    "type": "blog",
+    "category": "design",
+    "lang": "en",
+    "title": "Ecosystem Sponsorship Forwarding",
+    "summary": "The sponsorship-forwarding initiative redistributes funds to the dependencies and contributors that make open-source work possible. This living post tracks those redistributions.",
+    "thumbnail": null,
+    "url": "https://antfu.me/posts/ecosystem-sponsorship-forwarding",
+    "published": "2026-08-25T00:00:00.000Z"
   },
   {
     "id": "a6d4702c6822081617cfbf7b63e6ca1ddee8e734",
@@ -1186,17 +1198,5 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/wietse_doet_opeens_alles_in_codex_van_openai_nieuwe_claude_verzint_minder",
     "published": "2026-06-04T15:02:51.000Z"
-  },
-  {
-    "id": "7189bad0ddda1aa37550b05edda7d29d3f52255b",
-    "source": "Astro",
-    "type": "blog",
-    "category": "astro",
-    "lang": "en",
-    "title": "Astro Mart: Summer 2026 Collection",
-    "summary": "Get ready for a summer of sport with our new personalizable merch.",
-    "thumbnail": null,
-    "url": "https://astro.build/blog/astro-mart-ss26/",
-    "published": "2026-06-04T00:00:00.000Z"
   }
 ]
