@@ -1,5 +1,41 @@
 [
   {
+    "id": "30046b9de00ed8f528d94d0df83e61557864026f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7cebfc62c13cb470abe9cc7d0aa80b4b6345cf4e",
+    "published": "2026-08-31T21:08:30.000Z"
+  },
+  {
+    "id": "dd976b94fcf3bc5f7b0307d8e9c72b1c1073e8ab",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/299f1df68d1c565faae0a4a3eed2f83c76943837",
+    "published": "2026-08-31T18:12:21.000Z"
+  },
+  {
+    "id": "f6962ae63aa1989ca1a202ed9075df5db2828e4f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ed82739e0e29b4aa380dc67f0581f7f927b4d6bc",
+    "published": "2026-08-31T15:10:00.000Z"
+  },
+  {
     "id": "8dcbc8331d6b851b70e55ae52aafb07cef030390",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -60,6 +96,18 @@
     "published": "2026-08-31T00:30:08.000Z"
   },
   {
+    "id": "36d98eb4d635112d60940606c892e545418e42e2",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "What's new in Astro - August 2026",
+    "summary": "August 2026 - Project Steward announcement, new Astro Playground, Astro Germany, and more!",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/whats-new-august-2026/",
+    "published": "2026-08-31T00:00:00.000Z"
+  },
+  {
     "id": "517370741c36397d70efac2c41cd4263d33d4cac",
     "source": "Simon Willison",
     "type": "blog",
@@ -70,42 +118,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
     "published": "2026-08-30T23:59:47.000Z"
-  },
-  {
-    "id": "047c31f40387586e0b5bc4b6690b7e7fa1d864f0",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b4082420e1abfee5560c7b124fb655b9cf02ddf1",
-    "published": "2026-08-30T21:07:40.000Z"
-  },
-  {
-    "id": "5b6978262619dad3d1b5ba7d9c9c610eec404cfb",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8e220ed2433ee8b01aff669220bc0586a718eb0e",
-    "published": "2026-08-30T18:10:34.000Z"
-  },
-  {
-    "id": "b67f165fd3fb5496f99172f03215559f66c7dd1f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/58394c5f507ae4a438b331b38956282b0a5cf756",
-    "published": "2026-08-30T15:08:03.000Z"
   },
   {
     "id": "e99b0d4d4edfa874eb8408a93bc4fc0a51fceb13",
@@ -1186,17 +1198,5 @@
     "thumbnail": "https://ss.yusukebe.com/cf90b75a0e2bdee668766949bb6870f0cecb25b2b1d4a6ae0db7b9d0d0b0b086.png",
     "url": "https://yusukebe.com/posts/2026/frontend-phpcon-do/",
     "published": "2026-06-07T20:46:15.000Z"
-  },
-  {
-    "id": "1cd4146480ab38d2f8c890bd04e1bbd0250d491c",
-    "source": "AI Report",
-    "type": "podcast",
-    "category": "nl",
-    "lang": "nl",
-    "title": "Wietse doet opeens ALLES in Codex van OpenAI + nieuwe Claude verzint minder",
-    "summary": "Reverse-engineeren wordt voor iedereen bereikbaar: je app is geen doel meer, maar een middel dat je gewoon kunt omzeilen. Tegelijk woedt in de open source-wereld een felle discussie over of je AI...",
-    "thumbnail": null,
-    "url": "https://www.aireport.nl/podcast/s/aireport/wietse_doet_opeens_alles_in_codex_van_openai_nieuwe_claude_verzint_minder",
-    "published": "2026-06-04T15:02:51.000Z"
   }
 ]
