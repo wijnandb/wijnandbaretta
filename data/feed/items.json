@@ -1,5 +1,125 @@
 [
   {
+    "id": "516a86d7629772160f2334b7eaa024272e44441e",
+    "source": "The Anthropic Stack",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Meet Claude Fable 5.1",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/uVS88gnaxcg/mqdefault.jpg",
+    "url": "https://www.youtube.com/shorts/uVS88gnaxcg",
+    "published": "2026-09-01T19:21:24.000Z"
+  },
+  {
+    "id": "4060d5fb1d26c56eb5f884a66ee0b00487cdafb0",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Codex bundles LibreOffice",
+    "summary": "I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of stuff in there in a...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+    "published": "2026-09-01T19:03:01.000Z"
+  },
+  {
+    "id": "e490a57cc0d07dece6e316ac247f3ee32e294280",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9a814c3124d38e74820c74497008584c5368266b",
+    "published": "2026-09-01T18:12:58.000Z"
+  },
+  {
+    "id": "9dea0c49197953d4db73c77d6601c2c08143044c",
+    "source": "The Anthropic Stack",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Introducing Claude Fable 5.1",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/ROF2Nv_KjOM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+    "published": "2026-09-01T18:02:31.000Z"
+  },
+  {
+    "id": "c147d52fa5335c81f8e943fbc7e5d5f8f71245e9",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The Pragmatic Engineer: Five years",
+    "summary": "As the newsletter reaches its fifth birthday, we reflect on how the publication has changed, and what to expect. Also: the launch of the ‘How Software Engineering is Changing’ essay contest",
+    "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/e6e5687b-9265-4270-ab3f-84ad0059e6b1_420x300.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years",
+    "published": "2026-09-01T17:14:34.000Z"
+  },
+  {
+    "id": "f632cad25f3c4fe86b3aaef7cd4072644a75f47a",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Tarn Adams",
+    "summary": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf behavior, and they misbehave sometimes &mdash; Tarn Adams,...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+    "published": "2026-09-01T17:01:11.000Z"
+  },
+  {
+    "id": "b0705d7f30b687575be6d8d79acfb3717692451c",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
+    "summary": "Vercel’s AI SDK, Astro, Flue and tldraw are replacing drive-by community PRs with software factories, where teams of agents apply fixes and features.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!s9oN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ec85997-40a7-4337-b20d-a3574ba4707e_1280x720.png",
+    "url": "https://www.latent.space/p/pr-not-welcome",
+    "published": "2026-09-01T16:17:15.000Z"
+  },
+  {
+    "id": "15826436e93b9a172e4866c4d7366f9bf9f586ef",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2de46ff98521e984ec21d06dbbacc89be8df04c9",
+    "published": "2026-09-01T15:09:04.000Z"
+  },
+  {
+    "id": "58319d71cb1372506d2568a6628fbc47c09edfd1",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Python 3.15.0 candidate 2 is here!",
+    "summary": "Python 3.15.0 candidate 2 is here! Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October: Entering the...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+    "published": "2026-09-01T14:59:18.000Z"
+  },
+  {
+    "id": "e23e7706a32a83986d94d832bddb687a1a9ed092",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/88f17ea536f93108fdf3ffe7ddd30bc9865d7f29",
+    "published": "2026-09-01T12:15:16.000Z"
+  },
+  {
     "id": "25957278a0243a81e5673a4a45bfe052227dfdd5",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -106,42 +226,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7cebfc62c13cb470abe9cc7d0aa80b4b6345cf4e",
     "published": "2026-08-31T21:08:30.000Z"
-  },
-  {
-    "id": "dd976b94fcf3bc5f7b0307d8e9c72b1c1073e8ab",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/299f1df68d1c565faae0a4a3eed2f83c76943837",
-    "published": "2026-08-31T18:12:21.000Z"
-  },
-  {
-    "id": "f6962ae63aa1989ca1a202ed9075df5db2828e4f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ed82739e0e29b4aa380dc67f0581f7f927b4d6bc",
-    "published": "2026-08-31T15:10:00.000Z"
-  },
-  {
-    "id": "8dcbc8331d6b851b70e55ae52aafb07cef030390",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ef71a431963664ce06f913b6892522b7280533cd",
-    "published": "2026-08-31T12:16:14.000Z"
   },
   {
     "id": "36d98eb4d635112d60940606c892e545418e42e2",
@@ -324,18 +408,6 @@
     "published": "2026-08-28T00:40:16.000Z"
   },
   {
-    "id": "6f6843c5a98ae6d625d24f18c79a4be44dd8dc3c",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Breaking Claude Code Opus 5 Auto Mode",
-    "summary": "Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
-    "published": "2026-08-27T22:50:25.000Z"
-  },
-  {
     "id": "703bda7376473fcb6adc3f74f68977ce34eefaec",
     "source": "AI Report",
     "type": "podcast",
@@ -408,18 +480,6 @@
     "published": "2026-08-27T01:31:22.000Z"
   },
   {
-    "id": "8f7e44d8fdff1c9daee549d3ba5b1bc9d1b8c0a1",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Qwen3.8-Flash-Next",
-    "summary": "Qwen3.8-Flash-Next Another open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\". It's pretty big: 125B tokens, but...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
-    "published": "2026-08-26T23:52:58.000Z"
-  },
-  {
     "id": "cadc472eaf02fbbd7c4a17d32ed4da38af3ac956",
     "source": "Riley Brown",
     "type": "video",
@@ -480,18 +540,6 @@
     "published": "2026-08-26T14:00:00.000Z"
   },
   {
-    "id": "e7386291854e2ef63c33e8eb8c943f5a5689b990",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Paul Dix",
-    "summary": "The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/26/paul-dix/",
-    "published": "2026-08-26T08:07:55.000Z"
-  },
-  {
     "id": "34db913e1224ce823bdf9e72e9dc3443dbfad272",
     "source": "Riley Brown",
     "type": "video",
@@ -538,18 +586,6 @@
     "thumbnail": "https://i.ytimg.com/vi/_yJwElpTFn0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=_yJwElpTFn0",
     "published": "2026-08-25T08:38:41.000Z"
-  },
-  {
-    "id": "ae2819cc8ddcd143cb1e019d97937caf78014413",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Andrew Ng gets into AI Engineering",
-    "summary": "An industry legend starts covering the inevitable!",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!2Hw4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3107842a-995c-42c3-a41a-592339e041f8_1002x1182.png",
-    "url": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
-    "published": "2026-08-25T02:50:57.000Z"
   },
   {
     "id": "218629798f54d9025408fc6122801bb8bfd109b3",
@@ -754,18 +790,6 @@
     "thumbnail": "https://i.ytimg.com/vi/PNVq0l7Uhxs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=PNVq0l7Uhxs",
     "published": "2026-08-13T16:26:20.000Z"
-  },
-  {
-    "id": "05730340cf30fb078fb6a1c850d20e462406659e",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Stop being skeptical about AI for development with Charity Majors",
-    "summary": "In 2025, it was rational to be skeptical about AI. In 2026, it's not, anymore. With Charity Majors, CTO and co-founder of Honeycomb.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!TArv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bda57d7-998f-464d-bb13-7b961d6b3598_1600x140.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/stop-being-skeptical-about-ai-for",
-    "published": "2026-08-12T16:45:07.000Z"
   },
   {
     "id": "16ec32b453a743c12971494345af22e43721d6f6",
@@ -1174,29 +1198,5 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/claude_fable_is_uit_het_beste_ai-model_ooit_apple_ai_niet_naar_de_eu",
     "published": "2026-06-10T16:20:00.000Z"
-  },
-  {
-    "id": "9d62ac82355a94483f168f8043226ba8ffe4deb2",
-    "source": "The Anthropic Stack",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Introducing Claude Fable 5",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/Y9Wz2PV404E/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
-    "published": "2026-06-09T17:00:05.000Z"
-  },
-  {
-    "id": "18db61fd54e915be9417aa460f91cac4fb04719f",
-    "source": "Yusuke Wada",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "フロントエンド・PHPカンファレンス北海道2026に行ってきた！",
-    "summary": "フロントエンド・PHPカンファレンス北海道2026に行ってきました！楽しかったとつぶやいたら、ブログ書いて！って言われたので、確かにブログ書いた方がいいと思ってので、書きます。",
-    "thumbnail": "https://ss.yusukebe.com/cf90b75a0e2bdee668766949bb6870f0cecb25b2b1d4a6ae0db7b9d0d0b0b086.png",
-    "url": "https://yusukebe.com/posts/2026/frontend-phpcon-do/",
-    "published": "2026-06-07T20:46:15.000Z"
   }
 ]
