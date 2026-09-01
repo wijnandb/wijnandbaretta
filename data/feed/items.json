@@ -1,5 +1,101 @@
 [
   {
+    "id": "25957278a0243a81e5673a4a45bfe052227dfdd5",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/25408b56c682bda6e41184ae617235d44ce98eeb",
+    "published": "2026-09-01T09:12:06.000Z"
+  },
+  {
+    "id": "94d9a3a8cfcadfebd10ee70ba4e8b5256a160f90",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "docs: add ray.run sponsorship",
+    "summary": "docs: add ray.run sponsorship Added a new link to ray.run for quick MCP server setup.",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/9f3ae55c50a6b2cac8172700fc5af43cf16f76cf",
+    "published": "2026-09-01T07:26:29.000Z"
+  },
+  {
+    "id": "b6e35220561d9dbb7bb7a6e160b70d20d7906494",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/68c417272f10176bf61a3f1ed63111965a5b51c6",
+    "published": "2026-09-01T06:18:01.000Z"
+  },
+  {
+    "id": "f8c2c13ce564900910b7e73bf4b99f2bc005d633",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
+    "summary": "You can now create decent video faster than you watch it. This is the start of... something. We’re not sure what.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!hV5N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHQ7UHClW4AA2I6L.jpg",
+    "url": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
+    "published": "2026-09-01T04:36:54.000Z"
+  },
+  {
+    "id": "f41b0f9a2e525d2bf436c644f6624b9d3531fb0c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/781cb3a84beecbf3468c34517283ddb46b33ab06",
+    "published": "2026-09-01T03:13:11.000Z"
+  },
+  {
+    "id": "341c4859df3dbbde35934d44f78f113414be9967",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9bb7d9ca73a3bb17e1fe934e0a6ac066c2ec52e0",
+    "published": "2026-09-01T00:32:41.000Z"
+  },
+  {
+    "id": "279148925f0547ef5827873dc457dc04dca1cfad",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Introducing wrapture",
+    "summary": "Introducing wrapture New from Graham Dumpleton (of wrapt, mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as taking the monkeypatching ideas from wrapt and extending them to...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+    "published": "2026-08-31T23:59:36.000Z"
+  },
+  {
+    "id": "0ea04bd89a9ad381f16385bf64adf346d5246c61",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Andrew Digby",
+    "summary": "325 #kakapo! The chicks from this year's record breeding season are now juveniles and so have been added to the population. In 1995 there were just 51 kākāpō left. Recovery of critically endangered...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
+    "published": "2026-08-31T22:25:02.000Z"
+  },
+  {
     "id": "30046b9de00ed8f528d94d0df83e61557864026f",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -46,54 +142,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ef71a431963664ce06f913b6892522b7280533cd",
     "published": "2026-08-31T12:16:14.000Z"
-  },
-  {
-    "id": "57f37854f625dae9381848f52cebdac1921e425b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/cd61cf43fbec28eabf7b309e0691a0174e1f12b3",
-    "published": "2026-08-31T09:14:26.000Z"
-  },
-  {
-    "id": "7c2d2e246242d49755733c69bad28df281131ffa",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f29799913d50d9074b5b5dd4f244222d7265127a",
-    "published": "2026-08-31T06:21:34.000Z"
-  },
-  {
-    "id": "88ffaad0f9fa3cdb29c7483cdd17ca4c3ae9fa3c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ba4df31268bcfe51bb4bb1458f45cd981483a521",
-    "published": "2026-08-31T03:13:07.000Z"
-  },
-  {
-    "id": "581c5b00daeeba98fc2ffeab0789d3f81c692827",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c3b7efa4f9997512c7d0c0fbb2a836ea89d85523",
-    "published": "2026-08-31T00:30:08.000Z"
   },
   {
     "id": "36d98eb4d635112d60940606c892e545418e42e2",
@@ -214,18 +262,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
     "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/326c62e6986a5288dd5ea4d88b619b4987b964f4",
     "published": "2026-08-29T21:43:49.000Z"
-  },
-  {
-    "id": "b9913e2a5fa9ff87b606c129e55233ba37435716",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #11084 from drpancake/patch-2",
-    "summary": "Merge pull request #11084 from drpancake/patch-2 Add Rephonic MCP server",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/88607eef6a552c757bd9f48a43f5df0ad464c74d",
-    "published": "2026-08-29T21:42:04.000Z"
   },
   {
     "id": "5dcea7d65eb470eb6b6e4e509d06bc55e0bada85",
@@ -468,18 +504,6 @@
     "published": "2026-08-26T00:41:14.000Z"
   },
   {
-    "id": "f59c3acff0af2de2dd4474af4bb9c7fc6ec51bf6",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "EVE Online: The Move to Python 3 Begins!",
-    "summary": "EVE Online: The Move to Python 3 Begins! EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now. They've been running on Stackless Python since...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
-    "published": "2026-08-25T22:59:30.000Z"
-  },
-  {
     "id": "4e66e71e0084ef294634befd66700efac46ef416",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -540,18 +564,6 @@
     "published": "2026-08-25T00:00:00.000Z"
   },
   {
-    "id": "a6d4702c6822081617cfbf7b63e6ca1ddee8e734",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm-anthropic 0.27",
-    "summary": "Release: llm-anthropic 0.27 This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2....",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
-    "published": "2026-08-24T16:27:04.000Z"
-  },
-  {
     "id": "399f82584fa8c1088a2c5b6a3dbc186a5e0b2c37",
     "source": "ElevenLabs",
     "type": "video",
@@ -562,18 +574,6 @@
     "thumbnail": "https://i.ytimg.com/vi/MuORAEVtJIQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=MuORAEVtJIQ",
     "published": "2026-08-24T15:48:12.000Z"
-  },
-  {
-    "id": "9e98c378bde5943a56254068a281a1027fe226dd",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
-    "summary": "Did you think RSI stopped at model training?",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Vw9p!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc661e612-544b-4eaa-9603-78e5f28276b7_1956x1228.png",
-    "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
-    "published": "2026-08-22T07:36:00.000Z"
   },
   {
     "id": "8ecc51df967ec5182c210b7d7d7fd6ba5a907861",
