@@ -1,5 +1,77 @@
 [
   {
+    "id": "f9785a9e901db2e5fae4db74679876f1f4bbaad2",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1058a0e52696eb5814516b2eb9da97cc8e6bd35f",
+    "published": "2026-09-02T18:12:48.000Z"
+  },
+  {
+    "id": "8f3ab62801648c8ac772a225c54de8dc66aff247",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "llm-gemini 0.34",
+    "summary": "Release: llm-gemini 0.34 New model gemini-3.8-flash for Gemini 3.8 Flash, with low, medium and high thinking levels. #146 Fixed async responses failing to record the resolved model version. Thanks,...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+    "published": "2026-09-02T16:39:38.000Z"
+  },
+  {
+    "id": "b88b51266f29673bf6a1113152213ec4356ac992",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/08c52fe7d6496a2f999a61e0d05691c79524c307",
+    "published": "2026-09-02T15:12:28.000Z"
+  },
+  {
+    "id": "bbaa7e92c7f7091be3e207b796d37e8da50b29ba",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+    "summary": "Anthropic publish the system prompts for their Claude consumer applications (Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+    "published": "2026-09-02T14:16:42.000Z"
+  },
+  {
+    "id": "0240a3ee0f1dd753069f4178aaca6d02bb774e5d",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "I Gave GrokBot Its Own Email and Credit Card (It Actually Worked)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/9lsnEn0tih4/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=9lsnEn0tih4",
+    "published": "2026-09-02T13:00:06.000Z"
+  },
+  {
+    "id": "5b5bf9923550de9ea1eb7b961eb6fb2780423367",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5fefd5d97a81d3788ee9aaa6dc961d7507e6d52d",
+    "published": "2026-09-02T12:15:37.000Z"
+  },
+  {
     "id": "8e82010a5ce306cd6c57ccba2ff4735128e2cb62",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -84,40 +156,16 @@
     "published": "2026-09-02T05:11:59.000Z"
   },
   {
-    "id": "bee73d5dfe9d935ac3d0558c9ef423aa2cde4f0f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
+    "id": "1a2c27b5d65b3f4b384d1cff3401d597547f7e96",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
     "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e0ba568a716328ceaac41a654cdd0589d32ab77d",
-    "published": "2026-09-02T04:38:34.000Z"
-  },
-  {
-    "id": "315d1a3557feeb76d8918c647fce34bd32f8398f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: Dynamic Workflow Design Paterns (#2702)",
-    "summary": "Add resource: Dynamic Workflow Design Paterns (#2702) Category: Agent Orchestration Author: Robert Allen From issue: #2701 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2a838a5c265737093141f2da1bce9741e7ac2910",
-    "published": "2026-09-02T04:38:15.000Z"
-  },
-  {
-    "id": "c8dbd79579118112537c2fc0d7e18a353af993d4",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "add workflows subcategory and better tooling (#2700)",
-    "summary": "add workflows subcategory and better tooling (#2700) * feat: add Dynamic Workflows sub-category under Agent Orchestration Co-Authored-By: Claude Opus 5 (1M context) * feat: offer sub-categories as...",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/95de4b992d9c2e6d0c36c0fb80f412957570d79a",
-    "published": "2026-09-02T04:02:48.000Z"
+    "title": "Starlight 0.42",
+    "summary": "Less JavaScript, and more JavaScript, all in one release.",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/starlight-042/",
+    "published": "2026-09-02T00:00:00.000Z"
   },
   {
     "id": "ab12481175ff379314b3cfd33d87e73c869b9f1d",
@@ -228,18 +276,6 @@
     "published": "2026-09-01T15:30:12.000Z"
   },
   {
-    "id": "58319d71cb1372506d2568a6628fbc47c09edfd1",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Python 3.15.0 candidate 2 is here!",
-    "summary": "Python 3.15.0 candidate 2 is here! Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October: Entering the...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
-    "published": "2026-09-01T14:59:18.000Z"
-  },
-  {
     "id": "94d9a3a8cfcadfebd10ee70ba4e8b5256a160f90",
     "source": "awesome-mcp-servers",
     "type": "repo",
@@ -262,18 +298,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!hV5N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHQ7UHClW4AA2I6L.jpg",
     "url": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
     "published": "2026-09-01T04:36:54.000Z"
-  },
-  {
-    "id": "279148925f0547ef5827873dc457dc04dca1cfad",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Introducing wrapture",
-    "summary": "Introducing wrapture New from Graham Dumpleton (of wrapt, mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as taking the monkeypatching ideas from wrapt and extending them to...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
-    "published": "2026-08-31T23:59:36.000Z"
   },
   {
     "id": "36d98eb4d635112d60940606c892e545418e42e2",
@@ -804,18 +828,6 @@
     "published": "2026-08-11T17:44:11.000Z"
   },
   {
-    "id": "e2d1cb80fe05c45b36d384bb2e19ffcbdb1828e0",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Codex Is Winning… So Why Am I Still Paying for Claude?",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/piOSL8Ms9mY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=piOSL8Ms9mY",
-    "published": "2026-08-10T20:29:40.000Z"
-  },
-  {
     "id": "f5e07aca5c01d2a1073f722b63dc49664468cadb",
     "source": "The Anthropic Stack",
     "type": "video",
@@ -1186,17 +1198,5 @@
     "thumbnail": "https://i.ytimg.com/vi/W6x-hb44C0c/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=W6x-hb44C0c",
     "published": "2026-06-18T14:04:35.000Z"
-  },
-  {
-    "id": "b7160109cd59448f790742c411e9dddb268553cb",
-    "source": "AI Report",
-    "type": "podcast",
-    "category": "nl",
-    "lang": "nl",
-    "title": "Claude Fable is uit, het beste AI-model ooit + Apple AI niet naar de EU?",
-    "summary": "Jeroen Wollaars schuift weer aan, want er is te veel nieuws voor twee man. Anthropic lanceert namelijk Claude Fable 5, een consumentenversie van het beruchte Mythos en volgens elke test het beste...",
-    "thumbnail": null,
-    "url": "https://www.aireport.nl/podcast/s/aireport/claude_fable_is_uit_het_beste_ai-model_ooit_apple_ai_niet_naar_de_eu",
-    "published": "2026-06-10T16:20:00.000Z"
   }
 ]
