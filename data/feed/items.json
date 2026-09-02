@@ -1,5 +1,137 @@
 [
   {
+    "id": "8e82010a5ce306cd6c57ccba2ff4735128e2cb62",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ae3f3c9e035ee8c343e0f31c0e8ebb847acb76dd",
+    "published": "2026-09-02T09:11:41.000Z"
+  },
+  {
+    "id": "73bc7f63383d4a62eaebb82e6496b3f9c0f83443",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
+    "summary": "Queue the usual rush of model launches...",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!-NFa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2094843261470793728.jpg",
+    "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+    "published": "2026-09-02T07:46:08.000Z"
+  },
+  {
+    "id": "87ad813a58cd8e37c36110de5823df3c1bd815a3",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a4523b416a45085c6bc33de74678600bdf4b9ba2",
+    "published": "2026-09-02T06:21:54.000Z"
+  },
+  {
+    "id": "40f6b0d0bc8fdc4f39a284d11078310f09d28577",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Rick Brewster",
+    "summary": "Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't just \"disable\" the use of Direct2D. So,...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+    "published": "2026-09-02T05:50:57.000Z"
+  },
+  {
+    "id": "25ee7ead448c72430b33c7b19bacddd9ec96fd9e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "typo",
+    "summary": "typo",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c88a2b109b2755e984f32ee9e46a027771f7937a",
+    "published": "2026-09-02T05:13:06.000Z"
+  },
+  {
+    "id": "e4c7b6abb69c83d08980bec36b6c668f9d74a636",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/396757d5a844afd79a20471e7e1d96989262bd6c",
+    "published": "2026-09-02T05:12:17.000Z"
+  },
+  {
+    "id": "06fdfc3347c85cb2c63773b91eb24eb626c0d475",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: faf-cli (#2703)",
+    "summary": "Add resource: faf-cli (#2703) Category: Memory & Context Persistence Author: Wolfe-Jam From issue: #2177 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/20960fef00dd4444d06f5883f101c3d43c51e702",
+    "published": "2026-09-02T05:11:59.000Z"
+  },
+  {
+    "id": "bee73d5dfe9d935ac3d0558c9ef423aa2cde4f0f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e0ba568a716328ceaac41a654cdd0589d32ab77d",
+    "published": "2026-09-02T04:38:34.000Z"
+  },
+  {
+    "id": "315d1a3557feeb76d8918c647fce34bd32f8398f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: Dynamic Workflow Design Paterns (#2702)",
+    "summary": "Add resource: Dynamic Workflow Design Paterns (#2702) Category: Agent Orchestration Author: Robert Allen From issue: #2701 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2a838a5c265737093141f2da1bce9741e7ac2910",
+    "published": "2026-09-02T04:38:15.000Z"
+  },
+  {
+    "id": "c8dbd79579118112537c2fc0d7e18a353af993d4",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "add workflows subcategory and better tooling (#2700)",
+    "summary": "add workflows subcategory and better tooling (#2700) * feat: add Dynamic Workflows sub-category under Agent Orchestration Co-Authored-By: Claude Opus 5 (1M context) * feat: offer sub-categories as...",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/95de4b992d9c2e6d0c36c0fb80f412957570d79a",
+    "published": "2026-09-02T04:02:48.000Z"
+  },
+  {
+    "id": "ab12481175ff379314b3cfd33d87e73c869b9f1d",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Claude Fable 5.1 made me a really nice animated pelican",
+    "summary": "Today is Claude Fable (and Mythos) 5.1 day. Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+    "published": "2026-09-01T23:57:28.000Z"
+  },
+  {
     "id": "516a86d7629772160f2334b7eaa024272e44441e",
     "source": "The Anthropic Stack",
     "type": "video",
@@ -24,16 +156,16 @@
     "published": "2026-09-01T19:03:01.000Z"
   },
   {
-    "id": "e490a57cc0d07dece6e316ac247f3ee32e294280",
-    "source": "awesome-claude-code",
-    "type": "repo",
+    "id": "0cf425c452e8fd851457d0ec8e0fa69e57a4840c",
+    "source": "Simon Willison",
+    "type": "blog",
     "category": "ai",
     "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9a814c3124d38e74820c74497008584c5368266b",
-    "published": "2026-09-01T18:12:58.000Z"
+    "title": "GeoJSON Map Viewer",
+    "summary": "Tool: GeoJSON Map Viewer I was helping Natalie gather some maps of local political boundaries (for the Granada Community Services District and the Midcoast Community Council) and found a need to...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/1/geojson/",
+    "published": "2026-09-01T18:05:45.000Z"
   },
   {
     "id": "9dea0c49197953d4db73c77d6601c2c08143044c",
@@ -84,16 +216,16 @@
     "published": "2026-09-01T16:17:15.000Z"
   },
   {
-    "id": "15826436e93b9a172e4866c4d7366f9bf9f586ef",
-    "source": "awesome-claude-code",
-    "type": "repo",
+    "id": "344c2bcd7098482bf9c71b5cda532a24d8c45121",
+    "source": "Simon Willison",
+    "type": "blog",
     "category": "ai",
     "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2de46ff98521e984ec21d06dbbacc89be8df04c9",
-    "published": "2026-09-01T15:09:04.000Z"
+    "title": "datasette-mcp 0.2",
+    "summary": "Release: datasette-mcp 0.2 \"rows\" from execute_sql is now an array of objects. Previously it was an array of arrays. This should help weaker models avoid losing track of which positional array...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
+    "published": "2026-09-01T15:30:12.000Z"
   },
   {
     "id": "58319d71cb1372506d2568a6628fbc47c09edfd1",
@@ -108,30 +240,6 @@
     "published": "2026-09-01T14:59:18.000Z"
   },
   {
-    "id": "e23e7706a32a83986d94d832bddb687a1a9ed092",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/88f17ea536f93108fdf3ffe7ddd30bc9865d7f29",
-    "published": "2026-09-01T12:15:16.000Z"
-  },
-  {
-    "id": "25957278a0243a81e5673a4a45bfe052227dfdd5",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/25408b56c682bda6e41184ae617235d44ce98eeb",
-    "published": "2026-09-01T09:12:06.000Z"
-  },
-  {
     "id": "94d9a3a8cfcadfebd10ee70ba4e8b5256a160f90",
     "source": "awesome-mcp-servers",
     "type": "repo",
@@ -142,18 +250,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
     "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/9f3ae55c50a6b2cac8172700fc5af43cf16f76cf",
     "published": "2026-09-01T07:26:29.000Z"
-  },
-  {
-    "id": "b6e35220561d9dbb7bb7a6e160b70d20d7906494",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/68c417272f10176bf61a3f1ed63111965a5b51c6",
-    "published": "2026-09-01T06:18:01.000Z"
   },
   {
     "id": "f8c2c13ce564900910b7e73bf4b99f2bc005d633",
@@ -168,30 +264,6 @@
     "published": "2026-09-01T04:36:54.000Z"
   },
   {
-    "id": "f41b0f9a2e525d2bf436c644f6624b9d3531fb0c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/781cb3a84beecbf3468c34517283ddb46b33ab06",
-    "published": "2026-09-01T03:13:11.000Z"
-  },
-  {
-    "id": "341c4859df3dbbde35934d44f78f113414be9967",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9bb7d9ca73a3bb17e1fe934e0a6ac066c2ec52e0",
-    "published": "2026-09-01T00:32:41.000Z"
-  },
-  {
     "id": "279148925f0547ef5827873dc457dc04dca1cfad",
     "source": "Simon Willison",
     "type": "blog",
@@ -204,30 +276,6 @@
     "published": "2026-08-31T23:59:36.000Z"
   },
   {
-    "id": "0ea04bd89a9ad381f16385bf64adf346d5246c61",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Andrew Digby",
-    "summary": "325 #kakapo! The chicks from this year's record breeding season are now juveniles and so have been added to the population. In 1995 there were just 51 kākāpō left. Recovery of critically endangered...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
-    "published": "2026-08-31T22:25:02.000Z"
-  },
-  {
-    "id": "30046b9de00ed8f528d94d0df83e61557864026f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7cebfc62c13cb470abe9cc7d0aa80b4b6345cf4e",
-    "published": "2026-08-31T21:08:30.000Z"
-  },
-  {
     "id": "36d98eb4d635112d60940606c892e545418e42e2",
     "source": "Astro",
     "type": "blog",
@@ -238,30 +286,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/whats-new-august-2026/",
     "published": "2026-08-31T00:00:00.000Z"
-  },
-  {
-    "id": "517370741c36397d70efac2c41cd4263d33d4cac",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Understanding ChatGPT Work",
-    "summary": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-    "published": "2026-08-30T23:59:47.000Z"
-  },
-  {
-    "id": "e99b0d4d4edfa874eb8408a93bc4fc0a51fceb13",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Introducing Hy4 Preview",
-    "summary": "Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face....",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/29/hy4/",
-    "published": "2026-08-29T23:53:13.000Z"
   },
   {
     "id": "d398847d36270dc3ffd2316bc88659105161b7d0",
@@ -358,18 +382,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
     "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
     "published": "2026-08-29T05:11:52.000Z"
-  },
-  {
-    "id": "c03b509bb377bca67a41cfa564f6785e59efe2c6",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Just a rumour of a bug is enough to find a security exploit these days",
-    "summary": "Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
-    "published": "2026-08-28T22:12:02.000Z"
   },
   {
     "id": "988c39a25e8e0342fb54dafa4315ed764f023ddb",
@@ -514,18 +526,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!T84b!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31fb1727-eeae-4f63-8c95-81d589e3c3f3_1600x140.png",
     "url": "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets",
     "published": "2026-08-26T15:59:59.000Z"
-  },
-  {
-    "id": "48713ac2d414dbdd995d94b7fd046f2874b19f4a",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing",
-    "summary": "Anima Anandkumar has spent two decades in AI, from classical math to deep learning and back. Now she's using it to model the physical world, from weather to fusion reactors.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!oXva!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4fb7b4c-46e1-475c-b491-33c10ac29f50_1032x376.png",
-    "url": "https://www.latent.space/p/anima",
-    "published": "2026-08-26T15:15:39.000Z"
   },
   {
     "id": "bf435a1e2ac1898e507dfad20466b7e59c6295f5",
