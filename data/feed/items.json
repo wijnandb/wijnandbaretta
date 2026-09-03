@@ -1,5 +1,77 @@
 [
   {
+    "id": "b57d4a4cacaf788f5f489d0a22bc56e1d77d0c40",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "GPT‑6 Astra",
+    "summary": "GPT‑6 Astra GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+    "published": "2026-09-03T20:18:41.000Z"
+  },
+  {
+    "id": "2ae6f311a82fec43fc030f353962d4b86bad762b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c476c14f57527630ac15cfa71c9e748dd1912e32",
+    "published": "2026-09-03T18:12:35.000Z"
+  },
+  {
+    "id": "dec831e363ffd23d0572c1c98c0b356ba25e904b",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The Pulse: tech companies move to open AI models",
+    "summary": "Cost-saving efforts reveal that moving simpler workloads to open AI models is the easiest way to save ~50% on AI bills. Also: automated software maintenance experience, and more",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!l-d4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F534b20ec-8678-40d4-9248-2d5751979703_2048x1145.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-tech-companies-move-to",
+    "published": "2026-09-03T17:00:14.000Z"
+  },
+  {
+    "id": "45da6048380c8767dec6552735ce1344f9d6a2a2",
+    "source": "AI Report",
+    "type": "podcast",
+    "category": "nl",
+    "lang": "nl",
+    "title": "Alle AI is deze week significant beter geworden + Wietse koopt roboteend",
+    "summary": "Abonneer je op onze nieuwsbrief: aireport.nl ( http://aireport.nl ) Het is tech-tember: Anthropic, Meta en Google kwamen deze week alle drie met nieuwe modellen en terwijl we dit opnemen wordt Astra...",
+    "thumbnail": null,
+    "url": "https://www.aireport.nl/podcast/s/aireport/alle_ai_is_deze_week_significant_beter_geworden_wietse_koopt_roboteend",
+    "published": "2026-09-03T15:49:55.000Z"
+  },
+  {
+    "id": "853e6e3d9d8a009cce37cf1a25ca979aa130468e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/de03e8bb8744d4fa0bd9df5ae5ec33d859bd866f",
+    "published": "2026-09-03T15:10:07.000Z"
+  },
+  {
+    "id": "13226cc6cdd00f2205b4050c34dae5f84213f89c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/48fa30e817221527f34bafd786c3cb0404e24731",
+    "published": "2026-09-03T12:16:05.000Z"
+  },
+  {
     "id": "494007ab6ad6e310f0501aaca6ea26b1166eef44",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -60,6 +132,18 @@
     "published": "2026-09-03T00:28:20.000Z"
   },
   {
+    "id": "c4a547d99246d5abf617d443b2b39fc4b21cc136",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "Astro 7.3",
+    "summary": "Astro 7.3 adds an --ignore-lock flag for astro preview, passes Astro's runtime logger into custom image services and cache providers, and ships a finalize() helper for Cloudflare custom worker...",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/astro-730/",
+    "published": "2026-09-03T00:00:00.000Z"
+  },
+  {
     "id": "7cccbc152fab63504bb2033fb444d26b3aea5479",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -72,18 +156,6 @@
     "published": "2026-09-02T21:08:18.000Z"
   },
   {
-    "id": "f9785a9e901db2e5fae4db74679876f1f4bbaad2",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1058a0e52696eb5814516b2eb9da97cc8e6bd35f",
-    "published": "2026-09-02T18:12:48.000Z"
-  },
-  {
     "id": "8f3ab62801648c8ac772a225c54de8dc66aff247",
     "source": "Simon Willison",
     "type": "blog",
@@ -94,18 +166,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
     "published": "2026-09-02T16:39:38.000Z"
-  },
-  {
-    "id": "b88b51266f29673bf6a1113152213ec4356ac992",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/08c52fe7d6496a2f999a61e0d05691c79524c307",
-    "published": "2026-09-02T15:12:28.000Z"
   },
   {
     "id": "bbaa7e92c7f7091be3e207b796d37e8da50b29ba",
@@ -130,18 +190,6 @@
     "thumbnail": "https://i.ytimg.com/vi/9lsnEn0tih4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=9lsnEn0tih4",
     "published": "2026-09-02T13:00:06.000Z"
-  },
-  {
-    "id": "5b5bf9923550de9ea1eb7b961eb6fb2780423367",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5fefd5d97a81d3788ee9aaa6dc961d7507e6d52d",
-    "published": "2026-09-02T12:15:37.000Z"
   },
   {
     "id": "73bc7f63383d4a62eaebb82e6496b3f9c0f83443",
@@ -274,18 +322,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!s9oN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ec85997-40a7-4337-b20d-a3574ba4707e_1280x720.png",
     "url": "https://www.latent.space/p/pr-not-welcome",
     "published": "2026-09-01T16:17:15.000Z"
-  },
-  {
-    "id": "344c2bcd7098482bf9c71b5cda532a24d8c45121",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette-mcp 0.2",
-    "summary": "Release: datasette-mcp 0.2 \"rows\" from execute_sql is now an array of objects. Previously it was an array of arrays. This should help weaker models avoid losing track of which positional array...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
-    "published": "2026-09-01T15:30:12.000Z"
   },
   {
     "id": "94d9a3a8cfcadfebd10ee70ba4e8b5256a160f90",
@@ -792,18 +828,6 @@
     "published": "2026-08-15T14:03:52.000Z"
   },
   {
-    "id": "68c233597f82a79bdad3bfdf7005fd5ddd9716a2",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The Pulse: Meta’s self-inflicted resignation-wave",
-    "summary": "The social media giant is offering $1M+ retainer equity grants to staff who are leaving: and even this is not effective. Also: is Grok Bot the “OpenClaw moment” for managed AI agents?",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!o2YE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5bb821d-d4af-417c-8508-1b198148671a_1284x1228.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-metas-self-inflicted-resignation",
-    "published": "2026-08-14T16:55:55.000Z"
-  },
-  {
     "id": "b628076ad0168a3331b8a2e86179d687886ceaf9",
     "source": "ElevenLabs",
     "type": "video",
@@ -1174,29 +1198,5 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/astro-7/",
     "published": "2026-06-22T00:00:00.000Z"
-  },
-  {
-    "id": "53eca6accbb538e6c12a8af409738db48429f500",
-    "source": "AI Report",
-    "type": "podcast",
-    "category": "nl",
-    "lang": "nl",
-    "title": "Fable is down, maar gelukkig hebben we GPT-NL. Toch?",
-    "summary": "De Amerikaanse overheid dwong Anthropic om Fable 5 en het nog krachtigere Mythos 5 uit te zetten, drie dagen na de lancering en met 90 minuten om te gehoorzamen. Het exportverbod richt zich expliciet...",
-    "thumbnail": null,
-    "url": "https://www.aireport.nl/podcast/s/aireport/fable_is_down_maar_gelukkig_hebben_we_gpt-nl_toch",
-    "published": "2026-06-19T07:48:18.000Z"
-  },
-  {
-    "id": "065b107cac6eb1a4aecc05eca3da38f1579fd654",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "wtf is Loop Engineer & how to setup for real",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/W6x-hb44C0c/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=W6x-hb44C0c",
-    "published": "2026-06-18T14:04:35.000Z"
   }
 ]
