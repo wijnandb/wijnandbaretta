@@ -1,5 +1,77 @@
 [
   {
+    "id": "c74cc2cdef0aea86173d1ee8e8f2680b80e59599",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/dbbf421bcee536cb8a8bf5ebcf73dc8f53572285",
+    "published": "2026-09-04T18:11:42.000Z"
+  },
+  {
+    "id": "140777111d84b7d229217728e2d3233982d61e90",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "ChatGPT was a chatbot. Now it has its own computer.",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/yqMBDSZbmOg/mqdefault.jpg",
+    "url": "https://www.youtube.com/shorts/yqMBDSZbmOg",
+    "published": "2026-09-04T17:42:19.000Z"
+  },
+  {
+    "id": "19280ad9d1a03420c99858de6ff2945d80c93d83",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "OpenAI's rogue agents were caught communicating via public wikis",
+    "summary": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+    "published": "2026-09-04T17:38:48.000Z"
+  },
+  {
+    "id": "190744ffbafeff944d975c3f4e849a46cdec0cb0",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "8 ChatGPT Work Agents That Run My Business 24/7",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/ubzhh4kMCLo/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=ubzhh4kMCLo",
+    "published": "2026-09-04T16:54:09.000Z"
+  },
+  {
+    "id": "7cb7bd9365104ab9236f04e8eaf9b81418a38487",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/dbba7df72cae32d4fe782d52d85f93abfe4c2aa6",
+    "published": "2026-09-04T15:09:32.000Z"
+  },
+  {
+    "id": "dff41f3efeca3f25746f8d55dc36740b8c851cfc",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/430a6b3212b7f67315226c2376c7b7172eeb1f44",
+    "published": "2026-09-04T12:15:06.000Z"
+  },
+  {
     "id": "8e54eda14cbb7737d0549f2afe543fbd79a49a45",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -108,18 +180,6 @@
     "published": "2026-09-03T20:18:41.000Z"
   },
   {
-    "id": "2ae6f311a82fec43fc030f353962d4b86bad762b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c476c14f57527630ac15cfa71c9e748dd1912e32",
-    "published": "2026-09-03T18:12:35.000Z"
-  },
-  {
     "id": "dec831e363ffd23d0572c1c98c0b356ba25e904b",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -142,30 +202,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/alle_ai_is_deze_week_significant_beter_geworden_wietse_koopt_roboteend",
     "published": "2026-09-03T15:49:55.000Z"
-  },
-  {
-    "id": "853e6e3d9d8a009cce37cf1a25ca979aa130468e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/de03e8bb8744d4fa0bd9df5ae5ec33d859bd866f",
-    "published": "2026-09-03T15:10:07.000Z"
-  },
-  {
-    "id": "13226cc6cdd00f2205b4050c34dae5f84213f89c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/48fa30e817221527f34bafd786c3cb0404e24731",
-    "published": "2026-09-03T12:16:05.000Z"
   },
   {
     "id": "043c2a3bfc8f5aa2fdde636c079199cfbd545647",
@@ -298,18 +334,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
     "published": "2026-09-01T19:03:01.000Z"
-  },
-  {
-    "id": "0cf425c452e8fd851457d0ec8e0fa69e57a4840c",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "GeoJSON Map Viewer",
-    "summary": "Tool: GeoJSON Map Viewer I was helping Natalie gather some maps of local political boundaries (for the Granada Community Services District and the Midcoast Community Council) and found a need to...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/1/geojson/",
-    "published": "2026-09-01T18:05:45.000Z"
   },
   {
     "id": "9dea0c49197953d4db73c77d6601c2c08143044c",
@@ -816,18 +840,6 @@
     "published": "2026-08-16T15:00:34.000Z"
   },
   {
-    "id": "2bc8eb7c6080b0263e42f05cc4ecccee65b017b9",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Grok 4.6 is Actually Good… And Claude Keeps Getting Better",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/VWDnptnvFrA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=VWDnptnvFrA",
-    "published": "2026-08-15T14:03:52.000Z"
-  },
-  {
     "id": "b628076ad0168a3331b8a2e86179d687886ceaf9",
     "source": "ElevenLabs",
     "type": "video",
@@ -838,18 +850,6 @@
     "thumbnail": "https://i.ytimg.com/vi/PNVq0l7Uhxs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=PNVq0l7Uhxs",
     "published": "2026-08-13T16:26:20.000Z"
-  },
-  {
-    "id": "16ec32b453a743c12971494345af22e43721d6f6",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Cursor Just Unleashed GrokBot (It’s Insane)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/8Yf9IoXkROM/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=8Yf9IoXkROM",
-    "published": "2026-08-11T17:44:11.000Z"
   },
   {
     "id": "f5e07aca5c01d2a1073f722b63dc49664468cadb",
