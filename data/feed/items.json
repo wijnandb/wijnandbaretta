@@ -1,5 +1,101 @@
 [
   {
+    "id": "8e54eda14cbb7737d0549f2afe543fbd79a49a45",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b15b611aa6ac186b2fdbf493893823f2c2bd4119",
+    "published": "2026-09-04T09:11:03.000Z"
+  },
+  {
+    "id": "b9d356563f6ec18a9a6faea4cc910774798632f2",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3a3a106366f85e9bb8f0f2d6d95a3d608acf91c3",
+    "published": "2026-09-04T06:16:52.000Z"
+  },
+  {
+    "id": "a96ad2e8b68016e081cee2d629ef2950796fc1a8",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "August newsletter is out",
+    "summary": "The August edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here. This month: We got more details on OpenAl's...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+    "published": "2026-09-04T05:54:40.000Z"
+  },
+  {
+    "id": "d4bd5ca244c3adb9698088c95cdffb7513ebfcaa",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
+    "summary": "new SOTA computer use and coding, 2.5x pricier per token, but WAY cheaper per task, less monitorable. overall, a very successful launch of OpenAI’s new frontier model class.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!75mH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e58156f-49e2-48e8-af49-ce5edd8e68b6_1118x1118.png",
+    "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+    "published": "2026-09-04T05:18:11.000Z"
+  },
+  {
+    "id": "ff03f02bb894d612a2694e7d1caa20ee7306a68b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e088476ab6fec14b4d54fb9c0227b70c91d15093",
+    "published": "2026-09-04T03:11:58.000Z"
+  },
+  {
+    "id": "c04dfc20039f7c86678373b696d075c58f30cde9",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/472f5478a2011b7c89f82fb925f1e2d15ae16213",
+    "published": "2026-09-04T00:25:07.000Z"
+  },
+  {
+    "id": "ad408c639885d3f9364e52cb1cad34760ab46070",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
+    "summary": "We spent 20B+ tokens of GPT-6 Astra to explore everything. Here’s our learnings.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!1Mu3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff60dbb10-9849-49e5-8569-5dfba8440b9c_2486x1390.png",
+    "url": "https://www.latent.space/p/astra",
+    "published": "2026-09-03T21:09:41.000Z"
+  },
+  {
+    "id": "e5886f9922f04a55288d66288ae66d973bdc59ba",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f84d1f3d85ef7592c7cbdfb232047c65cb625d32",
+    "published": "2026-09-03T21:08:53.000Z"
+  },
+  {
     "id": "b57d4a4cacaf788f5f489d0a22bc56e1d77d0c40",
     "source": "Simon Willison",
     "type": "blog",
@@ -72,30 +168,6 @@
     "published": "2026-09-03T12:16:05.000Z"
   },
   {
-    "id": "494007ab6ad6e310f0501aaca6ea26b1166eef44",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/679e01a9fd8050bcf0e33bb27b4b63911b1ff453",
-    "published": "2026-09-03T09:11:23.000Z"
-  },
-  {
-    "id": "bf9244eb8501ba181e1175ee5de6245975812e48",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1681e4e92ab8b6aa1681231daa7bfd1576bd2e55",
-    "published": "2026-09-03T06:17:40.000Z"
-  },
-  {
     "id": "043c2a3bfc8f5aa2fdde636c079199cfbd545647",
     "source": "Latent Space",
     "type": "podcast",
@@ -108,30 +180,6 @@
     "published": "2026-09-03T04:38:33.000Z"
   },
   {
-    "id": "2071a8914626ddf5d03e6e3b570b6951c80f361a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/14369f30c89801c773bf67e33abeee1ad8896a6c",
-    "published": "2026-09-03T04:26:51.000Z"
-  },
-  {
-    "id": "2012dc5512fd6826bfc17e66abcde56c75dc4c25",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/62b6bd4919e035929e1f2849c79002fbb53ca105",
-    "published": "2026-09-03T00:28:20.000Z"
-  },
-  {
     "id": "c4a547d99246d5abf617d443b2b39fc4b21cc136",
     "source": "Astro",
     "type": "blog",
@@ -142,18 +190,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/astro-730/",
     "published": "2026-09-03T00:00:00.000Z"
-  },
-  {
-    "id": "7cccbc152fab63504bb2033fb444d26b3aea5479",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/efe97be9a187cde786232c57af776ebc4a7cf362",
-    "published": "2026-09-02T21:08:18.000Z"
   },
   {
     "id": "8f3ab62801648c8ac772a225c54de8dc66aff247",
@@ -298,18 +334,6 @@
     "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/e6e5687b-9265-4270-ab3f-84ad0059e6b1_420x300.png",
     "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years",
     "published": "2026-09-01T17:14:34.000Z"
-  },
-  {
-    "id": "f632cad25f3c4fe86b3aaef7cd4072644a75f47a",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Tarn Adams",
-    "summary": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf behavior, and they misbehave sometimes &mdash; Tarn Adams,...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
-    "published": "2026-09-01T17:01:11.000Z"
   },
   {
     "id": "b0705d7f30b687575be6d8d79acfb3717692451c",
@@ -538,30 +562,6 @@
     "thumbnail": "https://i.ytimg.com/vi/P1zBiAQU1IA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=P1zBiAQU1IA",
     "published": "2026-08-27T17:54:32.000Z"
-  },
-  {
-    "id": "a31466f4f2ac70fb3dc0449978670d9d00ea1a5f",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro",
-    "summary": "Open Source wins!",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!FSM7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa61da113-3d9b-4206-81c1-06da7b4a9a0c_1362x1278.png",
-    "url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
-    "published": "2026-08-27T01:50:54.000Z"
-  },
-  {
-    "id": "1ea8eebd3701c752d90f53d9f2d12a394a1a4d78",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
-    "summary": "The conference with hot chips and even hotter companies",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!sZiW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2092299952433061888.jpg",
-    "url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
-    "published": "2026-08-27T01:31:22.000Z"
   },
   {
     "id": "cadc472eaf02fbbd7c4a17d32ed4da38af3ac956",
