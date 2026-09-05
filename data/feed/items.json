@@ -1,5 +1,89 @@
 [
   {
+    "id": "0f81349a454ad14abbb63a79f3184667f574456b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ecd34850aba48d89b1c8a7c8455b7de0003fc051",
+    "published": "2026-09-05T18:10:33.000Z"
+  },
+  {
+    "id": "1ec3daa5e7b56709d2de4f7639d46ecd7c12dc38",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Using Blender with coding agents on macOS",
+    "summary": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+    "published": "2026-09-05T15:51:09.000Z"
+  },
+  {
+    "id": "b45f01f34e91040d2db367ab0855c52ca5f84864",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7b79216a189c230fee2be956ef6a94b85ba9e1da",
+    "published": "2026-09-05T15:07:50.000Z"
+  },
+  {
+    "id": "5af7fa3c8ce93c8c76306d821da33e82102b129f",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+    "summary": "SpaceXAI’s Grok Bot has the same level of programming power as OpenClaw, but it’s programmable at a different level of abstraction.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!LSd-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7950cec-a256-4773-89bd-085b0742335d_2048x1438.png",
+    "url": "https://www.latent.space/p/grok-bot",
+    "published": "2026-09-05T15:01:02.000Z"
+  },
+  {
+    "id": "6dd1e10d5da2cb00f944986d0d6828e46e3a22ce",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Everything we shipped in August",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/XWb1kvU1gG8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=XWb1kvU1gG8",
+    "published": "2026-09-05T14:30:22.000Z"
+  },
+  {
+    "id": "7bd62cbe8acd184f1b75f9fea1f6152c76c59de5",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "GPT 6 Astra Call of Duty",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/8bNF6QU6c3g/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=8bNF6QU6c3g",
+    "published": "2026-09-05T12:37:58.000Z"
+  },
+  {
+    "id": "ea38e9806bfacd0b72a877db35f31cccc579fc1c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c974d74c5f03d4315b3c4d083ec4220ce479c318",
+    "published": "2026-09-05T12:12:36.000Z"
+  },
+  {
     "id": "bcce67e0269e8fcba7134a6e58b7d7f8d2dd3903",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -60,18 +144,6 @@
     "published": "2026-09-05T00:20:27.000Z"
   },
   {
-    "id": "46a619403d1543cfeeb4d29bd623ee3b484e6a82",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: claude-intercom (#2740)",
-    "summary": "Add resource: claude-intercom (#2740) Category: Agent Orchestration Author: MuhammadTalhaMT From issue: #2546 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5b81ddcd6cf51a9ef0a4b29a6a77736b7bcbdd5f",
-    "published": "2026-09-05T00:20:07.000Z"
-  },
-  {
     "id": "631b6c23c9b31726ae6a39b583eafd2062372083",
     "source": "Simon Willison",
     "type": "blog",
@@ -82,42 +154,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
     "published": "2026-09-04T23:59:05.000Z"
-  },
-  {
-    "id": "7bd62cbe8acd184f1b75f9fea1f6152c76c59de5",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "GPT 6 Astra Call of Duty",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/8bNF6QU6c3g/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=8bNF6QU6c3g",
-    "published": "2026-09-04T22:41:56.000Z"
-  },
-  {
-    "id": "37836212b7c5549a564e922e072a7ecf85bc223c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b847f060c83c2bd0e6e3425985716881e0692457",
-    "published": "2026-09-04T21:07:57.000Z"
-  },
-  {
-    "id": "c74cc2cdef0aea86173d1ee8e8f2680b80e59599",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/dbbf421bcee536cb8a8bf5ebcf73dc8f53572285",
-    "published": "2026-09-04T18:11:42.000Z"
   },
   {
     "id": "140777111d84b7d229217728e2d3233982d61e90",
@@ -324,18 +360,6 @@
     "published": "2026-09-02T00:00:00.000Z"
   },
   {
-    "id": "ab12481175ff379314b3cfd33d87e73c869b9f1d",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Claude Fable 5.1 made me a really nice animated pelican",
-    "summary": "Today is Claude Fable (and Mythos) 5.1 day. Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
-    "published": "2026-09-01T23:57:28.000Z"
-  },
-  {
     "id": "516a86d7629772160f2334b7eaa024272e44441e",
     "source": "The Anthropic Stack",
     "type": "video",
@@ -526,18 +550,6 @@
     "thumbnail": "https://i.ytimg.com/vi/sOeMAP5pf-c/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=sOeMAP5pf-c",
     "published": "2026-08-28T15:54:11.000Z"
-  },
-  {
-    "id": "1d5fd45befcaea1b17894df5e0bef85d58397c2e",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] OpenAI to reach AGI bar by end-2026",
-    "summary": "It’s Time. We’re in the Endgame now.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
-    "url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
-    "published": "2026-08-28T07:12:10.000Z"
   },
   {
     "id": "8eda2df95dfbad75628f178af70a92467343d2ba",
@@ -1006,18 +1018,6 @@
     "thumbnail": "https://i.ytimg.com/vi/MsPhMhfvgD4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=MsPhMhfvgD4",
     "published": "2026-07-14T10:35:00.000Z"
-  },
-  {
-    "id": "b9ae359ef57a087f5ce3ea0f26e893d07d399b07",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Add Voice to your AI Agents",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/5o5NQH7vqog/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=5o5NQH7vqog",
-    "published": "2026-07-13T16:00:52.000Z"
   },
   {
     "id": "d46f68d824228d6e09f9e247ee9538c19e2c6bcc",
