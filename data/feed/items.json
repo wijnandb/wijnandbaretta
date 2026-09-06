@@ -1,5 +1,89 @@
 [
   {
+    "id": "37373bc6384dd15d7f927d1372962da644d92495",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/176f722e903e0a3d3484cf70fc3bf78c471a0e3a",
+    "published": "2026-09-06T09:09:26.000Z"
+  },
+  {
+    "id": "eed2e484f5d9edbd999e29adbbe026d554018ce7",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Zach Kehs",
+    "summary": "If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can always get worse. There can always be a new layer of indirection or a...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
+    "published": "2026-09-06T08:42:49.000Z"
+  },
+  {
+    "id": "bac066068cdba369c49c516cc80dd3cc461810a9",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f68b7d546b443594aff353c58dd082fcd8ecb19e",
+    "published": "2026-09-06T06:15:18.000Z"
+  },
+  {
+    "id": "54caf82bd2dc747e160ac8442eebf5b14694fcad",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/04329e8a0862f5d2b4f36031c75588ae9b2e1b57",
+    "published": "2026-09-06T03:11:44.000Z"
+  },
+  {
+    "id": "6e4eb60297cbce58027b42135ac60915f8d399cf",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6f8b9ab9c1ae2b6a6816fb46846f6ce03bcdf448",
+    "published": "2026-09-06T00:30:20.000Z"
+  },
+  {
+    "id": "921e4d073b7dcdaab5fa587e22d6b40fc4ffb52e",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Introducing GPT-6 Astra for developers",
+    "summary": "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creature at 1m59s: Across the board, Astra has more attention to detail, better understanding of the user's...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+    "published": "2026-09-05T23:27:48.000Z"
+  },
+  {
+    "id": "9c75096154a435a5470008c2b85a8eb9c0197e13",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d13602af0dd37e0f31369c6493617d5f9773d9e2",
+    "published": "2026-09-05T21:07:24.000Z"
+  },
+  {
     "id": "0f81349a454ad14abbb63a79f3184667f574456b",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -60,18 +144,6 @@
     "published": "2026-09-05T14:30:22.000Z"
   },
   {
-    "id": "7bd62cbe8acd184f1b75f9fea1f6152c76c59de5",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "GPT 6 Astra Call of Duty",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/8bNF6QU6c3g/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=8bNF6QU6c3g",
-    "published": "2026-09-05T12:37:58.000Z"
-  },
-  {
     "id": "ea38e9806bfacd0b72a877db35f31cccc579fc1c",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -82,66 +154,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c974d74c5f03d4315b3c4d083ec4220ce479c318",
     "published": "2026-09-05T12:12:36.000Z"
-  },
-  {
-    "id": "bcce67e0269e8fcba7134a6e58b7d7f8d2dd3903",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ec365eac3b8ba80c774f794f2f09435cf3608e22",
-    "published": "2026-09-05T09:09:07.000Z"
-  },
-  {
-    "id": "7025f9ba6033bfbb9d336e34f38f42bd23b85fd4",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/42f05f71e5e5cfc84f8cd92160ae8b56b9775e05",
-    "published": "2026-09-05T06:15:06.000Z"
-  },
-  {
-    "id": "6539259e5ca60c3fbc7d405a06214f05574a9f0d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3e7c063843fd275317f773ceaeb5e27b81084f4a",
-    "published": "2026-09-05T03:11:23.000Z"
-  },
-  {
-    "id": "643bbdce4296cf7d3c60d736f13bde6466083d9a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/db4db53566d757e31d75536627747fcaef01d7f1",
-    "published": "2026-09-05T00:25:42.000Z"
-  },
-  {
-    "id": "597c34af6fb6012654d45cbb19f52337c4f2b97a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1b533e41070508f7e1a7b3dc136879e551787316",
-    "published": "2026-09-05T00:20:27.000Z"
   },
   {
     "id": "631b6c23c9b31726ae6a39b583eafd2062372083",
@@ -300,18 +312,6 @@
     "published": "2026-09-02T16:39:38.000Z"
   },
   {
-    "id": "bbaa7e92c7f7091be3e207b796d37e8da50b29ba",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
-    "summary": "Anthropic publish the system prompts for their Claude consumer applications (Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-    "published": "2026-09-02T14:16:42.000Z"
-  },
-  {
     "id": "0240a3ee0f1dd753069f4178aaca6d02bb774e5d",
     "source": "Riley Brown",
     "type": "video",
@@ -334,18 +334,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!-NFa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2094843261470793728.jpg",
     "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
     "published": "2026-09-02T07:46:08.000Z"
-  },
-  {
-    "id": "40f6b0d0bc8fdc4f39a284d11078310f09d28577",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Rick Brewster",
-    "summary": "Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't just \"disable\" the use of Direct2D. So,...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
-    "published": "2026-09-02T05:50:57.000Z"
   },
   {
     "id": "1a2c27b5d65b3f4b384d1cff3401d597547f7e96",
@@ -617,7 +605,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "11 Insane Things Cursor’s NEW GrokBot Can Do",
+    "title": "11 Insane Things NEW Grok Bot Can Do",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/XgkW4A6lrDY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=XgkW4A6lrDY",
@@ -850,6 +838,18 @@
     "thumbnail": "https://i.ytimg.com/vi/5ePwfYBhgko/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=5ePwfYBhgko",
     "published": "2026-08-17T08:58:53.000Z"
+  },
+  {
+    "id": "7bd7da01a3e01da365ddeda0f87c6df589b57c61",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Codex Replaced All His Apps | Bilawal Sidhu",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/NR_GMq2lDCE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=NR_GMq2lDCE",
+    "published": "2026-08-16T15:00:34.000Z"
   },
   {
     "id": "b628076ad0168a3331b8a2e86179d687886ceaf9",
