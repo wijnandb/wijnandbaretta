@@ -1,5 +1,53 @@
 [
   {
+    "id": "04fb5bccd95ce7ec82aef9283191b203a16d108e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f9b88e144651147d529c474dbfe63adfa35ddfc2",
+    "published": "2026-09-06T18:10:44.000Z"
+  },
+  {
+    "id": "931f626ad1824cbfcca24794a5a3450bfd7264c6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1b39ee3cc25c6f898bb90148286589b021c355fa",
+    "published": "2026-09-06T15:08:09.000Z"
+  },
+  {
+    "id": "20bde3d7222dc6a550c281a33acbb71980a909af",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "The purpose of DNS is to spread scams",
+    "summary": "The purpose of DNS is to spread scams Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+    "published": "2026-09-06T14:40:07.000Z"
+  },
+  {
+    "id": "93b0f414df5bed9784e260d8409161fdca5ea897",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6e30c8734ee006723d6c2e1b312487216a1d2490",
+    "published": "2026-09-06T12:12:50.000Z"
+  },
+  {
     "id": "37373bc6384dd15d7f927d1372962da644d92495",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -10,6 +58,18 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/176f722e903e0a3d3484cf70fc3bf78c471a0e3a",
     "published": "2026-09-06T09:09:26.000Z"
+  },
+  {
+    "id": "8321172b50dd8554ffd1b263ce1f6558b8b0d998",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "There's No Limit to How Bad Code Can Get",
+    "summary": "My comment on There's No Limit to How Bad Code Can Get &mdash; Lobste.rs.[In reply to a comment about burning it down to start from scratch when technical debt becomes overwhelming] In my experience...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
+    "published": "2026-09-06T09:08:06.000Z"
   },
   {
     "id": "eed2e484f5d9edbd999e29adbbe026d554018ce7",
@@ -84,18 +144,6 @@
     "published": "2026-09-05T21:07:24.000Z"
   },
   {
-    "id": "0f81349a454ad14abbb63a79f3184667f574456b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ecd34850aba48d89b1c8a7c8455b7de0003fc051",
-    "published": "2026-09-05T18:10:33.000Z"
-  },
-  {
     "id": "1ec3daa5e7b56709d2de4f7639d46ecd7c12dc38",
     "source": "Simon Willison",
     "type": "blog",
@@ -106,18 +154,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
     "published": "2026-09-05T15:51:09.000Z"
-  },
-  {
-    "id": "b45f01f34e91040d2db367ab0855c52ca5f84864",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7b79216a189c230fee2be956ef6a94b85ba9e1da",
-    "published": "2026-09-05T15:07:50.000Z"
   },
   {
     "id": "5af7fa3c8ce93c8c76306d821da33e82102b129f",
@@ -142,18 +178,6 @@
     "thumbnail": "https://i.ytimg.com/vi/XWb1kvU1gG8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=XWb1kvU1gG8",
     "published": "2026-09-05T14:30:22.000Z"
-  },
-  {
-    "id": "ea38e9806bfacd0b72a877db35f31cccc579fc1c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c974d74c5f03d4315b3c4d083ec4220ce479c318",
-    "published": "2026-09-05T12:12:36.000Z"
   },
   {
     "id": "631b6c23c9b31726ae6a39b583eafd2062372083",
@@ -240,18 +264,6 @@
     "published": "2026-09-03T21:09:41.000Z"
   },
   {
-    "id": "b57d4a4cacaf788f5f489d0a22bc56e1d77d0c40",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "GPT‑6 Astra",
-    "summary": "GPT‑6 Astra GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
-    "published": "2026-09-03T20:18:41.000Z"
-  },
-  {
     "id": "dec831e363ffd23d0572c1c98c0b356ba25e904b",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -298,18 +310,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/astro-730/",
     "published": "2026-09-03T00:00:00.000Z"
-  },
-  {
-    "id": "8f3ab62801648c8ac772a225c54de8dc66aff247",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm-gemini 0.34",
-    "summary": "Release: llm-gemini 0.34 New model gemini-3.8-flash for Gemini 3.8 Flash, with low, medium and high thinking levels. #146 Fixed async responses failing to record the resolved model version. Thanks,...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
-    "published": "2026-09-02T16:39:38.000Z"
   },
   {
     "id": "0240a3ee0f1dd753069f4178aaca6d02bb774e5d",
