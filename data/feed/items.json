@@ -1,5 +1,89 @@
 [
   {
+    "id": "683e62a2263b589ccac341cdf6c49c05469bf354",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a215342a6cdd737f4fc309d4d61b58cc61b30baf",
+    "published": "2026-09-08T18:12:25.000Z"
+  },
+  {
+    "id": "8fca408ec7e0dc8fe09c824eba0ac97b3fb27cf5",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "What is happening with code reviews?",
+    "summary": "AI generates more code than devs can track in 2026, so will the code review process have to adapt – or is it doomed? A look into this decades-old practice and the approaches that could replace it",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!SuQb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b62d5e2-7663-4910-8580-d565d3c7d0a4_1554x1416.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
+    "published": "2026-09-08T16:32:01.000Z"
+  },
+  {
+    "id": "7a8083a4ab88a82eed31cf02b6c35cb5b43352f5",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/830f3f6a38efb3eb9f741bf6226f01f1414d6d71",
+    "published": "2026-09-08T15:10:12.000Z"
+  },
+  {
+    "id": "e3ede52d8a7d3e49a9817a2756a862784f43c39a",
+    "source": "Werner Vogels",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The oldest architecture in computing",
+    "summary": "A GPU burns 700 watts and hundreds of thousands of tries to learn Pong. A human brain does it on 20 watts in a handful of attempts. So what can the oldest architecture in computing teach us about...",
+    "thumbnail": null,
+    "url": "https://www.allthingsdistributed.com/2026/09/the-oldest-architecture-in-computing.html?utm_campaign=inbound&amp;utm_source=rss",
+    "published": "2026-09-08T14:00:00.000Z"
+  },
+  {
+    "id": "e1136304f2c16a7101262218757b45e39510fe95",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "docs: link to awesome-remote-mcp-servers",
+    "summary": "docs: link to awesome-remote-mcp-servers",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/5c2e35ed712c636672a7d69a186f6d791f5cf66d",
+    "published": "2026-09-08T13:25:52.000Z"
+  },
+  {
+    "id": "6cbac4ec78308ee3c5d60427b3bfa7c1ac7755ff",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: add .gitignore",
+    "summary": "chore: add .gitignore",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/44c4433fbd7725552d6ee67f5aaad5a93d57f77d",
+    "published": "2026-09-08T13:03:16.000Z"
+  },
+  {
+    "id": "54dc659256a1c832d38107da3dc372de9346423b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5f8e1185e2517ab57ba75d4ffccf99da1d3bc576",
+    "published": "2026-09-08T12:15:26.000Z"
+  },
+  {
     "id": "daae2d54e862cfec109d8f0b2a8892a476d28d22",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -144,30 +228,6 @@
     "published": "2026-09-07T22:42:37.000Z"
   },
   {
-    "id": "1c3e7379d49ea325ac8966c0e31381970f4b9a4c",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #13642 from mrfelfel/add-taghvim-mcp",
-    "summary": "Merge pull request #13642 from mrfelfel/add-taghvim-mcp feat: add taghvim-mcp — temporal reasoning engine for AI agents",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/7c80c18d8e0fd92e0f59e18d021b3f66428ddd49",
-    "published": "2026-09-07T22:41:33.000Z"
-  },
-  {
-    "id": "44a58e30246c547ba77e8e408bbf006740959786",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #11397 from Kemetra/add-seshat-bi-governor",
-    "summary": "Merge pull request #11397 from Kemetra/add-seshat-bi-governor Add Kemetra/seshat-bi to Data Platforms 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/81714b54491d9dd4e01100b531cf32e247350cc8",
-    "published": "2026-09-07T22:33:44.000Z"
-  },
-  {
     "id": "b392e0204486327f8a283017e8e7733149441525",
     "source": "Simon Willison",
     "type": "blog",
@@ -209,7 +269,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "GPT-6 Astra Feels Like AGI (Here’s Everything It Can Do)",
+    "title": "I Spent 100 Hours Using GPT-6 Astra (This Feels Like AGI)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/Ju41cQSe7hY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Ju41cQSe7hY",
@@ -228,18 +288,6 @@
     "published": "2026-09-07T18:29:07.000Z"
   },
   {
-    "id": "20c1fe5d02a32fdada6ae7cdbb8e2dc3d6ec15da",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4e78df0e0ce95343a8df1fc7b4510797b55b6dd7",
-    "published": "2026-09-07T18:11:48.000Z"
-  },
-  {
     "id": "edfb48bd8fe5ce90bf6f79d013c6dfc3050d888f",
     "source": "Simon Willison",
     "type": "blog",
@@ -250,30 +298,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/7/equal-earth/",
     "published": "2026-09-07T16:24:16.000Z"
-  },
-  {
-    "id": "de18e11894053ba44505d14449014acd9e6be43b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f439e9b0952038a1821f36a1c9dbd306456add5a",
-    "published": "2026-09-07T15:09:30.000Z"
-  },
-  {
-    "id": "86485ffdce357583c348bd353171c77fa553f368",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/44d481edb56f41fc85655e0a3020c541ff35be31",
-    "published": "2026-09-07T12:15:19.000Z"
   },
   {
     "id": "4f8847a860050aacd5f9fbe06e4cc25da8e4c3ff",
@@ -816,18 +840,6 @@
     "published": "2026-08-18T16:48:42.000Z"
   },
   {
-    "id": "4fe89b4c93910eb0fd3430702b3b38bba4305b0b",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Headed for the Exit: the Great Engineering Leader Career Break",
-    "summary": "Trend: more CTOs, VPEs, and Heads of Engineering are walking away from their high-status, in-demand positions. There are many reasons, mostly related to AI, and to \"founder mode\"",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!RQ9b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00ac4457-86ac-4e66-86a6-c75c8e05bb2c_1456x882.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-great-engineering-leader-career-break",
-    "published": "2026-08-18T16:21:06.000Z"
-  },
-  {
     "id": "383d934d5d772ba29e276cebd0a704d6f1368a06",
     "source": "Coding in Public",
     "type": "video",
@@ -1186,17 +1198,5 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
     "url": "https://github.com/antfu/skills/commit/11cefdc7fda24f056763a1d644b5f8160de6ef49",
     "published": "2026-06-23T00:05:55.000Z"
-  },
-  {
-    "id": "2b10473a37358e56fb07ea4584f222e0d9e38d73",
-    "source": "Astro",
-    "type": "blog",
-    "category": "astro",
-    "lang": "en",
-    "title": "Astro 7.0",
-    "summary": "Astro 7.0 brings faster builds with Vite 8, a new Rust compiler, Advanced Routing, background dev server support, and structured logging.",
-    "thumbnail": null,
-    "url": "https://astro.build/blog/astro-7/",
-    "published": "2026-06-22T00:00:00.000Z"
   }
 ]
