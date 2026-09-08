@@ -1,87 +1,195 @@
 [
   {
-    "id": "85a7d214d26b0d635cddfae5493d71cbaf38060f",
-    "source": "awesome-mcp-servers",
+    "id": "daae2d54e862cfec109d8f0b2a8892a476d28d22",
+    "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #13854 from rafim-dev/add-mcp-context-condenser",
-    "summary": "Merge pull request #13854 from rafim-dev/add-mcp-context-condenser Add mcp-context-condenser 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/14b9da4283cd7c70e8b82840b9f7a73228600b48",
-    "published": "2026-09-07T21:18:16.000Z"
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a78d1bffddcf4c9574a4a85257cc97b364b9ae10",
+    "published": "2026-09-08T09:11:44.000Z"
   },
   {
-    "id": "3e78329bb5bed5c27589e86e3f9be4ff569c9953",
-    "source": "awesome-mcp-servers",
+    "id": "02447a3b252b1b36abc51a8ac5ffc4fa35f8fd24",
+    "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #13766 from Zsadigzade/add-trainbud",
-    "summary": "Merge pull request #13766 from Zsadigzade/add-trainbud Add TrainBud (Garmin Connect training data + Connect IQ watch app) 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/7fdb06df7b453b8099ae0f2fc82d3290e52b85a5",
-    "published": "2026-09-07T21:17:16.000Z"
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e908cbfe5cf733229b98107955a200e8ae2f034c",
+    "published": "2026-09-08T06:16:59.000Z"
   },
   {
-    "id": "6326b15ad745779802e12261385422190156c051",
-    "source": "awesome-mcp-servers",
+    "id": "221739b1ecc453b8d6738907e6770644970af187",
+    "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #13619 from Feldspar-AI-Agent/add-feldspar-scan",
-    "summary": "Merge pull request #13619 from Feldspar-AI-Agent/add-feldspar-scan Add feldspar-scan (free repo security scan, remote MCP) to Security 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/1615ba591183651932d52a5e03bcdf640d7f9b8d",
-    "published": "2026-09-07T21:11:54.000Z"
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2b84306f7c51d46603174341c6fb678a011ce0e2",
+    "published": "2026-09-08T03:11:52.000Z"
   },
   {
-    "id": "3b3799fc819cad763608b2d3213cce33cb89cc69",
-    "source": "awesome-mcp-servers",
+    "id": "d6d26cb591ce3d45874c4fd9fde0f72ecb569caf",
+    "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #11013 from ncosic/add-logimu-shopping-mcp",
-    "summary": "Merge pull request #11013 from ncosic/add-logimu-shopping-mcp Add Logimu Shopping MCP (Amazon & Walmart shopping data) to E-Commerce 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/6812c79058e892385adcfb9fef0a0cac01c24979",
-    "published": "2026-09-07T21:10:23.000Z"
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f6fde6e029a1f0dc0de9322f87b3fc1ea7227f73",
+    "published": "2026-09-08T00:27:26.000Z"
   },
   {
-    "id": "119a2ba434d4f82896c2cd7f27372e58ca338885",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
+    "id": "276c6225db64ba2e350a10a4cd3ccb5332f8db18",
+    "source": "Simon Willison",
+    "type": "blog",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #12675 from UladzKha/add-samuraizer-cli",
-    "summary": "Merge pull request #12675 from UladzKha/add-samuraizer-cli Add UladzKha/samuraizer-cli 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/88334064b71f80287a871c458fd0d2a1c017c797",
-    "published": "2026-09-07T21:09:24.000Z"
+    "title": "llm 0.35",
+    "summary": "Release: llm 0.35 New OpenAI model: gpt-6-astra for GPT-6 Astra. Tags: openai, llm, gpt-6-astra",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/7/llm/",
+    "published": "2026-09-07T23:54:54.000Z"
   },
   {
-    "id": "968966ccee729ac9b1b4c8c08667e82511f3d693",
+    "id": "f784fce8458325ed95210b8b860a77ed303f93a7",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Fix entry formatting",
-    "summary": "Fix entry formatting",
+    "title": "Merge pull request #13727 from TomD4vs/add-prumo",
+    "summary": "Merge pull request #13727 from TomD4vs/add-prumo Add TomD4vs/prumo to Developer Tools",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/5c16559331d2ddbdc5982a8d6abb91bcf7e2a364",
-    "published": "2026-09-07T21:08:57.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/a62ccedb39ba44b9a833e717960a107dacf7045a",
+    "published": "2026-09-07T23:11:49.000Z"
   },
   {
-    "id": "ae7c0c7b6bbc43232b65bc1cdb415a3facffb9d0",
+    "id": "13cb4c960a4be47bcdecc76c9819b3177be1bef0",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #12004 from akkireddy-challa/patch-1",
-    "summary": "Merge pull request #12004 from akkireddy-challa/patch-1 docs: add akkireddy-challa/k8s-mcp-server to Kubernetes section",
+    "title": "Merge pull request #13610 from kev1n/add-anyapi-aggregators",
+    "summary": "Merge pull request #13610 from kev1n/add-anyapi-aggregators Add getanyapi-com/mcp (AnyAPI) to Aggregators",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/5d87905b963ffb74e0ec14908a801d641a646534",
-    "published": "2026-09-07T21:08:52.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/a6d0cddb26bba5b44a2bb2cc9d7261bb9b86ef95",
+    "published": "2026-09-07T23:10:51.000Z"
+  },
+  {
+    "id": "e100788e53aa90cd17c59b4bbe81fc87e5027efa",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #11679 from jubeiargh/patch-2",
+    "summary": "Merge pull request #11679 from jubeiargh/patch-2 Add finlight (financial news) to Finance & Fintech",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/0bba41721c5a5344fe322f0bbf835b71470023d4",
+    "published": "2026-09-07T23:09:02.000Z"
+  },
+  {
+    "id": "315af994e13a7fe441f6b8a727b084d8f403585c",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Creepy crawlies",
+    "summary": "Creepy crawlies Konstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the perspective of git.kernel.org, the official Git repository for the Linux...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+    "published": "2026-09-07T23:08:58.000Z"
+  },
+  {
+    "id": "c7cb563baa588913016a39ce8a1a2301811c85b8",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #13787 from bshea-1/routed-mcp-agent",
+    "summary": "Merge pull request #13787 from bshea-1/routed-mcp-agent Add bshea-1/Routed to Coding Agents",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/de66c1841d8be36d0d1ed4c558bd4944ea28aa82",
+    "published": "2026-09-07T22:58:43.000Z"
+  },
+  {
+    "id": "94b18f662e8a731b1428277e354dccd4955bbea0",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #11073 from mutonby/add-upload-post",
+    "summary": "Merge pull request #11073 from mutonby/add-upload-post Add Upload-Post MCP server (Social Media) 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/dd7341d9c6573fd2bbc8558066e7e886cb9c174b",
+    "published": "2026-09-07T22:49:52.000Z"
+  },
+  {
+    "id": "28da8882e0978287b4e4de132129d4a9fceb44b4",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #13905 from Jonahbkerr/add-yocoolab",
+    "summary": "Merge pull request #13905 from Jonahbkerr/add-yocoolab Add Yocoolab to Developer Tools 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/a685f3f475a88026825275fe2e3672ba918eb85e",
+    "published": "2026-09-07T22:42:37.000Z"
+  },
+  {
+    "id": "1c3e7379d49ea325ac8966c0e31381970f4b9a4c",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #13642 from mrfelfel/add-taghvim-mcp",
+    "summary": "Merge pull request #13642 from mrfelfel/add-taghvim-mcp feat: add taghvim-mcp — temporal reasoning engine for AI agents",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/7c80c18d8e0fd92e0f59e18d021b3f66428ddd49",
+    "published": "2026-09-07T22:41:33.000Z"
+  },
+  {
+    "id": "44a58e30246c547ba77e8e408bbf006740959786",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #11397 from Kemetra/add-seshat-bi-governor",
+    "summary": "Merge pull request #11397 from Kemetra/add-seshat-bi-governor Add Kemetra/seshat-bi to Data Platforms 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/81714b54491d9dd4e01100b531cf32e247350cc8",
+    "published": "2026-09-07T22:33:44.000Z"
+  },
+  {
+    "id": "b392e0204486327f8a283017e8e7733149441525",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Jakub Pachocki",
+    "summary": "The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...] We will need powerful, aligned AI...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+    "published": "2026-09-07T22:26:25.000Z"
+  },
+  {
+    "id": "5eebfa2383a586e21d8124ede2aa97a9afe3ee90",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
+    "summary": "Our first Astra project dives into AEO trends, a top asked topic from founders and DX leaders we talk to.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!iyRI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c8e4ec6-5470-4b1e-831c-cbdd0b864f2b_2910x1598.png",
+    "url": "https://www.latent.space/p/aeo",
+    "published": "2026-09-07T21:32:37.000Z"
   },
   {
     "id": "37af28025a42751fecacc4a7f5eb3ba802541735",
@@ -96,18 +204,6 @@
     "published": "2026-09-07T21:08:24.000Z"
   },
   {
-    "id": "4ed6a13d5e5ed0c1abad29a82e0cddfa33e30179",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #10191 from FI-Mihej/add-new-server-codebase-agent…",
-    "summary": "Merge pull request #10191 from FI-Mihej/add-new-server-codebase-agent-mcp Add FI-Mihej/codebase-agent-mcp to Developer Tools",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/ddc7a339b2ba34a62ae43466202cb39e3c9e6b71",
-    "published": "2026-09-07T21:06:56.000Z"
-  },
-  {
     "id": "15ab20f55981b594f47b2ae26e5108101c547d13",
     "source": "Riley Brown",
     "type": "video",
@@ -120,6 +216,18 @@
     "published": "2026-09-07T20:55:32.000Z"
   },
   {
+    "id": "394fcc6daf9ee6bb5e3e4261d7c2d92874a78376",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Video compressor",
+    "summary": "Tool: Video compressor I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+    "published": "2026-09-07T18:29:07.000Z"
+  },
+  {
     "id": "20c1fe5d02a32fdada6ae7cdbb8e2dc3d6ec15da",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -130,6 +238,18 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4e78df0e0ce95343a8df1fc7b4510797b55b6dd7",
     "published": "2026-09-07T18:11:48.000Z"
+  },
+  {
+    "id": "edfb48bd8fe5ce90bf6f79d013c6dfc3050d888f",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Mercator ↔ Equal Earth",
+    "summary": "Tool: Mercator ↔ Equal Earth I got curious about the Equal Earth map projection that was recently voted on at the UN so I had GPT-6 Astra (medium) in ChatGPT Work build me this animated transition...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+    "published": "2026-09-07T16:24:16.000Z"
   },
   {
     "id": "de18e11894053ba44505d14449014acd9e6be43b",
@@ -154,54 +274,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/44d481edb56f41fc85655e0a3020c541ff35be31",
     "published": "2026-09-07T12:15:19.000Z"
-  },
-  {
-    "id": "c99e59568ba83705e0a7d934d47fa84dc2e73d8d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/86837451c5626f2234b154f2dda14ba03cabf46f",
-    "published": "2026-09-07T09:14:29.000Z"
-  },
-  {
-    "id": "8aa0bbeac595accae4b21fc8afc4c39ca433b3a0",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/af36fb2c6b1699631c4a11bd23af83e542e87bc5",
-    "published": "2026-09-07T06:22:02.000Z"
-  },
-  {
-    "id": "a576eef5cd28743ebee707c567b2482532ca2696",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5ecbfb3260265c2d4557dce62f86feaa831e9d78",
-    "published": "2026-09-07T04:44:32.000Z"
-  },
-  {
-    "id": "3ca1e05f2be9aaa8db40f812ccbcfb3ea7d59c38",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: OrcaReplay (#2761)",
-    "summary": "Add resource: OrcaReplay (#2761) Category: Observability & Monitoring Author: Continuum AI From issue: #2759 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/67c8d7a7dba6f9c69c25cf82c2770d344e273271",
-    "published": "2026-09-07T04:44:10.000Z"
   },
   {
     "id": "4f8847a860050aacd5f9fbe06e4cc25da8e4c3ff",
@@ -240,42 +312,6 @@
     "published": "2026-09-06T09:08:06.000Z"
   },
   {
-    "id": "eed2e484f5d9edbd999e29adbbe026d554018ce7",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Zach Kehs",
-    "summary": "If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can always get worse. There can always be a new layer of indirection or a...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
-    "published": "2026-09-06T08:42:49.000Z"
-  },
-  {
-    "id": "921e4d073b7dcdaab5fa587e22d6b40fc4ffb52e",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Introducing GPT-6 Astra for developers",
-    "summary": "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creature at 1m59s: Across the board, Astra has more attention to detail, better understanding of the user's...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
-    "published": "2026-09-05T23:27:48.000Z"
-  },
-  {
-    "id": "1ec3daa5e7b56709d2de4f7639d46ecd7c12dc38",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Using Blender with coding agents on macOS",
-    "summary": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
-    "published": "2026-09-05T15:51:09.000Z"
-  },
-  {
     "id": "5af7fa3c8ce93c8c76306d821da33e82102b129f",
     "source": "Latent Space",
     "type": "podcast",
@@ -300,18 +336,6 @@
     "published": "2026-09-05T14:30:22.000Z"
   },
   {
-    "id": "631b6c23c9b31726ae6a39b583eafd2062372083",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "The Pelican comparison grid for Astra is pretty interesting",
-    "summary": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
-    "published": "2026-09-04T23:59:05.000Z"
-  },
-  {
     "id": "140777111d84b7d229217728e2d3233982d61e90",
     "source": "Riley Brown",
     "type": "video",
@@ -322,18 +346,6 @@
     "thumbnail": "https://i.ytimg.com/vi/yqMBDSZbmOg/mqdefault.jpg",
     "url": "https://www.youtube.com/shorts/yqMBDSZbmOg",
     "published": "2026-09-04T17:42:19.000Z"
-  },
-  {
-    "id": "19280ad9d1a03420c99858de6ff2945d80c93d83",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "OpenAI's rogue agents were caught communicating via public wikis",
-    "summary": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
-    "published": "2026-09-04T17:38:48.000Z"
   },
   {
     "id": "190744ffbafeff944d975c3f4e849a46cdec0cb0",
@@ -526,18 +538,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/whats-new-august-2026/",
     "published": "2026-08-31T00:00:00.000Z"
-  },
-  {
-    "id": "5dcea7d65eb470eb6b6e4e509d06bc55e0bada85",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] OpenAI shuts off Cursor",
-    "summary": "Elon v Altman has a real consequence.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
-    "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
-    "published": "2026-08-29T05:11:52.000Z"
   },
   {
     "id": "988c39a25e8e0342fb54dafa4315ed764f023ddb",
