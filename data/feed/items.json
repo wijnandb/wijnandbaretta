@@ -1,6 +1,6 @@
 [
   {
-    "id": "683e62a2263b589ccac341cdf6c49c05469bf354",
+    "id": "9d35f3b60a57450d04dee986d2b949e361399a8a",
     "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
@@ -8,8 +8,140 @@
     "title": "chore: update repo ticker data and SVGs [skip ci]",
     "summary": "chore: update repo ticker data and SVGs [skip ci]",
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a215342a6cdd737f4fc309d4d61b58cc61b30baf",
-    "published": "2026-09-08T18:12:25.000Z"
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/74859518c440055dd6495b188ca0ff3cb9405c61",
+    "published": "2026-09-09T09:11:16.000Z"
+  },
+  {
+    "id": "1250d73c800f09babaebf501a23b8854709308aa",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/093b986526742ea9df2fedc555d66bfe886fb4a4",
+    "published": "2026-09-09T06:17:25.000Z"
+  },
+  {
+    "id": "aaf28a158755731d2ab2af826491f7ca6ed7be71",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
+    "summary": "Overshadowing Cognition's $48B Series E, Mistral's $24B Series D, Meta's Muse agent, and GPT Image 2.5. The most jam packed, feel the AGI day in the history of AI.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!zHsu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHRtS_iLboAUUlYv.jpg",
+    "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+    "published": "2026-09-09T05:04:51.000Z"
+  },
+  {
+    "id": "b56e1b8c94cff8c9acdae7d2e647a862b6953c62",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0cffe020cbdbceddf9cf5af39c45a0d85ea95019",
+    "published": "2026-09-09T03:11:56.000Z"
+  },
+  {
+    "id": "67017dae7dee80f8acde18268eea8ed3b1f95c12",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b06ccc7849dd85d32429fe00777453e313412e31",
+    "published": "2026-09-09T00:27:26.000Z"
+  },
+  {
+    "id": "e4e4ee3b55ca5bbe116a6b84655e4afceac13af2",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Terence Tao",
+    "summary": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...] We...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/9/terence-tao/",
+    "published": "2026-09-09T00:20:17.000Z"
+  },
+  {
+    "id": "5a4baff754f833e1bbbe0decc54e96ec9791ec56",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "summary": "On the Navier–Stokes Millennium Prize Problem Impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem, one of the...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+    "published": "2026-09-08T23:55:12.000Z"
+  },
+  {
+    "id": "756e8711be7c2f60fd98578df4deeefe78e4e499",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Introducing ChatGPT Images 2.5",
+    "summary": "Introducing ChatGPT Images 2.5 OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+    "published": "2026-09-08T22:46:33.000Z"
+  },
+  {
+    "id": "488b14501d6aca9d511d8dce30d0483f6beda3cc",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8f594358cf396df5b2feeaeca788f0f27c531b41",
+    "published": "2026-09-08T22:24:34.000Z"
+  },
+  {
+    "id": "41eace95c15bbb322b13abb586446f20b0a71b27",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: Netresearch Agentic Skills (#2785)",
+    "summary": "Add resource: Netresearch Agentic Skills (#2785) Category: Open Source Software Author: Netresearch From issue: #2784 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7cdeb7f725bf90ff26a0f633c915be2f02974567",
+    "published": "2026-09-08T22:24:13.000Z"
+  },
+  {
+    "id": "770f5b1a2a0a6de2f1d5016416006cca02ac3450",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add category OSS (#2782)",
+    "summary": "Add category OSS (#2782) * add OSS category * move resource",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ed3bdd8a859a710dccd0a95be55482fdf4e323c6",
+    "published": "2026-09-08T22:02:35.000Z"
+  },
+  {
+    "id": "d56f7d395753fdee026b20af372a84bdf6ce4635",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1d81f1b952ddf5eff79c78785b881efd535c1261",
+    "published": "2026-09-08T21:45:19.000Z"
   },
   {
     "id": "8fca408ec7e0dc8fe09c824eba0ac97b3fb27cf5",
@@ -22,18 +154,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!SuQb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b62d5e2-7663-4910-8580-d565d3c7d0a4_1554x1416.png",
     "url": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
     "published": "2026-09-08T16:32:01.000Z"
-  },
-  {
-    "id": "7a8083a4ab88a82eed31cf02b6c35cb5b43352f5",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/830f3f6a38efb3eb9f741bf6226f01f1414d6d71",
-    "published": "2026-09-08T15:10:12.000Z"
   },
   {
     "id": "e3ede52d8a7d3e49a9817a2756a862784f43c39a",
@@ -72,64 +192,16 @@
     "published": "2026-09-08T13:03:16.000Z"
   },
   {
-    "id": "54dc659256a1c832d38107da3dc372de9346423b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
+    "id": "2614eee0fafdfa67f4952b4c1d918f8a43a24b0c",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
     "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5f8e1185e2517ab57ba75d4ffccf99da1d3bc576",
-    "published": "2026-09-08T12:15:26.000Z"
-  },
-  {
-    "id": "daae2d54e862cfec109d8f0b2a8892a476d28d22",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a78d1bffddcf4c9574a4a85257cc97b364b9ae10",
-    "published": "2026-09-08T09:11:44.000Z"
-  },
-  {
-    "id": "02447a3b252b1b36abc51a8ac5ffc4fa35f8fd24",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e908cbfe5cf733229b98107955a200e8ae2f034c",
-    "published": "2026-09-08T06:16:59.000Z"
-  },
-  {
-    "id": "221739b1ecc453b8d6738907e6770644970af187",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2b84306f7c51d46603174341c6fb678a011ce0e2",
-    "published": "2026-09-08T03:11:52.000Z"
-  },
-  {
-    "id": "d6d26cb591ce3d45874c4fd9fde0f72ecb569caf",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f6fde6e029a1f0dc0de9322f87b3fc1ea7227f73",
-    "published": "2026-09-08T00:27:26.000Z"
+    "title": "Affordable and Fast Migration",
+    "summary": "How Evil Martians moved from Gatsby to Astro in nine days without rewriting a single React component",
+    "thumbnail": null,
+    "url": "https://astro.build/case-studies/evil-martians/",
+    "published": "2026-09-08T00:00:00.000Z"
   },
   {
     "id": "276c6225db64ba2e350a10a4cd3ccb5332f8db18",
@@ -252,18 +324,6 @@
     "published": "2026-09-07T21:32:37.000Z"
   },
   {
-    "id": "37af28025a42751fecacc4a7f5eb3ba802541735",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3a63e17e0d388ad83a8fd523881202fe1f53e184",
-    "published": "2026-09-07T21:08:24.000Z"
-  },
-  {
     "id": "15ab20f55981b594f47b2ae26e5108101c547d13",
     "source": "Riley Brown",
     "type": "video",
@@ -300,42 +360,6 @@
     "published": "2026-09-07T16:24:16.000Z"
   },
   {
-    "id": "4f8847a860050aacd5f9fbe06e4cc25da8e4c3ff",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Research acceleration: The view inside OpenAI",
-    "summary": "Research acceleration: The view inside OpenAI Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it's their new AGI. Both this piece and the new essay An Alien Mind (by...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
-    "published": "2026-09-06T23:57:40.000Z"
-  },
-  {
-    "id": "20bde3d7222dc6a550c281a33acbb71980a909af",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "The purpose of DNS is to spread scams",
-    "summary": "The purpose of DNS is to spread scams Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
-    "published": "2026-09-06T14:40:07.000Z"
-  },
-  {
-    "id": "8321172b50dd8554ffd1b263ce1f6558b8b0d998",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "There's No Limit to How Bad Code Can Get",
-    "summary": "My comment on There's No Limit to How Bad Code Can Get &mdash; Lobste.rs.[In reply to a comment about burning it down to start from scratch when technical debt becomes overwhelming] In my experience...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
-    "published": "2026-09-06T09:08:06.000Z"
-  },
-  {
     "id": "5af7fa3c8ce93c8c76306d821da33e82102b129f",
     "source": "Latent Space",
     "type": "podcast",
@@ -358,6 +382,18 @@
     "thumbnail": "https://i.ytimg.com/vi/XWb1kvU1gG8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=XWb1kvU1gG8",
     "published": "2026-09-05T14:30:22.000Z"
+  },
+  {
+    "id": "f471461c568b21399b0d244a334f5a4269f81a80",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Collusion.wiki: A second undisclosed OpenAI agent swarm incident...",
+    "summary": "AI News for 9/2/2026-9/3/2026.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!g0iZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHRYUNuoXUAAUuKN.jpg",
+    "url": "https://www.latent.space/p/ainews-collusionwiki-a-second-undisclosed",
+    "published": "2026-09-05T04:32:00.000Z"
   },
   {
     "id": "140777111d84b7d229217728e2d3233982d61e90",
@@ -528,30 +564,6 @@
     "published": "2026-09-01T17:14:34.000Z"
   },
   {
-    "id": "b0705d7f30b687575be6d8d79acfb3717692451c",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
-    "summary": "Vercel’s AI SDK, Astro, Flue and tldraw are replacing drive-by community PRs with software factories, where teams of agents apply fixes and features.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!s9oN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ec85997-40a7-4337-b20d-a3574ba4707e_1280x720.png",
-    "url": "https://www.latent.space/p/pr-not-welcome",
-    "published": "2026-09-01T16:17:15.000Z"
-  },
-  {
-    "id": "f8c2c13ce564900910b7e73bf4b99f2bc005d633",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
-    "summary": "You can now create decent video faster than you watch it. This is the start of... something. We’re not sure what.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!hV5N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHQ7UHClW4AA2I6L.jpg",
-    "url": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
-    "published": "2026-09-01T04:36:54.000Z"
-  },
-  {
     "id": "36d98eb4d635112d60940606c892e545418e42e2",
     "source": "Astro",
     "type": "blog",
@@ -677,7 +689,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "NEW ChatGPT Sites Just Changed Everything (Builds Anything)",
+    "title": "NEW ChatGPT Sites Changes Everything (Builds Anything)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/mHqSBCHEZOY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=mHqSBCHEZOY",
@@ -1186,17 +1198,5 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/17023091?s=30&amp;v=4",
     "url": "https://github.com/antfu/skills/commit/cce0f2cc84403680078c90e02089b077f54a9eb0",
     "published": "2026-06-23T00:06:43.000Z"
-  },
-  {
-    "id": "3881f90edeeb92cde070721068e41aa1180bd5dc",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "feat: add antfu-design skill (#32)",
-    "summary": "feat: add antfu-design skill (#32)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/11cefdc7fda24f056763a1d644b5f8160de6ef49",
-    "published": "2026-06-23T00:05:55.000Z"
   }
 ]
