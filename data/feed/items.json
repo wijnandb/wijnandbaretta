@@ -1,5 +1,77 @@
 [
   {
+    "id": "f12143c75667821500df8b11dc47af648e06c12b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Tooling batch etc (#2797)",
+    "summary": "Tooling batch etc (#2797)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d44d9eead3bd8144dabc60b23f101bba0eeef9c0",
+    "published": "2026-09-09T20:35:01.000Z"
+  },
+  {
+    "id": "6d13b7f1450146e442fb5a544ae20526cf3ba104",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Claude Fable 5.1 Is WAY Better Than Everyone Thinks (Build Anything)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/3cYTWLdHgAE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=3cYTWLdHgAE",
+    "published": "2026-09-09T19:48:49.000Z"
+  },
+  {
+    "id": "dac9b6416ad54594ca5a093a5f6d45bc8d12a593",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/972c954dd63785c76ca4afa41ef7aafcaf525647",
+    "published": "2026-09-09T18:12:28.000Z"
+  },
+  {
+    "id": "bd9f5944e4459618f345b2e6a943b4eb2e7f7fb8",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Building Codex with Tibo Sottiaux",
+    "summary": "OpenAI’s Tibo Sottiaux shares how Codex was built and how it’s reshaping software development.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!AlJu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e3d3c6f-6a37-411e-aa1a-dfcefc979af3_1600x140.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux",
+    "published": "2026-09-09T15:57:24.000Z"
+  },
+  {
+    "id": "08b4782c8a168a7fa3ba53742357d7ba97cf7e80",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fc38985f76df60f590b42b5c9b6f768d4389b25c",
+    "published": "2026-09-09T15:09:07.000Z"
+  },
+  {
+    "id": "c4098ac9d318f598d081c65775e9093d3e9224dd",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/da07393de4b7ac0c01c791c76f17a39b9938917f",
+    "published": "2026-09-09T12:14:55.000Z"
+  },
+  {
     "id": "9d35f3b60a57450d04dee986d2b949e361399a8a",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -94,54 +166,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
     "published": "2026-09-08T22:46:33.000Z"
-  },
-  {
-    "id": "488b14501d6aca9d511d8dce30d0483f6beda3cc",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8f594358cf396df5b2feeaeca788f0f27c531b41",
-    "published": "2026-09-08T22:24:34.000Z"
-  },
-  {
-    "id": "41eace95c15bbb322b13abb586446f20b0a71b27",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: Netresearch Agentic Skills (#2785)",
-    "summary": "Add resource: Netresearch Agentic Skills (#2785) Category: Open Source Software Author: Netresearch From issue: #2784 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7cdeb7f725bf90ff26a0f633c915be2f02974567",
-    "published": "2026-09-08T22:24:13.000Z"
-  },
-  {
-    "id": "770f5b1a2a0a6de2f1d5016416006cca02ac3450",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add category OSS (#2782)",
-    "summary": "Add category OSS (#2782) * add OSS category * move resource",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ed3bdd8a859a710dccd0a95be55482fdf4e323c6",
-    "published": "2026-09-08T22:02:35.000Z"
-  },
-  {
-    "id": "d56f7d395753fdee026b20af372a84bdf6ce4635",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1d81f1b952ddf5eff79c78785b881efd535c1261",
-    "published": "2026-09-08T21:45:19.000Z"
   },
   {
     "id": "8fca408ec7e0dc8fe09c824eba0ac97b3fb27cf5",
@@ -816,18 +840,6 @@
     "published": "2026-08-19T17:59:55.000Z"
   },
   {
-    "id": "4d7cecd4850bc52335fa49bfae70b5cb9a1fe29c",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "From Chrome DevTools to AI Engineering, with Addy Osmani",
-    "summary": "Addy Osmani shares lessons from 14 years at Google and how AI agents are reshaping software engineering, developer workflows, and the skills engineers need to succeed.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!-jSJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16f7884a-f725-4cff-84be-46c6e10c1df1_1600x140.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/from-chrome-devtools-to-ai-engineering",
-    "published": "2026-08-19T16:53:57.000Z"
-  },
-  {
     "id": "c2672687756771576f404163f89b80e7f349ca99",
     "source": "ElevenLabs",
     "type": "video",
@@ -838,18 +850,6 @@
     "thumbnail": "https://i.ytimg.com/vi/EtT3UiXBzuc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=EtT3UiXBzuc",
     "published": "2026-08-18T16:58:41.000Z"
-  },
-  {
-    "id": "bff177c791283c085eaa60f0ae48e087575b0e64",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Genspark SecondBrain Note",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/6Zwns0Pppv8/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/6Zwns0Pppv8",
-    "published": "2026-08-18T16:48:42.000Z"
   },
   {
     "id": "383d934d5d772ba29e276cebd0a704d6f1368a06",
