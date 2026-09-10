@@ -1,5 +1,113 @@
 [
   {
+    "id": "5775266049113bde4882b34d99707d06c0ea9be3",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bcedff2c6b9cbfa5df79c412fa7270329e26478a",
+    "published": "2026-09-10T09:11:04.000Z"
+  },
+  {
+    "id": "1372361ff5790365c3a4e5780ddb7165747326b9",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/dfd70fa1ee480f662530e2b10fab36d27c4de698",
+    "published": "2026-09-10T06:17:16.000Z"
+  },
+  {
+    "id": "cfa50f801c80d502f7797face640a76d9134f060",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Backfilling (#2804)",
+    "summary": "Backfilling (#2804)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/cc6d2db1de3144aa976fee553167bb3406d571ce",
+    "published": "2026-09-10T05:20:28.000Z"
+  },
+  {
+    "id": "4211d81ade554bc97313a5333bc8239012e9ef25",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] not much happened today",
+    "summary": "a quiet day",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
+    "published": "2026-09-10T03:33:12.000Z"
+  },
+  {
+    "id": "52377b66faf9320a3fc5dac709f108c12d243a58",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/20e686fa6f65b106882c948178bba08b3102c845",
+    "published": "2026-09-10T03:11:46.000Z"
+  },
+  {
+    "id": "c4865e8c92f1095e73d6c7b9c2b9de05c8f951ee",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Calif Research",
+    "summary": "Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...] The victim does not need to answer the call, or interact with their...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/10/calif-research/",
+    "published": "2026-09-10T00:56:41.000Z"
+  },
+  {
+    "id": "f80851ce39a1f06335d20f6a60e81e8b97f88a2a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a56ab64f1e9287247822b4a0fdd239d9d55255be",
+    "published": "2026-09-10T00:25:35.000Z"
+  },
+  {
+    "id": "2f963b15bf8504d69b21e15063139cf38b0b8666",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": ".blend URL Viewer",
+    "summary": "Tool: .blend URL Viewer I'm continuing to have a lot of fun with GPT-6 Astra and Blender (see my TIL). As a big fan of the Imperial Fabergé Easter eggs, I've always thought it would be fun to make...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+    "published": "2026-09-09T23:58:32.000Z"
+  },
+  {
+    "id": "00c61aebd9764406a8b03a1788daef3d1a533a6f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5dbe93ace9d20c6a7cb7b2106141233d380490a0",
+    "published": "2026-09-09T21:08:03.000Z"
+  },
+  {
     "id": "f12143c75667821500df8b11dc47af648e06c12b",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -17,7 +125,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Claude Fable 5.1 Is WAY Better Than Everyone Thinks (Build Anything)",
+    "title": "Claude Users: You’re Missing Out on Fable 5.1 (It’s That Good)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/3cYTWLdHgAE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=3cYTWLdHgAE",
@@ -48,54 +156,6 @@
     "published": "2026-09-09T15:57:24.000Z"
   },
   {
-    "id": "08b4782c8a168a7fa3ba53742357d7ba97cf7e80",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fc38985f76df60f590b42b5c9b6f768d4389b25c",
-    "published": "2026-09-09T15:09:07.000Z"
-  },
-  {
-    "id": "c4098ac9d318f598d081c65775e9093d3e9224dd",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/da07393de4b7ac0c01c791c76f17a39b9938917f",
-    "published": "2026-09-09T12:14:55.000Z"
-  },
-  {
-    "id": "9d35f3b60a57450d04dee986d2b949e361399a8a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/74859518c440055dd6495b188ca0ff3cb9405c61",
-    "published": "2026-09-09T09:11:16.000Z"
-  },
-  {
-    "id": "1250d73c800f09babaebf501a23b8854709308aa",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/093b986526742ea9df2fedc555d66bfe886fb4a4",
-    "published": "2026-09-09T06:17:25.000Z"
-  },
-  {
     "id": "aaf28a158755731d2ab2af826491f7ca6ed7be71",
     "source": "Latent Space",
     "type": "podcast",
@@ -106,30 +166,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!zHsu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHRtS_iLboAUUlYv.jpg",
     "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
     "published": "2026-09-09T05:04:51.000Z"
-  },
-  {
-    "id": "b56e1b8c94cff8c9acdae7d2e647a862b6953c62",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0cffe020cbdbceddf9cf5af39c45a0d85ea95019",
-    "published": "2026-09-09T03:11:56.000Z"
-  },
-  {
-    "id": "67017dae7dee80f8acde18268eea8ed3b1f95c12",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b06ccc7849dd85d32429fe00777453e313412e31",
-    "published": "2026-09-09T00:27:26.000Z"
   },
   {
     "id": "e4e4ee3b55ca5bbe116a6b84655e4afceac13af2",
@@ -360,30 +396,6 @@
     "published": "2026-09-07T20:55:32.000Z"
   },
   {
-    "id": "394fcc6daf9ee6bb5e3e4261d7c2d92874a78376",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Video compressor",
-    "summary": "Tool: Video compressor I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/7/video-compressor/",
-    "published": "2026-09-07T18:29:07.000Z"
-  },
-  {
-    "id": "edfb48bd8fe5ce90bf6f79d013c6dfc3050d888f",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Mercator ↔ Equal Earth",
-    "summary": "Tool: Mercator ↔ Equal Earth I got curious about the Equal Earth map projection that was recently voted on at the UN so I had GPT-6 Astra (medium) in ChatGPT Work build me this animated transition...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/7/equal-earth/",
-    "published": "2026-09-07T16:24:16.000Z"
-  },
-  {
     "id": "5af7fa3c8ce93c8c76306d821da33e82102b129f",
     "source": "Latent Space",
     "type": "podcast",
@@ -528,18 +540,6 @@
     "published": "2026-09-02T13:00:06.000Z"
   },
   {
-    "id": "73bc7f63383d4a62eaebb82e6496b3f9c0f83443",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
-    "summary": "Queue the usual rush of model launches...",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!-NFa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2094843261470793728.jpg",
-    "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
-    "published": "2026-09-02T07:46:08.000Z"
-  },
-  {
     "id": "1a2c27b5d65b3f4b384d1cff3401d597547f7e96",
     "source": "Astro",
     "type": "blog",
@@ -677,7 +677,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "11 Insane Things NEW Grok Bot Can Do",
+    "title": "11 Insane Things NEW Grok Bot Can Do (Steal These)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/XgkW4A6lrDY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=XgkW4A6lrDY",
