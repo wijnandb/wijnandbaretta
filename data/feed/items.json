@@ -1,5 +1,65 @@
 [
   {
+    "id": "8b71bf8b27ea6977e14b30a458f4187e14c4029e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/56909b11ac870bc6cda1e453d5db10445a7c6916",
+    "published": "2026-09-10T18:11:51.000Z"
+  },
+  {
+    "id": "4a4ff0ec56e98ec97541d3ae6c82ac9eb3df6b6e",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The Pulse #191: a new trend of CPU shortages",
+    "summary": "For compute-intensive services: it’s worth reserving more compute now. Also: growth dreams end for more COVID-era unicorns, engineers losing touch with systems when AI handles incidents, and more",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!L0TW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc3d335c-1137-4c47-8a9a-f91dbc29ba64_1456x1042.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu",
+    "published": "2026-09-10T17:13:44.000Z"
+  },
+  {
+    "id": "5018eed01bfc82ae1e526190bbebe50de48ce223",
+    "source": "AI Report",
+    "type": "podcast",
+    "category": "nl",
+    "lang": "nl",
+    "title": "GPT-6 Astra is er. Is dit AGI? + OpenAI lost 90 jaar oud wiskundeprobleem op",
+    "summary": "Alexander merkt deze week voor het eerst dat het hem boven de pet groeit. Niet vanwege één nieuwsfeit, maar door de stapeling: Tech-tember, de modellen die elkaar steeds sneller opvolgen, Bernie...",
+    "thumbnail": null,
+    "url": "https://www.aireport.nl/podcast/s/aireport/gpt-6_astra_is_er_is_dit_agi_openai_lost_90_jaar_oud_wiskundeprobleem_op",
+    "published": "2026-09-10T15:27:43.000Z"
+  },
+  {
+    "id": "a69f660f5bb993d9c1a8a9e6b0ab70741b1b415f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b8e6c3f91e9740be442ecbe1cc276e76d6895957",
+    "published": "2026-09-10T15:09:40.000Z"
+  },
+  {
+    "id": "8cafb039bb64a4141460a93069abf024a08e8259",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9b69328ab8e5eb2f0508d96e7dc82e26ced911c9",
+    "published": "2026-09-10T12:14:34.000Z"
+  },
+  {
     "id": "5775266049113bde4882b34d99707d06c0ea9be3",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -96,52 +156,16 @@
     "published": "2026-09-09T23:58:32.000Z"
   },
   {
-    "id": "00c61aebd9764406a8b03a1788daef3d1a533a6f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5dbe93ace9d20c6a7cb7b2106141233d380490a0",
-    "published": "2026-09-09T21:08:03.000Z"
-  },
-  {
-    "id": "f12143c75667821500df8b11dc47af648e06c12b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Tooling batch etc (#2797)",
-    "summary": "Tooling batch etc (#2797)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d44d9eead3bd8144dabc60b23f101bba0eeef9c0",
-    "published": "2026-09-09T20:35:01.000Z"
-  },
-  {
     "id": "6d13b7f1450146e442fb5a544ae20526cf3ba104",
     "source": "Riley Brown",
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Claude Users: You’re Missing Out on Fable 5.1 (It’s That Good)",
+    "title": "Claude Fable 5.1 is WAY Better Than You Think (Builds Anything)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/3cYTWLdHgAE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=3cYTWLdHgAE",
     "published": "2026-09-09T19:48:49.000Z"
-  },
-  {
-    "id": "dac9b6416ad54594ca5a093a5f6d45bc8d12a593",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/972c954dd63785c76ca4afa41ef7aafcaf525647",
-    "published": "2026-09-09T18:12:28.000Z"
   },
   {
     "id": "bd9f5944e4459618f345b2e6a943b4eb2e7f7fb8",
@@ -792,18 +816,6 @@
     "published": "2026-08-21T20:41:12.000Z"
   },
   {
-    "id": "8908f6c83c5f5473874e1a1c63f1147f241a7e2a",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The Pulse: We need to talk about migrations with AI",
-    "summary": "Asana completed a testing framework migration in two weeks, that they would have delayed for years more, and they’re not alone. Also: AI startups could make Gartner much less relevant, and more",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!qxa1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F798d1525-1097-40a9-b68e-8ae5dbb6598f_970x666.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-we-need-to-talk-about-migrations",
-    "published": "2026-08-20T17:53:01.000Z"
-  },
-  {
     "id": "2019b247822b54fc37e22842a1ceb21bc9a2e8ab",
     "source": "AI Report",
     "type": "podcast",
@@ -1186,17 +1198,5 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/6481596?s=30&amp;v=4",
     "url": "https://github.com/antfu/skills/commit/9171604c70d723176aa692d6281b1f620f17e84a",
     "published": "2026-06-23T00:07:26.000Z"
-  },
-  {
-    "id": "c719ddce5a80de0163fbedbb178874fdb6955321",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "feat: support custom skills path for vendor projects (#16)",
-    "summary": "feat: support custom skills path for vendor projects (#16)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/17023091?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/cce0f2cc84403680078c90e02089b077f54a9eb0",
-    "published": "2026-06-23T00:06:43.000Z"
   }
 ]
