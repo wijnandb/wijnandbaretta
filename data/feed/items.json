@@ -1,5 +1,101 @@
 [
   {
+    "id": "aee8e6c7b34c22f7b912de5e7421a7723074cca6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e6c27938cb51334cd2fffe2e252dffbb9ad97cbb",
+    "published": "2026-09-11T09:10:47.000Z"
+  },
+  {
+    "id": "b2c63d9f80deff11eb7105c07194d32fa8c13d09",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b7d8b5037ffd1dbe207dca50fb127698a35acaaf",
+    "published": "2026-09-11T06:16:32.000Z"
+  },
+  {
+    "id": "0bea6aa8e9e76678becc750053210056dfa19a49",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Datasette 1.0a39 and 0.65.4 security releases",
+    "summary": "Datasette 1.0a39 and 0.65.4 security releases Today we're releasing two new security patch versions of Datasette: 1.0a39 and 0.65.4 - one for the current alpha series and one for the stable 0.65.x...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/11/datasette-security/",
+    "published": "2026-09-11T03:27:16.000Z"
+  },
+  {
+    "id": "6c2c28de5e296d47a4744a802b6f3040c493858d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2406ccf21add8a2968a021ddc1e2ca6ab6e85460",
+    "published": "2026-09-11T03:11:51.000Z"
+  },
+  {
+    "id": "b463fc8ef06ed9f10c66745bda0c4cc6e7aecfda",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d31ccb278f454fa88dba1000082cd22c79a81341",
+    "published": "2026-09-11T00:27:17.000Z"
+  },
+  {
+    "id": "346c4c630b23db4e208b6ed5cf418a5ab6a2e9cd",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Any Nix package, live in your browser",
+    "summary": "Any Nix package, live in your browser Farid Zakaria calls this his \"magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/10/trynix/",
+    "published": "2026-09-10T23:44:15.000Z"
+  },
+  {
+    "id": "8548ae32b0a6f6f1c6950ca9af32a88ce41af949",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Native is now the future of mobile at Shopify",
+    "summary": "Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
+    "published": "2026-09-10T21:11:15.000Z"
+  },
+  {
+    "id": "43c86f755153ff0e445df5591ae641c64de75b66",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b6928deca969d53757ab513d784f1c47fc87f667",
+    "published": "2026-09-10T21:07:46.000Z"
+  },
+  {
     "id": "8b71bf8b27ea6977e14b30a458f4187e14c4029e",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -60,42 +156,6 @@
     "published": "2026-09-10T12:14:34.000Z"
   },
   {
-    "id": "5775266049113bde4882b34d99707d06c0ea9be3",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bcedff2c6b9cbfa5df79c412fa7270329e26478a",
-    "published": "2026-09-10T09:11:04.000Z"
-  },
-  {
-    "id": "1372361ff5790365c3a4e5780ddb7165747326b9",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/dfd70fa1ee480f662530e2b10fab36d27c4de698",
-    "published": "2026-09-10T06:17:16.000Z"
-  },
-  {
-    "id": "cfa50f801c80d502f7797face640a76d9134f060",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Backfilling (#2804)",
-    "summary": "Backfilling (#2804)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/cc6d2db1de3144aa976fee553167bb3406d571ce",
-    "published": "2026-09-10T05:20:28.000Z"
-  },
-  {
     "id": "4211d81ade554bc97313a5333bc8239012e9ef25",
     "source": "Latent Space",
     "type": "podcast",
@@ -108,18 +168,6 @@
     "published": "2026-09-10T03:33:12.000Z"
   },
   {
-    "id": "52377b66faf9320a3fc5dac709f108c12d243a58",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/20e686fa6f65b106882c948178bba08b3102c845",
-    "published": "2026-09-10T03:11:46.000Z"
-  },
-  {
     "id": "c4865e8c92f1095e73d6c7b9c2b9de05c8f951ee",
     "source": "Simon Willison",
     "type": "blog",
@@ -130,18 +178,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/10/calif-research/",
     "published": "2026-09-10T00:56:41.000Z"
-  },
-  {
-    "id": "f80851ce39a1f06335d20f6a60e81e8b97f88a2a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a56ab64f1e9287247822b4a0fdd239d9d55255be",
-    "published": "2026-09-10T00:25:35.000Z"
   },
   {
     "id": "2f963b15bf8504d69b21e15063139cf38b0b8666",
@@ -209,8 +245,8 @@
     "type": "blog",
     "category": "ai",
     "lang": "en",
-    "title": "On the Navier–Stokes Millennium Prize Problem",
-    "summary": "On the Navier–Stokes Millennium Prize Problem Impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem, one of the...",
+    "title": "Some thoughts on the Navier–Stokes Millennium Prize Problem",
+    "summary": "On the Navier–Stokes Millennium Prize Problem introduces an impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem,...",
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
     "published": "2026-09-08T23:55:12.000Z"
@@ -288,18 +324,6 @@
     "published": "2026-09-08T00:00:00.000Z"
   },
   {
-    "id": "276c6225db64ba2e350a10a4cd3ccb5332f8db18",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm 0.35",
-    "summary": "Release: llm 0.35 New OpenAI model: gpt-6-astra for GPT-6 Astra. Tags: openai, llm, gpt-6-astra",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/7/llm/",
-    "published": "2026-09-07T23:54:54.000Z"
-  },
-  {
     "id": "f784fce8458325ed95210b8b860a77ed303f93a7",
     "source": "awesome-mcp-servers",
     "type": "repo",
@@ -336,18 +360,6 @@
     "published": "2026-09-07T23:09:02.000Z"
   },
   {
-    "id": "315af994e13a7fe441f6b8a727b084d8f403585c",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Creepy crawlies",
-    "summary": "Creepy crawlies Konstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the perspective of git.kernel.org, the official Git repository for the Linux...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
-    "published": "2026-09-07T23:08:58.000Z"
-  },
-  {
     "id": "c7cb563baa588913016a39ce8a1a2301811c85b8",
     "source": "awesome-mcp-servers",
     "type": "repo",
@@ -382,18 +394,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
     "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/a685f3f475a88026825275fe2e3672ba918eb85e",
     "published": "2026-09-07T22:42:37.000Z"
-  },
-  {
-    "id": "b392e0204486327f8a283017e8e7733149441525",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Jakub Pachocki",
-    "summary": "The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...] We will need powerful, aligned AI...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
-    "published": "2026-09-07T22:26:25.000Z"
   },
   {
     "id": "5eebfa2383a586e21d8124ede2aa97a9afe3ee90",
