@@ -1,5 +1,65 @@
 [
   {
+    "id": "6caaaa9163d3cfeffb12f753d7b2da30064bdc54",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5e43f2198d5226ecaa2380c6534d4a35e398d1af",
+    "published": "2026-09-12T18:10:29.000Z"
+  },
+  {
+    "id": "db19087c5b7011d2ba00938c1bd0b69ce2ec015e",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Paul Ford",
+    "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
+    "published": "2026-09-12T18:00:21.000Z"
+  },
+  {
+    "id": "9ef2caf0616d3001bb54f1ea0ddcd8dfd2ff69ab",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1516dfa9d4c8aad8e3007f084065c884932d1a79",
+    "published": "2026-09-12T15:08:14.000Z"
+  },
+  {
+    "id": "46af3aa4b297ae9ab1aa777dd2d9c8eec2ebd17d",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "The Rise of the Forward Deployed Engineer — and How To Do the Job Right",
+    "summary": "Before co-founding Kepler, Vinoo Ganesh led Spark at Palantir and built Project Frontline — a pioneering program for Forward Deployed Engineers. He takes us through the best practices of FDEs.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!5LAd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ad2af0-b40a-433d-bd78-0514683c9eb4_2560x1440.png",
+    "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
+    "published": "2026-09-12T15:01:19.000Z"
+  },
+  {
+    "id": "408218c6202c7aa9c1ede14c1d38bb367aa6aa9b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d8f76341ba7179dcf37403aa434db899c75d8f84",
+    "published": "2026-09-12T12:12:51.000Z"
+  },
+  {
     "id": "30bc7204cbf3d02993ec6b8f5df28badf57ac5dd",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -96,18 +156,6 @@
     "published": "2026-09-11T21:08:43.000Z"
   },
   {
-    "id": "79064ecc52f9ceae355cbbaa6575b237fd788253",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/34e0fd08136026a30227506e996cf93e2793e186",
-    "published": "2026-09-11T18:11:24.000Z"
-  },
-  {
     "id": "3369a7745ac2cadd0c24bf0eeac0fcf2f2aa9a9e",
     "source": "Simon Willison",
     "type": "blog",
@@ -144,18 +192,6 @@
     "published": "2026-09-11T16:04:53.000Z"
   },
   {
-    "id": "8c5fa84bf0ca45d467ffdde45222f92795bd1d3c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/51f35d6c1a771b65c24eda714658341712b042bc",
-    "published": "2026-09-11T15:09:19.000Z"
-  },
-  {
     "id": "68c9d57c259dc49b630ab31b38d995264a8498b5",
     "source": "Simon Willison",
     "type": "blog",
@@ -178,30 +214,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/11/wrapture/",
     "published": "2026-09-11T13:51:32.000Z"
-  },
-  {
-    "id": "05363e95a5ac7402a639f7515866e0c40de4d936",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/63c84a15a14f20e850f5522bdf8bea75cae72c6f",
-    "published": "2026-09-11T12:15:21.000Z"
-  },
-  {
-    "id": "0bea6aa8e9e76678becc750053210056dfa19a49",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Datasette 1.0a39 and 0.65.4 security releases",
-    "summary": "Datasette 1.0a39 and 0.65.4 security releases Today we're releasing two new security patch versions of Datasette: 1.0a39 and 0.65.4 - one for the current alpha series and one for the stable 0.65.x...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/11/datasette-security/",
-    "published": "2026-09-11T03:27:16.000Z"
   },
   {
     "id": "4a4ff0ec56e98ec97541d3ae6c82ac9eb3df6b6e",
@@ -502,18 +514,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!75mH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e58156f-49e2-48e8-af49-ce5edd8e68b6_1118x1118.png",
     "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
     "published": "2026-09-04T05:18:11.000Z"
-  },
-  {
-    "id": "ad408c639885d3f9364e52cb1cad34760ab46070",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
-    "summary": "We spent 20B+ tokens of GPT-6 Astra to explore everything. Here’s our learnings.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!1Mu3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff60dbb10-9849-49e5-8569-5dfba8440b9c_2486x1390.png",
-    "url": "https://www.latent.space/p/astra",
-    "published": "2026-09-03T21:09:41.000Z"
   },
   {
     "id": "dec831e363ffd23d0572c1c98c0b356ba25e904b",
