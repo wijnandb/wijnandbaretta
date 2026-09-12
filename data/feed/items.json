@@ -1,5 +1,101 @@
 [
   {
+    "id": "30bc7204cbf3d02993ec6b8f5df28badf57ac5dd",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/97ef79272ee14a6738d8bd3622cc4706453ccac3",
+    "published": "2026-09-12T09:09:39.000Z"
+  },
+  {
+    "id": "65450d611aafd8410bc1005ae0c543b15d4a6ec3",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/28c61d80ab7c52622b8a26d9e9e2db83f823ad11",
+    "published": "2026-09-12T06:14:57.000Z"
+  },
+  {
+    "id": "11def78beae106ccddf6ad4ba52dbc482d147689",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
+    "summary": "We agree with Sebastian: this should have been DeepSeek v5",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!dYdZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F149285a5-df59-4df7-8ba9-4653b68c5f0b_2316x1122.png",
+    "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+    "published": "2026-09-12T05:56:05.000Z"
+  },
+  {
+    "id": "6a6ee2e4b7c484524be8973129c425c0f84e1582",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bc691cca7816ee13d369b6990520fec886f46329",
+    "published": "2026-09-12T03:11:22.000Z"
+  },
+  {
+    "id": "2ed54a20b866655ed2d6910a0c508c5724748e0d",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "OpenAI agents attacked RubyGems back in May",
+    "summary": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+    "published": "2026-09-12T00:42:25.000Z"
+  },
+  {
+    "id": "e763a841030a2bae09f32c80557c2280a5c2f29a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a41fa98d55999095ac166248381f264ad49b7138",
+    "published": "2026-09-12T00:25:43.000Z"
+  },
+  {
+    "id": "7e6aa646d847f7fa1c9b1e08c8227c060f394e23",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "So you want to use OpenRouter?",
+    "summary": "So you want to use OpenRouter? One of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the most cost-effective option for each request\", so you can call a single API...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+    "published": "2026-09-11T22:49:18.000Z"
+  },
+  {
+    "id": "6c618c96a928b96e745b633efd50b739c1e3d7d2",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/384131f42367f05743e7c7b31bfd162647cfe9a8",
+    "published": "2026-09-11T21:08:43.000Z"
+  },
+  {
     "id": "79064ecc52f9ceae355cbbaa6575b237fd788253",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -22,6 +118,18 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
     "published": "2026-09-11T17:47:11.000Z"
+  },
+  {
+    "id": "6f95f2bec50997af85ee2c5a5f70f50062e14bcf",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Feeling sad about AI",
+    "summary": "My comment on Feeling sad about AI &mdash; Hacker News.I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
+    "published": "2026-09-11T17:28:37.000Z"
   },
   {
     "id": "b8e61897c6ced1cdfd92899a431f28005efafe4e",
@@ -84,30 +192,6 @@
     "published": "2026-09-11T12:15:21.000Z"
   },
   {
-    "id": "aee8e6c7b34c22f7b912de5e7421a7723074cca6",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e6c27938cb51334cd2fffe2e252dffbb9ad97cbb",
-    "published": "2026-09-11T09:10:47.000Z"
-  },
-  {
-    "id": "b2c63d9f80deff11eb7105c07194d32fa8c13d09",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b7d8b5037ffd1dbe207dca50fb127698a35acaaf",
-    "published": "2026-09-11T06:16:32.000Z"
-  },
-  {
     "id": "0bea6aa8e9e76678becc750053210056dfa19a49",
     "source": "Simon Willison",
     "type": "blog",
@@ -118,66 +202,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/11/datasette-security/",
     "published": "2026-09-11T03:27:16.000Z"
-  },
-  {
-    "id": "6c2c28de5e296d47a4744a802b6f3040c493858d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2406ccf21add8a2968a021ddc1e2ca6ab6e85460",
-    "published": "2026-09-11T03:11:51.000Z"
-  },
-  {
-    "id": "b463fc8ef06ed9f10c66745bda0c4cc6e7aecfda",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d31ccb278f454fa88dba1000082cd22c79a81341",
-    "published": "2026-09-11T00:27:17.000Z"
-  },
-  {
-    "id": "346c4c630b23db4e208b6ed5cf418a5ab6a2e9cd",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Any Nix package, live in your browser",
-    "summary": "Any Nix package, live in your browser Farid Zakaria calls this his \"magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/10/trynix/",
-    "published": "2026-09-10T23:44:15.000Z"
-  },
-  {
-    "id": "8548ae32b0a6f6f1c6950ca9af32a88ce41af949",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Native is now the future of mobile at Shopify",
-    "summary": "Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
-    "published": "2026-09-10T21:11:15.000Z"
-  },
-  {
-    "id": "43c86f755153ff0e445df5591ae641c64de75b66",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b6928deca969d53757ab513d784f1c47fc87f667",
-    "published": "2026-09-10T21:07:46.000Z"
   },
   {
     "id": "4a4ff0ec56e98ec97541d3ae6c82ac9eb3df6b6e",
@@ -214,18 +238,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
     "url": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
     "published": "2026-09-10T03:33:12.000Z"
-  },
-  {
-    "id": "c4865e8c92f1095e73d6c7b9c2b9de05c8f951ee",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Calif Research",
-    "summary": "Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...] The victim does not need to answer the call, or interact with their...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/10/calif-research/",
-    "published": "2026-09-10T00:56:41.000Z"
   },
   {
     "id": "6d13b7f1450146e442fb5a544ae20526cf3ba104",
@@ -526,18 +538,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/alle_ai_is_deze_week_significant_beter_geworden_wietse_koopt_roboteend",
     "published": "2026-09-03T15:49:55.000Z"
-  },
-  {
-    "id": "043c2a3bfc8f5aa2fdde636c079199cfbd545647",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, >90% discount for training",
-    "summary": "an epic comeback story for Meta",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!vyuW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff20254a9-6670-4842-b0c9-89101011f15c_2342x984.jpeg",
-    "url": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
-    "published": "2026-09-03T04:38:33.000Z"
   },
   {
     "id": "c4a547d99246d5abf617d443b2b39fc4b21cc136",
