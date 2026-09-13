@@ -1,5 +1,41 @@
 [
   {
+    "id": "130b15ec41ebf2a26d9aa96d0f4a20e06e8e1790",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8c12e49d316261e459646c117b349e4472d967a2",
+    "published": "2026-09-13T18:10:56.000Z"
+  },
+  {
+    "id": "0337408621c11716721a19a9195a7ca6d30a36b0",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aad1702323ee505c72086fec95b5987a8d6e33aa",
+    "published": "2026-09-13T15:08:06.000Z"
+  },
+  {
+    "id": "1c95b3f743da73af2a1f1bd0951f63be72bb04c5",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/23bc676719326ffbec97f20b394c1cf5e7fe30ff",
+    "published": "2026-09-13T12:13:17.000Z"
+  },
+  {
     "id": "a34442c1c73de02b7a9d0d6ab133facf6b960c1f",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -180,18 +216,6 @@
     "published": "2026-09-12T21:08:11.000Z"
   },
   {
-    "id": "6caaaa9163d3cfeffb12f753d7b2da30064bdc54",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5e43f2198d5226ecaa2380c6534d4a35e398d1af",
-    "published": "2026-09-12T18:10:29.000Z"
-  },
-  {
     "id": "db19087c5b7011d2ba00938c1bd0b69ce2ec015e",
     "source": "Simon Willison",
     "type": "blog",
@@ -204,18 +228,6 @@
     "published": "2026-09-12T18:00:21.000Z"
   },
   {
-    "id": "9ef2caf0616d3001bb54f1ea0ddcd8dfd2ff69ab",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1516dfa9d4c8aad8e3007f084065c884932d1a79",
-    "published": "2026-09-12T15:08:14.000Z"
-  },
-  {
     "id": "46af3aa4b297ae9ab1aa777dd2d9c8eec2ebd17d",
     "source": "Latent Space",
     "type": "podcast",
@@ -226,18 +238,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!5LAd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ad2af0-b40a-433d-bd78-0514683c9eb4_2560x1440.png",
     "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
     "published": "2026-09-12T15:01:19.000Z"
-  },
-  {
-    "id": "408218c6202c7aa9c1ede14c1d38bb367aa6aa9b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d8f76341ba7179dcf37403aa434db899c75d8f84",
-    "published": "2026-09-12T12:12:51.000Z"
   },
   {
     "id": "11def78beae106ccddf6ad4ba52dbc482d147689",
