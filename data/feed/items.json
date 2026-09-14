@@ -1,5 +1,113 @@
 [
   {
+    "id": "bed1156254a4ff473a67354b6b8e80a11d5839d5",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "The contagion of fear",
+    "summary": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\"....",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+    "published": "2026-09-14T21:18:13.000Z"
+  },
+  {
+    "id": "a9d4ba598e93a518a15fc4b075645cd0b077a28e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/883846f64901f97391b5398f34f713062e83f12c",
+    "published": "2026-09-14T21:08:12.000Z"
+  },
+  {
+    "id": "263391f1136f23a1b4be44fe41f8c68859c336f9",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "What blog posts influenced your thinking the most?",
+    "summary": "My comment on What blog posts influenced your thinking the most? &mdash; Lobste.rs.An early Joel Spolsky one for me was The Law of Leaky Abstractions. I read that near the start of my career and it's...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/14/influences/",
+    "published": "2026-09-14T20:21:48.000Z"
+  },
+  {
+    "id": "b571b70dc3de8cbcc01ed74a4a7f507fce6023ba",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c80288e4efd8ead53271a2aaf2396ce2ceae8986",
+    "published": "2026-09-14T18:11:24.000Z"
+  },
+  {
+    "id": "63ee2a66e298cc3f3f53ceaac81a5a1b519f4407",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Introducing ElevenLabs MCP with Creative Tools",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/1f1ZN1ITCOM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=1f1ZN1ITCOM",
+    "published": "2026-09-14T17:56:31.000Z"
+  },
+  {
+    "id": "0f1f17c815280cbf81d17c0ce0268eaae267c389",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Humanity’s Last Invention — Richard Socher of Recursive",
+    "summary": "Richard Socher is an NLP OG and CEO of You.com, who has now spun out an even more ambitious startup focused on RSI — already worth $5B!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!6T4g!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6110fb7-c06c-4d1e-bd0e-0709f6ca1011_1600x1600.webp",
+    "url": "https://www.latent.space/p/recursive",
+    "published": "2026-09-14T16:04:16.000Z"
+  },
+  {
+    "id": "0110baf15ebde96cbf61cb3e00abc5344b04bfcb",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/67162d1a65001646af111a0779c2efc0aa2f6418",
+    "published": "2026-09-14T15:10:57.000Z"
+  },
+  {
+    "id": "affb45ca605e01279225d85ae574107a6869c54d",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Laurie Voss",
+    "summary": "The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making software is finding out what people actually...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
+    "published": "2026-09-14T14:34:29.000Z"
+  },
+  {
+    "id": "09ab477d97796a381ac4c36d90c5393a2f04775a",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "28 Insane Things GPT-6 Astra + Codex Can Do (2 Hour Course)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/ifz8NGHuHtY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=ifz8NGHuHtY",
+    "published": "2026-09-14T13:00:30.000Z"
+  },
+  {
     "id": "0ab0db116aaa15f55937797d78890b014e40c03d",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -60,30 +168,6 @@
     "published": "2026-09-14T02:41:46.000Z"
   },
   {
-    "id": "f3a9cbcb2f68f50c47224817a2f680e894f2ebe1",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: Claude Style Patch (#2832)",
-    "summary": "Add resource: Claude Style Patch (#2832) Category: Writing & Prose Quality Author: Andrew Roxby From issue: #2830 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3dd60176bb281b380e0beae4f5f136fa6d4c5666",
-    "published": "2026-09-14T02:41:24.000Z"
-  },
-  {
-    "id": "1c36f971c39969705b2bc9f1b863da3794d5c53d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6d8bc09ff51116718dba00a99203c4f168dd969e",
-    "published": "2026-09-14T00:29:27.000Z"
-  },
-  {
     "id": "2e88014063fe25dc42a688c6cb3fcf75f1be4f61",
     "source": "Simon Willison",
     "type": "blog",
@@ -106,18 +190,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
     "published": "2026-09-13T23:58:14.000Z"
-  },
-  {
-    "id": "573bd5bdd10f7644bb338ee60229badfa0f8ed56",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/847100cc538d8d8a2143f3c067e3330c6f68db7b",
-    "published": "2026-09-13T21:07:31.000Z"
   },
   {
     "id": "e218a6ed785ed555ab04404d43022ffd7ebf6322",
@@ -274,42 +346,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!dYdZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F149285a5-df59-4df7-8ba9-4653b68c5f0b_2316x1122.png",
     "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
     "published": "2026-09-12T05:56:05.000Z"
-  },
-  {
-    "id": "2ed54a20b866655ed2d6910a0c508c5724748e0d",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "OpenAI agents attacked RubyGems back in May",
-    "summary": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
-    "published": "2026-09-12T00:42:25.000Z"
-  },
-  {
-    "id": "7e6aa646d847f7fa1c9b1e08c8227c060f394e23",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "So you want to use OpenRouter?",
-    "summary": "So you want to use OpenRouter? One of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the most cost-effective option for each request\", so you can call a single API...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
-    "published": "2026-09-11T22:49:18.000Z"
-  },
-  {
-    "id": "3369a7745ac2cadd0c24bf0eeac0fcf2f2aa9a9e",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Boris Cherny",
-    "summary": "Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint rules, lots...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
-    "published": "2026-09-11T17:47:11.000Z"
   },
   {
     "id": "4a4ff0ec56e98ec97541d3ae6c82ac9eb3df6b6e",
@@ -502,18 +538,6 @@
     "thumbnail": "https://i.ytimg.com/vi/ubzhh4kMCLo/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ubzhh4kMCLo",
     "published": "2026-09-04T16:54:09.000Z"
-  },
-  {
-    "id": "d4bd5ca244c3adb9698088c95cdffb7513ebfcaa",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
-    "summary": "new SOTA computer use and coding, 2.5x pricier per token, but WAY cheaper per task, less monitorable. overall, a very successful launch of OpenAI’s new frontier model class.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!75mH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e58156f-49e2-48e8-af49-ce5edd8e68b6_1118x1118.png",
-    "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
-    "published": "2026-09-04T05:18:11.000Z"
   },
   {
     "id": "dec831e363ffd23d0572c1c98c0b356ba25e904b",
@@ -804,18 +828,6 @@
     "published": "2026-08-24T15:48:12.000Z"
   },
   {
-    "id": "8ecc51df967ec5182c210b7d7d7fd6ba5a907861",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Codex vs Claude vs Grokbot: What's The Best Super App?",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/ETa6ZYqoIXo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ETa6ZYqoIXo",
-    "published": "2026-08-21T20:41:12.000Z"
-  },
-  {
     "id": "2019b247822b54fc37e22842a1ceb21bc9a2e8ab",
     "source": "AI Report",
     "type": "podcast",
@@ -1006,18 +1018,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/whats-new-july-2026/",
     "published": "2026-07-31T00:00:00.000Z"
-  },
-  {
-    "id": "08c3f0dafe56fd7d95f764e400e22448dcfd90ac",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Introducing FineTunes Music API",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/HrDcpJV_JKc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=HrDcpJV_JKc",
-    "published": "2026-07-22T16:20:58.000Z"
   },
   {
     "id": "2e77c20f7079164d76ee1b93e59f8a5ed8fffcf1",
