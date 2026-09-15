@@ -1,5 +1,173 @@
 [
   {
+    "id": "0a6d2830e8993595b456b00d37399a8305b2c862",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #11506 from elberacasa/add-umbra",
+    "summary": "Merge pull request #11506 from elberacasa/add-umbra Add umbra MCP server 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/fbd71ef09defba591e5fad1eed45051b1b844722",
+    "published": "2026-09-15T21:00:46.000Z"
+  },
+  {
+    "id": "e17055f1cd817c4ddb12251369f9d5e72fd2b489",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10872 from maxylev/add-new-server",
+    "summary": "Merge pull request #10872 from maxylev/add-new-server Add new searchfetch server",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/bbf35741f9b7f1adadbcf1dd9f521785e4adb139",
+    "published": "2026-09-15T21:00:31.000Z"
+  },
+  {
+    "id": "97235e7aea2ba7b63ad1eaa3549e2e3cbb58444c",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #12226 from ryansilk/add-apexvol-mcp",
+    "summary": "Merge pull request #12226 from ryansilk/add-apexvol-mcp Add ryansilk/apexvol-mcp (Finance & Fintech)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/97c44069c72d71140fcc148b2011662eda4cb4f9",
+    "published": "2026-09-15T21:00:16.000Z"
+  },
+  {
+    "id": "4a315b72c59fe3e778c1f078b86f343716799dbd",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #14460 from litescraper/add-litescrape",
+    "summary": "Merge pull request #14460 from litescraper/add-litescrape Add litescrape/litescrape-mcp-server 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/4d2cbc20b20f9cc6e106be0e839cfd8f00c56251",
+    "published": "2026-09-15T20:44:53.000Z"
+  },
+  {
+    "id": "0cfa8ece341b6194918dcb42e0b8d5505e0556f6",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #12826 from VoDaiLocz/add-kilo-kit-mcp",
+    "summary": "Merge pull request #12826 from VoDaiLocz/add-kilo-kit-mcp Add Kilo-Kit MCP server 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/7e0496a4b042fef7d3f38d7a2c2872f79b1688b9",
+    "published": "2026-09-15T20:39:21.000Z"
+  },
+  {
+    "id": "06039a6e3e89335e574cb0a3009524cb87d1f1b1",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #14388 from ilyautov/add-vk-mcp-ru",
+    "summary": "Merge pull request #14388 from ilyautov/add-vk-mcp-ru Add ilyautov/vk-mcp-ru (VK API) to Social Media",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/78d46e8ce565ade321ff4e81d895964c316c011b",
+    "published": "2026-09-15T20:34:22.000Z"
+  },
+  {
+    "id": "d2947a44e8e2b860886c57aae07aa02e11b77b54",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Fix entry formatting",
+    "summary": "Fix entry formatting",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/04cf43973e1e0cdb505c6819ab05998787f8d11a",
+    "published": "2026-09-15T20:31:31.000Z"
+  },
+  {
+    "id": "6f4d703ffedc974ab8bd44d12c7a57fb5c6d3133",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #14108 from kunickiaj/add-codemem-knowledge-memory",
+    "summary": "Merge pull request #14108 from kunickiaj/add-codemem-knowledge-memory Add kunickiaj/codemem to Knowledge & Memory",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/d3c9205a45d1684e8f09d29a731f1ae6503e1619",
+    "published": "2026-09-15T20:31:25.000Z"
+  },
+  {
+    "id": "dfe4dbbe0065a3094df4bcdb35af15a81045da05",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Can Skills Learned in Games Transfer to Real-World Work?",
+    "summary": "Good Start Labs trained an AI on a railroad game — and one version improved at financial research. The difference was the training design.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!hNAj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb32a5826-6fd5-4608-bc04-4240a5e538df_2560x1440.png",
+    "url": "https://www.latent.space/p/good-start-labs",
+    "published": "2026-09-15T20:11:54.000Z"
+  },
+  {
+    "id": "2b0aceb49b95b6c338b693f050e7b34200fca254",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/daae693672d8189207d37fab61035afda4ab8fa5",
+    "published": "2026-09-15T18:11:18.000Z"
+  },
+  {
+    "id": "557dcb769a02356f6826f34d74e30722aa541a81",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Inside OpenAI’s agentic software factory",
+    "summary": "A deepdive into how Codex has “taken over” OpenAI, how the frontier lab builds its agentic software factory, and the engineering challenges of one billion users. Details from inside OpenAI",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Eiw9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e73721e-e4d8-473f-a5a1-b6211c14f6ca_2048x1762.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
+    "published": "2026-09-15T15:41:25.000Z"
+  },
+  {
+    "id": "ec270ac6f374478f02bd93cd3715d114d4e13955",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9f3245ba34e837147ab03900e0b852faebb329f2",
+    "published": "2026-09-15T15:09:42.000Z"
+  },
+  {
+    "id": "80c1ef33f11e857873abdc089d356e51b2ae99b7",
+    "source": "AI Jason",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "How to run your first AI UGC campaign (step-by-step guide)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/GkGufbIVVC8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=GkGufbIVVC8",
+    "published": "2026-09-15T12:33:12.000Z"
+  },
+  {
+    "id": "6857bf87effffa01d7d88a9d058fb4f2d5b7718e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c9b7fe9200e357cbfa6fc96e82702420c0eefd48",
+    "published": "2026-09-15T12:14:39.000Z"
+  },
+  {
     "id": "50ea28b3c1424e0d3166d9b62df4ff93d8416d1a",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -96,18 +264,6 @@
     "published": "2026-09-14T20:21:48.000Z"
   },
   {
-    "id": "b571b70dc3de8cbcc01ed74a4a7f507fce6023ba",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c80288e4efd8ead53271a2aaf2396ce2ceae8986",
-    "published": "2026-09-14T18:11:24.000Z"
-  },
-  {
     "id": "63ee2a66e298cc3f3f53ceaac81a5a1b519f4407",
     "source": "ElevenLabs",
     "type": "video",
@@ -130,18 +286,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!6T4g!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6110fb7-c06c-4d1e-bd0e-0709f6ca1011_1600x1600.webp",
     "url": "https://www.latent.space/p/recursive",
     "published": "2026-09-14T16:04:16.000Z"
-  },
-  {
-    "id": "0110baf15ebde96cbf61cb3e00abc5344b04bfcb",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/67162d1a65001646af111a0779c2efc0aa2f6418",
-    "published": "2026-09-14T15:10:57.000Z"
   },
   {
     "id": "affb45ca605e01279225d85ae574107a6869c54d",
@@ -168,18 +312,6 @@
     "published": "2026-09-14T13:00:30.000Z"
   },
   {
-    "id": "0ab0db116aaa15f55937797d78890b014e40c03d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b85abc082f72a54a4f14404e870684dbefdde93d",
-    "published": "2026-09-14T12:15:42.000Z"
-  },
-  {
     "id": "2e88014063fe25dc42a688c6cb3fcf75f1be4f61",
     "source": "Simon Willison",
     "type": "blog",
@@ -202,102 +334,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
     "published": "2026-09-13T23:58:14.000Z"
-  },
-  {
-    "id": "e218a6ed785ed555ab04404d43022ffd7ebf6322",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #13938 from nickgeorgeseo/add-mcp-gatehouse",
-    "summary": "Merge pull request #13938 from nickgeorgeseo/add-mcp-gatehouse Add mcp-gatehouse 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/547444f90b30398768764300211ceccf8205b209",
-    "published": "2026-09-13T07:49:46.000Z"
-  },
-  {
-    "id": "190e4db96812f9603d381cd67f709a496e68b826",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #8834 from webmilmind1/patch-1",
-    "summary": "Merge pull request #8834 from webmilmind1/patch-1 Add DeskCrew (Support & Service Management)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/4a8b32965ab59eb922af138967c79699d0f61f63",
-    "published": "2026-09-13T07:46:27.000Z"
-  },
-  {
-    "id": "687231f1760aac6436574a30c5fd73b47e34cba3",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #14013 from malikrashidk/add-tooltrace",
-    "summary": "Merge pull request #14013 from malikrashidk/add-tooltrace Add ToolTrace MCP server",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/8f23caeec96916cd305e161ca2df8c699e355044",
-    "published": "2026-09-13T07:45:38.000Z"
-  },
-  {
-    "id": "b07c3a89af8da1887192b18bba3a2bc39539fc1e",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #13074 from scttbnsn/fix/portkey-listing",
-    "summary": "Merge pull request #13074 from scttbnsn/fix/portkey-listing Update Portkey Admin MCP listing 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/b5db0b1a518461d5ae36ff60f9f05ced60864160",
-    "published": "2026-09-13T07:44:53.000Z"
-  },
-  {
-    "id": "6dd760e0bed3739944227af38f37d5222b6eee7c",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #14115 from ndk98z/patch-2",
-    "summary": "Merge pull request #14115 from ndk98z/patch-2 Add Drop-to-run/drop2run-cli to Cloud Platforms",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/be3b7a615e3176410ce9721a6839f5452bce58bd",
-    "published": "2026-09-13T07:42:48.000Z"
-  },
-  {
-    "id": "f0b38bf7333d27c17fd8bc2eafa891f507e4a2c2",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #14221 from iyashjayesh/add-tokenchit",
-    "summary": "Merge pull request #14221 from iyashjayesh/add-tokenchit Add tokenchit MCP server 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/50027118472506fc85d4786c4d6686cb56715d51",
-    "published": "2026-09-13T07:42:35.000Z"
-  },
-  {
-    "id": "53fa760b865982e0c7b56a3d26b269d983062268",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #13153 from sparrow84001/patch-1",
-    "summary": "Merge pull request #13153 from sparrow84001/patch-1 feat: add sparrow84001/mcp-seo to Marketing section",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/4ec34eb58825422d8c53b00a0fc5003b1f24ca92",
-    "published": "2026-09-13T07:39:52.000Z"
-  },
-  {
-    "id": "43b6c3c44ae18104f4617bc01ae863975321f5a1",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Fix entry formatting",
-    "summary": "Fix entry formatting",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/b42c9806359443638cad76b5d6c164b7909ba230",
-    "published": "2026-09-13T07:39:08.000Z"
   },
   {
     "id": "3f37b0a02f79eadd70c1f114b95b4eb07122ceea",
@@ -490,18 +526,6 @@
     "thumbnail": "https://i.ytimg.com/vi/Ju41cQSe7hY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Ju41cQSe7hY",
     "published": "2026-09-07T20:55:32.000Z"
-  },
-  {
-    "id": "5af7fa3c8ce93c8c76306d821da33e82102b129f",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
-    "summary": "SpaceXAI’s Grok Bot has the same level of programming power as OpenClaw, but it’s programmable at a different level of abstraction.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!LSd-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7950cec-a256-4773-89bd-085b0742335d_2048x1438.png",
-    "url": "https://www.latent.space/p/grok-bot",
-    "published": "2026-09-05T15:01:02.000Z"
   },
   {
     "id": "6dd1e10d5da2cb00f944986d0d6828e46e3a22ce",
@@ -766,18 +790,6 @@
     "thumbnail": "https://i.ytimg.com/vi/mHqSBCHEZOY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=mHqSBCHEZOY",
     "published": "2026-08-26T00:41:14.000Z"
-  },
-  {
-    "id": "4e66e71e0084ef294634befd66700efac46ef416",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Why Ramp built its own in-house coding agent, Inspect",
-    "summary": "A fintech company rejected the easy route and homebrewed its own coding agent – and is now a step ahead of coding agents from frontier AI labs. An in-depth look",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!CW3x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7449f6f-3517-482d-9ffd-913f3f55af21_2048x879.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect",
-    "published": "2026-08-25T15:20:23.000Z"
   },
   {
     "id": "e301ab978ba1d45a5f41a2dd5c3ca1da812b6d81",
@@ -1186,17 +1198,5 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
     "url": "https://github.com/antfu/skills/commit/2814e65fe3095742fd648aa4e09afa76daaa428e",
     "published": "2026-06-23T00:12:23.000Z"
-  },
-  {
-    "id": "ea36860b16d22ee49eccac2f67d19367c352afff",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "ci: update workflow references to main branch (#29)",
-    "summary": "ci: update workflow references to main branch (#29)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/6481596?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/9171604c70d723176aa692d6281b1f620f17e84a",
-    "published": "2026-06-23T00:07:26.000Z"
   }
 ]
