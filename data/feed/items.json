@@ -1,99 +1,195 @@
 [
   {
-    "id": "0a6d2830e8993595b456b00d37399a8305b2c862",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
+    "id": "eb9a9ca239b7fc1169764d45209c9d4325a3b9fd",
+    "source": "Latent Space",
+    "type": "podcast",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #11506 from elberacasa/add-umbra",
-    "summary": "Merge pull request #11506 from elberacasa/add-umbra Add umbra MCP server 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/fbd71ef09defba591e5fad1eed45051b1b844722",
-    "published": "2026-09-15T21:00:46.000Z"
+    "title": "[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — >100x faster, >200x cheaper than small frontier LLMs",
+    "summary": "congrats to TypeSafe!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!VwPr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdafca494-4f36-4a32-864a-2fb74357afe7_2150x1690.png",
+    "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+    "published": "2026-09-16T11:09:53.000Z"
   },
   {
-    "id": "e17055f1cd817c4ddb12251369f9d5e72fd2b489",
-    "source": "awesome-mcp-servers",
+    "id": "f805f4f25120fd96ff2662328fe9910965aa7668",
+    "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #10872 from maxylev/add-new-server",
-    "summary": "Merge pull request #10872 from maxylev/add-new-server Add new searchfetch server",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/bbf35741f9b7f1adadbcf1dd9f521785e4adb139",
-    "published": "2026-09-15T21:00:31.000Z"
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/62ed03d778ea3e19a630aace4323811527ed56de",
+    "published": "2026-09-16T09:10:54.000Z"
   },
   {
-    "id": "97235e7aea2ba7b63ad1eaa3549e2e3cbb58444c",
-    "source": "awesome-mcp-servers",
+    "id": "197e84069212aafb1d84cd357710249ce12e21f6",
+    "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #12226 from ryansilk/add-apexvol-mcp",
-    "summary": "Merge pull request #12226 from ryansilk/add-apexvol-mcp Add ryansilk/apexvol-mcp (Finance & Fintech)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/97c44069c72d71140fcc148b2011662eda4cb4f9",
-    "published": "2026-09-15T21:00:16.000Z"
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/716b98ff4de5ae137501e0d968a9208eb1ff9b79",
+    "published": "2026-09-16T06:17:24.000Z"
   },
   {
-    "id": "4a315b72c59fe3e778c1f078b86f343716799dbd",
-    "source": "awesome-mcp-servers",
+    "id": "97974cebfdbff00227a2a3552766819378d63bf3",
+    "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #14460 from litescraper/add-litescrape",
-    "summary": "Merge pull request #14460 from litescraper/add-litescrape Add litescrape/litescrape-mcp-server 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/4d2cbc20b20f9cc6e106be0e839cfd8f00c56251",
-    "published": "2026-09-15T20:44:53.000Z"
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f27a46784e3a7398128071d6b2aea4ce55f30728",
+    "published": "2026-09-16T03:11:53.000Z"
   },
   {
-    "id": "0cfa8ece341b6194918dcb42e0b8d5505e0556f6",
-    "source": "awesome-mcp-servers",
+    "id": "6279f95205b9d6b6fd9911a2900b43256ea91963",
+    "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #12826 from VoDaiLocz/add-kilo-kit-mcp",
-    "summary": "Merge pull request #12826 from VoDaiLocz/add-kilo-kit-mcp Add Kilo-Kit MCP server 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/7e0496a4b042fef7d3f38d7a2c2872f79b1688b9",
-    "published": "2026-09-15T20:39:21.000Z"
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4bd48021da7446a41621177efd5f9224486a7da7",
+    "published": "2026-09-16T00:26:12.000Z"
   },
   {
-    "id": "06039a6e3e89335e574cb0a3009524cb87d1f1b1",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
+    "id": "7bc8fd88f6990dff3698eac3c51ee7f678e8c710",
+    "source": "Anthony Fu",
+    "type": "blog",
+    "category": "design",
     "lang": "en",
-    "title": "Merge pull request #14388 from ilyautov/add-vk-mcp-ru",
-    "summary": "Merge pull request #14388 from ilyautov/add-vk-mcp-ru Add ilyautov/vk-mcp-ru (VK API) to Social Media",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/78d46e8ce565ade321ff4e81d895964c316c011b",
-    "published": "2026-09-15T20:34:22.000Z"
+    "title": "Pluggable, Extensible, and Playful DevTools",
+    "summary": "[[toc]] Over the years, I have built quite a few DevTools: {UnoCSS Inspector}, {Vite Plugin Inspect}, {Vitest UI}, {Nuxt DevTools}, {ESLint Config Inspector}, and {Node Modules Inspector}, among...",
+    "thumbnail": "https://antfu.me/images/devframe/devframe-with-title.svg",
+    "url": "https://antfu.me/posts/pluggable-extensible-playful-devtools",
+    "published": "2026-09-16T00:00:00.000Z"
   },
   {
-    "id": "d2947a44e8e2b860886c57aae07aa02e11b77b54",
+    "id": "0ca1c2f372fdff651846f71a2ee43c1b821016a0",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Fix entry formatting",
-    "summary": "Fix entry formatting",
+    "title": "Merge pull request #13298 from Celestial105/feat-add-dros-vajraclaw",
+    "summary": "Merge pull request #13298 from Celestial105/feat-add-dros-vajraclaw feat: Add DROS VajraClaw - In-band deterministic runtime security gateway",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/04cf43973e1e0cdb505c6819ab05998787f8d11a",
-    "published": "2026-09-15T20:31:31.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/393b4e9fafb0348e5a1c2a4ef5a8719b0d85e061",
+    "published": "2026-09-15T23:17:38.000Z"
   },
   {
-    "id": "6f4d703ffedc974ab8bd44d12c7a57fb5c6d3133",
+    "id": "45b6ec244c380731e19cd1678f2b279ca83dfa16",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #14108 from kunickiaj/add-codemem-knowledge-memory",
-    "summary": "Merge pull request #14108 from kunickiaj/add-codemem-knowledge-memory Add kunickiaj/codemem to Knowledge & Memory",
+    "title": "Merge pull request #11528 from fireostendere/add-diptrace-mcp",
+    "summary": "Merge pull request #11528 from fireostendere/add-diptrace-mcp Add DipTrace MCP server",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/d3c9205a45d1684e8f09d29a731f1ae6503e1619",
-    "published": "2026-09-15T20:31:25.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/30b615f27f19682d0a11ea57fb091cc448206246",
+    "published": "2026-09-15T23:13:06.000Z"
+  },
+  {
+    "id": "8124dd2db0a328aae99a2fc590e34639940b9a35",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #13919 from ross402signal/patch-1",
+    "summary": "Merge pull request #13919 from ross402signal/patch-1 Add 402Signal with current pricing and canonical Glama badge",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/2bbabcc4538c8da10007a9963351c493bcdf26ec",
+    "published": "2026-09-15T23:12:09.000Z"
+  },
+  {
+    "id": "85d34c4d7b858cbd090a9af7893947c90c21eb89",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "fix: place permitted emoji tags after badge as per Legend specification",
+    "summary": "fix: place permitted emoji tags after badge as per Legend specification",
+    "thumbnail": "https://avatars.githubusercontent.com/u/93265680?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/64d9df10151571a482b4d29362d6c0f4e299aaad",
+    "published": "2026-09-15T23:10:55.000Z"
+  },
+  {
+    "id": "0d07ec92478ab2b51642770dae91b0dbc96d09bf",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add 402Signal to Aggregators",
+    "summary": "Add 402Signal to Aggregators",
+    "thumbnail": "https://avatars.githubusercontent.com/u/323625715?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/c32fd37671096cca5091ed4f943be17283bbcad8",
+    "published": "2026-09-15T23:08:32.000Z"
+  },
+  {
+    "id": "1ad05cb3e49e336da70a8c83f77912f71db4e401",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #13114 from chryaner/add-terrarium",
+    "summary": "Merge pull request #13114 from chryaner/add-terrarium Add terrarium to OS Automation",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/d7f9febb5c4316edb0a6cac4b9f96ec7ff71b1b2",
+    "published": "2026-09-15T23:07:14.000Z"
+  },
+  {
+    "id": "f88c6d1b220d61d0a7b6499e233555c33f5d9ffc",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #10534 from frsorrentino/add-chrome-bridge",
+    "summary": "Merge pull request #10534 from frsorrentino/add-chrome-bridge Add frsorrentino/chrome-bridge (Browser Automation) 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/a7df84626c3c5546609cbd9ac60a08b3feee9028",
+    "published": "2026-09-15T23:07:01.000Z"
+  },
+  {
+    "id": "80fc87a277c55e86de72951af84f769246867e18",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Rebase DipTrace MCP entry onto latest main",
+    "summary": "Rebase DipTrace MCP entry onto latest main",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/03e47f383bf08759b55d8a3ffa5a636fbf820c10",
+    "published": "2026-09-15T23:06:32.000Z"
+  },
+  {
+    "id": "500c6bf99a8171dc42ccdd2cb76b6a2a3ed30ddf",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Gemini Live audio",
+    "summary": "Tool: Gemini Live audio Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today - two new speech-to-speech models that are a similar shape to OpenAI's GPT-Live family. I pointed GPT-6...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+    "published": "2026-09-15T22:47:07.000Z"
+  },
+  {
+    "id": "664a5d69bada605cdd573f2b3e18685053547426",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/804f0f95ed90c4ad6a5ad72efecae85b73df9082",
+    "published": "2026-09-15T21:08:46.000Z"
   },
   {
     "id": "dfe4dbbe0065a3094df4bcdb35af15a81045da05",
@@ -168,30 +264,6 @@
     "published": "2026-09-15T12:14:39.000Z"
   },
   {
-    "id": "50ea28b3c1424e0d3166d9b62df4ff93d8416d1a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b1e50b312ecf86f46fc37dbe947686fccf02bdb9",
-    "published": "2026-09-15T09:10:57.000Z"
-  },
-  {
-    "id": "0b8e825f6203e453e56492d71fa7cb83cd0f9946",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/36b2df9c3ef870354bbb0915bdb32721bd4c54ab",
-    "published": "2026-09-15T06:17:55.000Z"
-  },
-  {
     "id": "05d8e0b482ac6992a2f6de78bd2af2c7dc49c728",
     "source": "Latent Space",
     "type": "podcast",
@@ -204,30 +276,6 @@
     "published": "2026-09-15T04:50:36.000Z"
   },
   {
-    "id": "f011367a7c12f82faaa0f7d30269772f68d9cc10",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/cf4e2139f2937f3b7f00da043e6ff4ff29b53042",
-    "published": "2026-09-15T03:12:18.000Z"
-  },
-  {
-    "id": "a3cbdd6a6aa89ef44d7120411326184bb09220d6",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8a55056c2beaa574cbefe32f72445e05d03ee3c7",
-    "published": "2026-09-15T00:28:22.000Z"
-  },
-  {
     "id": "bed1156254a4ff473a67354b6b8e80a11d5839d5",
     "source": "Simon Willison",
     "type": "blog",
@@ -238,18 +286,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
     "published": "2026-09-14T21:18:13.000Z"
-  },
-  {
-    "id": "a9d4ba598e93a518a15fc4b075645cd0b077a28e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/883846f64901f97391b5398f34f713062e83f12c",
-    "published": "2026-09-14T21:08:12.000Z"
   },
   {
     "id": "263391f1136f23a1b4be44fe41f8c68859c336f9",
@@ -358,18 +394,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
     "published": "2026-09-12T21:16:09.000Z"
-  },
-  {
-    "id": "db19087c5b7011d2ba00938c1bd0b69ce2ec015e",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Paul Ford",
-    "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
-    "published": "2026-09-12T18:00:21.000Z"
   },
   {
     "id": "46af3aa4b297ae9ab1aa777dd2d9c8eec2ebd17d",
@@ -502,18 +526,6 @@
     "thumbnail": null,
     "url": "https://astro.build/case-studies/evil-martians/",
     "published": "2026-09-08T00:00:00.000Z"
-  },
-  {
-    "id": "5eebfa2383a586e21d8124ede2aa97a9afe3ee90",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
-    "summary": "Our first Astra project dives into AEO trends, a top asked topic from founders and DX leaders we talk to.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!iyRI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c8e4ec6-5470-4b1e-831c-cbdd0b864f2b_2910x1598.png",
-    "url": "https://www.latent.space/p/aeo",
-    "published": "2026-09-07T21:32:37.000Z"
   },
   {
     "id": "15ab20f55981b594f47b2ae26e5108101c547d13",
@@ -1186,17 +1198,5 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
     "url": "https://github.com/antfu/skills/commit/a74f281a27dadc02397bc1a174b0f2c97531b6ae",
     "published": "2026-06-23T00:14:36.000Z"
-  },
-  {
-    "id": "774e5c3936431a72a079891edf17e808223790a0",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "feat: update skills and add nitro (#34)",
-    "summary": "feat: update skills and add nitro (#34)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/2814e65fe3095742fd648aa4e09afa76daaa428e",
-    "published": "2026-06-23T00:12:23.000Z"
   }
 ]
