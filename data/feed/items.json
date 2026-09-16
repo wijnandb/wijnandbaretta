@@ -1,5 +1,89 @@
 [
   {
+    "id": "d276a548ad828d6893c6b7f8a9654072dd22e77b",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "GPT-6 Astra Made an Ad for My Dream Phone",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/O8pzzIP1RyM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=O8pzzIP1RyM",
+    "published": "2026-09-16T20:37:56.000Z"
+  },
+  {
+    "id": "e2261ab09c2330286f58dad8ce47290c9897427c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6d2e8231088c44de64d24089e903fea00b1a186b",
+    "published": "2026-09-16T18:12:00.000Z"
+  },
+  {
+    "id": "d86c6da463d50815e1577afae1a35e225b0575ce",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Claude Cowork and chat are now one Claude",
+    "summary": "Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
+    "published": "2026-09-16T18:09:49.000Z"
+  },
+  {
+    "id": "e82447047905b99cd84cb72ecf6a28ccb6a1acd5",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+    "summary": "We sit down with AIUC’s CEO on their Series A!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!czja!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6acff64-a3ea-43f5-b5bb-aaeecd163bdb_2120x1896.png",
+    "url": "https://www.latent.space/p/aiuc",
+    "published": "2026-09-16T18:07:45.000Z"
+  },
+  {
+    "id": "fc651ee7288f058a848ce2201b41419de6f205ae",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Mustafa Suleyman",
+    "summary": "We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+    "published": "2026-09-16T16:00:54.000Z"
+  },
+  {
+    "id": "623908b2eedd6d23d019dab479cb8f51b4022a5e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/99950f262f91a5ccff512f5fe982e54a70c2e32f",
+    "published": "2026-09-16T15:09:17.000Z"
+  },
+  {
+    "id": "3860025b8ebe85da1278ddde499412e19721ac14",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6278fae064442f359ca0bb5cd37102d13b51b25a",
+    "published": "2026-09-16T12:15:16.000Z"
+  },
+  {
     "id": "eb9a9ca239b7fc1169764d45209c9d4325a3b9fd",
     "source": "Latent Space",
     "type": "podcast",
@@ -204,18 +288,6 @@
     "published": "2026-09-15T20:11:54.000Z"
   },
   {
-    "id": "2b0aceb49b95b6c338b693f050e7b34200fca254",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/daae693672d8189207d37fab61035afda4ab8fa5",
-    "published": "2026-09-15T18:11:18.000Z"
-  },
-  {
     "id": "557dcb769a02356f6826f34d74e30722aa541a81",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -228,18 +300,6 @@
     "published": "2026-09-15T15:41:25.000Z"
   },
   {
-    "id": "ec270ac6f374478f02bd93cd3715d114d4e13955",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9f3245ba34e837147ab03900e0b852faebb329f2",
-    "published": "2026-09-15T15:09:42.000Z"
-  },
-  {
     "id": "80c1ef33f11e857873abdc089d356e51b2ae99b7",
     "source": "AI Jason",
     "type": "video",
@@ -250,18 +310,6 @@
     "thumbnail": "https://i.ytimg.com/vi/GkGufbIVVC8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=GkGufbIVVC8",
     "published": "2026-09-15T12:33:12.000Z"
-  },
-  {
-    "id": "6857bf87effffa01d7d88a9d058fb4f2d5b7718e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c9b7fe9200e357cbfa6fc96e82702420c0eefd48",
-    "published": "2026-09-15T12:14:39.000Z"
   },
   {
     "id": "05d8e0b482ac6992a2f6de78bd2af2c7dc49c728",
@@ -372,30 +420,6 @@
     "published": "2026-09-13T23:58:14.000Z"
   },
   {
-    "id": "3f37b0a02f79eadd70c1f114b95b4eb07122ceea",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-    "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at . Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-    "published": "2026-09-12T23:56:42.000Z"
-  },
-  {
-    "id": "86c07f5a755140f4a60b688b67214ddfcdd64163",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "California Brown Pelican",
-    "summary": "California Brown Pelican, in San Mateo County, CA, USThe Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe. It has since been entirely...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
-    "published": "2026-09-12T21:16:09.000Z"
-  },
-  {
     "id": "46af3aa4b297ae9ab1aa777dd2d9c8eec2ebd17d",
     "source": "Latent Space",
     "type": "podcast",
@@ -478,18 +502,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!AlJu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e3d3c6f-6a37-411e-aa1a-dfcefc979af3_1600x140.png",
     "url": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux",
     "published": "2026-09-09T15:57:24.000Z"
-  },
-  {
-    "id": "aaf28a158755731d2ab2af826491f7ca6ed7be71",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
-    "summary": "Overshadowing Cognition's $48B Series E, Mistral's $24B Series D, Meta's Muse agent, and GPT Image 2.5. The most jam packed, feel the AGI day in the history of AI.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!zHsu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHRtS_iLboAUUlYv.jpg",
-    "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
-    "published": "2026-09-09T05:04:51.000Z"
   },
   {
     "id": "8fca408ec7e0dc8fe09c824eba0ac97b3fb27cf5",
@@ -790,18 +802,6 @@
     "thumbnail": null,
     "url": "https://www.allthingsdistributed.com/2026/08/duckdb-and-the-changing-physics-of-analytics.html?utm_campaign=inbound&amp;utm_source=rss",
     "published": "2026-08-26T14:00:00.000Z"
-  },
-  {
-    "id": "34db913e1224ce823bdf9e72e9dc3443dbfad272",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "NEW ChatGPT Sites Changes Everything (Builds Anything)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/mHqSBCHEZOY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=mHqSBCHEZOY",
-    "published": "2026-08-26T00:41:14.000Z"
   },
   {
     "id": "e301ab978ba1d45a5f41a2dd5c3ca1da812b6d81",
