@@ -1,5 +1,65 @@
 [
   {
+    "id": "2f269a03d10ac2356ff5151f51409d90125c2f37",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Self-generated prompt injections in compaction summaries",
+    "summary": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+    "published": "2026-09-17T20:57:55.000Z"
+  },
+  {
+    "id": "673f1c53897074a293d221249a6ee6c79bb9f649",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/233725c7c25f12b7cafb5cef0d37b496b7fbf830",
+    "published": "2026-09-17T18:12:07.000Z"
+  },
+  {
+    "id": "5514dc558bad3a08a56567dcb6e5e2bb11262874",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3b1d501e1307b3167469e8992b6bb2c14df84d10",
+    "published": "2026-09-17T15:09:56.000Z"
+  },
+  {
+    "id": "27520e86b734c9a8ffafa8b28b1bb93506ae54b5",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/215aa6a508f620a744270b0d51fd2d6e098baadc",
+    "published": "2026-09-17T12:14:57.000Z"
+  },
+  {
+    "id": "f5a472e0bb8649288707e5e84333a2ffa6b968e8",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "AI Skills with Matt Pocock",
+    "summary": "Matt Pocock explains how he uses AI coding skills and agents to plan and build software, and why engineering fundamentals matter more than ever.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Qhi0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1228ff6a-514b-4643-9360-02cda14dc5ac_800x70.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
+    "published": "2026-09-17T11:29:00.000Z"
+  },
+  {
     "id": "b4a77e1aafa9751391c4f029dd62becf08a5287a",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -108,18 +168,6 @@
     "published": "2026-09-16T20:37:56.000Z"
   },
   {
-    "id": "e2261ab09c2330286f58dad8ce47290c9897427c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6d2e8231088c44de64d24089e903fea00b1a186b",
-    "published": "2026-09-16T18:12:00.000Z"
-  },
-  {
     "id": "d86c6da463d50815e1577afae1a35e225b0575ce",
     "source": "Simon Willison",
     "type": "blog",
@@ -154,30 +202,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
     "published": "2026-09-16T16:00:54.000Z"
-  },
-  {
-    "id": "623908b2eedd6d23d019dab479cb8f51b4022a5e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/99950f262f91a5ccff512f5fe982e54a70c2e32f",
-    "published": "2026-09-16T15:09:17.000Z"
-  },
-  {
-    "id": "3860025b8ebe85da1278ddde499412e19721ac14",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6278fae064442f359ca0bb5cd37102d13b51b25a",
-    "published": "2026-09-16T12:15:16.000Z"
   },
   {
     "id": "eb9a9ca239b7fc1169764d45209c9d4325a3b9fd",
@@ -408,24 +432,12 @@
     "published": "2026-09-14T16:04:16.000Z"
   },
   {
-    "id": "affb45ca605e01279225d85ae574107a6869c54d",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Laurie Voss",
-    "summary": "The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making software is finding out what people actually...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
-    "published": "2026-09-14T14:34:29.000Z"
-  },
-  {
     "id": "09ab477d97796a381ac4c36d90c5393a2f04775a",
     "source": "Riley Brown",
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "28 Insane Things GPT-6 Astra + Codex Can Do (2 Hour Course)",
+    "title": "28 Insane Things GPT-6 Astra Can Do (2 Hour Course)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/ifz8NGHuHtY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ifz8NGHuHtY",
@@ -778,18 +790,6 @@
     "thumbnail": "https://i.ytimg.com/vi/XgkW4A6lrDY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=XgkW4A6lrDY",
     "published": "2026-08-26T20:02:16.000Z"
-  },
-  {
-    "id": "8bbcf3582d63bffae3c9b3028b4f874f85630602",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Why performant code matters (but gets widely ignored), with Casey Muratori",
-    "summary": "Casey Muratori explains why software performance matters, how developers can write faster code, and why he challenges conventional engineering practices.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!T84b!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31fb1727-eeae-4f63-8c95-81d589e3c3f3_1600x140.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets",
-    "published": "2026-08-26T15:59:59.000Z"
   },
   {
     "id": "bf435a1e2ac1898e507dfad20466b7e59c6295f5",
