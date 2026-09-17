@@ -1,11 +1,107 @@
 [
   {
+    "id": "b4a77e1aafa9751391c4f029dd62becf08a5287a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e3dda41c50ae6d0eabfb0ddb07c2056a75cbaa5a",
+    "published": "2026-09-17T09:11:40.000Z"
+  },
+  {
+    "id": "a117e8f013b01d0b773e921bad84270fb07591c7",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
+    "summary": "A dash of cold water keeps the foomers away.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!7Cec!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHSP7dfeaEAAQZs_.png",
+    "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+    "published": "2026-09-17T07:28:25.000Z"
+  },
+  {
+    "id": "fdb129e0ece886e3845e42a4cf6a7a2e787a29e5",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/17a4c2c941db7aeec2169a9c8f8eaaa7241c4464",
+    "published": "2026-09-17T06:17:53.000Z"
+  },
+  {
+    "id": "14459dd97e50ef9e03953629b7df606497a23a7c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fed45843a2ece1c396560925e4d86de660a2daa9",
+    "published": "2026-09-17T03:12:19.000Z"
+  },
+  {
+    "id": "b72244530bf4ea36e245c8c7c9d308a18c9b0618",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/80e0a2ce75c97542889e6eb57d667dfc5179d754",
+    "published": "2026-09-17T00:26:13.000Z"
+  },
+  {
+    "id": "738877fde7567c89428a94f5355467904114cbd4",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette 1.0a40",
+    "summary": "Release: datasette 1.0a40 Same security fix as 0.65.5, plus some neat new features and bug fixes: Plugins can now launch and manage background tasks using the new datasette.add_background_task()...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/16/datasette/",
+    "published": "2026-09-16T23:51:43.000Z"
+  },
+  {
+    "id": "2105625f58a47d5420c2b9e179c6aae45e64dc91",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette 0.65.5",
+    "summary": "Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
+    "published": "2026-09-16T23:51:08.000Z"
+  },
+  {
+    "id": "41535f65daca36ae635a85e5312e2d2112925936",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/79253cad143b7f1279b06060cd9bacc41e716916",
+    "published": "2026-09-16T21:09:13.000Z"
+  },
+  {
     "id": "d276a548ad828d6893c6b7f8a9654072dd22e77b",
     "source": "Riley Brown",
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "GPT-6 Astra Made an Ad for My Dream Phone",
+    "title": "GPT-6 Astra Created This Entire Product Launch",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/O8pzzIP1RyM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=O8pzzIP1RyM",
@@ -94,54 +190,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!VwPr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdafca494-4f36-4a32-864a-2fb74357afe7_2150x1690.png",
     "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
     "published": "2026-09-16T11:09:53.000Z"
-  },
-  {
-    "id": "f805f4f25120fd96ff2662328fe9910965aa7668",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/62ed03d778ea3e19a630aace4323811527ed56de",
-    "published": "2026-09-16T09:10:54.000Z"
-  },
-  {
-    "id": "197e84069212aafb1d84cd357710249ce12e21f6",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/716b98ff4de5ae137501e0d968a9208eb1ff9b79",
-    "published": "2026-09-16T06:17:24.000Z"
-  },
-  {
-    "id": "97974cebfdbff00227a2a3552766819378d63bf3",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f27a46784e3a7398128071d6b2aea4ce55f30728",
-    "published": "2026-09-16T03:11:53.000Z"
-  },
-  {
-    "id": "6279f95205b9d6b6fd9911a2900b43256ea91963",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4bd48021da7446a41621177efd5f9224486a7da7",
-    "published": "2026-09-16T00:26:12.000Z"
   },
   {
     "id": "7bc8fd88f6990dff3698eac3c51ee7f678e8c710",
@@ -264,18 +312,6 @@
     "published": "2026-09-15T22:47:07.000Z"
   },
   {
-    "id": "664a5d69bada605cdd573f2b3e18685053547426",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/804f0f95ed90c4ad6a5ad72efecae85b73df9082",
-    "published": "2026-09-15T21:08:46.000Z"
-  },
-  {
     "id": "dfe4dbbe0065a3094df4bcdb35af15a81045da05",
     "source": "Latent Space",
     "type": "podcast",
@@ -396,30 +432,6 @@
     "published": "2026-09-14T13:00:30.000Z"
   },
   {
-    "id": "2e88014063fe25dc42a688c6cb3fcf75f1be4f61",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "commit-rewriter 0.1",
-    "summary": "Release: commit-rewriter 0.1 I built this little web app the other day to help edit the commit messages for the Datasette security releases. The initial commits were full of coding agent cruft and...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
-    "published": "2026-09-14T00:28:10.000Z"
-  },
-  {
-    "id": "39d9007229120c6f298241fea6584347ab9b8d3a",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "shot-scraper 1.12",
-    "summary": "Release: shot-scraper 1.12 I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this: shot-scraper https://simonwillison.net -o...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
-    "published": "2026-09-13T23:58:14.000Z"
-  },
-  {
     "id": "46af3aa4b297ae9ab1aa777dd2d9c8eec2ebd17d",
     "source": "Latent Space",
     "type": "podcast",
@@ -466,18 +478,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/gpt-6_astra_is_er_is_dit_agi_openai_lost_90_jaar_oud_wiskundeprobleem_op",
     "published": "2026-09-10T15:27:43.000Z"
-  },
-  {
-    "id": "4211d81ade554bc97313a5333bc8239012e9ef25",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] not much happened today",
-    "summary": "a quiet day",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
-    "url": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
-    "published": "2026-09-10T03:33:12.000Z"
   },
   {
     "id": "6d13b7f1450146e442fb5a544ae20526cf3ba104",
