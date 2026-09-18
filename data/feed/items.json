@@ -1,5 +1,89 @@
 [
   {
+    "id": "e3a6799112421c6d584532923a6b0543aa8d79d5",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Note on 18th September 2026",
+    "summary": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
+    "published": "2026-09-18T19:21:32.000Z"
+  },
+  {
+    "id": "beaede86e124ef873153a515a5555d6038d841bd",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Thariq Shihipar",
+    "summary": "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+    "published": "2026-09-18T19:09:27.000Z"
+  },
+  {
+    "id": "ecb7f0e2f1608441257195ed085e69bc7114f051",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/04570a2e7f3ab5f425d6c765f275859cde4829be",
+    "published": "2026-09-18T18:11:36.000Z"
+  },
+  {
+    "id": "91bd29d1acb7b832222d6d659b550f04f5378090",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "JEV: How It Works and What You Can Build",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/o1CogAtWdBk/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=o1CogAtWdBk",
+    "published": "2026-09-18T15:45:55.000Z"
+  },
+  {
+    "id": "4b19ab9ecc004e3ed8b5ae5da642b6105dfe85cf",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/069311b966f21f758985e05b98a4f3229c9ca589",
+    "published": "2026-09-18T15:09:32.000Z"
+  },
+  {
+    "id": "fc55e6480f4ee645bed5a7b595f36a8427746a6c",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "The Creative Spirit of Who Framed Roger Rabbit",
+    "summary": "The Creative Spirit of Who Framed Roger Rabbit I love Who Framed Roger Rabbit, the 1988 movie by Robert Zemeckis. I haven't watched it in quite a few years, and Cypress Frankenfeld just pointed out...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
+    "published": "2026-09-18T14:36:41.000Z"
+  },
+  {
+    "id": "260db6f5bba026d240a95e40313dff1a6665bdfe",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e734328a808d863bb0a31376410027f1f7859ec2",
+    "published": "2026-09-18T12:14:08.000Z"
+  },
+  {
     "id": "0ae37644d2451a8ee9aef088761995e56c9c4790",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -120,42 +204,6 @@
     "published": "2026-09-17T20:57:55.000Z"
   },
   {
-    "id": "673f1c53897074a293d221249a6ee6c79bb9f649",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/233725c7c25f12b7cafb5cef0d37b496b7fbf830",
-    "published": "2026-09-17T18:12:07.000Z"
-  },
-  {
-    "id": "5514dc558bad3a08a56567dcb6e5e2bb11262874",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3b1d501e1307b3167469e8992b6bb2c14df84d10",
-    "published": "2026-09-17T15:09:56.000Z"
-  },
-  {
-    "id": "27520e86b734c9a8ffafa8b28b1bb93506ae54b5",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/215aa6a508f620a744270b0d51fd2d6e098baadc",
-    "published": "2026-09-17T12:14:57.000Z"
-  },
-  {
     "id": "f5a472e0bb8649288707e5e84333a2ffa6b968e8",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -216,18 +264,6 @@
     "published": "2026-09-16T20:37:56.000Z"
   },
   {
-    "id": "d86c6da463d50815e1577afae1a35e225b0575ce",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Claude Cowork and chat are now one Claude",
-    "summary": "Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
-    "published": "2026-09-16T18:09:49.000Z"
-  },
-  {
     "id": "e82447047905b99cd84cb72ecf6a28ccb6a1acd5",
     "source": "Latent Space",
     "type": "podcast",
@@ -238,18 +274,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!czja!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6acff64-a3ea-43f5-b5bb-aaeecd163bdb_2120x1896.png",
     "url": "https://www.latent.space/p/aiuc",
     "published": "2026-09-16T18:07:45.000Z"
-  },
-  {
-    "id": "fc651ee7288f058a848ce2201b41419de6f205ae",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Mustafa Suleyman",
-    "summary": "We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
-    "published": "2026-09-16T16:00:54.000Z"
   },
   {
     "id": "eb9a9ca239b7fc1169764d45209c9d4325a3b9fd",
@@ -370,18 +394,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/03e47f383bf08759b55d8a3ffa5a636fbf820c10",
     "published": "2026-09-15T23:06:32.000Z"
-  },
-  {
-    "id": "500c6bf99a8171dc42ccdd2cb76b6a2a3ed30ddf",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Gemini Live audio",
-    "summary": "Tool: Gemini Live audio Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today - two new speech-to-speech models that are a similar shape to OpenAI's GPT-Live family. I pointed GPT-6...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
-    "published": "2026-09-15T22:47:07.000Z"
   },
   {
     "id": "dfe4dbbe0065a3094df4bcdb35af15a81045da05",
@@ -790,18 +802,6 @@
     "thumbnail": "https://i.ytimg.com/vi/P1zBiAQU1IA/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=P1zBiAQU1IA",
     "published": "2026-08-27T17:54:32.000Z"
-  },
-  {
-    "id": "cadc472eaf02fbbd7c4a17d32ed4da38af3ac956",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "11 Insane Things NEW Grok Bot Can Do (Steal These)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/XgkW4A6lrDY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=XgkW4A6lrDY",
-    "published": "2026-08-26T20:02:16.000Z"
   },
   {
     "id": "bf435a1e2ac1898e507dfad20466b7e59c6295f5",
