@@ -1,5 +1,113 @@
 [
   {
+    "id": "0ae37644d2451a8ee9aef088761995e56c9c4790",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0036cba2340e7382210efbe9b57dbb041cb802d5",
+    "published": "2026-09-18T09:10:38.000Z"
+  },
+  {
+    "id": "405e090bb244957b1fc2afbac2caf54696f6ee07",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] not much happened today",
+    "summary": "a quiet day",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-612",
+    "published": "2026-09-18T06:28:43.000Z"
+  },
+  {
+    "id": "a4e981263008ccf65d84c87ba8c36dda326ed9aa",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/15cb8f2079e2a96de73feee79beb34debe43e150",
+    "published": "2026-09-18T06:16:57.000Z"
+  },
+  {
+    "id": "0032d3be335b9092e5e47022bfa5500f88e77f0e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2671cc0d3c94947a92badd6ee690dec4b3961664",
+    "published": "2026-09-18T03:11:20.000Z"
+  },
+  {
+    "id": "b0ca5319b69924c902e4939a7c637bfac0368344",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7b57dc75b88cc0198e6a9d16bc9c15116ec3b66c",
+    "published": "2026-09-18T00:26:35.000Z"
+  },
+  {
+    "id": "acc67ef32e42e5a2b2cecca71d8fc98b093426cb",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Be alert: targeted attacks on prominent Rustaceans",
+    "summary": "Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+    "published": "2026-09-17T23:59:19.000Z"
+  },
+  {
+    "id": "e4addcf48f06208df9e72e992e05556ef3d70307",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "How To Write With An LLM",
+    "summary": "How To Write With An LLM Thomas Ptacek on using LLMs as copyeditors, not as writing assistants: Rule Number One: You may not use a single word an LLM suggests to you. [...] I think that as a form of...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
+    "published": "2026-09-17T23:37:27.000Z"
+  },
+  {
+    "id": "a14eb76e90e569a9cc794c3064378ead511dfded",
+    "source": "AI Report",
+    "type": "podcast",
+    "category": "nl",
+    "lang": "nl",
+    "title": "Het moet langzamer. Maar hoe?",
+    "summary": "Voor het eerst zijn de bazen van rivaliserende AI-labs het eens: het moet langzamer. Dario Amodei publiceerde zaterdag een essay van 3800 woorden met één zin vetgedrukt. Geen ontwikkelstop, wel meer...",
+    "thumbnail": null,
+    "url": "https://www.aireport.nl/podcast/s/aireport/het_moet_langzamer_maar_hoe",
+    "published": "2026-09-17T21:39:13.000Z"
+  },
+  {
+    "id": "5bf7c250bf50547468f24e77212ce05f9a56fc21",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c62ef5058d1f6115a17aae3b65a77ff104305e52",
+    "published": "2026-09-17T21:09:20.000Z"
+  },
+  {
     "id": "2f269a03d10ac2356ff5151f51409d90125c2f37",
     "source": "Simon Willison",
     "type": "blog",
@@ -60,18 +168,6 @@
     "published": "2026-09-17T11:29:00.000Z"
   },
   {
-    "id": "b4a77e1aafa9751391c4f029dd62becf08a5287a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e3dda41c50ae6d0eabfb0ddb07c2056a75cbaa5a",
-    "published": "2026-09-17T09:11:40.000Z"
-  },
-  {
     "id": "a117e8f013b01d0b773e921bad84270fb07591c7",
     "source": "Latent Space",
     "type": "podcast",
@@ -82,42 +178,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!7Cec!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHSP7dfeaEAAQZs_.png",
     "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
     "published": "2026-09-17T07:28:25.000Z"
-  },
-  {
-    "id": "fdb129e0ece886e3845e42a4cf6a7a2e787a29e5",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/17a4c2c941db7aeec2169a9c8f8eaaa7241c4464",
-    "published": "2026-09-17T06:17:53.000Z"
-  },
-  {
-    "id": "14459dd97e50ef9e03953629b7df606497a23a7c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fed45843a2ece1c396560925e4d86de660a2daa9",
-    "published": "2026-09-17T03:12:19.000Z"
-  },
-  {
-    "id": "b72244530bf4ea36e245c8c7c9d308a18c9b0618",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/80e0a2ce75c97542889e6eb57d667dfc5179d754",
-    "published": "2026-09-17T00:26:13.000Z"
   },
   {
     "id": "738877fde7567c89428a94f5355467904114cbd4",
@@ -142,18 +202,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
     "published": "2026-09-16T23:51:08.000Z"
-  },
-  {
-    "id": "41535f65daca36ae635a85e5312e2d2112925936",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/79253cad143b7f1279b06060cd9bacc41e716916",
-    "published": "2026-09-16T21:09:13.000Z"
   },
   {
     "id": "d276a548ad828d6893c6b7f8a9654072dd22e77b",
@@ -384,30 +432,6 @@
     "published": "2026-09-15T04:50:36.000Z"
   },
   {
-    "id": "bed1156254a4ff473a67354b6b8e80a11d5839d5",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "The contagion of fear",
-    "summary": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\"....",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
-    "published": "2026-09-14T21:18:13.000Z"
-  },
-  {
-    "id": "263391f1136f23a1b4be44fe41f8c68859c336f9",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "What blog posts influenced your thinking the most?",
-    "summary": "My comment on What blog posts influenced your thinking the most? &mdash; Lobste.rs.An early Joel Spolsky one for me was The Law of Leaky Abstractions. I read that near the start of my career and it's...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/14/influences/",
-    "published": "2026-09-14T20:21:48.000Z"
-  },
-  {
     "id": "63ee2a66e298cc3f3f53ceaac81a5a1b519f4407",
     "source": "ElevenLabs",
     "type": "video",
@@ -456,18 +480,6 @@
     "published": "2026-09-12T15:01:19.000Z"
   },
   {
-    "id": "11def78beae106ccddf6ad4ba52dbc482d147689",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
-    "summary": "We agree with Sebastian: this should have been DeepSeek v5",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!dYdZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F149285a5-df59-4df7-8ba9-4653b68c5f0b_2316x1122.png",
-    "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
-    "published": "2026-09-12T05:56:05.000Z"
-  },
-  {
     "id": "4a4ff0ec56e98ec97541d3ae6c82ac9eb3df6b6e",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -497,7 +509,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "How To Use Claude Fable 5.1 To Build Anything (Actually Good)",
+    "title": "How To Use Claude To Build Anything (That Actually Works)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/3cYTWLdHgAE/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=3cYTWLdHgAE",
@@ -1186,17 +1198,5 @@
     "thumbnail": "https://i.ytimg.com/vi/1HkqTlXbQmQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=1HkqTlXbQmQ",
     "published": "2026-06-24T12:04:26.000Z"
-  },
-  {
-    "id": "7173e6f4192a940864f20363029b2f3b74258d69",
-    "source": "antfu/skills",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "feat(antfu): favor explicitness, disable auto-imports, add Storybook …",
-    "summary": "feat(antfu): favor explicitness, disable auto-imports, add Storybook testing (#33)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
-    "url": "https://github.com/antfu/skills/commit/a74f281a27dadc02397bc1a174b0f2c97531b6ae",
-    "published": "2026-06-23T00:14:36.000Z"
   }
 ]
