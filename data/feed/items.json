@@ -1,5 +1,53 @@
 [
   {
+    "id": "79745ea956e9f3f2dbf695bc71f7dc1d57158e1b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/00b1c3b1f5db266481c8e7e7743fcd5c3ddb4837",
+    "published": "2026-09-19T18:10:39.000Z"
+  },
+  {
+    "id": "47336030addf468eeefec347a04623bd24c09356",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "California Sea Lion, Brandt's Cormorant",
+    "summary": "California Sea Lion, Brandt's Cormorant, in Pillar Point Harbor, CA, USI only noticed this after I had taken the photo: Morris the Northern Gannet is peeking out from behind the base of the sign....",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
+    "published": "2026-09-19T17:10:08.000Z"
+  },
+  {
+    "id": "1a72fe8935c16004ebf121a2cf5c054c717e3f2e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fab22671ad94fdc0d1a7f8242834295ea87b672e",
+    "published": "2026-09-19T15:08:13.000Z"
+  },
+  {
+    "id": "c7a93a1a5f38ffd6f4e00e01275bba8df165c53b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ece6ff5f32c9c6662fea000b0a3fed2437bfef27",
+    "published": "2026-09-19T12:13:23.000Z"
+  },
+  {
     "id": "3d6956135f024edf6ed95ca5a87b47b603fabc00",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -108,18 +156,6 @@
     "published": "2026-09-18T19:09:27.000Z"
   },
   {
-    "id": "ecb7f0e2f1608441257195ed085e69bc7114f051",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/04570a2e7f3ab5f425d6c765f275859cde4829be",
-    "published": "2026-09-18T18:11:36.000Z"
-  },
-  {
     "id": "91bd29d1acb7b832222d6d659b550f04f5378090",
     "source": "Riley Brown",
     "type": "video",
@@ -132,18 +168,6 @@
     "published": "2026-09-18T15:45:55.000Z"
   },
   {
-    "id": "4b19ab9ecc004e3ed8b5ae5da642b6105dfe85cf",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/069311b966f21f758985e05b98a4f3229c9ca589",
-    "published": "2026-09-18T15:09:32.000Z"
-  },
-  {
     "id": "fc55e6480f4ee645bed5a7b595f36a8427746a6c",
     "source": "Simon Willison",
     "type": "blog",
@@ -154,18 +178,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
     "published": "2026-09-18T14:36:41.000Z"
-  },
-  {
-    "id": "260db6f5bba026d240a95e40313dff1a6665bdfe",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e734328a808d863bb0a31376410027f1f7859ec2",
-    "published": "2026-09-18T12:14:08.000Z"
   },
   {
     "id": "405e090bb244957b1fc2afbac2caf54696f6ee07",
@@ -252,24 +264,12 @@
     "published": "2026-09-17T07:28:25.000Z"
   },
   {
-    "id": "738877fde7567c89428a94f5355467904114cbd4",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette 1.0a40",
-    "summary": "Release: datasette 1.0a40 Same security fix as 0.65.5, plus some neat new features and bug fixes: Plugins can now launch and manage background tasks using the new datasette.add_background_task()...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/16/datasette/",
-    "published": "2026-09-16T23:51:43.000Z"
-  },
-  {
     "id": "d276a548ad828d6893c6b7f8a9654072dd22e77b",
     "source": "Riley Brown",
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "GPT-6 Astra Created This Entire Product Launch",
+    "title": "Astra Built Me an Entire Product Launch (Ads, Videos, and Website)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/O8pzzIP1RyM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=O8pzzIP1RyM",
@@ -485,7 +485,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "28 Insane Things GPT-6 Astra Can Do (2 Hour Course)",
+    "title": "28 Insane Things Astra Can Do (2 Hour Course)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/ifz8NGHuHtY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ifz8NGHuHtY",
