@@ -1,5 +1,89 @@
 [
   {
+    "id": "3d6956135f024edf6ed95ca5a87b47b603fabc00",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2f6569a7ae038fa04e75763b5cbd8e087c183296",
+    "published": "2026-09-19T09:09:31.000Z"
+  },
+  {
+    "id": "1821b7b134ea082d7e86cfc52a8be86a4dc20a8c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/00f3ddeb1485a4795392ac26498c859af651bd36",
+    "published": "2026-09-19T06:15:21.000Z"
+  },
+  {
+    "id": "565121fdb8ce2420eb44adaf14ae6e37b302c2e7",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Here are 6 Clones of Jev in 2 days",
+    "summary": "Imitation is the sincerest form of Flattery",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!0a7_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHSiGtZba0AEezOP.jpg",
+    "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+    "published": "2026-09-19T05:48:28.000Z"
+  },
+  {
+    "id": "af74a66e0eb3844eff2eece782d1ed9a21e14d9c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/07eac15d8fbd4186a613f06666d01ea5d72234b2",
+    "published": "2026-09-19T03:11:19.000Z"
+  },
+  {
+    "id": "01369956cf1113d7a2fa29c21673424912d2bb09",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e5abfc242bd92341611943eb9053675a0d7e043e",
+    "published": "2026-09-19T00:26:11.000Z"
+  },
+  {
+    "id": "a2b68d122f77626f979cc7c61cb3ecc72b34acb5",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+    "summary": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench! The hacks, which the company confirmed on Friday, occurred in May as part of a test run...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+    "published": "2026-09-18T23:57:57.000Z"
+  },
+  {
+    "id": "04b3b14c8e1c5d69e028e81c295db6b64bf14ef5",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/dfbe8c7ebe09b0e0d440ce4271ab843e46a1992c",
+    "published": "2026-09-18T21:08:03.000Z"
+  },
+  {
     "id": "e3a6799112421c6d584532923a6b0543aa8d79d5",
     "source": "Simon Willison",
     "type": "blog",
@@ -84,18 +168,6 @@
     "published": "2026-09-18T12:14:08.000Z"
   },
   {
-    "id": "0ae37644d2451a8ee9aef088761995e56c9c4790",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0036cba2340e7382210efbe9b57dbb041cb802d5",
-    "published": "2026-09-18T09:10:38.000Z"
-  },
-  {
     "id": "405e090bb244957b1fc2afbac2caf54696f6ee07",
     "source": "Latent Space",
     "type": "podcast",
@@ -106,42 +178,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
     "url": "https://www.latent.space/p/ainews-not-much-happened-today-612",
     "published": "2026-09-18T06:28:43.000Z"
-  },
-  {
-    "id": "a4e981263008ccf65d84c87ba8c36dda326ed9aa",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/15cb8f2079e2a96de73feee79beb34debe43e150",
-    "published": "2026-09-18T06:16:57.000Z"
-  },
-  {
-    "id": "0032d3be335b9092e5e47022bfa5500f88e77f0e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2671cc0d3c94947a92badd6ee690dec4b3961664",
-    "published": "2026-09-18T03:11:20.000Z"
-  },
-  {
-    "id": "b0ca5319b69924c902e4939a7c637bfac0368344",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7b57dc75b88cc0198e6a9d16bc9c15116ec3b66c",
-    "published": "2026-09-18T00:26:35.000Z"
   },
   {
     "id": "acc67ef32e42e5a2b2cecca71d8fc98b093426cb",
@@ -178,18 +214,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/het_moet_langzamer_maar_hoe",
     "published": "2026-09-17T21:39:13.000Z"
-  },
-  {
-    "id": "5bf7c250bf50547468f24e77212ce05f9a56fc21",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c62ef5058d1f6115a17aae3b65a77ff104305e52",
-    "published": "2026-09-17T21:09:20.000Z"
   },
   {
     "id": "2f269a03d10ac2356ff5151f51409d90125c2f37",
@@ -238,18 +262,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/16/datasette/",
     "published": "2026-09-16T23:51:43.000Z"
-  },
-  {
-    "id": "2105625f58a47d5420c2b9e179c6aae45e64dc91",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette 0.65.5",
-    "summary": "Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
-    "published": "2026-09-16T23:51:08.000Z"
   },
   {
     "id": "d276a548ad828d6893c6b7f8a9654072dd22e77b",
@@ -478,18 +490,6 @@
     "thumbnail": "https://i.ytimg.com/vi/ifz8NGHuHtY/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ifz8NGHuHtY",
     "published": "2026-09-14T13:00:30.000Z"
-  },
-  {
-    "id": "46af3aa4b297ae9ab1aa777dd2d9c8eec2ebd17d",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "The Rise of the Forward Deployed Engineer — and How To Do the Job Right",
-    "summary": "Before co-founding Kepler, Vinoo Ganesh led Spark at Palantir and built Project Frontline — a pioneering program for Forward Deployed Engineers. He takes us through the best practices of FDEs.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!5LAd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ad2af0-b40a-433d-bd78-0514683c9eb4_2560x1440.png",
-    "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
-    "published": "2026-09-12T15:01:19.000Z"
   },
   {
     "id": "4a4ff0ec56e98ec97541d3ae6c82ac9eb3df6b6e",
