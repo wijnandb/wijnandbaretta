@@ -1,5 +1,77 @@
 [
   {
+    "id": "6ae3ceeff9fff085bad7b6600f534e14c72f86bb",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/932f94ca6448d684bc6f7953a694bdb97d2bbefb",
+    "published": "2026-09-20T09:09:51.000Z"
+  },
+  {
+    "id": "dd9e866fe19dccde958dfff993c37077901af22e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/cae18bc565ac51f0b2a52c8b8682719026e0387f",
+    "published": "2026-09-20T06:15:28.000Z"
+  },
+  {
+    "id": "5255d5a7eb7a0ff203c7c7c4ac7ab91119774972",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5d2bc28681f0146a9ee8566a10d951efe8027ae0",
+    "published": "2026-09-20T03:12:02.000Z"
+  },
+  {
+    "id": "36f73099d02c86ac93f30ac0073fa14b7b60b4a2",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/15196f632eac6f447cdc7027dff6d6a19cb8ba6f",
+    "published": "2026-09-20T00:29:52.000Z"
+  },
+  {
+    "id": "0cadb4274fab6bc24bb745c18bb56228b975c680",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/dac655dde9e441dc299b145e8a94d79d4d4dba7b",
+    "published": "2026-09-19T21:07:32.000Z"
+  },
+  {
+    "id": "35fff0c66d517ad594fc18a73caa83e019e69c06",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette-auth-github 1.0",
+    "summary": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+    "published": "2026-09-19T19:52:02.000Z"
+  },
+  {
     "id": "79745ea956e9f3f2dbf695bc71f7dc1d57158e1b",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -48,30 +120,6 @@
     "published": "2026-09-19T12:13:23.000Z"
   },
   {
-    "id": "3d6956135f024edf6ed95ca5a87b47b603fabc00",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2f6569a7ae038fa04e75763b5cbd8e087c183296",
-    "published": "2026-09-19T09:09:31.000Z"
-  },
-  {
-    "id": "1821b7b134ea082d7e86cfc52a8be86a4dc20a8c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/00f3ddeb1485a4795392ac26498c859af651bd36",
-    "published": "2026-09-19T06:15:21.000Z"
-  },
-  {
     "id": "565121fdb8ce2420eb44adaf14ae6e37b302c2e7",
     "source": "Latent Space",
     "type": "podcast",
@@ -84,30 +132,6 @@
     "published": "2026-09-19T05:48:28.000Z"
   },
   {
-    "id": "af74a66e0eb3844eff2eece782d1ed9a21e14d9c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/07eac15d8fbd4186a613f06666d01ea5d72234b2",
-    "published": "2026-09-19T03:11:19.000Z"
-  },
-  {
-    "id": "01369956cf1113d7a2fa29c21673424912d2bb09",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e5abfc242bd92341611943eb9053675a0d7e043e",
-    "published": "2026-09-19T00:26:11.000Z"
-  },
-  {
     "id": "a2b68d122f77626f979cc7c61cb3ecc72b34acb5",
     "source": "Simon Willison",
     "type": "blog",
@@ -118,18 +142,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
     "published": "2026-09-18T23:57:57.000Z"
-  },
-  {
-    "id": "04b3b14c8e1c5d69e028e81c295db6b64bf14ef5",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/dfbe8c7ebe09b0e0d440ce4271ab843e46a1992c",
-    "published": "2026-09-18T21:08:03.000Z"
   },
   {
     "id": "e3a6799112421c6d584532923a6b0543aa8d79d5",
@@ -226,18 +238,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/het_moet_langzamer_maar_hoe",
     "published": "2026-09-17T21:39:13.000Z"
-  },
-  {
-    "id": "2f269a03d10ac2356ff5151f51409d90125c2f37",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Self-generated prompt injections in compaction summaries",
-    "summary": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
-    "published": "2026-09-17T20:57:55.000Z"
   },
   {
     "id": "f5a472e0bb8649288707e5e84333a2ffa6b968e8",
