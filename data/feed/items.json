@@ -1,5 +1,53 @@
 [
   {
+    "id": "e10871bb773a87c92fc165aa8ed615e498ceeab7",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8600ba3febc1a88f067c68e680c5bb76b743d2d6",
+    "published": "2026-09-21T21:08:40.000Z"
+  },
+  {
+    "id": "d39e0c76d0ebc0b20be5118d51ed04fa6cc65e4f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/59df563522360a116e50dc86d87d479fe8220914",
+    "published": "2026-09-21T18:11:53.000Z"
+  },
+  {
+    "id": "3ea691f9aa6045f6f8d5e2b9c0a3bebbc75e961a",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "NEW Claude Projects Changes Everything",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/NDTbUObZTlM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=NDTbUObZTlM",
+    "published": "2026-09-21T17:57:08.000Z"
+  },
+  {
+    "id": "2c9278f2b2e97378bc03ec866b39cdc970aabf75",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7b1bd2f042f23aa60abe4239cb7c9fc30c8b7762",
+    "published": "2026-09-21T15:09:25.000Z"
+  },
+  {
     "id": "07d818b44b4370cf5938d62260689e5bd7381881",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -17,7 +65,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "How to use Jev to automate your business (Step-by-step w/ Treg)",
+    "title": "Jev + Treg is a crazy combo for automation...",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/o4Vi5uBZYH0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=o4Vi5uBZYH0",
@@ -168,18 +216,6 @@
     "published": "2026-09-21T00:29:11.000Z"
   },
   {
-    "id": "d8ecbb16c903285e9c2cfa8ec4c1378795d0f034",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/72f437590bb430a08e88e9b68d44c026ff626904",
-    "published": "2026-09-20T21:07:55.000Z"
-  },
-  {
     "id": "3db7829d04e1e5592cab75696afaa8d8ae4335f6",
     "source": "Simon Willison",
     "type": "blog",
@@ -192,6 +228,18 @@
     "published": "2026-09-20T21:06:43.000Z"
   },
   {
+    "id": "178c10402999a9792102cd9a5530e33cd047c2d3",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "MCP was always a bad idea?",
+    "summary": "My comment on MCP was always a bad idea? &mdash; Hacker News.This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+    "published": "2026-09-20T20:24:41.000Z"
+  },
+  {
     "id": "54ed4b673b9e8ece108a9e91d57237508c7a771f",
     "source": "Simon Willison",
     "type": "blog",
@@ -202,30 +250,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
     "published": "2026-09-20T19:22:19.000Z"
-  },
-  {
-    "id": "d3c41699670048dd10b9816ac55fb2c03cc4514c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9fee5831c53c2592f36ca1f2a1285ddb944303f2",
-    "published": "2026-09-20T18:11:04.000Z"
-  },
-  {
-    "id": "60e2b9a90fdd94c3313149c1acef87a6b6062642",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3c56ab2f08c5fc234850e8de4205adad9f7d9704",
-    "published": "2026-09-20T15:08:21.000Z"
   },
   {
     "id": "69497bfa343c0986156885c84a291012086dfc86",
@@ -298,18 +322,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
     "published": "2026-09-18T19:21:32.000Z"
-  },
-  {
-    "id": "beaede86e124ef873153a515a5555d6038d841bd",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Thariq Shihipar",
-    "summary": "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
-    "published": "2026-09-18T19:09:27.000Z"
   },
   {
     "id": "91bd29d1acb7b832222d6d659b550f04f5378090",
@@ -670,18 +682,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/astro-730/",
     "published": "2026-09-03T00:00:00.000Z"
-  },
-  {
-    "id": "0240a3ee0f1dd753069f4178aaca6d02bb774e5d",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "I Gave GrokBot Its Own Email and Credit Card (It Actually Worked)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/9lsnEn0tih4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=9lsnEn0tih4",
-    "published": "2026-09-02T13:00:06.000Z"
   },
   {
     "id": "1a2c27b5d65b3f4b384d1cff3401d597547f7e96",
