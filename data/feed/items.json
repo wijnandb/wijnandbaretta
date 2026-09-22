@@ -1,5 +1,77 @@
 [
   {
+    "id": "d1c7c5c38fb5e93d6e7d470db82fcc4352bb1524",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/408b449087f683c0c1c3ee63800e3bd8a0ec1d72",
+    "published": "2026-09-22T18:13:07.000Z"
+  },
+  {
+    "id": "df9ee5d27afc5dae5a3749dc2e056f7685d200e0",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting @therealcornpop",
+    "summary": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of \"it's not X, it's Y\", or the rule of three, or...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+    "published": "2026-09-22T18:03:21.000Z"
+  },
+  {
+    "id": "a1905b81ace1b0cd661c58a9520e94cb02e9f6a9",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "How will AI change operating systems? Part 2: Windows",
+    "summary": "Deepdive into the Windows team’s efforts to make the OS “AI agent-friendly” and win back developers by going all-in on Linux on Windows, local models, GPUs, & more",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!_YFt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c1feff9-3b33-4c9d-a088-ef35a1fb2978_872x607.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/windows-and-ai",
+    "published": "2026-09-22T17:17:31.000Z"
+  },
+  {
+    "id": "7528f5f11fc6fb5e20884f05be46bce1a182a6ad",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "llm-typesafe 0.1a0",
+    "summary": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model. Install it like this: llm install llm-typesafe Then set an API key (get one here, the...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+    "published": "2026-09-22T15:54:16.000Z"
+  },
+  {
+    "id": "1a003986788a7d5411f2f3e8fec1945392de8e29",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7b77e18aa8fd0475044b0be91a64b1413be591ab",
+    "published": "2026-09-22T15:10:05.000Z"
+  },
+  {
+    "id": "9c4b89dcdd7416bf7865d61d4556259bf2472034",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fa12be376b5aea520cb7925656e78c7db04df027",
+    "published": "2026-09-22T12:14:36.000Z"
+  },
+  {
     "id": "b821c608fb405cd035d9b748f90a7dcd5eb0f779",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -108,52 +180,16 @@
     "published": "2026-09-21T21:08:40.000Z"
   },
   {
-    "id": "d39e0c76d0ebc0b20be5118d51ed04fa6cc65e4f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/59df563522360a116e50dc86d87d479fe8220914",
-    "published": "2026-09-21T18:11:53.000Z"
-  },
-  {
     "id": "3ea691f9aa6045f6f8d5e2b9c0a3bebbc75e961a",
     "source": "Riley Brown",
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "NEW Claude Projects Changes Everything",
+    "title": "NEW Claude Projects Changes Everything (Opus 5.5)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/NDTbUObZTlM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=NDTbUObZTlM",
     "published": "2026-09-21T17:57:08.000Z"
-  },
-  {
-    "id": "2c9278f2b2e97378bc03ec866b39cdc970aabf75",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7b1bd2f042f23aa60abe4239cb7c9fc30c8b7762",
-    "published": "2026-09-21T15:09:25.000Z"
-  },
-  {
-    "id": "07d818b44b4370cf5938d62260689e5bd7381881",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8df9f2c4b48b1f0d9f38473809b5556771f2180a",
-    "published": "2026-09-21T12:14:45.000Z"
   },
   {
     "id": "01a1d3b26f4d1351b1d79ef3d5ded06d40cdb1ca",
@@ -310,30 +346,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
     "published": "2026-09-20T00:22:04.000Z"
-  },
-  {
-    "id": "35fff0c66d517ad594fc18a73caa83e019e69c06",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette-auth-github 1.0",
-    "summary": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
-    "published": "2026-09-19T19:52:02.000Z"
-  },
-  {
-    "id": "47336030addf468eeefec347a04623bd24c09356",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "California Sea Lion, Brandt's Cormorant",
-    "summary": "California Sea Lion, Brandt's Cormorant, in Pillar Point Harbor, CA, USI only noticed this after I had taken the photo: Morris the Northern Gannet is peeking out from behind the base of the sign....",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
-    "published": "2026-09-19T17:10:08.000Z"
   },
   {
     "id": "565121fdb8ce2420eb44adaf14ae6e37b302c2e7",
@@ -790,18 +802,6 @@
     "thumbnail": "https://i.ytimg.com/vi/djVUCj5i4sw/mqdefault.jpg",
     "url": "https://www.youtube.com/shorts/djVUCj5i4sw",
     "published": "2026-08-27T19:42:35.000Z"
-  },
-  {
-    "id": "2a6c1a23fb05fdf29ec091c8d77232f4309e576a",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI",
-    "summary": "We find out why Meta destroyed its standout engineering culture: it feared AI-native startups doing more with less. Also: thoughts on Ramp’s AI infra, GitHub’s load doubles in four months, and more",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!e8iR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4101a302-8ebd-44c4-906e-367d8be75b59_1242x892.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams",
-    "published": "2026-08-27T17:59:17.000Z"
   },
   {
     "id": "6b1d02af48d3f2ab245de69ceab626bfc1499ea4",
