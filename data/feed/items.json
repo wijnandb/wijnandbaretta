@@ -1,5 +1,101 @@
 [
   {
+    "id": "b821c608fb405cd035d9b748f90a7dcd5eb0f779",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b8738d5020d0be2df064ff3f96c4312ae4ad0e22",
+    "published": "2026-09-22T09:11:01.000Z"
+  },
+  {
+    "id": "20af5c3822b9beb30709c4180eef128878cc58fb",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
+    "summary": "crowning a new Chinese frontier lab",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!qfA0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHSxCs7wa0AANR91.jpg",
+    "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+    "published": "2026-09-22T06:30:56.000Z"
+  },
+  {
+    "id": "3ff6bc958bd034d1e3bf97d4e04cc1bfbfaaded1",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/77c8b3f0f0f116a03bd61c189111a5ea3f95c193",
+    "published": "2026-09-22T06:17:19.000Z"
+  },
+  {
+    "id": "1babcd40968c43803d72708ae84bb4cfaf26dd14",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a788c807b5ec294c26101676a9a8d07e66d34b21",
+    "published": "2026-09-22T03:12:16.000Z"
+  },
+  {
+    "id": "3a92c4e4775d965d25b6e128beb0eaf4a0597c02",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e8531d628ee2850496f1faf0b31f6476d27bd8cd",
+    "published": "2026-09-22T00:26:50.000Z"
+  },
+  {
+    "id": "c079d2e6330409d956c74aecf7b3401a386e69e3",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+    "summary": "Last week TypeSafe AI unveiled Jev, their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/21/jev/",
+    "published": "2026-09-21T23:09:20.000Z"
+  },
+  {
+    "id": "ff3a1364a89f9d848ff7efaec4418867e7fe7817",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Cloudflare Python Workers are now generally available",
+    "summary": "Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+    "published": "2026-09-21T22:25:44.000Z"
+  },
+  {
+    "id": "5d6dae0dda9c1bc33439b62961ae5956178707de",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
+    "summary": "The definitive Jev podcast with its lead creator.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!MPbn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ad289d5-2a03-4b50-804b-ae4413cbe521_600x644.png",
+    "url": "https://www.latent.space/p/jev",
+    "published": "2026-09-21T22:13:49.000Z"
+  },
+  {
     "id": "e10871bb773a87c92fc165aa8ed615e498ceeab7",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -70,30 +166,6 @@
     "thumbnail": "https://i.ytimg.com/vi/o4Vi5uBZYH0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=o4Vi5uBZYH0",
     "published": "2026-09-21T11:15:05.000Z"
-  },
-  {
-    "id": "8e597274e4069ff376135a03f6d33fc570f3b424",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2e2c782e266e26856766f3bf2310814c7d5b8a4a",
-    "published": "2026-09-21T09:14:33.000Z"
-  },
-  {
-    "id": "e143c97598c463664cada46fb8eca0dad1fc6e4f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/795c85d9fc12c6a4cb186aa07b805807397f8e11",
-    "published": "2026-09-21T06:22:48.000Z"
   },
   {
     "id": "441603ad6f4c1feac324cd68654646afa7193ebc",
@@ -192,30 +264,6 @@
     "published": "2026-09-21T04:25:52.000Z"
   },
   {
-    "id": "fe4db678917e1ac4dc7cfea3e152da48716b114d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/38f37325b96ef78bf2b6af3922c4a3b95303d28a",
-    "published": "2026-09-21T03:13:54.000Z"
-  },
-  {
-    "id": "52cfa30292a9d23498f447dcc08c261cf3494b6c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1abbc780c889b08fb424d82346dbc8057cb345fd",
-    "published": "2026-09-21T00:29:11.000Z"
-  },
-  {
     "id": "3db7829d04e1e5592cab75696afaa8d8ae4335f6",
     "source": "Simon Willison",
     "type": "blog",
@@ -298,30 +346,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!0a7_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHSiGtZba0AEezOP.jpg",
     "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
     "published": "2026-09-19T05:48:28.000Z"
-  },
-  {
-    "id": "a2b68d122f77626f979cc7c61cb3ecc72b34acb5",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-    "summary": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench! The hacks, which the company confirmed on Friday, occurred in May as part of a test run...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-    "published": "2026-09-18T23:57:57.000Z"
-  },
-  {
-    "id": "e3a6799112421c6d584532923a6b0543aa8d79d5",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Note on 18th September 2026",
-    "summary": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
-    "published": "2026-09-18T19:21:32.000Z"
   },
   {
     "id": "91bd29d1acb7b832222d6d659b550f04f5378090",
@@ -468,18 +492,6 @@
     "published": "2026-09-15T12:33:12.000Z"
   },
   {
-    "id": "05d8e0b482ac6992a2f6de78bd2af2c7dc49c728",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
-    "summary": "Pacing gathers pace.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!iik6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c4317a9-8fa4-4cf0-8705-b6746229cb83_1820x2052.png",
-    "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
-    "published": "2026-09-15T04:50:36.000Z"
-  },
-  {
     "id": "63ee2a66e298cc3f3f53ceaac81a5a1b519f4407",
     "source": "ElevenLabs",
     "type": "video",
@@ -490,18 +502,6 @@
     "thumbnail": "https://i.ytimg.com/vi/1f1ZN1ITCOM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=1f1ZN1ITCOM",
     "published": "2026-09-14T17:56:31.000Z"
-  },
-  {
-    "id": "0f1f17c815280cbf81d17c0ce0268eaae267c389",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Humanity’s Last Invention — Richard Socher of Recursive",
-    "summary": "Richard Socher is an NLP OG and CEO of You.com, who has now spun out an even more ambitious startup focused on RSI — already worth $5B!",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!6T4g!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6110fb7-c06c-4d1e-bd0e-0709f6ca1011_1600x1600.webp",
-    "url": "https://www.latent.space/p/recursive",
-    "published": "2026-09-14T16:04:16.000Z"
   },
   {
     "id": "09ab477d97796a381ac4c36d90c5393a2f04775a",
