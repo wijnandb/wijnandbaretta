@@ -1,5 +1,125 @@
 [
   {
+    "id": "1dd3d1795cd8018ebff0b3adaed41d265f2cab67",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b364cae071850261327fd41e8c7d1b774619fe52",
+    "published": "2026-09-23T21:09:26.000Z"
+  },
+  {
+    "id": "39bf59a2aca80469601ba5e1915018aeb3c97232",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e942c101454eb89aa1a92c2c477fed21d8abf34a",
+    "published": "2026-09-23T18:13:26.000Z"
+  },
+  {
+    "id": "cb4e42d4d067c65958e1aecb2596e1a4ae791ce0",
+    "source": "The Anthropic Stack",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Inside Anthropic's molecular biology lab",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/DdCEmlAydcw/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=DdCEmlAydcw",
+    "published": "2026-09-23T18:01:32.000Z"
+  },
+  {
+    "id": "e9c1ddde4585931b05cd9b3a6dc5a3fd867fa46d",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Gemini 3.8 TTS Playground",
+    "summary": "Tool: Gemini 3.8 TTS Playground Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts. They come with a library of over 2,000 voices, plus...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+    "published": "2026-09-23T17:12:27.000Z"
+  },
+  {
+    "id": "3a35425568c413ebdbccb3a98cd504d6a7a999ec",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Design Engineering with Maggie Appleton",
+    "summary": "Maggie Appleton on what engineers can learn from designers, working with AI agents, and why human judgment still matters.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!AlJu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e3d3c6f-6a37-411e-aa1a-dfcefc979af3_1600x140.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton",
+    "published": "2026-09-23T17:07:22.000Z"
+  },
+  {
+    "id": "ba339dfd75be84d192cd2dd1ba14b2489f849fe1",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Shadow roots, explained with live examples",
+    "summary": "Tool: Shadow roots, explained with live examples Prompt to Fable 5.1 Medium: Build an artifact to explain shadow roots in CSS with interactive examples Tags: css",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+    "published": "2026-09-23T16:37:18.000Z"
+  },
+  {
+    "id": "11c78adf69edbb75b54ceaade75db8cbd3ee8813",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a805b2f0598630e84d6aa0d59588ca0a53eeb02a",
+    "published": "2026-09-23T15:09:41.000Z"
+  },
+  {
+    "id": "bd03d329b12465d976c0897243d43c327366821e",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
+    "summary": "Radical Numerics is using biological chain-of-thought and multimodal perception to keep up with the bio-defense arms race, design new genomes and gain insights into biology itself.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!_dqm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F051507bc-ebaf-43e9-9b9c-0037b1ee45e9_1392x700.png",
+    "url": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
+    "published": "2026-09-23T13:27:18.000Z"
+  },
+  {
+    "id": "9f9bcf1e9195babd60075da3597b1e0f46cd84fb",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/617772ac104562eb8a3265ed22a3e6b3ce746496",
+    "published": "2026-09-23T12:15:17.000Z"
+  },
+  {
+    "id": "e453aee39548f5021f1ccb680bb1f69550ecd556",
+    "source": "AI Jason",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "GPT 6 + Hyperframe = Crazy combo for expert-level videos",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/8pRe7kkPi6g/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=8pRe7kkPi6g",
+    "published": "2026-09-23T11:51:06.000Z"
+  },
+  {
     "id": "a8183acbcbb1d62c156300b41f45fac811e4c188",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -180,18 +300,6 @@
     "published": "2026-09-22T23:46:41.000Z"
   },
   {
-    "id": "9320d17c483e4b5e8f60d436904e40c774fe9abd",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2d7df0822733b212916064fbf1b7dd01b3fc53a2",
-    "published": "2026-09-22T21:08:26.000Z"
-  },
-  {
     "id": "827f1b5fbc42443f07bfc8b2b5d6fd25a83d5be0",
     "source": "Latent Space",
     "type": "podcast",
@@ -214,18 +322,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/22/llm/",
     "published": "2026-09-22T18:48:37.000Z"
-  },
-  {
-    "id": "d1c7c5c38fb5e93d6e7d470db82fcc4352bb1524",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/408b449087f683c0c1c3ee63800e3bd8a0ec1d72",
-    "published": "2026-09-22T18:13:07.000Z"
   },
   {
     "id": "df9ee5d27afc5dae5a3749dc2e056f7685d200e0",
@@ -276,30 +372,6 @@
     "published": "2026-09-22T15:54:16.000Z"
   },
   {
-    "id": "1a003986788a7d5411f2f3e8fec1945392de8e29",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7b77e18aa8fd0475044b0be91a64b1413be591ab",
-    "published": "2026-09-22T15:10:05.000Z"
-  },
-  {
-    "id": "9c4b89dcdd7416bf7865d61d4556259bf2472034",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fa12be376b5aea520cb7925656e78c7db04df027",
-    "published": "2026-09-22T12:14:36.000Z"
-  },
-  {
     "id": "20af5c3822b9beb30709c4180eef128878cc58fb",
     "source": "Latent Space",
     "type": "podcast",
@@ -310,30 +382,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!qfA0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHSxCs7wa0AANR91.jpg",
     "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
     "published": "2026-09-22T06:30:56.000Z"
-  },
-  {
-    "id": "c079d2e6330409d956c74aecf7b3401a386e69e3",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
-    "summary": "Last week TypeSafe AI unveiled Jev, their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/21/jev/",
-    "published": "2026-09-21T23:09:20.000Z"
-  },
-  {
-    "id": "ff3a1364a89f9d848ff7efaec4418867e7fe7817",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Cloudflare Python Workers are now generally available",
-    "summary": "Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
-    "published": "2026-09-21T22:25:44.000Z"
   },
   {
     "id": "5d6dae0dda9c1bc33439b62961ae5956178707de",
@@ -454,18 +502,6 @@
     "thumbnail": "https://i.ytimg.com/vi/O8pzzIP1RyM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=O8pzzIP1RyM",
     "published": "2026-09-16T20:37:56.000Z"
-  },
-  {
-    "id": "e82447047905b99cd84cb72ecf6a28ccb6a1acd5",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
-    "summary": "We sit down with AIUC’s CEO on their Series A!",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!czja!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6acff64-a3ea-43f5-b5bb-aaeecd163bdb_2120x1896.png",
-    "url": "https://www.latent.space/p/aiuc",
-    "published": "2026-09-16T18:07:45.000Z"
   },
   {
     "id": "7bc8fd88f6990dff3698eac3c51ee7f678e8c710",
@@ -730,18 +766,6 @@
     "thumbnail": "https://i.ytimg.com/vi/ROF2Nv_KjOM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
     "published": "2026-09-01T18:02:31.000Z"
-  },
-  {
-    "id": "c147d52fa5335c81f8e943fbc7e5d5f8f71245e9",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The Pragmatic Engineer: Five years",
-    "summary": "As the newsletter reaches its fifth birthday, we reflect on how the publication has changed, and what to expect. Also: the launch of the ‘How Software Engineering is Changing’ essay contest",
-    "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/e6e5687b-9265-4270-ab3f-84ad0059e6b1_420x300.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years",
-    "published": "2026-09-01T17:14:34.000Z"
   },
   {
     "id": "36d98eb4d635112d60940606c892e545418e42e2",
@@ -1174,29 +1198,5 @@
     "thumbnail": "https://i.ytimg.com/vi/iWRmtPdFbGw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=iWRmtPdFbGw",
     "published": "2026-06-30T11:19:17.000Z"
-  },
-  {
-    "id": "582c1bec315572fa98b115b2a863f2b552820fa7",
-    "source": "Astro",
-    "type": "blog",
-    "category": "astro",
-    "lang": "en",
-    "title": "What's new in Astro - June 2026",
-    "summary": "June 2026 - Astro 7, summer swag collection, Astro Germany meetup, and more!",
-    "thumbnail": null,
-    "url": "https://astro.build/blog/whats-new-june-2026/",
-    "published": "2026-06-30T00:00:00.000Z"
-  },
-  {
-    "id": "bce1e309efada19afffd378a6d1f1ec1c7ab66d6",
-    "source": "AI Report",
-    "type": "podcast",
-    "category": "nl",
-    "lang": "nl",
-    "title": "Jeff Bezos investeert in Nederlandse AI + Europe 2031: het doemscenario van Europese kwetsbaarheid",
-    "summary": "Lees en luister het volledige verhaal over Europe 2031 op https://europe2031.ai/ ( https://europe2031.ai/ ) Pim de Witte komt met groot nieuws: zijn bedrijf General Intuition haalde 320 miljoen...",
-    "thumbnail": null,
-    "url": "https://www.aireport.nl/podcast/s/aireport/jeff_bezos_investeert_in_nederlandse_ai_europe_2031_het_doemscenario_van_europese_kwetsbaarheid",
-    "published": "2026-06-25T15:40:51.000Z"
   }
 ]
