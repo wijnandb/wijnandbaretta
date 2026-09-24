@@ -1,5 +1,137 @@
 [
   {
+    "id": "23f434d66efcb831954e5e04d5fd980e07106c7c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/80c869463dc307a4236e45e6c6099a7c25f99e6f",
+    "published": "2026-09-24T21:09:34.000Z"
+  },
+  {
+    "id": "344a4b93da3272c41386a2dcb544b804d9cc213b",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Introducing Image & Video API",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/b4qE8cnZO0c/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=b4qE8cnZO0c",
+    "published": "2026-09-24T20:46:51.000Z"
+  },
+  {
+    "id": "7774e396a313c266ce24f2862d5728e89c5647b6",
+    "source": "AI Report",
+    "type": "podcast",
+    "category": "nl",
+    "lang": "nl",
+    "title": "OpenAI-agent breekt in bij Australische overheid + Zuckerberg wil je leven regelen met een AI-tamagotchi",
+    "summary": "Jeroen Wollaars schuift aan en roept de hele aflevering SI door Alexander heen. Het heet namelijk geen AI meer, althans niet volgens Trump op het podium van de Verenigde Naties. Artificial klinkt...",
+    "thumbnail": null,
+    "url": "https://www.aireport.nl/podcast/s/aireport/openai-agent_breekt_in_bij_australische_overheid_zuckerberg_wil_je_leven_regelen_met_een_ai-tamagotchi",
+    "published": "2026-09-24T20:35:58.000Z"
+  },
+  {
+    "id": "e804eb39ba09ffdea5f482ccf5fae1d156fb924c",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "commit-rewriter 0.2",
+    "summary": "Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags: git",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+    "published": "2026-09-24T20:06:53.000Z"
+  },
+  {
+    "id": "275bf88c3fc64a9bb23077c1189fc7da3bb19c13",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "We have a vibe coding problem",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/PoP1L296Du8/mqdefault.jpg",
+    "url": "https://www.youtube.com/shorts/PoP1L296Du8",
+    "published": "2026-09-24T19:39:21.000Z"
+  },
+  {
+    "id": "afd37b587ece6ba4154e44c8c087a7ee54b0610f",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette 1.0a41",
+    "summary": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/24/datasette/",
+    "published": "2026-09-24T19:15:23.000Z"
+  },
+  {
+    "id": "80a9b8ada55c58ee0435ae6b68bc4992cb1981b6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/11797a891f69692c83631f921d129b7bc250e0a3",
+    "published": "2026-09-24T18:12:47.000Z"
+  },
+  {
+    "id": "53a9cbbf31427d0ef17cf1333a283f7e50e487ea",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The Pulse: RoR creator sparks new “death of coding by hand” debate",
+    "summary": "37signals – the creator of Ruby on Rails (RoR) – moves over to agents generating nearly all its code. Also: Amazon and Meta struggle to hire engineers, code reviews will probably also go away and more",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!7sIY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b1f3030-db5b-4563-9948-4652537fe20d_1456x831.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand",
+    "published": "2026-09-24T16:44:27.000Z"
+  },
+  {
+    "id": "7e416f37fd769665c1d172b93a74facf9056121d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0ef04e710aae244bdc0144b96248a672664518d5",
+    "published": "2026-09-24T15:09:57.000Z"
+  },
+  {
+    "id": "383cf544a6fcbaeee056777442164211c7aa1bca",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Foundries vs Navigators: Lowering the Cost of Science",
+    "summary": "Guest Post: In science, thinking has gotten cheap but doing has not. This asymmetry is reshaping how research companies operate, largely inconspicuously.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!-Em5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4f2dad0-1897-4b86-aa39-f4772f76e474_1591x828.png",
+    "url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
+    "published": "2026-09-24T15:03:16.000Z"
+  },
+  {
+    "id": "ee2d509c64bc64a18fc510ca9dedf94055c31a9f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ffe369921feeb1ab5190b924f4a9fb9223a9a869",
+    "published": "2026-09-24T12:15:10.000Z"
+  },
+  {
     "id": "87705939aa9a5555bd02f23d62978a9045b12b8b",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -60,30 +192,6 @@
     "published": "2026-09-24T00:26:27.000Z"
   },
   {
-    "id": "1dd3d1795cd8018ebff0b3adaed41d265f2cab67",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b364cae071850261327fd41e8c7d1b774619fe52",
-    "published": "2026-09-23T21:09:26.000Z"
-  },
-  {
-    "id": "39bf59a2aca80469601ba5e1915018aeb3c97232",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e942c101454eb89aa1a92c2c477fed21d8abf34a",
-    "published": "2026-09-23T18:13:26.000Z"
-  },
-  {
     "id": "cb4e42d4d067c65958e1aecb2596e1a4ae791ce0",
     "source": "The Anthropic Stack",
     "type": "video",
@@ -132,18 +240,6 @@
     "published": "2026-09-23T16:37:18.000Z"
   },
   {
-    "id": "11c78adf69edbb75b54ceaade75db8cbd3ee8813",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a805b2f0598630e84d6aa0d59588ca0a53eeb02a",
-    "published": "2026-09-23T15:09:41.000Z"
-  },
-  {
     "id": "bd03d329b12465d976c0897243d43c327366821e",
     "source": "Latent Space",
     "type": "podcast",
@@ -154,18 +250,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!_dqm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F051507bc-ebaf-43e9-9b9c-0037b1ee45e9_1392x700.png",
     "url": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
     "published": "2026-09-23T13:27:18.000Z"
-  },
-  {
-    "id": "9f9bcf1e9195babd60075da3597b1e0f46cd84fb",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/617772ac104562eb8a3265ed22a3e6b3ce746496",
-    "published": "2026-09-23T12:15:17.000Z"
   },
   {
     "id": "e453aee39548f5021f1ccb680bb1f69550ecd556",
@@ -360,30 +444,6 @@
     "published": "2026-09-22T17:17:31.000Z"
   },
   {
-    "id": "263fa952490ea5dbe9592d298c2e78cf96c11c33",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm-anthropic 0.29",
-    "summary": "Release: llm-anthropic 0.29 Adds support for Claude Opus 5.5: llm -m claude-opus-5.5 \"prompt goes here\" Tags: llm, anthropic",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
-    "published": "2026-09-22T17:14:55.000Z"
-  },
-  {
-    "id": "7528f5f11fc6fb5e20884f05be46bce1a182a6ad",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm-typesafe 0.1a0",
-    "summary": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model. Install it like this: llm install llm-typesafe Then set an API key (get one here, the...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
-    "published": "2026-09-22T15:54:16.000Z"
-  },
-  {
     "id": "20af5c3822b9beb30709c4180eef128878cc58fb",
     "source": "Latent Space",
     "type": "podcast",
@@ -454,18 +514,6 @@
     "thumbnail": "https://i.ytimg.com/vi/o1CogAtWdBk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=o1CogAtWdBk",
     "published": "2026-09-18T15:45:55.000Z"
-  },
-  {
-    "id": "405e090bb244957b1fc2afbac2caf54696f6ee07",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] not much happened today",
-    "summary": "a quiet day",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
-    "url": "https://www.latent.space/p/ainews-not-much-happened-today-612",
-    "published": "2026-09-18T06:28:43.000Z"
   },
   {
     "id": "a14eb76e90e569a9cc794c3064378ead511dfded",
@@ -682,30 +730,6 @@
     "thumbnail": "https://i.ytimg.com/vi/yqMBDSZbmOg/mqdefault.jpg",
     "url": "https://www.youtube.com/shorts/yqMBDSZbmOg",
     "published": "2026-09-04T17:42:19.000Z"
-  },
-  {
-    "id": "190744ffbafeff944d975c3f4e849a46cdec0cb0",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "8 ChatGPT Agents That Do My Work for Me (Steal These)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/ubzhh4kMCLo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ubzhh4kMCLo",
-    "published": "2026-09-04T16:54:09.000Z"
-  },
-  {
-    "id": "dec831e363ffd23d0572c1c98c0b356ba25e904b",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The Pulse: tech companies move to open AI models",
-    "summary": "Cost-saving efforts reveal that moving simpler workloads to open AI models is the easiest way to save ~50% on AI bills. Also: automated software maintenance experience, and more",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!l-d4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F534b20ec-8678-40d4-9248-2d5751979703_2048x1145.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-tech-companies-move-to",
-    "published": "2026-09-03T17:00:14.000Z"
   },
   {
     "id": "45da6048380c8767dec6552735ce1344f9d6a2a2",
@@ -1056,18 +1080,6 @@
     "published": "2026-08-05T08:30:52.000Z"
   },
   {
-    "id": "870e6320ab958ed8288df63686755715d92e8ff5",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Entity Detection in Scribe V2",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/1rczYAFvg7w/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=1rczYAFvg7w",
-    "published": "2026-08-04T16:46:45.000Z"
-  },
-  {
     "id": "a9b8d470e8f5a4183a713f4cdba6c3d4ea7d1879",
     "source": "Werner Vogels",
     "type": "blog",
@@ -1186,17 +1198,5 @@
     "thumbnail": null,
     "url": "https://www.allthingsdistributed.com/2026/06/return-to-two-pizza-culture.html?utm_campaign=inbound&amp;utm_source=rss",
     "published": "2026-06-30T14:00:00.000Z"
-  },
-  {
-    "id": "2d635b33553d7291b7ae79fb32b12198f40a64f3",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "I was giving my coding agent context the wrong way...",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/iWRmtPdFbGw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=iWRmtPdFbGw",
-    "published": "2026-06-30T11:19:17.000Z"
   }
 ]
