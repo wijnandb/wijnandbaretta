@@ -1,5 +1,77 @@
 [
   {
+    "id": "ca11ee15d6a7f89578c9472e45652aec9dc77c2d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ab7e15b4b54ce0408e9df30c7abddcc6f966b010",
+    "published": "2026-09-25T21:08:52.000Z"
+  },
+  {
+    "id": "c91ecafcc0e78a5fdce42f63caacd176115f33fe",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f88478b254aa303be8b3fb803d25f5312938ac92",
+    "published": "2026-09-25T18:12:23.000Z"
+  },
+  {
+    "id": "5bff2e7c4ac60c5c9da0288eadf22701879b3833",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting John Gruber",
+    "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+    "published": "2026-09-25T17:22:01.000Z"
+  },
+  {
+    "id": "49b0f014c9ac775eb8f7d3f31024736c52a44a10",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Claude Opus 5.5 Is Insane… But Muse is EVEN Bigger",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/_NRuT_d1PZE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=_NRuT_d1PZE",
+    "published": "2026-09-25T17:00:16.000Z"
+  },
+  {
+    "id": "adfcefcf290a7037bf917e90d430a9901eaf2d88",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7d85c0f082dd1db48e84b281c758ac1425d82469",
+    "published": "2026-09-25T15:10:51.000Z"
+  },
+  {
+    "id": "7adb83cca6391e9c76e0fcb553241bf473ac483c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4db316af640150106e1b7883eb3db8603b539a5b",
+    "published": "2026-09-25T12:15:28.000Z"
+  },
+  {
     "id": "6939a172d2ff2c50a6224a2fdd5bcb6e80cd7568",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -60,6 +132,18 @@
     "published": "2026-09-25T03:11:42.000Z"
   },
   {
+    "id": "28f369bbea848f9ac832a00631b025a6a766c435",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+    "summary": "Northern Gannet, Great Blue Heron, California Brown Pelican, in Monterey Bay National Marine Sanctuary, CA, US, CANew 200-800mm Canon EF lens got me my best photo of Morris yet. They really like...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
+    "published": "2026-09-25T02:07:04.000Z"
+  },
+  {
     "id": "6c1df0eaaeb4e9f7bda8572ea771c4b4e177a19c",
     "source": "Latent Space",
     "type": "podcast",
@@ -84,16 +168,16 @@
     "published": "2026-09-25T00:27:53.000Z"
   },
   {
-    "id": "23f434d66efcb831954e5e04d5fd980e07106c7c",
-    "source": "awesome-claude-code",
-    "type": "repo",
+    "id": "414ec5ebf00c8740701ff3e632a9408ec62347af",
+    "source": "Simon Willison",
+    "type": "blog",
     "category": "ai",
     "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/80c869463dc307a4236e45e6c6099a7c25f99e6f",
-    "published": "2026-09-24T21:09:34.000Z"
+    "title": "Note on 24th September 2026",
+    "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/24/harder/",
+    "published": "2026-09-24T23:31:08.000Z"
   },
   {
     "id": "344a4b93da3272c41386a2dcb544b804d9cc213b",
@@ -156,18 +240,6 @@
     "published": "2026-09-24T19:15:23.000Z"
   },
   {
-    "id": "80a9b8ada55c58ee0435ae6b68bc4992cb1981b6",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/11797a891f69692c83631f921d129b7bc250e0a3",
-    "published": "2026-09-24T18:12:47.000Z"
-  },
-  {
     "id": "53a9cbbf31427d0ef17cf1333a283f7e50e487ea",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -180,18 +252,6 @@
     "published": "2026-09-24T16:44:27.000Z"
   },
   {
-    "id": "7e416f37fd769665c1d172b93a74facf9056121d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0ef04e710aae244bdc0144b96248a672664518d5",
-    "published": "2026-09-24T15:09:57.000Z"
-  },
-  {
     "id": "383cf544a6fcbaeee056777442164211c7aa1bca",
     "source": "Latent Space",
     "type": "podcast",
@@ -202,18 +262,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!-Em5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4f2dad0-1897-4b86-aa39-f4772f76e474_1591x828.png",
     "url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
     "published": "2026-09-24T15:03:16.000Z"
-  },
-  {
-    "id": "ee2d509c64bc64a18fc510ca9dedf94055c31a9f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ffe369921feeb1ab5190b924f4a9fb9223a9a869",
-    "published": "2026-09-24T12:15:10.000Z"
   },
   {
     "id": "eb583865492c3c459df42513d70f0f3119ac93ee",
@@ -420,18 +468,6 @@
     "published": "2026-09-23T02:53:19.000Z"
   },
   {
-    "id": "f526d7679022c6d327264cb69fc1d273fb28d28f",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-    "summary": "Yesterday was Grok 4.7 (pelicans) and MiMo v2.6 Flash/Pro (more pelicans). Today Anthropic released Claude Opus 5.5, and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna. It's going to...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
-    "published": "2026-09-22T23:46:41.000Z"
-  },
-  {
     "id": "827f1b5fbc42443f07bfc8b2b5d6fd25a83d5be0",
     "source": "Latent Space",
     "type": "podcast",
@@ -442,30 +478,6 @@
     "thumbnail": null,
     "url": "https://www.latent.space/p/john-platt",
     "published": "2026-09-22T21:07:39.000Z"
-  },
-  {
-    "id": "0ec1b9d730210e8136af27439910525f942b3bad",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm 0.36",
-    "summary": "Release: llm 0.36 New OpenAI models: gpt-6-sol for GPT-6 Sol and gpt-6-luna for GPT-6 Luna. #1702 Model plugins can now declare supports_conversation = False for models that only accept single-turn...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/22/llm/",
-    "published": "2026-09-22T18:48:37.000Z"
-  },
-  {
-    "id": "df9ee5d27afc5dae5a3749dc2e056f7685d200e0",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting @therealcornpop",
-    "summary": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of \"it's not X, it's Y\", or the rule of three, or...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
-    "published": "2026-09-22T18:03:21.000Z"
   },
   {
     "id": "a1905b81ace1b0cd661c58a9520e94cb02e9f6a9",
@@ -730,18 +742,6 @@
     "thumbnail": "https://i.ytimg.com/vi/XWb1kvU1gG8/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=XWb1kvU1gG8",
     "published": "2026-09-05T14:30:22.000Z"
-  },
-  {
-    "id": "140777111d84b7d229217728e2d3233982d61e90",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "ChatGPT was a chatbot. Now it has its own computer.",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/yqMBDSZbmOg/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/yqMBDSZbmOg",
-    "published": "2026-09-04T17:42:19.000Z"
   },
   {
     "id": "45da6048380c8767dec6552735ce1344f9d6a2a2",
