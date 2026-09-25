@@ -1,5 +1,89 @@
 [
   {
+    "id": "6939a172d2ff2c50a6224a2fdd5bcb6e80cd7568",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c57149b10cc50e45246ebaed7ba523e8fc405cf1",
+    "published": "2026-09-25T09:11:17.000Z"
+  },
+  {
+    "id": "fe03cd3d2808be19784bcf3af0a46a803a9d3f8d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3a9209f35732104b7083f4d5883c3128b8de3390",
+    "published": "2026-09-25T06:17:53.000Z"
+  },
+  {
+    "id": "1f2dbfeedfe34b0f898e9ead30e3585534c55b2f",
+    "source": "antfu/skills",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore!: remove vendored skills (#39)",
+    "summary": "chore!: remove vendored skills (#39)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
+    "url": "https://github.com/antfu/skills/commit/e98e476e315f068f72d53bd3afb34fdd4d5851c3",
+    "published": "2026-09-25T06:11:18.000Z"
+  },
+  {
+    "id": "658e36b5c11a1596d5b579506f1a9eebb34ab306",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] The Future of Latent Space",
+    "summary": "A quiet day lets us discuss the work behind the scenes - now open for business!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Ndvv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6eb94ca5-a315-4307-9f69-724a59c08af1_2132x1120.png",
+    "url": "https://www.latent.space/p/ainews-the-future-of-latent-space",
+    "published": "2026-09-25T05:37:00.000Z"
+  },
+  {
+    "id": "f188f00cacdf78b8387a7c509b17b19860f15000",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a98f2f566a34abf887bcf019c2d2708d1b9674bd",
+    "published": "2026-09-25T03:11:42.000Z"
+  },
+  {
+    "id": "6c1df0eaaeb4e9f7bda8572ea771c4b4e177a19c",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
+    "summary": "GWM Worlds 2 uses persistent context and timed actions to steer a world model generating video and audio in real time.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!DK3x!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0ffa910-ac51-45f1-8fb1-e9c2dcda1e8b_1800x1130.png",
+    "url": "https://www.latent.space/p/runway",
+    "published": "2026-09-25T01:30:57.000Z"
+  },
+  {
+    "id": "e2595c62ef70520f607c7d701db90a4e7332bce8",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/91ccbcc7806998a58f88e897bd4056d7684c8573",
+    "published": "2026-09-25T00:27:53.000Z"
+  },
+  {
     "id": "23f434d66efcb831954e5e04d5fd980e07106c7c",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -132,18 +216,6 @@
     "published": "2026-09-24T12:15:10.000Z"
   },
   {
-    "id": "87705939aa9a5555bd02f23d62978a9045b12b8b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d31a7f6023d3c6e3f383798d73be9f5b9cdfab14",
-    "published": "2026-09-24T09:11:15.000Z"
-  },
-  {
     "id": "eb583865492c3c459df42513d70f0f3119ac93ee",
     "source": "Latent Space",
     "type": "podcast",
@@ -154,42 +226,6 @@
     "thumbnail": null,
     "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
     "published": "2026-09-24T08:12:59.000Z"
-  },
-  {
-    "id": "5ed9c0bbd9e816c6928f86a704a8ee897805d5d8",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d8e33426a8e7170a686b29a211361e0139b7056b",
-    "published": "2026-09-24T06:17:37.000Z"
-  },
-  {
-    "id": "7dd6d79c415fd4aa6d8044989bdbf4e46e2ac716",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b4d1422aac23ec5ef8aee2d1465aba8008456531",
-    "published": "2026-09-24T03:11:57.000Z"
-  },
-  {
-    "id": "99f36da95eee72b6bed6954a070a28fc6ed7b7dc",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3fe38a60a2d2cb2e0a4b23d09ef3a871a26a4d17",
-    "published": "2026-09-24T00:26:27.000Z"
   },
   {
     "id": "cb4e42d4d067c65958e1aecb2596e1a4ae791ce0",
@@ -456,18 +492,6 @@
     "published": "2026-09-22T06:30:56.000Z"
   },
   {
-    "id": "5d6dae0dda9c1bc33439b62961ae5956178707de",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
-    "summary": "The definitive Jev podcast with its lead creator.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!MPbn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ad289d5-2a03-4b50-804b-ae4413cbe521_600x644.png",
-    "url": "https://www.latent.space/p/jev",
-    "published": "2026-09-21T22:13:49.000Z"
-  },
-  {
     "id": "3ea691f9aa6045f6f8d5e2b9c0a3bebbc75e961a",
     "source": "Riley Brown",
     "type": "video",
@@ -490,18 +514,6 @@
     "thumbnail": "https://i.ytimg.com/vi/o4Vi5uBZYH0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=o4Vi5uBZYH0",
     "published": "2026-09-21T11:15:05.000Z"
-  },
-  {
-    "id": "565121fdb8ce2420eb44adaf14ae6e37b302c2e7",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Here are 6 Clones of Jev in 2 days",
-    "summary": "Imitation is the sincerest form of Flattery",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!0a7_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHSiGtZba0AEezOP.jpg",
-    "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
-    "published": "2026-09-19T05:48:28.000Z"
   },
   {
     "id": "91bd29d1acb7b832222d6d659b550f04f5378090",
@@ -1186,17 +1198,5 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/fable_is_terug_de_vooruitblik_wat_kan_ai_eind_dit_jaar",
     "published": "2026-07-02T15:15:03.000Z"
-  },
-  {
-    "id": "d66509b0c928a5218e10ebda9aafa002ec1561ea",
-    "source": "Werner Vogels",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "A return to two-pizza culture",
-    "summary": "What made the Quick desktop team successful is the same thing that has always produced the best work I've seen at Amazon: a small group of people who trusted each other, owned the problem end-to-end,...",
-    "thumbnail": null,
-    "url": "https://www.allthingsdistributed.com/2026/06/return-to-two-pizza-culture.html?utm_campaign=inbound&amp;utm_source=rss",
-    "published": "2026-06-30T14:00:00.000Z"
   }
 ]
