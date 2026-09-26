@@ -1,5 +1,65 @@
 [
   {
+    "id": "7852eec59c3c30f84a3dcc70ef9dc47b38898d91",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e4ecb7aca40998a499b059810517be776f9a6400",
+    "published": "2026-09-26T09:09:50.000Z"
+  },
+  {
+    "id": "2b83a470e0a3153de91956a8142dbd0ba8801d73",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/766c47d35bf2f4c0496dd275d23fa5b398068611",
+    "published": "2026-09-26T06:16:12.000Z"
+  },
+  {
+    "id": "e0d7ab53e2998a227d93a9f75da502dfa8de808c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6f482a44a03d54ebed4a6f85d6d5d31c42cad8c4",
+    "published": "2026-09-26T03:11:21.000Z"
+  },
+  {
+    "id": "68a281ebc8972f5316b37f140fc398b9c7e21424",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4018625e7b89706cf9a82ad827b4001f7105661a",
+    "published": "2026-09-26T00:26:34.000Z"
+  },
+  {
+    "id": "30b26e07864785892111ee5c05ec0fee7b22cba3",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
+    "summary": "In 2023 most people doubted that there could be more than 1 or 2 frontier model labs. Now there are dozens.... and Stripe just bought the best known one for $7B.",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/openrouter",
+    "published": "2026-09-25T23:14:41.000Z"
+  },
+  {
     "id": "ca11ee15d6a7f89578c9472e45652aec9dc77c2d",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -72,30 +132,6 @@
     "published": "2026-09-25T12:15:28.000Z"
   },
   {
-    "id": "6939a172d2ff2c50a6224a2fdd5bcb6e80cd7568",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c57149b10cc50e45246ebaed7ba523e8fc405cf1",
-    "published": "2026-09-25T09:11:17.000Z"
-  },
-  {
-    "id": "fe03cd3d2808be19784bcf3af0a46a803a9d3f8d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3a9209f35732104b7083f4d5883c3128b8de3390",
-    "published": "2026-09-25T06:17:53.000Z"
-  },
-  {
     "id": "1f2dbfeedfe34b0f898e9ead30e3585534c55b2f",
     "source": "antfu/skills",
     "type": "repo",
@@ -120,18 +156,6 @@
     "published": "2026-09-25T05:37:00.000Z"
   },
   {
-    "id": "f188f00cacdf78b8387a7c509b17b19860f15000",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a98f2f566a34abf887bcf019c2d2708d1b9674bd",
-    "published": "2026-09-25T03:11:42.000Z"
-  },
-  {
     "id": "28f369bbea848f9ac832a00631b025a6a766c435",
     "source": "Simon Willison",
     "type": "blog",
@@ -154,18 +178,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!DK3x!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0ffa910-ac51-45f1-8fb1-e9c2dcda1e8b_1800x1130.png",
     "url": "https://www.latent.space/p/runway",
     "published": "2026-09-25T01:30:57.000Z"
-  },
-  {
-    "id": "e2595c62ef70520f607c7d701db90a4e7332bce8",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/91ccbcc7806998a58f88e897bd4056d7684c8573",
-    "published": "2026-09-25T00:27:53.000Z"
   },
   {
     "id": "414ec5ebf00c8740701ff3e632a9408ec62347af",
@@ -490,18 +502,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!_YFt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c1feff9-3b33-4c9d-a088-ef35a1fb2978_872x607.png",
     "url": "https://newsletter.pragmaticengineer.com/p/windows-and-ai",
     "published": "2026-09-22T17:17:31.000Z"
-  },
-  {
-    "id": "20af5c3822b9beb30709c4180eef128878cc58fb",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
-    "summary": "crowning a new Chinese frontier lab",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!qfA0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHSxCs7wa0AANR91.jpg",
-    "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
-    "published": "2026-09-22T06:30:56.000Z"
   },
   {
     "id": "3ea691f9aa6045f6f8d5e2b9c0a3bebbc75e961a",
