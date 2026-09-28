@@ -1,5 +1,137 @@
 [
   {
+    "id": "160291b57d62898037d46ccd526fb7c17c29771f",
+    "source": "Coding in Public",
+    "type": "video",
+    "category": "design",
+    "lang": "en",
+    "title": "The Modern Coder Bootcamp (with AI) - New Course!",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/ZhiG8YxdAcw/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=ZhiG8YxdAcw",
+    "published": "2026-09-28T13:16:59.000Z"
+  },
+  {
+    "id": "2ab8f31a46c067425f03b2a25ad2a33305cb4402",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d2db76b10352923f3e36fd1bdea53f38fead5325",
+    "published": "2026-09-28T12:17:19.000Z"
+  },
+  {
+    "id": "91906bea4b08b34451ac750e33b1a462225c0d07",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/97e27630f96df7a0e896ba22d71d2f6e78a2fe47",
+    "published": "2026-09-28T09:18:06.000Z"
+  },
+  {
+    "id": "0ca2db80d85487c3673ee7ab448c40833b1ce75a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5184921c76aad7c476c1bcc1519213a9d574dbf5",
+    "published": "2026-09-28T06:24:43.000Z"
+  },
+  {
+    "id": "00e0e3a4ad2d2f3b26004e70ae430cdec4a4c8e7",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Muse AI Agent",
+    "summary": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating. Worse,...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+    "published": "2026-09-28T04:01:30.000Z"
+  },
+  {
+    "id": "eb70c375436bf60d0de04de5c96fb637fa08cca6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2ad3b6e2072e22fc6aa420215542444d4cff966e",
+    "published": "2026-09-28T03:15:59.000Z"
+  },
+  {
+    "id": "5be4995a2646c431ffa2e13fa07c20a192ae7337",
+    "source": "antfu/skills",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "feat: upgrade generated skills to latest upstream docs (#40)",
+    "summary": "feat: upgrade generated skills to latest upstream docs (#40)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
+    "url": "https://github.com/antfu/skills/commit/d02c48452d782231e4c32d7069cde731a4c7db42",
+    "published": "2026-09-28T01:50:54.000Z"
+  },
+  {
+    "id": "93e05a27518a995096dc8f236302c224446be501",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/49935537f061fdd99db9dc0e0302c857d83a7997",
+    "published": "2026-09-28T00:31:35.000Z"
+  },
+  {
+    "id": "558841854585e6c74dbe42ad03fff5755afdcb85",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "2026 in LLMs (so far)",
+    "summary": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+    "published": "2026-09-27T23:54:15.000Z"
+  },
+  {
+    "id": "8be6db4079c4f5f958da5e7eb05b03ea885f9121",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Opus 5.5 Is JUST the Beginning. Things Are About to Get Crazier.",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/959RFRspIIc/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=959RFRspIIc",
+    "published": "2026-09-27T23:15:08.000Z"
+  },
+  {
+    "id": "4cfa73e20de35720351aa01ff01e5b5d350dcc3e",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "S3 Is the Future, S3 Is the Past",
+    "summary": "My comment on S3 Is the Future, S3 Is the Past &mdash; Hacker News.One thing I find notable about S3 today is that, while it used to drop in price reasonably often, there hasn't been a price drop in...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
+    "published": "2026-09-27T23:09:19.000Z"
+  },
+  {
     "id": "fe289012fd4200f4a1edd5178f5ba5dfaeabe22c",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -10,6 +142,18 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c1cb4c1705b92c6a0808c2769fbe2c0d53108a1c",
     "published": "2026-09-27T21:08:41.000Z"
+  },
+  {
+    "id": "dbaa344dafea1b67566088c3f1ce02ded6e701a1",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Bluesky reply bot checker",
+    "summary": "Tool: Bluesky reply bot checker Automated reply bots on Twitter are a scourge - as someone with a decent number of followers I attract a swarm of these, such that anything I post there attracts...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
+    "published": "2026-09-27T18:41:44.000Z"
   },
   {
     "id": "40799523a6ac20c440cb1b6b4dc242219ecd688d",
@@ -36,54 +180,6 @@
     "published": "2026-09-27T15:08:47.000Z"
   },
   {
-    "id": "f39f019f6a3034d67c10dafd6483d0d5c1dfa7a2",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/103e282caae73675ace766db5e837b1c0b7a0d1c",
-    "published": "2026-09-27T12:14:21.000Z"
-  },
-  {
-    "id": "cc816c38b1524444d9994bc077c7d6b258b7d2d6",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/87bb497a4a4bf29f9e394afb4af03e4da3e0dd48",
-    "published": "2026-09-27T09:10:15.000Z"
-  },
-  {
-    "id": "6578bccb6164c516160cba06897889a716c9487f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/da121368c735c2dc0100ae0ef2aa0adc86d11a6e",
-    "published": "2026-09-27T06:16:59.000Z"
-  },
-  {
-    "id": "ee41730cd02376bd979a139516041c93d30a18df",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5842be41d87123c273895ee068fd2a6d70f6b62e",
-    "published": "2026-09-27T03:12:38.000Z"
-  },
-  {
     "id": "f88f80a3a2e456356fa6a6f76182366fd389048f",
     "source": "awesome-mcp-servers",
     "type": "repo",
@@ -94,18 +190,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
     "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/3c30195615095be4f22ac120a7cee82f215cf547",
     "published": "2026-09-27T02:12:09.000Z"
-  },
-  {
-    "id": "2dbe11790cbba11b0792b48f34e1a37bba0e949c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6eea301c37239de3b7a72d637772929f5173d44b",
-    "published": "2026-09-27T00:31:36.000Z"
   },
   {
     "id": "ffc80d14a58cea978b9e202fabd424255609a0d0",
@@ -240,18 +324,6 @@
     "published": "2026-09-24T20:35:58.000Z"
   },
   {
-    "id": "e804eb39ba09ffdea5f482ccf5fae1d156fb924c",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "commit-rewriter 0.2",
-    "summary": "Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags: git",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
-    "published": "2026-09-24T20:06:53.000Z"
-  },
-  {
     "id": "275bf88c3fc64a9bb23077c1189fc7da3bb19c13",
     "source": "Riley Brown",
     "type": "video",
@@ -262,18 +334,6 @@
     "thumbnail": "https://i.ytimg.com/vi/PoP1L296Du8/mqdefault.jpg",
     "url": "https://www.youtube.com/shorts/PoP1L296Du8",
     "published": "2026-09-24T19:39:21.000Z"
-  },
-  {
-    "id": "afd37b587ece6ba4154e44c8c087a7ee54b0610f",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette 1.0a41",
-    "summary": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/24/datasette/",
-    "published": "2026-09-24T19:15:23.000Z"
   },
   {
     "id": "53a9cbbf31427d0ef17cf1333a283f7e50e487ea",
@@ -324,18 +384,6 @@
     "published": "2026-09-23T18:01:32.000Z"
   },
   {
-    "id": "e9c1ddde4585931b05cd9b3a6dc5a3fd867fa46d",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Gemini 3.8 TTS Playground",
-    "summary": "Tool: Gemini 3.8 TTS Playground Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts. They come with a library of over 2,000 voices, plus...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
-    "published": "2026-09-23T17:12:27.000Z"
-  },
-  {
     "id": "3a35425568c413ebdbccb3a98cd504d6a7a999ec",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -346,18 +394,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!AlJu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e3d3c6f-6a37-411e-aa1a-dfcefc979af3_1600x140.png",
     "url": "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton",
     "published": "2026-09-23T17:07:22.000Z"
-  },
-  {
-    "id": "ba339dfd75be84d192cd2dd1ba14b2489f849fe1",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Shadow roots, explained with live examples",
-    "summary": "Tool: Shadow roots, explained with live examples Prompt to Fable 5.1 Medium: Build an artifact to explain shadow roots in CSS with interactive examples Tags: css",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
-    "published": "2026-09-23T16:37:18.000Z"
   },
   {
     "id": "bd03d329b12465d976c0897243d43c327366821e",
@@ -720,18 +756,6 @@
     "published": "2026-09-08T00:00:00.000Z"
   },
   {
-    "id": "15ab20f55981b594f47b2ae26e5108101c547d13",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "I Spent 100 Hours Using GPT-6 Astra (This Feels Like AGI)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/Ju41cQSe7hY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Ju41cQSe7hY",
-    "published": "2026-09-07T20:55:32.000Z"
-  },
-  {
     "id": "6dd1e10d5da2cb00f944986d0d6828e46e3a22ce",
     "source": "ElevenLabs",
     "type": "video",
@@ -1080,18 +1104,6 @@
     "published": "2026-08-05T13:08:53.000Z"
   },
   {
-    "id": "ab23e51d941547eb7c9bb20335bf321da535ae44",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Firebase Crash Course (Auth & Firestore) #11 - Deleting Documents",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/edoy4FvJVkA/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=edoy4FvJVkA",
-    "published": "2026-08-05T08:30:52.000Z"
-  },
-  {
     "id": "a9b8d470e8f5a4183a713f4cdba6c3d4ea7d1879",
     "source": "Werner Vogels",
     "type": "blog",
@@ -1186,17 +1198,5 @@
     "thumbnail": "https://i.ytimg.com/vi/rKV5JcALQoQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
     "published": "2026-07-06T16:59:51.000Z"
-  },
-  {
-    "id": "300ce3325ded83f6b9a24b0ed9dfde0a6a9650c6",
-    "source": "AI Report",
-    "type": "podcast",
-    "category": "nl",
-    "lang": "nl",
-    "title": "Fable is terug + de vooruitblik: wat kan AI eind dit jaar?",
-    "summary": "Terwijl de Amerikaanse overheid Claude Fable 5 na weken exportbeperkingen eindelijk vrijgeeft, grijpt ze meteen in bij OpenAIs kersverse GPT-5.6, dat voorlopig op de plank blijft liggen. Die greep...",
-    "thumbnail": null,
-    "url": "https://www.aireport.nl/podcast/s/aireport/fable_is_terug_de_vooruitblik_wat_kan_ai_eind_dit_jaar",
-    "published": "2026-07-02T15:15:03.000Z"
   }
 ]
