@@ -1,5 +1,77 @@
 [
   {
+    "id": "2d52fce20760eca74276459a2b1c448da5c44320",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Claude Sonnet 5.5",
+    "summary": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+    "published": "2026-09-28T22:07:38.000Z"
+  },
+  {
+    "id": "2713393b190186629dc1b4797adda08b952e9bd0",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/318250eaf72a516da518d35b87df283f92227f33",
+    "published": "2026-09-28T21:09:12.000Z"
+  },
+  {
+    "id": "c94a110c6c4a61a80e6d24bd2fb24c764eed6915",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting @joedaroo",
+    "summary": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
+    "published": "2026-09-28T19:11:42.000Z"
+  },
+  {
+    "id": "75ecc233e0defcd60688bd83ad6f1ae20869d98e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/27a2748e967e236f2ddf52cad9cf3adc59f176ca",
+    "published": "2026-09-28T18:13:48.000Z"
+  },
+  {
+    "id": "b799e4544d5828deb303bd81231857cadf5b4855",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/29907329a346b2f44d91f7359eb47d28dd9f71ad",
+    "published": "2026-09-28T15:10:52.000Z"
+  },
+  {
+    "id": "00473164bd42a0b8cdbffb3f84cb4c6d86f27e53",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Introducing V4 and V4 Turbo for developers",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/4QHFkK2MTcw/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=4QHFkK2MTcw",
+    "published": "2026-09-28T14:04:17.000Z"
+  },
+  {
     "id": "160291b57d62898037d46ccd526fb7c17c29771f",
     "source": "Coding in Public",
     "type": "video",
@@ -113,7 +185,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Opus 5.5 Is JUST the Beginning. Things Are About to Get Crazier.",
+    "title": "Opus 5.5 Is JUST the Beginning. Everything Is About to Change.",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/959RFRspIIc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=959RFRspIIc",
@@ -132,18 +204,6 @@
     "published": "2026-09-27T23:09:19.000Z"
   },
   {
-    "id": "fe289012fd4200f4a1edd5178f5ba5dfaeabe22c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c1cb4c1705b92c6a0808c2769fbe2c0d53108a1c",
-    "published": "2026-09-27T21:08:41.000Z"
-  },
-  {
     "id": "dbaa344dafea1b67566088c3f1ce02ded6e701a1",
     "source": "Simon Willison",
     "type": "blog",
@@ -154,30 +214,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
     "published": "2026-09-27T18:41:44.000Z"
-  },
-  {
-    "id": "40799523a6ac20c440cb1b6b4dc242219ecd688d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5f9e1965e33a38138bdfe9b7cf089d3468e61884",
-    "published": "2026-09-27T18:11:40.000Z"
-  },
-  {
-    "id": "9305884f7a5bf2b3878b2f1c9dbd95c21b64ba99",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2c724b9b5787513eb94fa6d860294ab112e1ca07",
-    "published": "2026-09-27T15:08:47.000Z"
   },
   {
     "id": "f88f80a3a2e456356fa6a6f76182366fd389048f",
@@ -264,18 +300,6 @@
     "published": "2026-09-25T05:37:00.000Z"
   },
   {
-    "id": "28f369bbea848f9ac832a00631b025a6a766c435",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
-    "summary": "Northern Gannet, Great Blue Heron, California Brown Pelican, in Monterey Bay National Marine Sanctuary, CA, US, CANew 200-800mm Canon EF lens got me my best photo of Morris yet. They really like...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
-    "published": "2026-09-25T02:07:04.000Z"
-  },
-  {
     "id": "6c1df0eaaeb4e9f7bda8572ea771c4b4e177a19c",
     "source": "Latent Space",
     "type": "podcast",
@@ -286,18 +310,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!DK3x!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0ffa910-ac51-45f1-8fb1-e9c2dcda1e8b_1800x1130.png",
     "url": "https://www.latent.space/p/runway",
     "published": "2026-09-25T01:30:57.000Z"
-  },
-  {
-    "id": "414ec5ebf00c8740701ff3e632a9408ec62347af",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Note on 24th September 2026",
-    "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/24/harder/",
-    "published": "2026-09-24T23:31:08.000Z"
   },
   {
     "id": "344a4b93da3272c41386a2dcb544b804d9cc213b",
@@ -1066,18 +1078,6 @@
     "thumbnail": "https://i.ytimg.com/vi/kenfgIaK_sQ/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=kenfgIaK_sQ",
     "published": "2026-08-10T07:44:14.000Z"
-  },
-  {
-    "id": "488623fa078345549e3e5655f16eef6a431403df",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Introducing Dubbing v2 API",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/GSk5JyiT4sU/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=GSk5JyiT4sU",
-    "published": "2026-08-06T15:01:13.000Z"
   },
   {
     "id": "4bb1e266a43996e8d8eee7759211ad493625280f",
