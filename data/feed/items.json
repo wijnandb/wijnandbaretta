@@ -1,5 +1,77 @@
 [
   {
+    "id": "b3b8816ec4e184b6dee31df1fc9ee6ade0f6222c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/410d9087b30b6474dae6d997fa4a09901ebb8314",
+    "published": "2026-09-29T21:09:48.000Z"
+  },
+  {
+    "id": "eb3133f9d3d1ed031031f34d123836d198c33d34",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b33b7d7175896af2317ebba5d389e52be8e82a7e",
+    "published": "2026-09-29T18:13:27.000Z"
+  },
+  {
+    "id": "3bd3ec89a48c57224c25c06003b2775eb736ecac",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "OpenAI DevDay 2026 live blog",
+    "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+    "published": "2026-09-29T15:55:13.000Z"
+  },
+  {
+    "id": "04392c500debfe1859ca0ea015f9ed84adf1a290",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Why has Shopify dropped React Native?",
+    "summary": "It’s only been a year since the e-commerce platform declared it was very happy with React Native, but now Shopify is dumping it – and the reason, unsurprisingly, is AI",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!panJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e81fa2d-ad02-4b51-aca4-62b9a99fcd8b_1394x1284.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+    "published": "2026-09-29T15:53:19.000Z"
+  },
+  {
+    "id": "87b65183256269b842004388d49ba6866a4392bf",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b75efa6d1a3f75cf47d7cefa065d7c28814d2523",
+    "published": "2026-09-29T15:10:54.000Z"
+  },
+  {
+    "id": "29591ef0088a3fb65c775ad62bdf96dd433bac03",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "The Ultimate AI Setup for Windows",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/A8ptWsvM3cw/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=A8ptWsvM3cw",
+    "published": "2026-09-29T15:02:53.000Z"
+  },
+  {
     "id": "a3a7bb1be2327462acfdf5e139adcc54c2db5e6b",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -108,18 +180,6 @@
     "published": "2026-09-28T22:07:38.000Z"
   },
   {
-    "id": "2713393b190186629dc1b4797adda08b952e9bd0",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/318250eaf72a516da518d35b87df283f92227f33",
-    "published": "2026-09-28T21:09:12.000Z"
-  },
-  {
     "id": "c94a110c6c4a61a80e6d24bd2fb24c764eed6915",
     "source": "Simon Willison",
     "type": "blog",
@@ -130,30 +190,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
     "published": "2026-09-28T19:11:42.000Z"
-  },
-  {
-    "id": "75ecc233e0defcd60688bd83ad6f1ae20869d98e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/27a2748e967e236f2ddf52cad9cf3adc59f176ca",
-    "published": "2026-09-28T18:13:48.000Z"
-  },
-  {
-    "id": "b799e4544d5828deb303bd81231857cadf5b4855",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/29907329a346b2f44d91f7359eb47d28dd9f71ad",
-    "published": "2026-09-28T15:10:52.000Z"
   },
   {
     "id": "00473164bd42a0b8cdbffb3f84cb4c6d86f27e53",
@@ -286,18 +322,6 @@
     "thumbnail": null,
     "url": "https://www.latent.space/p/openrouter",
     "published": "2026-09-25T23:14:41.000Z"
-  },
-  {
-    "id": "5bff2e7c4ac60c5c9da0288eadf22701879b3833",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting John Gruber",
-    "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
-    "published": "2026-09-25T17:22:01.000Z"
   },
   {
     "id": "49b0f014c9ac775eb8f7d3f31024736c52a44a10",
@@ -708,18 +732,6 @@
     "published": "2026-09-10T15:27:43.000Z"
   },
   {
-    "id": "6d13b7f1450146e442fb5a544ae20526cf3ba104",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Build Anything With Claude (That’s Actually Good)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/3cYTWLdHgAE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=3cYTWLdHgAE",
-    "published": "2026-09-09T19:48:49.000Z"
-  },
-  {
     "id": "bd9f5944e4459618f345b2e6a943b4eb2e7f7fb8",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -730,18 +742,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!AlJu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e3d3c6f-6a37-411e-aa1a-dfcefc979af3_1600x140.png",
     "url": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux",
     "published": "2026-09-09T15:57:24.000Z"
-  },
-  {
-    "id": "8fca408ec7e0dc8fe09c824eba0ac97b3fb27cf5",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "What is happening with code reviews?",
-    "summary": "AI generates more code than devs can track in 2026, so will the code review process have to adapt – or is it doomed? A look into this decades-old practice and the approaches that could replace it",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!SuQb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b62d5e2-7663-4910-8580-d565d3c7d0a4_1554x1416.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
-    "published": "2026-09-08T16:32:01.000Z"
   },
   {
     "id": "e3ede52d8a7d3e49a9817a2756a862784f43c39a",
