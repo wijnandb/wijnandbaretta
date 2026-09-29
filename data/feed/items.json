@@ -1,5 +1,101 @@
 [
   {
+    "id": "a3a7bb1be2327462acfdf5e139adcc54c2db5e6b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9e54c975d24605f00370d78a5c4adc3f8b030a54",
+    "published": "2026-09-29T12:16:36.000Z"
+  },
+  {
+    "id": "48fe7d3bd3230de82555fa096bdeb276ab7c29b7",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1c72adace560e37f2f8b249ab036d25aa19358ce",
+    "published": "2026-09-29T09:12:18.000Z"
+  },
+  {
+    "id": "9669e66ac9c2ffc9bf2a5b7b79c6ce182c99ebd4",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/748873253f25b12d704c5541c62847ae045875d3",
+    "published": "2026-09-29T06:18:08.000Z"
+  },
+  {
+    "id": "5fea4e2fcfc7e79448fb461a2c810af8f877a696",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4c6b3ed8cf63e3de30c390061b0fd845e2b5636b",
+    "published": "2026-09-29T03:12:20.000Z"
+  },
+  {
+    "id": "abda39f3393f20c9f6140e0cbbb90d0843f120fa",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
+    "summary": "Congrats team!",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+    "published": "2026-09-29T02:55:27.000Z"
+  },
+  {
+    "id": "f403a9e88a7693b0deff629faa2432bbe3b8773d",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Opus 5.5 is good at explainer videos",
+    "summary": "a rare feature of a capability",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!aAiz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHTVRIbeagAAvWK1.png",
+    "url": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+    "published": "2026-09-29T02:44:29.000Z"
+  },
+  {
+    "id": "c72c096f52f15fad77629430a7d49e0b89ca1aeb",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
+    "summary": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/thariq",
+    "published": "2026-09-29T01:48:18.000Z"
+  },
+  {
+    "id": "a6568e771dfe68573f81ffd61cbf05b5748071b7",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4486810df396c965bb9e1594e345af38a930f51f",
+    "published": "2026-09-29T00:28:38.000Z"
+  },
+  {
     "id": "2d52fce20760eca74276459a2b1c448da5c44320",
     "source": "Simon Willison",
     "type": "blog",
@@ -84,42 +180,6 @@
     "published": "2026-09-28T13:16:59.000Z"
   },
   {
-    "id": "2ab8f31a46c067425f03b2a25ad2a33305cb4402",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d2db76b10352923f3e36fd1bdea53f38fead5325",
-    "published": "2026-09-28T12:17:19.000Z"
-  },
-  {
-    "id": "91906bea4b08b34451ac750e33b1a462225c0d07",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/97e27630f96df7a0e896ba22d71d2f6e78a2fe47",
-    "published": "2026-09-28T09:18:06.000Z"
-  },
-  {
-    "id": "0ca2db80d85487c3673ee7ab448c40833b1ce75a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5184921c76aad7c476c1bcc1519213a9d574dbf5",
-    "published": "2026-09-28T06:24:43.000Z"
-  },
-  {
     "id": "00e0e3a4ad2d2f3b26004e70ae430cdec4a4c8e7",
     "source": "Simon Willison",
     "type": "blog",
@@ -132,18 +192,6 @@
     "published": "2026-09-28T04:01:30.000Z"
   },
   {
-    "id": "eb70c375436bf60d0de04de5c96fb637fa08cca6",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2ad3b6e2072e22fc6aa420215542444d4cff966e",
-    "published": "2026-09-28T03:15:59.000Z"
-  },
-  {
     "id": "5be4995a2646c431ffa2e13fa07c20a192ae7337",
     "source": "antfu/skills",
     "type": "repo",
@@ -154,18 +202,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
     "url": "https://github.com/antfu/skills/commit/d02c48452d782231e4c32d7069cde731a4c7db42",
     "published": "2026-09-28T01:50:54.000Z"
-  },
-  {
-    "id": "93e05a27518a995096dc8f236302c224446be501",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/49935537f061fdd99db9dc0e0302c857d83a7997",
-    "published": "2026-09-28T00:31:35.000Z"
   },
   {
     "id": "558841854585e6c74dbe42ad03fff5755afdcb85",
@@ -408,18 +444,6 @@
     "published": "2026-09-23T17:07:22.000Z"
   },
   {
-    "id": "bd03d329b12465d976c0897243d43c327366821e",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
-    "summary": "Radical Numerics is using biological chain-of-thought and multimodal perception to keep up with the bio-defense arms race, design new genomes and gain insights into biology itself.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!_dqm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F051507bc-ebaf-43e9-9b9c-0037b1ee45e9_1392x700.png",
-    "url": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
-    "published": "2026-09-23T13:27:18.000Z"
-  },
-  {
     "id": "e453aee39548f5021f1ccb680bb1f69550ecd556",
     "source": "AI Jason",
     "type": "video",
@@ -430,18 +454,6 @@
     "thumbnail": "https://i.ytimg.com/vi/8pRe7kkPi6g/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=8pRe7kkPi6g",
     "published": "2026-09-23T11:51:06.000Z"
-  },
-  {
-    "id": "62f29a5a45461faf0665b12d180fece98534a41e",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
-    "summary": "overshadowing more efficient GPT6 models from OpenAI",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!tLrK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2102432417352929280.jpg",
-    "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
-    "published": "2026-09-23T06:41:41.000Z"
   },
   {
     "id": "2af20bd39915439d9c5d722e1897a51ccceb0138",
@@ -526,18 +538,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
     "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/ebb87fb57b224536d21f085741e928e8e0edd8c8",
     "published": "2026-09-23T06:10:39.000Z"
-  },
-  {
-    "id": "827f1b5fbc42443f07bfc8b2b5d6fd25a83d5be0",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
-    "summary": "We talked to Google’s Oscar winning “Giganerd” about automating science, solving climate change, and how future generations can contribute to science in the age of superintelligent AI",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/john-platt",
-    "published": "2026-09-22T21:07:39.000Z"
   },
   {
     "id": "a1905b81ace1b0cd661c58a9520e94cb02e9f6a9",
