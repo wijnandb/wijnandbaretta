@@ -1,5 +1,125 @@
 [
   {
+    "id": "11381b2a02783b26193fc41e8dcc35aec6cd30a5",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b3c3a8ad1e6987f66609a7b410392f811a8f94da",
+    "published": "2026-09-30T09:11:02.000Z"
+  },
+  {
+    "id": "76141773fa6333f8fc2b127bf07bc24773bebde5",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3e7ae8e8516ec38dfa8f66b884236cbbd61ee881",
+    "published": "2026-09-30T06:18:13.000Z"
+  },
+  {
+    "id": "da4fbb5beeed3260cdc7c62aa755d5ed6de87370",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+    "summary": "the most confident DevDay yet.",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+    "published": "2026-09-30T05:53:10.000Z"
+  },
+  {
+    "id": "6051e5844cd6449dac123ebde73a7cdbe3fef0ec",
+    "source": "antfu/skills",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: remove antfu-design skill in favor of antfu/design (#42)",
+    "summary": "chore: remove antfu-design skill in favor of antfu/design (#42)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
+    "url": "https://github.com/antfu/skills/commit/e53a142a2420e8cd812cfe9ed0484ab01bc856aa",
+    "published": "2026-09-30T05:41:33.000Z"
+  },
+  {
+    "id": "763e5748ca8ebf547c2398173184d9ef19fce15f",
+    "source": "antfu/skills",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "feat(antfu): align with starter-ts — OIDC publishing, knip, antislop,…",
+    "summary": "feat(antfu): align with starter-ts — OIDC publishing, knip, antislop, skills-npm, ci gate (#43)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
+    "url": "https://github.com/antfu/skills/commit/93b171c8404467f78d8fac7b02e343c76c4d4026",
+    "published": "2026-09-30T05:41:05.000Z"
+  },
+  {
+    "id": "a3c338ff93ac93053b0ebfa2ec3cb71f8ef820c8",
+    "source": "antfu/skills",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "feat: add antfu-create-pr skill (#41)",
+    "summary": "feat: add antfu-create-pr skill (#41) Co-authored-by: Anthony Fu",
+    "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
+    "url": "https://github.com/antfu/skills/commit/1ef4114b1b60c5397ab4d5185201f2d60663bb33",
+    "published": "2026-09-30T05:12:23.000Z"
+  },
+  {
+    "id": "731071067471c1423af55bb672383766a8ea8de4",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bafb8ff40a7f7e962cc1c73b7bb2b72b6345f496",
+    "published": "2026-09-30T03:13:59.000Z"
+  },
+  {
+    "id": "4dbbf703a5d8a7e88cecf6236d889c6d8ecab788",
+    "source": "antfu/skills",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update deps",
+    "summary": "chore: update deps",
+    "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
+    "url": "https://github.com/antfu/skills/commit/c113e151b5e0b93150339c79220f0c3ac04eda7a",
+    "published": "2026-09-30T02:14:53.000Z"
+  },
+  {
+    "id": "87f4bd72c888733387a0a8c4cc856451b2f60bfd",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/537571407964a01b0d65aaa3dd9784eebd8fd220",
+    "published": "2026-09-30T00:30:03.000Z"
+  },
+  {
+    "id": "6cd102f752db771390ab9dc56106d3f3bff61101",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Anthropic Frontier Red Team",
+    "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+    "published": "2026-09-29T22:20:28.000Z"
+  },
+  {
     "id": "b3b8816ec4e184b6dee31df1fc9ee6ade0f6222c",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -10,6 +130,18 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/410d9087b30b6474dae6d997fa4a09901ebb8314",
     "published": "2026-09-29T21:09:48.000Z"
+  },
+  {
+    "id": "147ef720989f663d88b9e89597067cc0d5661b60",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "summary": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price &mdash; Hacker News.I'm a bit late with the pelicans because I was live-blogging the keynote:...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+    "published": "2026-09-29T18:27:48.000Z"
   },
   {
     "id": "eb3133f9d3d1ed031031f34d123836d198c33d34",
@@ -65,7 +197,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "The Ultimate AI Setup for Windows",
+    "title": "The Ultimate AI Setup for Windows (Full Guide)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/A8ptWsvM3cw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=A8ptWsvM3cw",
@@ -82,42 +214,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9e54c975d24605f00370d78a5c4adc3f8b030a54",
     "published": "2026-09-29T12:16:36.000Z"
-  },
-  {
-    "id": "48fe7d3bd3230de82555fa096bdeb276ab7c29b7",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1c72adace560e37f2f8b249ab036d25aa19358ce",
-    "published": "2026-09-29T09:12:18.000Z"
-  },
-  {
-    "id": "9669e66ac9c2ffc9bf2a5b7b79c6ce182c99ebd4",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/748873253f25b12d704c5541c62847ae045875d3",
-    "published": "2026-09-29T06:18:08.000Z"
-  },
-  {
-    "id": "5fea4e2fcfc7e79448fb461a2c810af8f877a696",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4c6b3ed8cf63e3de30c390061b0fd845e2b5636b",
-    "published": "2026-09-29T03:12:20.000Z"
   },
   {
     "id": "abda39f3393f20c9f6140e0cbbb90d0843f120fa",
@@ -154,18 +250,6 @@
     "thumbnail": null,
     "url": "https://www.latent.space/p/thariq",
     "published": "2026-09-29T01:48:18.000Z"
-  },
-  {
-    "id": "a6568e771dfe68573f81ffd61cbf05b5748071b7",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4486810df396c965bb9e1594e345af38a930f51f",
-    "published": "2026-09-29T00:28:38.000Z"
   },
   {
     "id": "2d52fce20760eca74276459a2b1c448da5c44320",
@@ -276,18 +360,6 @@
     "published": "2026-09-27T23:09:19.000Z"
   },
   {
-    "id": "dbaa344dafea1b67566088c3f1ce02ded6e701a1",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Bluesky reply bot checker",
-    "summary": "Tool: Bluesky reply bot checker Automated reply bots on Twitter are a scourge - as someone with a decent number of followers I attract a swarm of these, such that anything I post there attracts...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
-    "published": "2026-09-27T18:41:44.000Z"
-  },
-  {
     "id": "f88f80a3a2e456356fa6a6f76182366fd389048f",
     "source": "awesome-mcp-servers",
     "type": "repo",
@@ -298,18 +370,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
     "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/3c30195615095be4f22ac120a7cee82f215cf547",
     "published": "2026-09-27T02:12:09.000Z"
-  },
-  {
-    "id": "ffc80d14a58cea978b9e202fabd424255609a0d0",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Kākāpō Party",
-    "summary": "Tool: Kākāpō Party I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking kākāpō...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
-    "published": "2026-09-26T23:39:06.000Z"
   },
   {
     "id": "30b26e07864785892111ee5c05ec0fee7b22cba3",
@@ -430,18 +490,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!-Em5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4f2dad0-1897-4b86-aa39-f4772f76e474_1591x828.png",
     "url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
     "published": "2026-09-24T15:03:16.000Z"
-  },
-  {
-    "id": "eb583865492c3c459df42513d70f0f3119ac93ee",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
-    "summary": "Team Zuck is absolutely on fire.",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
-    "published": "2026-09-24T08:12:59.000Z"
   },
   {
     "id": "cb4e42d4d067c65958e1aecb2596e1a4ae791ce0",
@@ -1150,53 +1198,5 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/astro-710/",
     "published": "2026-07-16T00:00:00.000Z"
-  },
-  {
-    "id": "3b8b0400ac0f60807e2a17381257772b4178fc60",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Why I switched to Pi...",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/MsPhMhfvgD4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=MsPhMhfvgD4",
-    "published": "2026-07-14T10:35:00.000Z"
-  },
-  {
-    "id": "d46f68d824228d6e09f9e247ee9538c19e2c6bcc",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "I was building loops wrong...",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/JQ_We_ztxrI/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=JQ_We_ztxrI",
-    "published": "2026-07-13T11:35:57.000Z"
-  },
-  {
-    "id": "45a096207eea7d4aba64bcb4b9fccc24dd514346",
-    "source": "Werner Vogels",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Now Go Build CTO Fellowship: Season 2",
-    "summary": "Today, we're releasing the second season of the Now Go Build documentary series. Five episodes featuring technology leaders from around the world solving the hardest problems in healthcare and...",
-    "thumbnail": null,
-    "url": "https://www.allthingsdistributed.com/2026/07/now-go-build-cto-fellowship-season-2.html?utm_campaign=inbound&amp;utm_source=rss",
-    "published": "2026-07-08T09:00:00.000Z"
-  },
-  {
-    "id": "024a4cae0ae679872c82a69f17f88ecc7c9489d4",
-    "source": "The Anthropic Stack",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "The different levels of how Claude thinks",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/rKV5JcALQoQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=rKV5JcALQoQ",
-    "published": "2026-07-06T16:59:51.000Z"
   }
 ]
