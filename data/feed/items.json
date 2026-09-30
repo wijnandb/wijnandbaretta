@@ -1,5 +1,89 @@
 [
   {
+    "id": "562470c22e2896c844b47ea04027f15c145f89a7",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "He Built This City",
+    "summary": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model, the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard....",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
+    "published": "2026-09-30T21:54:19.000Z"
+  },
+  {
+    "id": "de826530dfd0ffa8f2255d9b40181a12b08bfd6e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8cc1bc08314aa5f7dcd012b45500314730598e0e",
+    "published": "2026-09-30T21:10:18.000Z"
+  },
+  {
+    "id": "bae9c8bf23b9ac41d1a31e000bc4e060fb201239",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6e3dec26184a083ec8c98ffa9d40df8e825ddfc7",
+    "published": "2026-09-30T18:13:17.000Z"
+  },
+  {
+    "id": "62f66b34e760855701b9ba43541cae98c9215e96",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Developer Changelog: October Livestream",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/dud0gIMVKP0/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=dud0gIMVKP0",
+    "published": "2026-09-30T17:07:18.000Z"
+  },
+  {
+    "id": "e8359c73e98bdd9666b0116679b86266c76b6dd1",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "ElevenLabs Developers Live Stream",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/SOSL3A7qIew/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=SOSL3A7qIew",
+    "published": "2026-09-30T17:05:01.000Z"
+  },
+  {
+    "id": "3ae27470c6ad6fac0fc96b59d57a8e52dca3cae4",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Distributed databases with Peter Mattis",
+    "summary": "Cockroach Labs co-founder Peter Mattis discusses building reliable distributed systems and how AI helps him write more code without sacrificing quality.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Qhi0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1228ff6a-514b-4643-9360-02cda14dc5ac_800x70.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter",
+    "published": "2026-09-30T16:30:05.000Z"
+  },
+  {
+    "id": "292cf9b086c46bea68c0cfb2d46ec85e3d555ba3",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f719b2f83661a8fc9f01edd9968a4c190745f4f9",
+    "published": "2026-09-30T15:11:50.000Z"
+  },
+  {
     "id": "11381b2a02783b26193fc41e8dcc35aec6cd30a5",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -108,6 +192,18 @@
     "published": "2026-09-30T00:30:03.000Z"
   },
   {
+    "id": "4e6f9633613e964d9d06097d65a47ee59342fbaf",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
+    "lang": "en",
+    "title": "What's new in Astro - September 2026",
+    "summary": "September 2026 - Astro Germany, Evil Martians migration story, and more!",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/whats-new-september-2026/",
+    "published": "2026-09-30T00:00:00.000Z"
+  },
+  {
     "id": "6cd102f752db771390ab9dc56106d3f3bff61101",
     "source": "Simon Willison",
     "type": "blog",
@@ -144,16 +240,16 @@
     "published": "2026-09-29T18:27:48.000Z"
   },
   {
-    "id": "eb3133f9d3d1ed031031f34d123836d198c33d34",
-    "source": "awesome-claude-code",
-    "type": "repo",
+    "id": "afe6a29f26715829e00189c39271decebb4bbb17",
+    "source": "Simon Willison",
+    "type": "blog",
     "category": "ai",
     "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b33b7d7175896af2317ebba5d389e52be8e82a7e",
-    "published": "2026-09-29T18:13:27.000Z"
+    "title": "Photo Scrubber — local face blur & metadata removal",
+    "summary": "Tool: Photo Scrubber — local face blur & metadata removal I took a photograph of some protesters, then thought about how I don't like sharing photographs of strangers with identifiable faces. I had...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
+    "published": "2026-09-29T16:45:27.000Z"
   },
   {
     "id": "3bd3ec89a48c57224c25c06003b2775eb736ecac",
@@ -180,40 +276,16 @@
     "published": "2026-09-29T15:53:19.000Z"
   },
   {
-    "id": "87b65183256269b842004388d49ba6866a4392bf",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b75efa6d1a3f75cf47d7cefa065d7c28814d2523",
-    "published": "2026-09-29T15:10:54.000Z"
-  },
-  {
     "id": "29591ef0088a3fb65c775ad62bdf96dd433bac03",
     "source": "Riley Brown",
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "The Ultimate AI Setup for Windows (Full Guide)",
+    "title": "How to Set Up Your Windows PC for AI (Full Guide)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/A8ptWsvM3cw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=A8ptWsvM3cw",
     "published": "2026-09-29T15:02:53.000Z"
-  },
-  {
-    "id": "a3a7bb1be2327462acfdf5e139adcc54c2db5e6b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9e54c975d24605f00370d78a5c4adc3f8b030a54",
-    "published": "2026-09-29T12:16:36.000Z"
   },
   {
     "id": "abda39f3393f20c9f6140e0cbbb90d0843f120fa",
@@ -324,18 +396,6 @@
     "published": "2026-09-28T01:50:54.000Z"
   },
   {
-    "id": "558841854585e6c74dbe42ad03fff5755afdcb85",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "2026 in LLMs (so far)",
-    "summary": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
-    "published": "2026-09-27T23:54:15.000Z"
-  },
-  {
     "id": "8be6db4079c4f5f958da5e7eb05b03ea885f9121",
     "source": "Riley Brown",
     "type": "video",
@@ -346,18 +406,6 @@
     "thumbnail": "https://i.ytimg.com/vi/959RFRspIIc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=959RFRspIIc",
     "published": "2026-09-27T23:15:08.000Z"
-  },
-  {
-    "id": "4cfa73e20de35720351aa01ff01e5b5d350dcc3e",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "S3 Is the Future, S3 Is the Past",
-    "summary": "My comment on S3 Is the Future, S3 Is the Past &mdash; Hacker News.One thing I find notable about S3 today is that, while it used to drop in price reasonably often, there hasn't been a price drop in...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
-    "published": "2026-09-27T23:09:19.000Z"
   },
   {
     "id": "f88f80a3a2e456356fa6a6f76182366fd389048f",
@@ -780,18 +828,6 @@
     "published": "2026-09-10T15:27:43.000Z"
   },
   {
-    "id": "bd9f5944e4459618f345b2e6a943b4eb2e7f7fb8",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Building Codex with Tibo Sottiaux",
-    "summary": "OpenAI’s Tibo Sottiaux shares how Codex was built and how it’s reshaping software development.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!AlJu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e3d3c6f-6a37-411e-aa1a-dfcefc979af3_1600x140.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux",
-    "published": "2026-09-09T15:57:24.000Z"
-  },
-  {
     "id": "e3ede52d8a7d3e49a9817a2756a862784f43c39a",
     "source": "Werner Vogels",
     "type": "blog",
@@ -1056,18 +1092,6 @@
     "published": "2026-08-19T17:59:55.000Z"
   },
   {
-    "id": "c2672687756771576f404163f89b80e7f349ca99",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Introducing ElevenLabs Hosted MCP",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/EtT3UiXBzuc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=EtT3UiXBzuc",
-    "published": "2026-08-18T16:58:41.000Z"
-  },
-  {
     "id": "383d934d5d772ba29e276cebd0a704d6f1368a06",
     "source": "Coding in Public",
     "type": "video",
@@ -1090,18 +1114,6 @@
     "thumbnail": "https://i.ytimg.com/vi/5ePwfYBhgko/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=5ePwfYBhgko",
     "published": "2026-08-17T08:58:53.000Z"
-  },
-  {
-    "id": "b628076ad0168a3331b8a2e86179d687886ceaf9",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Deterministic Procedures in ElevenAgents",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/PNVq0l7Uhxs/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=PNVq0l7Uhxs",
-    "published": "2026-08-13T16:26:20.000Z"
   },
   {
     "id": "f5e07aca5c01d2a1073f722b63dc49664468cadb",
@@ -1186,17 +1198,5 @@
     "thumbnail": "https://i.ytimg.com/vi/wCSPgHpcxdc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=wCSPgHpcxdc",
     "published": "2026-07-20T11:19:33.000Z"
-  },
-  {
-    "id": "64d67544739883affdae5ed08807d689b17825e0",
-    "source": "Astro",
-    "type": "blog",
-    "category": "astro",
-    "lang": "en",
-    "title": "Astro 7.1",
-    "summary": "Astro 7.1 is about more control: CSP, pagination, dev server, and content collections.",
-    "thumbnail": null,
-    "url": "https://astro.build/blog/astro-710/",
-    "published": "2026-07-16T00:00:00.000Z"
   }
 ]
