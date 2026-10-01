@@ -1,5 +1,101 @@
 [
   {
+    "id": "2330d2fcd4d16a8a53f66e6b28411400ef2add4f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/64732ed9fe3cebf9a7767f80782f54b2daef42ed",
+    "published": "2026-10-01T12:16:31.000Z"
+  },
+  {
+    "id": "c200d30e7d10b6f0bd0e5b734061c3e5a8e28fbc",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b8523a6e2e150d5c6430d48e884f3bad48495993",
+    "published": "2026-10-01T09:12:56.000Z"
+  },
+  {
+    "id": "d579ab095fb709fab25fb1a950c54a6d86ca08dc",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
+    "summary": "... but you can’t try it yet unless you are “government users and trusted cyber defenders in the Fairwind Program”",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!wmoR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHTfV52SWgAIlX3W.png",
+    "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+    "published": "2026-10-01T06:45:05.000Z"
+  },
+  {
+    "id": "4fb3caa1bad2e135359e362d8cf86b69f219ffec",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Matthew Green",
+    "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+    "published": "2026-10-01T06:29:01.000Z"
+  },
+  {
+    "id": "7beb1487be2efcb985dc552fa86b73c71243e216",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7782e782f3898badd24f627bd67e0ee8c4020a19",
+    "published": "2026-10-01T06:18:44.000Z"
+  },
+  {
+    "id": "7fdd4dd84a2df60eb6f230aa292d9795347584c2",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e1ad6945d76dbd3a6faebf713aaedff4017d82cd",
+    "published": "2026-10-01T03:16:47.000Z"
+  },
+  {
+    "id": "0af4167746f3dd8630932b9176ba8b50435bb1f8",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c094ac9fdcf4c652f65c87c1db439cc2b151a235",
+    "published": "2026-10-01T00:34:04.000Z"
+  },
+  {
+    "id": "1a601b09c690596d32914dfc598370785c3411b6",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+    "summary": "Our DevDay coverage - the first pod on the DevDay lineup - dives in with the leaders of OpenAI’s CUA team and API platform.",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/devday-2026",
+    "published": "2026-09-30T22:23:40.000Z"
+  },
+  {
     "id": "562470c22e2896c844b47ea04027f15c145f89a7",
     "source": "Simon Willison",
     "type": "blog",
@@ -84,30 +180,6 @@
     "published": "2026-09-30T15:11:50.000Z"
   },
   {
-    "id": "11381b2a02783b26193fc41e8dcc35aec6cd30a5",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b3c3a8ad1e6987f66609a7b410392f811a8f94da",
-    "published": "2026-09-30T09:11:02.000Z"
-  },
-  {
-    "id": "76141773fa6333f8fc2b127bf07bc24773bebde5",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3e7ae8e8516ec38dfa8f66b884236cbbd61ee881",
-    "published": "2026-09-30T06:18:13.000Z"
-  },
-  {
     "id": "da4fbb5beeed3260cdc7c62aa755d5ed6de87370",
     "source": "Latent Space",
     "type": "podcast",
@@ -156,18 +228,6 @@
     "published": "2026-09-30T05:12:23.000Z"
   },
   {
-    "id": "731071067471c1423af55bb672383766a8ea8de4",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bafb8ff40a7f7e962cc1c73b7bb2b72b6345f496",
-    "published": "2026-09-30T03:13:59.000Z"
-  },
-  {
     "id": "4dbbf703a5d8a7e88cecf6236d889c6d8ecab788",
     "source": "antfu/skills",
     "type": "repo",
@@ -178,18 +238,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
     "url": "https://github.com/antfu/skills/commit/c113e151b5e0b93150339c79220f0c3ac04eda7a",
     "published": "2026-09-30T02:14:53.000Z"
-  },
-  {
-    "id": "87f4bd72c888733387a0a8c4cc856451b2f60bfd",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/537571407964a01b0d65aaa3dd9784eebd8fd220",
-    "published": "2026-09-30T00:30:03.000Z"
   },
   {
     "id": "4e6f9633613e964d9d06097d65a47ee59342fbaf",
@@ -214,18 +262,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
     "published": "2026-09-29T22:20:28.000Z"
-  },
-  {
-    "id": "b3b8816ec4e184b6dee31df1fc9ee6ade0f6222c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/410d9087b30b6474dae6d997fa4a09901ebb8314",
-    "published": "2026-09-29T21:09:48.000Z"
   },
   {
     "id": "147ef720989f663d88b9e89597067cc0d5661b60",
@@ -372,18 +408,6 @@
     "published": "2026-09-28T13:16:59.000Z"
   },
   {
-    "id": "00e0e3a4ad2d2f3b26004e70ae430cdec4a4c8e7",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Muse AI Agent",
-    "summary": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating. Worse,...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
-    "published": "2026-09-28T04:01:30.000Z"
-  },
-  {
     "id": "5be4995a2646c431ffa2e13fa07c20a192ae7337",
     "source": "antfu/skills",
     "type": "repo",
@@ -468,18 +492,6 @@
     "published": "2026-09-25T05:37:00.000Z"
   },
   {
-    "id": "6c1df0eaaeb4e9f7bda8572ea771c4b4e177a19c",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
-    "summary": "GWM Worlds 2 uses persistent context and timed actions to steer a world model generating video and audio in real time.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!DK3x!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0ffa910-ac51-45f1-8fb1-e9c2dcda1e8b_1800x1130.png",
-    "url": "https://www.latent.space/p/runway",
-    "published": "2026-09-25T01:30:57.000Z"
-  },
-  {
     "id": "344a4b93da3272c41386a2dcb544b804d9cc213b",
     "source": "ElevenLabs",
     "type": "video",
@@ -526,18 +538,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!7sIY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b1f3030-db5b-4563-9948-4652537fe20d_1456x831.png",
     "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand",
     "published": "2026-09-24T16:44:27.000Z"
-  },
-  {
-    "id": "383cf544a6fcbaeee056777442164211c7aa1bca",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Foundries vs Navigators: Lowering the Cost of Science",
-    "summary": "Guest Post: In science, thinking has gotten cheap but doing has not. This asymmetry is reshaping how research companies operate, largely inconspicuously.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!-Em5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4f2dad0-1897-4b86-aa39-f4772f76e474_1591x828.png",
-    "url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
-    "published": "2026-09-24T15:03:16.000Z"
   },
   {
     "id": "cb4e42d4d067c65958e1aecb2596e1a4ae791ce0",
