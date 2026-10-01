@@ -1,5 +1,77 @@
 [
   {
+    "id": "0d684303a48908fef4b7d6de6fea24890f5cf1a2",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1c5f1469d6422b7b9a23eb38f6f901e73263deb2",
+    "published": "2026-10-01T21:09:22.000Z"
+  },
+  {
+    "id": "96153fb4d095701762dd22d7a02244e4b363ebc2",
+    "source": "Jonny Burger",
+    "type": "video",
+    "category": "video",
+    "lang": "en",
+    "title": "A random video about roller skis ⛷️",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/rVGsROncWW0/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=rVGsROncWW0",
+    "published": "2026-10-01T18:33:04.000Z"
+  },
+  {
+    "id": "5d476674a625895c7804665025ed32713cd3346d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e60ff94987eb88dcf07598d1779bbaa5ecc64f25",
+    "published": "2026-10-01T18:14:20.000Z"
+  },
+  {
+    "id": "593fe84d411ed3fe0a3d181e14d446d90cecbbe8",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The Pulse: Firebase’s global outage & poor response",
+    "summary": "Also: OpenAI’s platform play that has similarities to AWS, more data on companies moving to open models, and more",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!x424!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35f9d9c1-b804-486f-ba75-5c00156da944_1674x1194.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage",
+    "published": "2026-10-01T16:43:19.000Z"
+  },
+  {
+    "id": "415b00ded44251e36e6cb312ad8be6195d32914d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e682259c380385ab4b89b46e117f7eef8bdf8217",
+    "published": "2026-10-01T15:10:44.000Z"
+  },
+  {
+    "id": "f627a19e9628bb308556ce69118dfd841679beb1",
+    "source": "AI Report",
+    "type": "podcast",
+    "category": "nl",
+    "lang": "nl",
+    "title": "Zo gebruik je ChatGPT Dots in Nederland + nieuw AI-abo kost 500 euro",
+    "summary": "Alexander moest bijna huilen. Niet om het nieuws, maar om een voorwoord dat Opus 5.5 voor hem schreef na een lang gesprek. Voor het eerst had hij het gevoel dat de tekst beter verwoordde wat hij...",
+    "thumbnail": null,
+    "url": "https://www.aireport.nl/podcast/s/aireport/zo_gebruik_je_chatgpt_dots_in_nederland_nieuw_ai-abo_kost_500_euro",
+    "published": "2026-10-01T15:01:29.000Z"
+  },
+  {
     "id": "2330d2fcd4d16a8a53f66e6b28411400ef2add4f",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -108,30 +180,6 @@
     "published": "2026-09-30T21:54:19.000Z"
   },
   {
-    "id": "de826530dfd0ffa8f2255d9b40181a12b08bfd6e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8cc1bc08314aa5f7dcd012b45500314730598e0e",
-    "published": "2026-09-30T21:10:18.000Z"
-  },
-  {
-    "id": "bae9c8bf23b9ac41d1a31e000bc4e060fb201239",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6e3dec26184a083ec8c98ffa9d40df8e825ddfc7",
-    "published": "2026-09-30T18:13:17.000Z"
-  },
-  {
     "id": "62f66b34e760855701b9ba43541cae98c9215e96",
     "source": "ElevenLabs",
     "type": "video",
@@ -166,18 +214,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!Qhi0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1228ff6a-514b-4643-9360-02cda14dc5ac_800x70.png",
     "url": "https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter",
     "published": "2026-09-30T16:30:05.000Z"
-  },
-  {
-    "id": "292cf9b086c46bea68c0cfb2d46ec85e3d555ba3",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f719b2f83661a8fc9f01edd9968a4c190745f4f9",
-    "published": "2026-09-30T15:11:50.000Z"
   },
   {
     "id": "da4fbb5beeed3260cdc7c62aa755d5ed6de87370",
@@ -804,18 +840,6 @@
     "published": "2026-09-14T13:00:30.000Z"
   },
   {
-    "id": "4a4ff0ec56e98ec97541d3ae6c82ac9eb3df6b6e",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The Pulse #191: a new trend of CPU shortages",
-    "summary": "For compute-intensive services: it’s worth reserving more compute now. Also: growth dreams end for more COVID-era unicorns, engineers losing touch with systems when AI handles incidents, and more",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!L0TW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc3d335c-1137-4c47-8a9a-f91dbc29ba64_1456x1042.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu",
-    "published": "2026-09-10T17:13:44.000Z"
-  },
-  {
     "id": "5018eed01bfc82ae1e526190bbebe50de48ce223",
     "source": "AI Report",
     "type": "podcast",
@@ -1174,29 +1198,5 @@
     "thumbnail": null,
     "url": "https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html?utm_campaign=inbound&amp;utm_source=rss",
     "published": "2026-08-04T14:00:00.000Z"
-  },
-  {
-    "id": "c9d99afb9217785697d07fdb63b10229abaac395",
-    "source": "Astro",
-    "type": "blog",
-    "category": "astro",
-    "lang": "en",
-    "title": "What's new in Astro - July 2026",
-    "summary": "July 2026 - CodeTV GSAP Webflow contest, Astro Germany, and more!",
-    "thumbnail": null,
-    "url": "https://astro.build/blog/whats-new-july-2026/",
-    "published": "2026-07-31T00:00:00.000Z"
-  },
-  {
-    "id": "2e77c20f7079164d76ee1b93e59f8a5ed8fffcf1",
-    "source": "AI Jason",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Tmux + Fable = Cut 35% less token",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/wCSPgHpcxdc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=wCSPgHpcxdc",
-    "published": "2026-07-20T11:19:33.000Z"
   }
 ]
