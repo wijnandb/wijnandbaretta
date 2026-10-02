@@ -1,5 +1,113 @@
 [
   {
+    "id": "51f4da6a09370c7c4a8e24cdd4deab8f9dc0b711",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e146461e3e335e73f705646bb9dffff7827b1aed",
+    "published": "2026-10-02T10:53:33.000Z"
+  },
+  {
+    "id": "1f00d0de0baca02ab7f2eb3db05c4b9aabf128d3",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: blender-kiln (#3035)",
+    "summary": "Add resource: blender-kiln (#3035) Category: Creative Media Author: elithril From issue: #3032 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/cb471ef33e5e1738e5636b3a48e27ead674f702a",
+    "published": "2026-10-02T10:53:11.000Z"
+  },
+  {
+    "id": "4a7de60986af70b37c1524114ba0186a57027cbf",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/cc05f179287f2fc97c9a699aaf5c1b351e6fe521",
+    "published": "2026-10-02T09:11:28.000Z"
+  },
+  {
+    "id": "22b95dcb283e6437e0afc795517eafcc04d183fa",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
+    "summary": "the minimalist harness goes stable... and TypeScript!",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+    "published": "2026-10-02T06:40:53.000Z"
+  },
+  {
+    "id": "0deed0fd438a0386e8fc65769a603c415abf312e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e634165a058c102e97dca1e58f82e644a247cc73",
+    "published": "2026-10-02T06:17:51.000Z"
+  },
+  {
+    "id": "b10d9c2610a1ea2ce07e68220718034b812d2215",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/88088f8c89e71d1ff58f5b14b519c282e84d115d",
+    "published": "2026-10-02T03:12:30.000Z"
+  },
+  {
+    "id": "0d0d23fdcd9cb325c1996986e4e63cb47f950902",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "The iPhone Duo Needs Apps. Claude Can Build Them.",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/t0ZwER9Y99c/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=t0ZwER9Y99c",
+    "published": "2026-10-02T01:43:15.000Z"
+  },
+  {
+    "id": "6676ac0a4b68b9beff198420b3a50818be98f763",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/021e14a530062ec7d40326b80b24c2017c210084",
+    "published": "2026-10-02T00:29:48.000Z"
+  },
+  {
+    "id": "d1b287482ae91f9f3bcb19aafc792754f35ebc05",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Academia is for Ambition — Alex Zhang, MIT",
+    "summary": "We catch up with RLM first author Alex Zhang, MIT PhD, on Jev, PhD masxing, and the future of harnesses.",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/rlm",
+    "published": "2026-10-02T00:28:04.000Z"
+  },
+  {
     "id": "0d684303a48908fef4b7d6de6fea24890f5cf1a2",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -48,18 +156,6 @@
     "published": "2026-10-01T16:43:19.000Z"
   },
   {
-    "id": "415b00ded44251e36e6cb312ad8be6195d32914d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e682259c380385ab4b89b46e117f7eef8bdf8217",
-    "published": "2026-10-01T15:10:44.000Z"
-  },
-  {
     "id": "f627a19e9628bb308556ce69118dfd841679beb1",
     "source": "AI Report",
     "type": "podcast",
@@ -70,30 +166,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/zo_gebruik_je_chatgpt_dots_in_nederland_nieuw_ai-abo_kost_500_euro",
     "published": "2026-10-01T15:01:29.000Z"
-  },
-  {
-    "id": "2330d2fcd4d16a8a53f66e6b28411400ef2add4f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/64732ed9fe3cebf9a7767f80782f54b2daef42ed",
-    "published": "2026-10-01T12:16:31.000Z"
-  },
-  {
-    "id": "c200d30e7d10b6f0bd0e5b734061c3e5a8e28fbc",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b8523a6e2e150d5c6430d48e884f3bad48495993",
-    "published": "2026-10-01T09:12:56.000Z"
   },
   {
     "id": "d579ab095fb709fab25fb1a950c54a6d86ca08dc",
@@ -118,42 +190,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
     "published": "2026-10-01T06:29:01.000Z"
-  },
-  {
-    "id": "7beb1487be2efcb985dc552fa86b73c71243e216",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7782e782f3898badd24f627bd67e0ee8c4020a19",
-    "published": "2026-10-01T06:18:44.000Z"
-  },
-  {
-    "id": "7fdd4dd84a2df60eb6f230aa292d9795347584c2",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e1ad6945d76dbd3a6faebf713aaedff4017d82cd",
-    "published": "2026-10-01T03:16:47.000Z"
-  },
-  {
-    "id": "0af4167746f3dd8630932b9176ba8b50435bb1f8",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c094ac9fdcf4c652f65c87c1db439cc2b151a235",
-    "published": "2026-10-01T00:34:04.000Z"
   },
   {
     "id": "1a601b09c690596d32914dfc598370785c3411b6",
@@ -480,18 +516,6 @@
     "published": "2026-09-27T02:12:09.000Z"
   },
   {
-    "id": "30b26e07864785892111ee5c05ec0fee7b22cba3",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
-    "summary": "In 2023 most people doubted that there could be more than 1 or 2 frontier model labs. Now there are dozens.... and Stripe just bought the best known one for $7B.",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/openrouter",
-    "published": "2026-09-25T23:14:41.000Z"
-  },
-  {
     "id": "49b0f014c9ac775eb8f7d3f31024736c52a44a10",
     "source": "Riley Brown",
     "type": "video",
@@ -514,18 +538,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
     "url": "https://github.com/antfu/skills/commit/e98e476e315f068f72d53bd3afb34fdd4d5851c3",
     "published": "2026-09-25T06:11:18.000Z"
-  },
-  {
-    "id": "658e36b5c11a1596d5b579506f1a9eebb34ab306",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] The Future of Latent Space",
-    "summary": "A quiet day lets us discuss the work behind the scenes - now open for business!",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Ndvv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6eb94ca5-a315-4307-9f69-724a59c08af1_2132x1120.png",
-    "url": "https://www.latent.space/p/ainews-the-future-of-latent-space",
-    "published": "2026-09-25T05:37:00.000Z"
   },
   {
     "id": "344a4b93da3272c41386a2dcb544b804d9cc213b",
@@ -713,7 +725,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "NEW Claude Projects Changes Everything (with Opus 5.5)",
+    "title": "NEW Claude Projects Changes Everything",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/NDTbUObZTlM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=NDTbUObZTlM",
@@ -826,18 +838,6 @@
     "thumbnail": "https://i.ytimg.com/vi/1f1ZN1ITCOM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=1f1ZN1ITCOM",
     "published": "2026-09-14T17:56:31.000Z"
-  },
-  {
-    "id": "09ab477d97796a381ac4c36d90c5393a2f04775a",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "28 Insane Things Astra Can Do (2 Hour Course)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/ifz8NGHuHtY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ifz8NGHuHtY",
-    "published": "2026-09-14T13:00:30.000Z"
   },
   {
     "id": "5018eed01bfc82ae1e526190bbebe50de48ce223",
