@@ -1,5 +1,89 @@
 [
   {
+    "id": "80488340d9b3b1805a4cb971e648a36dfb788967",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1616e38cb2c4e80f75a08a7e88bcb64e135465ab",
+    "published": "2026-10-03T09:10:20.000Z"
+  },
+  {
+    "id": "85c4629bdb1183bbcf9d84fbb1f604a2717ef0b9",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] not much happened today",
+    "summary": "a quiet day.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+    "published": "2026-10-03T08:45:15.000Z"
+  },
+  {
+    "id": "0feb292e7102192177a0d1971336471ede3e106c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/57f69f57ee1a5ec69ce7460d0f381002b8434f04",
+    "published": "2026-10-03T06:18:53.000Z"
+  },
+  {
+    "id": "62f66b34e760855701b9ba43541cae98c9215e96",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Developer Changelog: October Livestream",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/dud0gIMVKP0/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=dud0gIMVKP0",
+    "published": "2026-10-03T03:44:19.000Z"
+  },
+  {
+    "id": "084ff5987d20feb04f0f88801d73c35202673854",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fd6a4064be1606784d347d523aadffdf1ce85eb9",
+    "published": "2026-10-03T03:20:51.000Z"
+  },
+  {
+    "id": "f261ddc0406c2edcafa05bfac7fc344958dfd43c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/255e4c598c3be2b23abd813fa5f1bf950b0e83d9",
+    "published": "2026-10-03T00:26:57.000Z"
+  },
+  {
+    "id": "1899cd809ddef85d48ddccdbd7f55152ba38e5ad",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Can Claude build a cross-platform AI app?",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/IEYzYopNGVQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/shorts/IEYzYopNGVQ",
+    "published": "2026-10-02T23:46:57.000Z"
+  },
+  {
     "id": "a5543c6631102ab138f81fc14ce5da4e49858290",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -41,7 +125,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "ChatGPT Dots Is Insane & The Truth About Google's NEW Argon",
+    "title": "ChatGPT Dots Is Insane... But Gemini 4 Argon Is EVEN Bigger",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/kmo9Mk_gIUk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=kmo9Mk_gIUk",
@@ -82,54 +166,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/35fa97b3c39fddb3579785dbe8872615ee0be7dc",
     "published": "2026-10-02T12:36:58.000Z"
-  },
-  {
-    "id": "f7d776013534c01d7442e9df28444c71016fbe3f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: daily.dev (#3037)",
-    "summary": "Add resource: daily.dev (#3037) Category: Skills Author: daily.dev From issue: #3013 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2a7f3f3d8942ffb196c879a5439c25a2785dfb54",
-    "published": "2026-10-02T12:36:38.000Z"
-  },
-  {
-    "id": "5514f53c16c2c9a874e07e4c4e6239d51ae9134d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4b6cb06038c3f1a9573d98b658a0cb74e01ebec2",
-    "published": "2026-10-02T12:16:07.000Z"
-  },
-  {
-    "id": "51f4da6a09370c7c4a8e24cdd4deab8f9dc0b711",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e146461e3e335e73f705646bb9dffff7827b1aed",
-    "published": "2026-10-02T10:53:33.000Z"
-  },
-  {
-    "id": "1f00d0de0baca02ab7f2eb3db05c4b9aabf128d3",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: blender-kiln (#3035)",
-    "summary": "Add resource: blender-kiln (#3035) Category: Creative Media Author: elithril From issue: #3032 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/cb471ef33e5e1738e5636b3a48e27ead674f702a",
-    "published": "2026-10-02T10:53:11.000Z"
   },
   {
     "id": "22b95dcb283e6437e0afc795517eafcc04d183fa",
@@ -250,18 +286,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
     "published": "2026-09-30T21:54:19.000Z"
-  },
-  {
-    "id": "62f66b34e760855701b9ba43541cae98c9215e96",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Developer Changelog: October Livestream",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/dud0gIMVKP0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=dud0gIMVKP0",
-    "published": "2026-09-30T17:07:18.000Z"
   },
   {
     "id": "e8359c73e98bdd9666b0116679b86266c76b6dd1",
@@ -442,18 +466,6 @@
     "thumbnail": null,
     "url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
     "published": "2026-09-29T02:55:27.000Z"
-  },
-  {
-    "id": "f403a9e88a7693b0deff629faa2432bbe3b8773d",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Opus 5.5 is good at explainer videos",
-    "summary": "a rare feature of a capability",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!aAiz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHTVRIbeagAAvWK1.png",
-    "url": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
-    "published": "2026-09-29T02:44:29.000Z"
   },
   {
     "id": "2d52fce20760eca74276459a2b1c448da5c44320",
@@ -766,18 +778,6 @@
     "thumbnail": "https://i.ytimg.com/vi/o4Vi5uBZYH0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=o4Vi5uBZYH0",
     "published": "2026-09-21T11:15:05.000Z"
-  },
-  {
-    "id": "91bd29d1acb7b832222d6d659b550f04f5378090",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "JEV: How It Works and What You Can Build",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/o1CogAtWdBk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=o1CogAtWdBk",
-    "published": "2026-09-18T15:45:55.000Z"
   },
   {
     "id": "a14eb76e90e569a9cc794c3064378ead511dfded",
