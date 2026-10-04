@@ -1,5 +1,89 @@
 [
   {
+    "id": "9fc7e541c16a3fb766ed6d341f01b431ba45fd6b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b4029dd5e2fc635686dbc0b8d71db5b0b1b1b8bc",
+    "published": "2026-10-04T10:55:27.000Z"
+  },
+  {
+    "id": "03c3ee0367fc4e539c5a76be5bb9aac6fbaee4c8",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fca560cb7fb66f5ff834b41eecbc6e5befd43dc6",
+    "published": "2026-10-04T08:03:32.000Z"
+  },
+  {
+    "id": "f5d868a7ef61e0521c81b89d2b7376df3943014c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f9250e9c024ae7f918d5880e6b48b9642ad603ae",
+    "published": "2026-10-04T04:10:20.000Z"
+  },
+  {
+    "id": "f537c05509e1bb14bb18b8ab50a73baf03db47b2",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5c0044f85fa38f336f89262ed8548862bcdb6f0c",
+    "published": "2026-10-04T01:07:43.000Z"
+  },
+  {
+    "id": "5a3f1f4a82c5b0a8ad278e93a15937d2727026fa",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps. I'm talking about the feature of pay-by-usage services and...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "published": "2026-10-03T23:34:02.000Z"
+  },
+  {
+    "id": "cd3fc02c142e2c434b4e467f013004620a4dda84",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/492e9a0f1d638eb8998978f75d6c341f310df7b4",
+    "published": "2026-10-03T22:00:41.000Z"
+  },
+  {
+    "id": "4956a5acae88d47d4409f189a9afc0c07382c15a",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "September sponsors-only newsletter",
+    "summary": "I just sent the September edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here. This month: More Fable class models A pricing war...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
+    "published": "2026-10-03T22:00:31.000Z"
+  },
+  {
     "id": "4ca56de3c96a009195118f6508add0856396c27f",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -10,18 +94,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9e7a55530e1837617027d78818607d8b1df5ea10",
     "published": "2026-10-03T18:40:33.000Z"
-  },
-  {
-    "id": "e9010932a9eac81c94931f04aad25c61d85617c4",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "turn any device into a smart device powered by meta muse",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/ahrY6DZUhkc/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/ahrY6DZUhkc",
-    "published": "2026-10-03T16:46:28.000Z"
   },
   {
     "id": "23cf8a0a462d25260ac80afdb935663e8399fa5c",
@@ -41,7 +113,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "20+ Things The NEW ChatGPT Can Do (Every Feature Explained)",
+    "title": "ChatGPT Just Changed EVERYTHING (Here’s What’s New)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/fSilBzYdHUw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=fSilBzYdHUw",
@@ -60,18 +132,6 @@
     "published": "2026-10-03T13:43:57.000Z"
   },
   {
-    "id": "80488340d9b3b1805a4cb971e648a36dfb788967",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1616e38cb2c4e80f75a08a7e88bcb64e135465ab",
-    "published": "2026-10-03T09:10:20.000Z"
-  },
-  {
     "id": "85c4629bdb1183bbcf9d84fbb1f604a2717ef0b9",
     "source": "Latent Space",
     "type": "podcast",
@@ -84,18 +144,6 @@
     "published": "2026-10-03T08:45:15.000Z"
   },
   {
-    "id": "0feb292e7102192177a0d1971336471ede3e106c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/57f69f57ee1a5ec69ce7460d0f381002b8434f04",
-    "published": "2026-10-03T06:18:53.000Z"
-  },
-  {
     "id": "62f66b34e760855701b9ba43541cae98c9215e96",
     "source": "ElevenLabs",
     "type": "video",
@@ -106,30 +154,6 @@
     "thumbnail": "https://i.ytimg.com/vi/dud0gIMVKP0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=dud0gIMVKP0",
     "published": "2026-10-03T03:44:19.000Z"
-  },
-  {
-    "id": "084ff5987d20feb04f0f88801d73c35202673854",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fd6a4064be1606784d347d523aadffdf1ce85eb9",
-    "published": "2026-10-03T03:20:51.000Z"
-  },
-  {
-    "id": "f261ddc0406c2edcafa05bfac7fc344958dfd43c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/255e4c598c3be2b23abd813fa5f1bf950b0e83d9",
-    "published": "2026-10-03T00:26:57.000Z"
   },
   {
     "id": "1899cd809ddef85d48ddccdbd7f55152ba38e5ad",
@@ -156,18 +180,6 @@
     "published": "2026-10-02T22:57:38.000Z"
   },
   {
-    "id": "a5543c6631102ab138f81fc14ce5da4e49858290",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6c292984de998d3213b8ac1b3f8a2b7665d89574",
-    "published": "2026-10-02T21:09:19.000Z"
-  },
-  {
     "id": "ad92b7d43e48382a83fc24e806383e1f75ca4db5",
     "source": "ElevenLabs",
     "type": "video",
@@ -185,7 +197,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "ChatGPT Dots Is Insane... But Gemini 4 Argon Is EVEN Bigger",
+    "title": "ChatGPT Dots Is Insane... But Gemini’s NEW Argon Is EVEN Bigger",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/kmo9Mk_gIUk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=kmo9Mk_gIUk",
@@ -221,7 +233,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "The iPhone Duo Needs Apps (Claude Can Build Them)",
+    "title": "The iPhone Duo Needs Apps (AI Can Build Them)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/t0ZwER9Y99c/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=t0ZwER9Y99c",
@@ -456,18 +468,6 @@
     "published": "2026-09-29T16:45:27.000Z"
   },
   {
-    "id": "3bd3ec89a48c57224c25c06003b2775eb736ecac",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "OpenAI DevDay 2026 live blog",
-    "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
-    "published": "2026-09-29T15:55:13.000Z"
-  },
-  {
     "id": "04392c500debfe1859ca0ea015f9ed84adf1a290",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -502,18 +502,6 @@
     "thumbnail": null,
     "url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
     "published": "2026-09-29T02:55:27.000Z"
-  },
-  {
-    "id": "2d52fce20760eca74276459a2b1c448da5c44320",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Claude Sonnet 5.5",
-    "summary": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
-    "published": "2026-09-28T22:07:38.000Z"
   },
   {
     "id": "00473164bd42a0b8cdbffb3f84cb4c6d86f27e53",
@@ -622,6 +610,18 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/openai-agent_breekt_in_bij_australische_overheid_zuckerberg_wil_je_leven_regelen_met_een_ai-tamagotchi",
     "published": "2026-09-24T20:35:58.000Z"
+  },
+  {
+    "id": "275bf88c3fc64a9bb23077c1189fc7da3bb19c13",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "We have a vibe coding problem",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/PoP1L296Du8/mqdefault.jpg",
+    "url": "https://www.youtube.com/shorts/PoP1L296Du8",
+    "published": "2026-09-24T19:39:21.000Z"
   },
   {
     "id": "53a9cbbf31427d0ef17cf1333a283f7e50e487ea",
