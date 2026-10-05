@@ -1,5 +1,53 @@
 [
   {
+    "id": "45ef312f3d7765cff53a263ead032aeef69f176f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7c7eb62c98776dc04e8caaa8763daa65c47b6ace",
+    "published": "2026-10-05T21:15:05.000Z"
+  },
+  {
+    "id": "cf6d066293e4b7b93d11ebe69afff149edfb86d9",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a7b9a6de512301c6c05c2d142df80f2dd3de176b",
+    "published": "2026-10-05T18:13:35.000Z"
+  },
+  {
+    "id": "856c086d8921fbacf01cad7d0f34446be223773c",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Grok Bot Just Changed A LOT (Here’s What’s New)",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/c9Z7ixVr4CU/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=c9Z7ixVr4CU",
+    "published": "2026-10-05T18:03:39.000Z"
+  },
+  {
+    "id": "7f298f540b4ac1400ec3fd5762dd480b460c9582",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9649408d36469c738c4deaf9e9fe61d47d9de3d2",
+    "published": "2026-10-05T15:11:08.000Z"
+  },
+  {
     "id": "be026c9b2a658c676d50a18cf27d471b541c19a7",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -60,40 +108,16 @@
     "published": "2026-10-05T00:31:47.000Z"
   },
   {
-    "id": "150ef87d19d8bc386894c09d86dbf3a65585bffb",
-    "source": "awesome-claude-code",
-    "type": "repo",
+    "id": "88d553ae09bb6778c8ce2b89e22f65a55a2dacfa",
+    "source": "Simon Willison",
+    "type": "blog",
     "category": "ai",
     "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3713c1235734b67bc495024e0850a063ff71da78",
-    "published": "2026-10-04T21:22:17.000Z"
-  },
-  {
-    "id": "76377d5bb0f39141ac455474a59d62e65a81d305",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/356d3fb5a2ed46395627fa17d3dc184cdebedf34",
-    "published": "2026-10-04T19:02:00.000Z"
-  },
-  {
-    "id": "4f9a3af2489f2de7e89ce71e8a67a1fa0a45d110",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d6f49bb373cde9d8fc02e8d78962f0436149ca2a",
-    "published": "2026-10-04T16:16:38.000Z"
+    "title": "Qwen3.8 27B addition in words",
+    "summary": "Research: Qwen3.8 27B addition in words Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+    "published": "2026-10-04T23:34:00.000Z"
   },
   {
     "id": "5a3f1f4a82c5b0a8ad278e93a15937d2727026fa",
@@ -262,6 +286,18 @@
     "thumbnail": "https://i.ytimg.com/vi/rVGsROncWW0/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=rVGsROncWW0",
     "published": "2026-10-01T18:33:04.000Z"
+  },
+  {
+    "id": "88caa1a107f0635dc9c4b762445b2e24ca0b13b5",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "pwasm 0.2a0",
+    "summary": "Release: pwasm 0.2a0 pwasm is one of my folly projects - an entirely vibe-coded pure Python WebAssembly engine that I built in January during my first bout of AI mania. I hadn't touched it since...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/1/pwasm/",
+    "published": "2026-10-01T17:10:31.000Z"
   },
   {
     "id": "593fe84d411ed3fe0a3d181e14d446d90cecbbe8",
@@ -444,30 +480,6 @@
     "published": "2026-09-29T22:20:28.000Z"
   },
   {
-    "id": "147ef720989f663d88b9e89597067cc0d5661b60",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-    "summary": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price &mdash; Hacker News.I'm a bit late with the pelicans because I was live-blogging the keynote:...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
-    "published": "2026-09-29T18:27:48.000Z"
-  },
-  {
-    "id": "afe6a29f26715829e00189c39271decebb4bbb17",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Photo Scrubber — local face blur & metadata removal",
-    "summary": "Tool: Photo Scrubber — local face blur & metadata removal I took a photograph of some protesters, then thought about how I don't like sharing photographs of strangers with identifiable faces. I had...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
-    "published": "2026-09-29T16:45:27.000Z"
-  },
-  {
     "id": "04392c500debfe1859ca0ea015f9ed84adf1a290",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -610,18 +622,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/openai-agent_breekt_in_bij_australische_overheid_zuckerberg_wil_je_leven_regelen_met_een_ai-tamagotchi",
     "published": "2026-09-24T20:35:58.000Z"
-  },
-  {
-    "id": "275bf88c3fc64a9bb23077c1189fc7da3bb19c13",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "We have a vibe coding problem",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/PoP1L296Du8/mqdefault.jpg",
-    "url": "https://www.youtube.com/shorts/PoP1L296Du8",
-    "published": "2026-09-24T19:39:21.000Z"
   },
   {
     "id": "53a9cbbf31427d0ef17cf1333a283f7e50e487ea",
