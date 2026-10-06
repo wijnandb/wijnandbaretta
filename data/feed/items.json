@@ -1,5 +1,161 @@
 [
   {
+    "id": "b7de984081cfaa2a51095b40cae36aaa436edf10",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/eba248479e6dcfd6c4c3b0b071d38f9488b31bf6",
+    "published": "2026-10-06T21:44:26.000Z"
+  },
+  {
+    "id": "58a64561238bddd2fd03266ba068630a676c9877",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: pwa2play (#3097)",
+    "summary": "Add resource: pwa2play (#3097) Category: Infrastructure & DevOps Author: degordonstech From issue: #3014 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8064a756b08763a7e0936ff2164317abaed31b4c",
+    "published": "2026-10-06T21:44:08.000Z"
+  },
+  {
+    "id": "f2b4a146fbeb53f246d1eb0c0384fc278e45054c",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "llm-mistral 0.16",
+    "summary": "Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral Large 4. Tags: llm, mistral, llm-reasoning",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+    "published": "2026-10-06T21:32:34.000Z"
+  },
+  {
+    "id": "e9cb097955e8eabbe14e127d6873884720939a11",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fd39ed93d616e9e12e103044720efe2c2712d609",
+    "published": "2026-10-06T21:09:27.000Z"
+  },
+  {
+    "id": "b3ffaa721999ed411d34e6e8a9a624bc0b535781",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "EmbeddingGemma 2",
+    "summary": "My comment on EmbeddingGemma 2 &mdash; Hacker News.I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license. For embedding models in particular, I don't think it makes sense to use a...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
+    "published": "2026-10-06T20:37:53.000Z"
+  },
+  {
+    "id": "a651b0ec0b3d2f74dcfb2829cac0999aa8297c9b",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Introducing Mistral Large 4: Le chonk",
+    "summary": "Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/6/le-chonk/",
+    "published": "2026-10-06T20:18:19.000Z"
+  },
+  {
+    "id": "f5f88d08399f657bee70817d4085e69abee6d49f",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Using Parseable with Datasette for OpenTelemetry traces",
+    "summary": "TIL: Using Parseable with Datasette for OpenTelemetry traces I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
+    "published": "2026-10-06T19:07:31.000Z"
+  },
+  {
+    "id": "ec56094036c906f85afa25b0863d68457af25d46",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Mistral Large 4",
+    "summary": "My comment on Mistral Large 4 &mdash; Hacker News. wren6991: The benchmark is saturated. Frontier models are tested with an armadillo in fishnet tights jaywalking on Mars. OK well I couldn't resist...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
+    "published": "2026-10-06T18:20:58.000Z"
+  },
+  {
+    "id": "d1809ad8f9766f80fdf0788e6ab65c76fe493441",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6825107e61cc79fb5adeedb31cc182f473036de7",
+    "published": "2026-10-06T18:12:54.000Z"
+  },
+  {
+    "id": "17c1ef68addffb0043f8b3268d0ebd85030b2a78",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "datasette-atom 0.11a0",
+    "summary": "Release: datasette-atom 0.11a0 A minor fix for compatibility with the latest Datasette alphas. This meant we could upgrade the datasette.io site to Datasette 1.0a41. Tags: atom, datasette",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/6/datasette-atom/",
+    "published": "2026-10-06T17:35:39.000Z"
+  },
+  {
+    "id": "659ba4f1519617658958f83deaa0f0acf6703492",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The state of the tech industry in 2026",
+    "summary": "A look into what has changed, what’s still the same – and what’s broken – in the tech industry. The full video and the summary of my keynote at LDX3 New York",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!wmBO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55ac4f75-983e-45c6-bde0-40307f3bcd03_2048x1366.jpeg",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
+    "published": "2026-10-06T16:25:03.000Z"
+  },
+  {
+    "id": "f66486df2fd590e7c58f090ee0c4d5333559e768",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Scrimshaw Jukebox",
+    "summary": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this: I want you to write some computer game music for me. First design simple text based format for the...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+    "published": "2026-10-06T15:17:39.000Z"
+  },
+  {
+    "id": "bd9eb364361790cda1cc685bb91f470ee427ab95",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f2c8fab71dfdad544b86f64582cbdda4f7e70d9b",
+    "published": "2026-10-06T15:10:22.000Z"
+  },
+  {
     "id": "5fc8287647a54a9f726e24f0ecf3af20266d0fd2",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -48,30 +204,6 @@
     "published": "2026-10-06T06:18:04.000Z"
   },
   {
-    "id": "0975fa35370ac5b336f4a7204f075ef594135a01",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d4813ba0e1fc86161a5f297b4de00d14667ab3eb",
-    "published": "2026-10-06T03:12:46.000Z"
-  },
-  {
-    "id": "07325dd2c977b3301e78d9bd27806d909f7da268",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7112e22629b4a94d809517d987eb7e4d368c8573",
-    "published": "2026-10-06T00:29:16.000Z"
-  },
-  {
     "id": "16140ec435b023dfb753ba35cd7bef01d3647d54",
     "source": "Simon Willison",
     "type": "blog",
@@ -84,88 +216,16 @@
     "published": "2026-10-05T23:56:47.000Z"
   },
   {
-    "id": "45ef312f3d7765cff53a263ead032aeef69f176f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7c7eb62c98776dc04e8caaa8763daa65c47b6ace",
-    "published": "2026-10-05T21:15:05.000Z"
-  },
-  {
-    "id": "cf6d066293e4b7b93d11ebe69afff149edfb86d9",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a7b9a6de512301c6c05c2d142df80f2dd3de176b",
-    "published": "2026-10-05T18:13:35.000Z"
-  },
-  {
     "id": "856c086d8921fbacf01cad7d0f34446be223773c",
     "source": "Riley Brown",
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Grok Bot Just Changed A LOT (Here’s What’s New)",
+    "title": "Grok Bot Just Got 4 HUGE Upgrades (It’s WAY Better Now)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/c9Z7ixVr4CU/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=c9Z7ixVr4CU",
     "published": "2026-10-05T18:03:39.000Z"
-  },
-  {
-    "id": "7f298f540b4ac1400ec3fd5762dd480b460c9582",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9649408d36469c738c4deaf9e9fe61d47d9de3d2",
-    "published": "2026-10-05T15:11:08.000Z"
-  },
-  {
-    "id": "88d553ae09bb6778c8ce2b89e22f65a55a2dacfa",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Qwen3.8 27B addition in words",
-    "summary": "Research: Qwen3.8 27B addition in words Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
-    "published": "2026-10-04T23:34:00.000Z"
-  },
-  {
-    "id": "5a3f1f4a82c5b0a8ad278e93a15937d2727026fa",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "We're going to need default hard budget caps on pretty much everything",
-    "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps. I'm talking about the feature of pay-by-usage services and...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-    "published": "2026-10-03T23:34:02.000Z"
-  },
-  {
-    "id": "4956a5acae88d47d4409f189a9afc0c07382c15a",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "September sponsors-only newsletter",
-    "summary": "I just sent the September edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here. This month: More Fable class models A pricing war...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
-    "published": "2026-10-03T22:00:31.000Z"
   },
   {
     "id": "9ddcf7c74ee698a02ef03735f860df0cc6be8a87",
@@ -214,18 +274,6 @@
     "thumbnail": "https://i.ytimg.com/vi/IEYzYopNGVQ/mqdefault.jpg",
     "url": "https://www.youtube.com/shorts/IEYzYopNGVQ",
     "published": "2026-10-02T23:46:57.000Z"
-  },
-  {
-    "id": "da9bc33d3feb59e4762a2424009e5e038c0881cc",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Rex's Dino Store",
-    "summary": "Museum: Rex's Dino Store Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former newsstand which is now operated by a...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
-    "published": "2026-10-02T22:57:38.000Z"
   },
   {
     "id": "ad92b7d43e48382a83fc24e806383e1f75ca4db5",
@@ -312,18 +360,6 @@
     "published": "2026-10-01T18:33:04.000Z"
   },
   {
-    "id": "88caa1a107f0635dc9c4b762445b2e24ca0b13b5",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "pwasm 0.2a0",
-    "summary": "Release: pwasm 0.2a0 pwasm is one of my folly projects - an entirely vibe-coded pure Python WebAssembly engine that I built in January during my first bout of AI mania. I hadn't touched it since...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/1/pwasm/",
-    "published": "2026-10-01T17:10:31.000Z"
-  },
-  {
     "id": "593fe84d411ed3fe0a3d181e14d446d90cecbbe8",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -360,18 +396,6 @@
     "published": "2026-10-01T06:45:05.000Z"
   },
   {
-    "id": "4fb3caa1bad2e135359e362d8cf86b69f219ffec",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Matthew Green",
-    "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-    "published": "2026-10-01T06:29:01.000Z"
-  },
-  {
     "id": "1a601b09c690596d32914dfc598370785c3411b6",
     "source": "Latent Space",
     "type": "podcast",
@@ -382,18 +406,6 @@
     "thumbnail": null,
     "url": "https://www.latent.space/p/devday-2026",
     "published": "2026-09-30T22:23:40.000Z"
-  },
-  {
-    "id": "562470c22e2896c844b47ea04027f15c145f89a7",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "He Built This City",
-    "summary": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model, the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard....",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
-    "published": "2026-09-30T21:54:19.000Z"
   },
   {
     "id": "e8359c73e98bdd9666b0116679b86266c76b6dd1",
@@ -814,18 +826,6 @@
     "thumbnail": "https://antfu.me/images/devframe/devframe-with-title.svg",
     "url": "https://antfu.me/posts/pluggable-extensible-playful-devtools",
     "published": "2026-09-16T00:00:00.000Z"
-  },
-  {
-    "id": "557dcb769a02356f6826f34d74e30722aa541a81",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Inside OpenAI’s agentic software factory",
-    "summary": "A deepdive into how Codex has “taken over” OpenAI, how the frontier lab builds its agentic software factory, and the engineering challenges of one billion users. Details from inside OpenAI",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Eiw9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e73721e-e4d8-473f-a5a1-b6211c14f6ca_2048x1762.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-    "published": "2026-09-15T15:41:25.000Z"
   },
   {
     "id": "80c1ef33f11e857873abdc089d356e51b2ae99b7",
