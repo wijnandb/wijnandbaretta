@@ -1,5 +1,89 @@
 [
   {
+    "id": "5fc8287647a54a9f726e24f0ecf3af20266d0fd2",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fa32dbc19dc24b46b38e05bec0135f3fd07173c0",
+    "published": "2026-10-06T12:15:31.000Z"
+  },
+  {
+    "id": "9a7e248387e23d625e15852e06615f4316f75c56",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/dd7fab12a91f40bb375e85b4c2d4a37de8b27b86",
+    "published": "2026-10-06T09:12:14.000Z"
+  },
+  {
+    "id": "75046b1c8fede7eefa71400e2bb947d38b8c8dfa",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+    "summary": "A small win for US open source",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!eDub!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92c7acf0-990a-45f0-b3ee-b1d7702184bd_874x894.png",
+    "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+    "published": "2026-10-06T06:28:43.000Z"
+  },
+  {
+    "id": "e8db015a25bf7e432879e61a0f088980ae0f9561",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bba9ba8b0d0d3ac301a802b89eff27970c50ab8f",
+    "published": "2026-10-06T06:18:04.000Z"
+  },
+  {
+    "id": "0975fa35370ac5b336f4a7204f075ef594135a01",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d4813ba0e1fc86161a5f297b4de00d14667ab3eb",
+    "published": "2026-10-06T03:12:46.000Z"
+  },
+  {
+    "id": "07325dd2c977b3301e78d9bd27806d909f7da268",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7112e22629b4a94d809517d987eb7e4d368c8573",
+    "published": "2026-10-06T00:29:16.000Z"
+  },
+  {
+    "id": "16140ec435b023dfb753ba35cd7bef01d3647d54",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Felix Rieseberg",
+    "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+    "published": "2026-10-05T23:56:47.000Z"
+  },
+  {
     "id": "45ef312f3d7765cff53a263ead032aeef69f176f",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -46,66 +130,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/9649408d36469c738c4deaf9e9fe61d47d9de3d2",
     "published": "2026-10-05T15:11:08.000Z"
-  },
-  {
-    "id": "be026c9b2a658c676d50a18cf27d471b541c19a7",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ff6952ace71d2da92c30202f895e1cf64db13094",
-    "published": "2026-10-05T12:16:47.000Z"
-  },
-  {
-    "id": "a5d6c2bf1649f3d078f530a261d3f4bfa4728118",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f86114538281aec8d0e860c04be86bbaea9877a0",
-    "published": "2026-10-05T09:19:40.000Z"
-  },
-  {
-    "id": "0cee606c0280e1e5e338f3071a0afc0582c974d9",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/81a1f577dc1fc5656ebff114f3e0d4b1012bd5c1",
-    "published": "2026-10-05T06:28:04.000Z"
-  },
-  {
-    "id": "564c5a821c633d687eea521f4a12a2a0df5ef6bd",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/11ded84eb7e4912425a0dffde41d8918ff363a6a",
-    "published": "2026-10-05T03:18:52.000Z"
-  },
-  {
-    "id": "b1975a5312958d645b10ea5239bf9a28e152632a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/06479c6b37024c331088cdbc8891988adccb9993",
-    "published": "2026-10-05T00:31:47.000Z"
   },
   {
     "id": "88d553ae09bb6778c8ce2b89e22f65a55a2dacfa",
@@ -468,18 +492,6 @@
     "published": "2026-09-30T00:00:00.000Z"
   },
   {
-    "id": "6cd102f752db771390ab9dc56106d3f3bff61101",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Anthropic Frontier Red Team",
-    "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-    "published": "2026-09-29T22:20:28.000Z"
-  },
-  {
     "id": "04392c500debfe1859ca0ea015f9ed84adf1a290",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -502,18 +514,6 @@
     "thumbnail": "https://i.ytimg.com/vi/A8ptWsvM3cw/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=A8ptWsvM3cw",
     "published": "2026-09-29T15:02:53.000Z"
-  },
-  {
-    "id": "abda39f3393f20c9f6140e0cbbb90d0843f120fa",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
-    "summary": "Congrats team!",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
-    "published": "2026-09-29T02:55:27.000Z"
   },
   {
     "id": "00473164bd42a0b8cdbffb3f84cb4c6d86f27e53",
