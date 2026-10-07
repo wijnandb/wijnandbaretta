@@ -1,6 +1,6 @@
 [
   {
-    "id": "4a9eb0f1ffbc1a72564c57cf9bfdbbd652d87f35",
+    "id": "280dc98cacd858c5f595f8fdc5a1ac3a1f0e1ca6",
     "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
@@ -8,23 +8,23 @@
     "title": "chore: update repo ticker data and SVGs [skip ci]",
     "summary": "chore: update repo ticker data and SVGs [skip ci]",
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/635731e113d53e1671f6907101d52b210bb29a79",
-    "published": "2026-10-07T12:16:33.000Z"
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/039763e2114bcad85e9033952abf49bc7e614cb3",
+    "published": "2026-10-07T21:09:33.000Z"
   },
   {
-    "id": "a6963be2149818f44b8ebe04fdfca789d701b5dd",
-    "source": "awesome-claude-code",
-    "type": "repo",
+    "id": "6dcb3088ac59686b378e31099d1b4074b50b8bae",
+    "source": "Simon Willison",
+    "type": "blog",
     "category": "ai",
     "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/955dd3d6963518f126f1aa021717a86b76aab9b7",
-    "published": "2026-10-07T09:12:38.000Z"
+    "title": "Claude Haiku 5.5",
+    "summary": "As previously promised, here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5. The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago, and was...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+    "published": "2026-10-07T20:56:21.000Z"
   },
   {
-    "id": "8ebfa144bcd93f762b4219b2774bdd3b549780c8",
+    "id": "a6379619968a2690729e28fbb00ff3aa86f6f371",
     "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
@@ -32,8 +32,116 @@
     "title": "chore: update repo ticker data and SVGs [skip ci]",
     "summary": "chore: update repo ticker data and SVGs [skip ci]",
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/eb899cf1884495d5d5b7560dc61f2a201b154ac6",
-    "published": "2026-10-07T06:16:51.000Z"
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/032e9ce84ccb57032b4cafe4b0ef994f6cf15fd6",
+    "published": "2026-10-07T18:13:31.000Z"
+  },
+  {
+    "id": "c622e4b66fdcbefed272074a65f747a3c374a097",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "rename two entries, remove",
+    "summary": "rename two entries, remove Co-Authored-By: Claude Opus 5.5 (1M context)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/264608019b0c44f5ac7abdaff5c202081f3e75ad",
+    "published": "2026-10-07T17:21:36.000Z"
+  },
+  {
+    "id": "c2e92180363e5e1067a050d842d6d9a119fe6109",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Building resilient systems with Sam Newman",
+    "summary": "Sam Newman joins me to discuss when to use microservices, how to build resilient distributed systems, and how AI is changing software development.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!AlJu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e3d3c6f-6a37-411e-aa1a-dfcefc979af3_1600x140.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
+    "published": "2026-10-07T17:19:58.000Z"
+  },
+  {
+    "id": "f58cd55fa72bbaef1d8944d2102dc3431a7dbd68",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "fix stale repo and author links (#3104)",
+    "summary": "fix stale repo and author links (#3104) Co-Authored-By: Claude Opus 5.5 (1M context)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aac305bc9625dfd82712113ce2ec1455151e9dcf",
+    "published": "2026-10-07T17:12:17.000Z"
+  },
+  {
+    "id": "4d6d28929d9dfb4a1bff1ad165a819e89e6765be",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6b649d764a719fe1a66f789b4c5238f4cc2df5cf",
+    "published": "2026-10-07T16:16:59.000Z"
+  },
+  {
+    "id": "90f5f88bd2a2cdb788c7fac57779d257a3442c48",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: Awesome Claude Code Mods (#3116)",
+    "summary": "Add resource: Awesome Claude Code Mods (#3116) Category: Lists & Collections Author: Karan Bansal From issue: #3053 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/256147c9493305f9c8bd1981cf3d78e3b2c083b1",
+    "published": "2026-10-07T16:16:38.000Z"
+  },
+  {
+    "id": "b54fc1d1b5f382d39b005db41ca05da48cc9fbe1",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "add new category - Lists & Collections (#3115)",
+    "summary": "add new category - Lists & Collections (#3115) Co-authored-by: Claude Opus 5.5 (1M context)",
+    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a5d7766de6ca08c45ff0e6e306ce0c608c770342",
+    "published": "2026-10-07T16:09:46.000Z"
+  },
+  {
+    "id": "c4ba43b69a5bb0d730ab03547d19b1af320f4e0d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/66e6b0b93838609b7a68b3b3564ed59e05aba728",
+    "published": "2026-10-07T16:09:00.000Z"
+  },
+  {
+    "id": "dd551f425089cbdd482b20052f014f8a3156fe8d",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Anti-Patterns in Software Blogging",
+    "summary": "Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
+    "published": "2026-10-07T14:53:51.000Z"
+  },
+  {
+    "id": "f2c199a6dd88e539052f91082496fc84f24b9ac8",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+    "summary": "Kubernetes co-creators Craig McLuckie and Joe Beda aim to bring agent harnesses fully into the cloud.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!r55R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1c3cd3d-2682-47cb-9be6-74302c1ca8ea_2560x1440.png",
+    "url": "https://www.latent.space/p/stacklok",
+    "published": "2026-10-07T14:10:45.000Z"
   },
   {
     "id": "ad87805b0366b7171fc55a254bb4be5307c07e5b",
@@ -58,30 +166,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
     "published": "2026-10-07T04:47:55.000Z"
-  },
-  {
-    "id": "e0027363e578024b0aacd6feb769a31e210099e6",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ded987b9e2b93369e70fcb7eb289f2ffa6d47235",
-    "published": "2026-10-07T03:15:35.000Z"
-  },
-  {
-    "id": "ab366644c87ecd63f3c87c1303ddbc169f9a160e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/96852110a2ca45dd889fc1ba2b030368ce3e7a7c",
-    "published": "2026-10-07T00:30:02.000Z"
   },
   {
     "id": "40c4d27cba8694954344439dacddfe45096913ff",
@@ -120,30 +204,6 @@
     "published": "2026-10-06T23:04:13.000Z"
   },
   {
-    "id": "b7de984081cfaa2a51095b40cae36aaa436edf10",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/eba248479e6dcfd6c4c3b0b071d38f9488b31bf6",
-    "published": "2026-10-06T21:44:26.000Z"
-  },
-  {
-    "id": "58a64561238bddd2fd03266ba068630a676c9877",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: pwa2play (#3097)",
-    "summary": "Add resource: pwa2play (#3097) Category: Infrastructure & DevOps Author: degordonstech From issue: #3014 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8064a756b08763a7e0936ff2164317abaed31b4c",
-    "published": "2026-10-06T21:44:08.000Z"
-  },
-  {
     "id": "f2b4a146fbeb53f246d1eb0c0384fc278e45054c",
     "source": "Simon Willison",
     "type": "blog",
@@ -156,18 +216,6 @@
     "published": "2026-10-06T21:32:34.000Z"
   },
   {
-    "id": "e9cb097955e8eabbe14e127d6873884720939a11",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fd39ed93d616e9e12e103044720efe2c2712d609",
-    "published": "2026-10-06T21:09:27.000Z"
-  },
-  {
     "id": "b3ffaa721999ed411d34e6e8a9a624bc0b535781",
     "source": "Simon Willison",
     "type": "blog",
@@ -178,30 +226,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
     "published": "2026-10-06T20:37:53.000Z"
-  },
-  {
-    "id": "a651b0ec0b3d2f74dcfb2829cac0999aa8297c9b",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Introducing Mistral Large 4: Le chonk",
-    "summary": "Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/6/le-chonk/",
-    "published": "2026-10-06T20:18:19.000Z"
-  },
-  {
-    "id": "f5f88d08399f657bee70817d4085e69abee6d49f",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Using Parseable with Datasette for OpenTelemetry traces",
-    "summary": "TIL: Using Parseable with Datasette for OpenTelemetry traces I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
-    "published": "2026-10-06T19:07:31.000Z"
   },
   {
     "id": "659ba4f1519617658958f83deaa0f0acf6703492",
@@ -406,18 +430,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!wmoR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHTfV52SWgAIlX3W.png",
     "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
     "published": "2026-10-01T06:45:05.000Z"
-  },
-  {
-    "id": "1a601b09c690596d32914dfc598370785c3411b6",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
-    "summary": "Our DevDay coverage - the first pod on the DevDay lineup - dives in with the leaders of OpenAI’s CUA team and API platform.",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/devday-2026",
-    "published": "2026-09-30T22:23:40.000Z"
   },
   {
     "id": "e8359c73e98bdd9666b0116679b86266c76b6dd1",
@@ -802,18 +814,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/het_moet_langzamer_maar_hoe",
     "published": "2026-09-17T21:39:13.000Z"
-  },
-  {
-    "id": "f5a472e0bb8649288707e5e84333a2ffa6b968e8",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "AI Skills with Matt Pocock",
-    "summary": "Matt Pocock explains how he uses AI coding skills and agents to plan and build software, and why engineering fundamentals matter more than ever.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Qhi0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1228ff6a-514b-4643-9360-02cda14dc5ac_800x70.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
-    "published": "2026-09-17T11:29:00.000Z"
   },
   {
     "id": "7bc8fd88f6990dff3698eac3c51ee7f678e8c710",
