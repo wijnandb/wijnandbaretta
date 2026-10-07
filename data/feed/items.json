@@ -1,5 +1,125 @@
 [
   {
+    "id": "4a9eb0f1ffbc1a72564c57cf9bfdbbd652d87f35",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/635731e113d53e1671f6907101d52b210bb29a79",
+    "published": "2026-10-07T12:16:33.000Z"
+  },
+  {
+    "id": "a6963be2149818f44b8ebe04fdfca789d701b5dd",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/955dd3d6963518f126f1aa021717a86b76aab9b7",
+    "published": "2026-10-07T09:12:38.000Z"
+  },
+  {
+    "id": "8ebfa144bcd93f762b4219b2774bdd3b549780c8",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/eb899cf1884495d5d5b7560dc61f2a201b154ac6",
+    "published": "2026-10-07T06:16:51.000Z"
+  },
+  {
+    "id": "ad87805b0366b7171fc55a254bb4be5307c07e5b",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+    "summary": "Our head hurts.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!3_fH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf69e441-6f07-47c9-ba4d-3cd64a85fb49_1224x1255.png",
+    "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+    "published": "2026-10-07T04:55:44.000Z"
+  },
+  {
+    "id": "544da1e9a61fc2a9939377fbeefbd3419b48b7bf",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Jake Boggan",
+    "summary": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
+    "published": "2026-10-07T04:47:55.000Z"
+  },
+  {
+    "id": "e0027363e578024b0aacd6feb769a31e210099e6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ded987b9e2b93369e70fcb7eb289f2ffa6d47235",
+    "published": "2026-10-07T03:15:35.000Z"
+  },
+  {
+    "id": "ab366644c87ecd63f3c87c1303ddbc169f9a160e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/96852110a2ca45dd889fc1ba2b030368ce3e7a7c",
+    "published": "2026-10-07T00:30:02.000Z"
+  },
+  {
+    "id": "40c4d27cba8694954344439dacddfe45096913ff",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+    "summary": "OpenAI “rogue” agent activities found on Wikimedia projects Given how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that activity once...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+    "published": "2026-10-07T00:16:45.000Z"
+  },
+  {
+    "id": "c41d88164f8392887756221a8f3e53c15cf0a9bf",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Victoria Kim",
+    "summary": "Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s models access the internet in ways they’re not...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
+    "published": "2026-10-06T23:58:56.000Z"
+  },
+  {
+    "id": "bc657e1acdd7077149b96290f78b29eb750e1bfe",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "llm-openai-decisions 0.1a0",
+    "summary": "Release: llm-openai-decisions 0.1a0 OpenAI released their new Jev-style Decisions API, as previously announced at last week's DevDay. Since I already have an llm-typesafe plugin for talking to Jev, I...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+    "published": "2026-10-06T23:04:13.000Z"
+  },
+  {
     "id": "b7de984081cfaa2a51095b40cae36aaa436edf10",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -84,42 +204,6 @@
     "published": "2026-10-06T19:07:31.000Z"
   },
   {
-    "id": "ec56094036c906f85afa25b0863d68457af25d46",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Mistral Large 4",
-    "summary": "My comment on Mistral Large 4 &mdash; Hacker News. wren6991: The benchmark is saturated. Frontier models are tested with an armadillo in fishnet tights jaywalking on Mars. OK well I couldn't resist...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
-    "published": "2026-10-06T18:20:58.000Z"
-  },
-  {
-    "id": "d1809ad8f9766f80fdf0788e6ab65c76fe493441",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6825107e61cc79fb5adeedb31cc182f473036de7",
-    "published": "2026-10-06T18:12:54.000Z"
-  },
-  {
-    "id": "17c1ef68addffb0043f8b3268d0ebd85030b2a78",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "datasette-atom 0.11a0",
-    "summary": "Release: datasette-atom 0.11a0 A minor fix for compatibility with the latest Datasette alphas. This meant we could upgrade the datasette.io site to Datasette 1.0a41. Tags: atom, datasette",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/6/datasette-atom/",
-    "published": "2026-10-06T17:35:39.000Z"
-  },
-  {
     "id": "659ba4f1519617658958f83deaa0f0acf6703492",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -132,54 +216,6 @@
     "published": "2026-10-06T16:25:03.000Z"
   },
   {
-    "id": "f66486df2fd590e7c58f090ee0c4d5333559e768",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Scrimshaw Jukebox",
-    "summary": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this: I want you to write some computer game music for me. First design simple text based format for the...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
-    "published": "2026-10-06T15:17:39.000Z"
-  },
-  {
-    "id": "bd9eb364361790cda1cc685bb91f470ee427ab95",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f2c8fab71dfdad544b86f64582cbdda4f7e70d9b",
-    "published": "2026-10-06T15:10:22.000Z"
-  },
-  {
-    "id": "5fc8287647a54a9f726e24f0ecf3af20266d0fd2",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fa32dbc19dc24b46b38e05bec0135f3fd07173c0",
-    "published": "2026-10-06T12:15:31.000Z"
-  },
-  {
-    "id": "9a7e248387e23d625e15852e06615f4316f75c56",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/dd7fab12a91f40bb375e85b4c2d4a37de8b27b86",
-    "published": "2026-10-06T09:12:14.000Z"
-  },
-  {
     "id": "75046b1c8fede7eefa71400e2bb947d38b8c8dfa",
     "source": "Latent Space",
     "type": "podcast",
@@ -190,30 +226,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!eDub!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92c7acf0-990a-45f0-b3ee-b1d7702184bd_874x894.png",
     "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
     "published": "2026-10-06T06:28:43.000Z"
-  },
-  {
-    "id": "e8db015a25bf7e432879e61a0f088980ae0f9561",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bba9ba8b0d0d3ac301a802b89eff27970c50ab8f",
-    "published": "2026-10-06T06:18:04.000Z"
-  },
-  {
-    "id": "16140ec435b023dfb753ba35cd7bef01d3647d54",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Felix Rieseberg",
-    "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
-    "published": "2026-10-05T23:56:47.000Z"
   },
   {
     "id": "856c086d8921fbacf01cad7d0f34446be223773c",
@@ -430,18 +442,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!Qhi0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1228ff6a-514b-4643-9360-02cda14dc5ac_800x70.png",
     "url": "https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter",
     "published": "2026-09-30T16:30:05.000Z"
-  },
-  {
-    "id": "da4fbb5beeed3260cdc7c62aa755d5ed6de87370",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
-    "summary": "the most confident DevDay yet.",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
-    "published": "2026-09-30T05:53:10.000Z"
   },
   {
     "id": "6051e5844cd6449dac123ebde73a7cdbe3fef0ec",
