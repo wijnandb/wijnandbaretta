@@ -1,87 +1,183 @@
 [
   {
-    "id": "19c027d59cd3a42c799f03a47ee2a283d630ef53",
-    "source": "awesome-mcp-servers",
+    "id": "f7137152197f5163f497c32b578a8a58aa63428e",
+    "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #15558 from Ahtasham00/patch-1",
-    "summary": "Merge pull request #15558 from Ahtasham00/patch-1 Add Tactab to Browser Automation",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/8b22d30cfa114737c558f8db2af5af2e6226015d",
-    "published": "2026-10-08T13:03:46.000Z"
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d46918adf017958be1f17d711cace2b7e826ee02",
+    "published": "2026-10-08T21:09:48.000Z"
   },
   {
-    "id": "c400c18d0eb139a83139716af277d6abb7154a19",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
+    "id": "f55b626ec460a20bccc86f5039fc66353d2e07b1",
+    "source": "Simon Willison",
+    "type": "blog",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #15749 from Jimil-Joshi/add-blastradius-mcp",
-    "summary": "Merge pull request #15749 from Jimil-Joshi/add-blastradius-mcp Add BlastRadius MCP security proxy",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/91d1eced145841a7a2b11059870042355e7c7883",
-    "published": "2026-10-08T12:50:45.000Z"
+    "title": "Quoting Carson Gross",
+    "summary": "Computer programming is, fundamentally, about two things: Problem-solving using computers Learning to control complexity while solving these problems I have a hard time imagining a future where...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
+    "published": "2026-10-08T21:05:44.000Z"
   },
   {
-    "id": "d8f0b9d0413800eaf5766f5c1a1c273aafee998b",
+    "id": "b24ec14b2e907e46e3f22eb4605d0e370c67ff51",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #15385 from Eric-huang799/add-duplex",
-    "summary": "Merge pull request #15385 from Eric-huang799/add-duplex Add Duplex server 🤖🤖🤖",
+    "title": "Merge pull request #14510 from michal-wrzosek/add-gitwarren",
+    "summary": "Merge pull request #14510 from michal-wrzosek/add-gitwarren Add GitWarren to Version Control 🤖🤖🤖",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/5a1cf6c276fdb52c02f471c9cef5605bb792d76a",
-    "published": "2026-10-08T12:50:06.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/f105299ee206f1a86cccd2e7d51363fbc6eab84d",
+    "published": "2026-10-08T18:50:17.000Z"
   },
   {
-    "id": "d91789656ca6761dce6a35b2e1d114ed0420b546",
+    "id": "29d1f063c9d1943262170b7e2250abd92ff6b76b",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #15651 from Tommkruix/add-archprint",
-    "summary": "Merge pull request #15651 from Tommkruix/add-archprint Add archprint server",
+    "title": "Merge pull request #11576 from XZXZZX-Ai/codex/add-bilibili-mcp",
+    "summary": "Merge pull request #11576 from XZXZZX-Ai/codex/add-bilibili-mcp Add Bilibili MCP server 🤖🤖🤖",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/8dfbded239bec180ff6ae31622f60e9716e6700c",
-    "published": "2026-10-08T12:43:33.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/b29ce7ad983997ea902f6bdf5ca5cc5db1e76c7f",
+    "published": "2026-10-08T18:44:20.000Z"
   },
   {
-    "id": "06fad2abc1ed7dbaceaccf655b3a82b3830d170d",
+    "id": "02834c16ff50c4a093092e2bff3d27ebb0381ac1",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #14532 from anpekesen/add-namegender-mcp",
-    "summary": "Merge pull request #14532 from anpekesen/add-namegender-mcp Add NameGender MCP server 🤖🤖🤖",
+    "title": "Merge pull request #15722 from tunahanaliozturk/add-derbent",
+    "summary": "Merge pull request #15722 from tunahanaliozturk/add-derbent Add Derbent to Security",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/fef0881fc71a3e0c4d30b9c56c7c418ac9e13b32",
-    "published": "2026-10-08T12:33:45.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/833a9af322fbfc72b3c2270c5c3d2f6297ee2d0b",
+    "published": "2026-10-08T18:43:58.000Z"
   },
   {
-    "id": "e26a4e31e7639c91c7dbe2f811dfa21d56fd76e8",
+    "id": "053f18363281354c74f23dcc487f7b4bb08e3973",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #15429 from igorolv/patch-4",
-    "summary": "Merge pull request #15429 from igorolv/patch-4 Add igorolv/loki-mcp-server to Monitoring",
+    "title": "Merge pull request #15634 from Scormave/codex/add-gramps-web-mcp",
+    "summary": "Merge pull request #15634 from Scormave/codex/add-gramps-web-mcp Add Scormave/gramps-web-mcp 🤖🤖🤖",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/47e83ef20b88e7bf434320f5a4f4a7eac048a382",
-    "published": "2026-10-08T12:24:50.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/12c572ead75fa69eba9e974a69c859d5e72f276c",
+    "published": "2026-10-08T18:20:44.000Z"
   },
   {
-    "id": "f5f891d4867765d230b7b4c74dc4977cf040a382",
+    "id": "366a2e7dbb493fe5f75ce248d27665e623fd8430",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #15844 from vamsiy78/add-ballmac-ui",
-    "summary": "Merge pull request #15844 from vamsiy78/add-ballmac-ui Add vamsiy78/ballmac-ui",
+    "title": "Merge pull request #8652 from PattrickChenforclaudeuse/add-mythsensus…",
+    "summary": "Merge pull request #8652 from PattrickChenforclaudeuse/add-mythsensus-mcp Add Mythsensus MCP (26-system divination consensus) 🤖🤖🤖",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/3030711f0302a23a583823edacb404f9725eefd7",
-    "published": "2026-10-08T12:18:36.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/f78f40115b1521539a8227dc215c3417bf775886",
+    "published": "2026-10-08T18:15:33.000Z"
+  },
+  {
+    "id": "d31cf9a739590a03c97e41c35c740ff74cb41436",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3ee4639c37e8c822bf56fdaa6617da414a073928",
+    "published": "2026-10-08T18:13:06.000Z"
+  },
+  {
+    "id": "ae5b15cb011ab175ee9346b53722f304844091c5",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #12882 from M-T-D-N/patch-1",
+    "summary": "Merge pull request #12882 from M-T-D-N/patch-1 Add AgentMemory for Codex on Windows 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/f8a4fde0dc79f85b4005e41334037c4ec8627caa",
+    "published": "2026-10-08T18:10:07.000Z"
+  },
+  {
+    "id": "ac9d47a1809e61a938b48d4a6a1543d2ed5a94d8",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #15301 from Philongevity/patch-1",
+    "summary": "Merge pull request #15301 from Philongevity/patch-1 Add Phi Longevity PRISM to health resources list",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/8b6dc62ff04beceed27aee1782373716caed31a5",
+    "published": "2026-10-08T17:55:57.000Z"
+  },
+  {
+    "id": "b0ae34c2ed53481e80035f9d18ec449b90eee61b",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #15498 from phetzy/add-osnova",
+    "summary": "Merge pull request #15498 from phetzy/add-osnova Add getdomovoi/osnova",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/115aaf09a2d0fdb2eb2362183588a84bf380d73b",
+    "published": "2026-10-08T17:50:35.000Z"
+  },
+  {
+    "id": "b5590cdb9727901591be6398ab90221950bedb95",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
+    "summary": "Also: do us engineers truly enjoy ‘hard problems’, or do we really just want to solve those which attract promotions, new open models launch in the EU and US, and more",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!u_p9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41ad4d5f-4218-458f-863e-7cab93aa8741_1440x900.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
+    "published": "2026-10-08T16:55:51.000Z"
+  },
+  {
+    "id": "dfe3686a93214525c6d4a479c287dc2983fe935c",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+    "summary": "A special Science pod and Engineering pod crossover.. with Forward Deployed Engineering kicker!",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/periodic",
+    "published": "2026-10-08T16:27:54.000Z"
+  },
+  {
+    "id": "bae860137ad85c3442ad9c1b8d5b73fbeb333fdc",
+    "source": "AI Report",
+    "type": "podcast",
+    "category": "nl",
+    "lang": "nl",
+    "title": "Iedereen krijgt nu gratis GPT-6 + AI lost in één klap honderden wiskundige raadsels op",
+    "summary": "Jeroen gaf deze week zijn hele leven aan een Grokbot. Die leest elk kwartier zijn berichten mee en plant zelf afspraken in met zijn Nieuwsuur-collega's, met een robotje erbij zodat iedereen weet dat...",
+    "thumbnail": null,
+    "url": "https://www.aireport.nl/podcast/s/aireport/iedereen_krijgt_nu_gratis_gpt-6_ai_lost_in_een_klap_honderden_wiskundige_raadsels_op",
+    "published": "2026-10-08T16:04:46.000Z"
+  },
+  {
+    "id": "03ec9dd1284b22085f6bae1a73edde66d1feba85",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/04756249c5ae4102e78681f5dcfee6bf31b35820",
+    "published": "2026-10-08T15:09:50.000Z"
   },
   {
     "id": "ce12b847f7ce3657b72bc22dcb1870671aa99198",
@@ -94,18 +190,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0377f95a49e95df20ca40d4d7b7856f123dfac11",
     "published": "2026-10-08T12:15:47.000Z"
-  },
-  {
-    "id": "576e8997ef319507e4377758c1328a304a52a56b",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #15882 from tensorlink-dev/add-ephemeris-mcp",
-    "summary": "Merge pull request #15882 from tensorlink-dev/add-ephemeris-mcp Add Ephemeris MCP server (time-series forecasting) 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/88c086a98488173df1de1b41880cdea1b31fadef",
-    "published": "2026-10-08T11:25:51.000Z"
   },
   {
     "id": "d81fa5bd257282caad45a16e267bc5ec9225f393",
@@ -166,42 +250,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bd2dd4757a9346ec31de6340846d9507b4352a30",
     "published": "2026-10-08T04:46:14.000Z"
-  },
-  {
-    "id": "a59feede3f4f03a3a964a23852d203c61d48ec10",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b7ae68129cac4276612d6b7c6b726ea4aae35554",
-    "published": "2026-10-08T04:41:24.000Z"
-  },
-  {
-    "id": "f2b1a7ad1ef20ec0503c06d4b1c2d38f9d72cc07",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: OpenRig (#3121)",
-    "summary": "Add resource: OpenRig (#3121) Category: Agent Orchestration Author: Mike Schwarz From issue: #2998 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e1fee934dc6c7d5903174eb872c0bec9b27ee443",
-    "published": "2026-10-08T04:41:03.000Z"
-  },
-  {
-    "id": "bee46e4a8851498ced36803bab5c25e0132eac92",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c61fd67a035e48152661e01e87d79ba294bc7cdc",
-    "published": "2026-10-08T04:22:05.000Z"
   },
   {
     "id": "0f47a943c04a6d3c9578b7257bcf12c409916c09",
@@ -322,18 +370,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
     "published": "2026-10-06T23:04:13.000Z"
-  },
-  {
-    "id": "f2b4a146fbeb53f246d1eb0c0384fc278e45054c",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm-mistral 0.16",
-    "summary": "Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral Large 4. Tags: llm, mistral, llm-reasoning",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
-    "published": "2026-10-06T21:32:34.000Z"
   },
   {
     "id": "659ba4f1519617658958f83deaa0f0acf6703492",
@@ -478,18 +514,6 @@
     "thumbnail": "https://i.ytimg.com/vi/t0ZwER9Y99c/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=t0ZwER9Y99c",
     "published": "2026-10-02T01:43:15.000Z"
-  },
-  {
-    "id": "d1b287482ae91f9f3bcb19aafc792754f35ebc05",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Academia is for Ambition — Alex Zhang, MIT",
-    "summary": "We catch up with RLM first author Alex Zhang, MIT PhD, on Jev, PhD masxing, and the future of harnesses.",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/rlm",
-    "published": "2026-10-02T00:28:04.000Z"
   },
   {
     "id": "96153fb4d095701762dd22d7a02244e4b363ebc2",
@@ -778,18 +802,6 @@
     "thumbnail": "https://i.ytimg.com/vi/8pRe7kkPi6g/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=8pRe7kkPi6g",
     "published": "2026-09-23T11:51:06.000Z"
-  },
-  {
-    "id": "a1905b81ace1b0cd661c58a9520e94cb02e9f6a9",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "How will AI change operating systems? Part 2: Windows",
-    "summary": "Deepdive into the Windows team’s efforts to make the OS “AI agent-friendly” and win back developers by going all-in on Linux on Windows, local models, GPUs, & more",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!_YFt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c1feff9-3b33-4c9d-a088-ef35a1fb2978_872x607.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/windows-and-ai",
-    "published": "2026-09-22T17:17:31.000Z"
   },
   {
     "id": "01a1d3b26f4d1351b1d79ef3d5ded06d40cdb1ca",
@@ -1186,17 +1198,5 @@
     "thumbnail": "https://i.ytimg.com/vi/9Duw5Tzo-_Y/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=9Duw5Tzo-_Y",
     "published": "2026-08-05T13:08:53.000Z"
-  },
-  {
-    "id": "a9b8d470e8f5a4183a713f4cdba6c3d4ea7d1879",
-    "source": "Werner Vogels",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "On building scalable control planes",
-    "summary": "Zak van der Merwe has spent his entire career at AWS building control planes. First for EC2 and now for DSQL. On the surface, the control plane looks quite boring: it records what should exist and...",
-    "thumbnail": null,
-    "url": "https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html?utm_campaign=inbound&amp;utm_source=rss",
-    "published": "2026-08-04T14:00:00.000Z"
   }
 ]
