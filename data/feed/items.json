@@ -1,6 +1,90 @@
 [
   {
-    "id": "280dc98cacd858c5f595f8fdc5a1ac3a1f0e1ca6",
+    "id": "19c027d59cd3a42c799f03a47ee2a283d630ef53",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #15558 from Ahtasham00/patch-1",
+    "summary": "Merge pull request #15558 from Ahtasham00/patch-1 Add Tactab to Browser Automation",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/8b22d30cfa114737c558f8db2af5af2e6226015d",
+    "published": "2026-10-08T13:03:46.000Z"
+  },
+  {
+    "id": "c400c18d0eb139a83139716af277d6abb7154a19",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #15749 from Jimil-Joshi/add-blastradius-mcp",
+    "summary": "Merge pull request #15749 from Jimil-Joshi/add-blastradius-mcp Add BlastRadius MCP security proxy",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/91d1eced145841a7a2b11059870042355e7c7883",
+    "published": "2026-10-08T12:50:45.000Z"
+  },
+  {
+    "id": "d8f0b9d0413800eaf5766f5c1a1c273aafee998b",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #15385 from Eric-huang799/add-duplex",
+    "summary": "Merge pull request #15385 from Eric-huang799/add-duplex Add Duplex server 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/5a1cf6c276fdb52c02f471c9cef5605bb792d76a",
+    "published": "2026-10-08T12:50:06.000Z"
+  },
+  {
+    "id": "d91789656ca6761dce6a35b2e1d114ed0420b546",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #15651 from Tommkruix/add-archprint",
+    "summary": "Merge pull request #15651 from Tommkruix/add-archprint Add archprint server",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/8dfbded239bec180ff6ae31622f60e9716e6700c",
+    "published": "2026-10-08T12:43:33.000Z"
+  },
+  {
+    "id": "06fad2abc1ed7dbaceaccf655b3a82b3830d170d",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #14532 from anpekesen/add-namegender-mcp",
+    "summary": "Merge pull request #14532 from anpekesen/add-namegender-mcp Add NameGender MCP server 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/fef0881fc71a3e0c4d30b9c56c7c418ac9e13b32",
+    "published": "2026-10-08T12:33:45.000Z"
+  },
+  {
+    "id": "e26a4e31e7639c91c7dbe2f811dfa21d56fd76e8",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #15429 from igorolv/patch-4",
+    "summary": "Merge pull request #15429 from igorolv/patch-4 Add igorolv/loki-mcp-server to Monitoring",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/47e83ef20b88e7bf434320f5a4f4a7eac048a382",
+    "published": "2026-10-08T12:24:50.000Z"
+  },
+  {
+    "id": "f5f891d4867765d230b7b4c74dc4977cf040a382",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #15844 from vamsiy78/add-ballmac-ui",
+    "summary": "Merge pull request #15844 from vamsiy78/add-ballmac-ui Add vamsiy78/ballmac-ui",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/3030711f0302a23a583823edacb404f9725eefd7",
+    "published": "2026-10-08T12:18:36.000Z"
+  },
+  {
+    "id": "ce12b847f7ce3657b72bc22dcb1870671aa99198",
     "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
@@ -8,8 +92,128 @@
     "title": "chore: update repo ticker data and SVGs [skip ci]",
     "summary": "chore: update repo ticker data and SVGs [skip ci]",
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/039763e2114bcad85e9033952abf49bc7e614cb3",
-    "published": "2026-10-07T21:09:33.000Z"
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/0377f95a49e95df20ca40d4d7b7856f123dfac11",
+    "published": "2026-10-08T12:15:47.000Z"
+  },
+  {
+    "id": "576e8997ef319507e4377758c1328a304a52a56b",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #15882 from tensorlink-dev/add-ephemeris-mcp",
+    "summary": "Merge pull request #15882 from tensorlink-dev/add-ephemeris-mcp Add Ephemeris MCP server (time-series forecasting) 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/88c086a98488173df1de1b41880cdea1b31fadef",
+    "published": "2026-10-08T11:25:51.000Z"
+  },
+  {
+    "id": "d81fa5bd257282caad45a16e267bc5ec9225f393",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6e8dd6316095104e340d1efa53cfdc0c7a01bbd0",
+    "published": "2026-10-08T09:14:15.000Z"
+  },
+  {
+    "id": "d52167838f81173166d1214bff943ea00ae40276",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+    "summary": "yay small models",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!q_iv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHUDOG1Jb0AAHQ2I.jpg",
+    "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+    "published": "2026-10-08T07:27:51.000Z"
+  },
+  {
+    "id": "81169c034b3a0f04db313edcccc591b506c73460",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/eed26f4afe71beea6e3cf0680509a21e6561a0f0",
+    "published": "2026-10-08T06:19:07.000Z"
+  },
+  {
+    "id": "ac7a7962ea9c17bcfd0a0f2850ef97d9ceea2342",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/5988fcb6707e8aff608ac831776e3a7f40cc0154",
+    "published": "2026-10-08T04:46:35.000Z"
+  },
+  {
+    "id": "2f4d13cbb27e55cc06d8860817aac171b73b4422",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: clausona (#3122)",
+    "summary": "Add resource: clausona (#3122) Category: Configuration Author: larcane97 From issue: #2997 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/bd2dd4757a9346ec31de6340846d9507b4352a30",
+    "published": "2026-10-08T04:46:14.000Z"
+  },
+  {
+    "id": "a59feede3f4f03a3a964a23852d203c61d48ec10",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b7ae68129cac4276612d6b7c6b726ea4aae35554",
+    "published": "2026-10-08T04:41:24.000Z"
+  },
+  {
+    "id": "f2b1a7ad1ef20ec0503c06d4b1c2d38f9d72cc07",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: OpenRig (#3121)",
+    "summary": "Add resource: OpenRig (#3121) Category: Agent Orchestration Author: Mike Schwarz From issue: #2998 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e1fee934dc6c7d5903174eb872c0bec9b27ee443",
+    "published": "2026-10-08T04:41:03.000Z"
+  },
+  {
+    "id": "bee46e4a8851498ced36803bab5c25e0132eac92",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c61fd67a035e48152661e01e87d79ba294bc7cdc",
+    "published": "2026-10-08T04:22:05.000Z"
+  },
+  {
+    "id": "0f47a943c04a6d3c9578b7257bcf12c409916c09",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Ben Affleck",
+    "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+    "published": "2026-10-07T23:14:58.000Z"
   },
   {
     "id": "6dcb3088ac59686b378e31099d1b4074b50b8bae",
@@ -24,30 +228,6 @@
     "published": "2026-10-07T20:56:21.000Z"
   },
   {
-    "id": "a6379619968a2690729e28fbb00ff3aa86f6f371",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/032e9ce84ccb57032b4cafe4b0ef994f6cf15fd6",
-    "published": "2026-10-07T18:13:31.000Z"
-  },
-  {
-    "id": "c622e4b66fdcbefed272074a65f747a3c374a097",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "rename two entries, remove",
-    "summary": "rename two entries, remove Co-Authored-By: Claude Opus 5.5 (1M context)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/264608019b0c44f5ac7abdaff5c202081f3e75ad",
-    "published": "2026-10-07T17:21:36.000Z"
-  },
-  {
     "id": "c2e92180363e5e1067a050d842d6d9a119fe6109",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -58,66 +238,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!AlJu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e3d3c6f-6a37-411e-aa1a-dfcefc979af3_1600x140.png",
     "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
     "published": "2026-10-07T17:19:58.000Z"
-  },
-  {
-    "id": "f58cd55fa72bbaef1d8944d2102dc3431a7dbd68",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "fix stale repo and author links (#3104)",
-    "summary": "fix stale repo and author links (#3104) Co-Authored-By: Claude Opus 5.5 (1M context)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aac305bc9625dfd82712113ce2ec1455151e9dcf",
-    "published": "2026-10-07T17:12:17.000Z"
-  },
-  {
-    "id": "4d6d28929d9dfb4a1bff1ad165a819e89e6765be",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6b649d764a719fe1a66f789b4c5238f4cc2df5cf",
-    "published": "2026-10-07T16:16:59.000Z"
-  },
-  {
-    "id": "90f5f88bd2a2cdb788c7fac57779d257a3442c48",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: Awesome Claude Code Mods (#3116)",
-    "summary": "Add resource: Awesome Claude Code Mods (#3116) Category: Lists & Collections Author: Karan Bansal From issue: #3053 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/256147c9493305f9c8bd1981cf3d78e3b2c083b1",
-    "published": "2026-10-07T16:16:38.000Z"
-  },
-  {
-    "id": "b54fc1d1b5f382d39b005db41ca05da48cc9fbe1",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "add new category - Lists & Collections (#3115)",
-    "summary": "add new category - Lists & Collections (#3115) Co-authored-by: Claude Opus 5.5 (1M context)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/172150522?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a5d7766de6ca08c45ff0e6e306ce0c608c770342",
-    "published": "2026-10-07T16:09:46.000Z"
-  },
-  {
-    "id": "c4ba43b69a5bb0d730ab03547d19b1af320f4e0d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/66e6b0b93838609b7a68b3b3564ed59e05aba728",
-    "published": "2026-10-07T16:09:00.000Z"
   },
   {
     "id": "dd551f425089cbdd482b20052f014f8a3156fe8d",
@@ -214,18 +334,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
     "published": "2026-10-06T21:32:34.000Z"
-  },
-  {
-    "id": "b3ffaa721999ed411d34e6e8a9a624bc0b535781",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "EmbeddingGemma 2",
-    "summary": "My comment on EmbeddingGemma 2 &mdash; Hacker News.I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license. For embedding models in particular, I don't think it makes sense to use a...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
-    "published": "2026-10-06T20:37:53.000Z"
   },
   {
     "id": "659ba4f1519617658958f83deaa0f0acf6703492",
@@ -420,18 +528,6 @@
     "published": "2026-10-01T15:01:29.000Z"
   },
   {
-    "id": "d579ab095fb709fab25fb1a950c54a6d86ca08dc",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
-    "summary": "... but you can’t try it yet unless you are “government users and trusted cyber defenders in the Fairwind Program”",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!wmoR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHTfV52SWgAIlX3W.png",
-    "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
-    "published": "2026-10-01T06:45:05.000Z"
-  },
-  {
     "id": "e8359c73e98bdd9666b0116679b86266c76b6dd1",
     "source": "ElevenLabs",
     "type": "video",
@@ -588,18 +684,6 @@
     "published": "2026-09-27T23:15:08.000Z"
   },
   {
-    "id": "f88f80a3a2e456356fa6a6f76182366fd389048f",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "shorten long descriptions",
-    "summary": "shorten long descriptions",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/3c30195615095be4f22ac120a7cee82f215cf547",
-    "published": "2026-09-27T02:12:09.000Z"
-  },
-  {
     "id": "49b0f014c9ac775eb8f7d3f31024736c52a44a10",
     "source": "Riley Brown",
     "type": "video",
@@ -694,90 +778,6 @@
     "thumbnail": "https://i.ytimg.com/vi/8pRe7kkPi6g/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=8pRe7kkPi6g",
     "published": "2026-09-23T11:51:06.000Z"
-  },
-  {
-    "id": "2af20bd39915439d9c5d722e1897a51ccceb0138",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #14910 from amidabuddha/add-jev-decision-mcp",
-    "summary": "Merge pull request #14910 from amidabuddha/add-jev-decision-mcp Add Jev Decision MCP",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/77bbee449380650cd44d4343afce7c5cddbdebc1",
-    "published": "2026-09-23T06:38:45.000Z"
-  },
-  {
-    "id": "17378a9009dbc47543b817187bb6d16735dac0c9",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #14444 from bondigoo-admin/add-tillbooks-finance",
-    "summary": "Merge pull request #14444 from bondigoo-admin/add-tillbooks-finance Add tillbooks/tillbooks to Finance & Fintech 💰",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/98f9bc08d56a58bd1559e2979e6e9a0605f30ad5",
-    "published": "2026-09-23T06:38:20.000Z"
-  },
-  {
-    "id": "2c930f6af2672b9d8189d48fca395e55c82cbab0",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #14784 from Verificate-Dev/add-verificate-gate",
-    "summary": "Merge pull request #14784 from Verificate-Dev/add-verificate-gate Add Verificate Gate — merge gate for AI-written code (Developer Tools)",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/827b5ff6d7688b3b3b105374c8dc48183f7d31fd",
-    "published": "2026-09-23T06:26:49.000Z"
-  },
-  {
-    "id": "eabc97c3ab9f01e1ed6a48ab8d7a884082691c28",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #14729 from carldaws/add-squiggles",
-    "summary": "Merge pull request #14729 from carldaws/add-squiggles Add carldaws/squiggles 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/14ea8f82cd7203929769326ffe2eaeeed785b645",
-    "published": "2026-09-23T06:24:50.000Z"
-  },
-  {
-    "id": "7e35b33f995179ea845b34b0d6b4adc3af4ad4be",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #14886 from mambabuilt/add-mcp-pinterest-brand-pre…",
-    "summary": "Merge pull request #14886 from mambabuilt/add-mcp-pinterest-brand-presence-mapper Add mambalabsdev/mcp-pinterest-brand-presence-mapper 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/4e273d60337c096f185f5767a2979e1743cb45da",
-    "published": "2026-09-23T06:23:55.000Z"
-  },
-  {
-    "id": "bcec35bdff681a950150e03e4bfbcbf74ae1befd",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #14866 from mambabuilt/add-mcp-github-organization…",
-    "summary": "Merge pull request #14866 from mambabuilt/add-mcp-github-organization-signal-scanner Add mambalabsdev/mcp-github-organization-signal-scanner 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/b766bf88f1f2a741c8d52c931ad6c85177222642",
-    "published": "2026-09-23T06:23:45.000Z"
-  },
-  {
-    "id": "02956e271dce32bb9796c2b2fc8a3c339bbb6f1f",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #14865 from mambabuilt/add-mcp-event-presence-index",
-    "summary": "Merge pull request #14865 from mambabuilt/add-mcp-event-presence-index Add mambalabsdev/mcp-event-presence-index 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/ebb87fb57b224536d21f085741e928e8e0edd8c8",
-    "published": "2026-09-23T06:10:39.000Z"
   },
   {
     "id": "a1905b81ace1b0cd661c58a9520e94cb02e9f6a9",
