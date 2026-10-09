@@ -1,39 +1,171 @@
 [
   {
-    "id": "75d0a8de1f676ab9e456b00e6aafa2f01be93600",
-    "source": "awesome-mcp-servers",
+    "id": "080a8c83e0b02d37f6844a129dc6e840dcc6990c",
+    "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #15644 from runyourempire/update-4da-entry",
-    "summary": "Merge pull request #15644 from runyourempire/update-4da-entry Update 4DA entry — repo moved to 4DA-Systems, Glama listing claimed 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/4824ccb4be7eb29f1901ba727c0e70224f636b5d",
-    "published": "2026-10-09T12:49:08.000Z"
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/678f599c36c3eefa63d604ca944f99254cb712a7",
+    "published": "2026-10-09T21:09:15.000Z"
   },
   {
-    "id": "d1fd29d8bfd1ec9a8d9d1850f4f9379aa18bf414",
+    "id": "77e43434b5c813e6f4e6eca39911bf4b9f1fb521",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #13764 from IvenKooLab/add-loci",
-    "summary": "Merge pull request #13764 from IvenKooLab/add-loci Add loci — local-first RAG second brain with MCP server",
+    "title": "Merge pull request #13388 from clawdbotworker/add-forgemeshlabs-aso-s…",
+    "summary": "Merge pull request #13388 from clawdbotworker/add-forgemeshlabs-aso-score-mcp Add forgemeshlabs/aso-score-mcp 🤖🤖🤖",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/8fdc2a23b0d52483008e44c7edcaec8ccaa5e23e",
-    "published": "2026-10-09T12:29:08.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/cc7f1f42c3fa8ced6fd5c0e02ea366ef7ed8cf1b",
+    "published": "2026-10-09T19:23:13.000Z"
   },
   {
-    "id": "afc13b4ec25082a773b515192684db7b1faacd6f",
+    "id": "538b3e9a3d8e858d675b130c2145f5393990f537",
     "source": "awesome-mcp-servers",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Merge pull request #15304 from Kungie/add-kungie-gut",
-    "summary": "Merge pull request #15304 from Kungie/add-kungie-gut Add Kungie/gut: judgment calls on small models",
+    "title": "Merge pull request #15556 from festuscharles-n/main",
+    "summary": "Merge pull request #15556 from festuscharles-n/main Add SnapBlock/hai-browser to the README",
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/74a7902d1ec134199985330e126292c82eb3e9e0",
-    "published": "2026-10-09T12:24:11.000Z"
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/6982e271f0b50c17a559c59e65a92efab183e6cf",
+    "published": "2026-10-09T19:18:16.000Z"
+  },
+  {
+    "id": "f5601cc05eec9161e74854decad7b35303010e54",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #15652 from andrewbabu/add-loggly-mcp",
+    "summary": "Merge pull request #15652 from andrewbabu/add-loggly-mcp Add loggly-mcp server",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/1a76760a22e269a46f536677598b45c87f86928b",
+    "published": "2026-10-09T19:12:55.000Z"
+  },
+  {
+    "id": "deee04ae25b85dc76340689d9c655aad6436e102",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Fix entry formatting",
+    "summary": "Fix entry formatting",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/9fcff5199848a969205ec5f400caae6e73f95c08",
+    "published": "2026-10-09T19:09:03.000Z"
+  },
+  {
+    "id": "0bae2cbe81dbc854356bd8c09b8745f458ca39bb",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #15945 from MattStellisoft/add-stellify-mcp",
+    "summary": "Merge pull request #15945 from MattStellisoft/add-stellify-mcp Add Stellify MCP server to Developer Tools 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/bf00bbfcfa4d8f3d2bcf3ebbc817b7e2b9304ba2",
+    "published": "2026-10-09T19:08:57.000Z"
+  },
+  {
+    "id": "97e29e7dd24192dea45545a9b5e1280d8061d11f",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #15038 from ly8427/add-mcp-review-board",
+    "summary": "Merge pull request #15038 from ly8427/add-mcp-review-board Add mcp-review-board (localhost multi-agent code review board) 🤖🤖🤖",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/4f0a17d40f3b548b28ea12d5a43a03d3bab8e17f",
+    "published": "2026-10-09T19:08:16.000Z"
+  },
+  {
+    "id": "6eea6d0ef1e24a66e57faca02218555e1fc02bac",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Merge pull request #15811 from Rikinshah787/add-dotpals",
+    "summary": "Merge pull request #15811 from Rikinshah787/add-dotpals Add Rikinshah787/dotpals",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/baae356cb09eae1afb27ac703b0c6c459bd2a353",
+    "published": "2026-10-09T19:08:05.000Z"
+  },
+  {
+    "id": "c344fa8beb9b3023a12ab935a1d70fa900aa1035",
+    "source": "awesome-mcp-servers",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Fix entry formatting",
+    "summary": "Fix entry formatting",
+    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/31f0b23c5b20ba226d0730bfd16f5d151560e18d",
+    "published": "2026-10-09T19:03:25.000Z"
+  },
+  {
+    "id": "fd0e0890743d1eddac39c0ff3235869078ce927b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/794b2dcaf3ee65aaded06a5150cbf8902b645031",
+    "published": "2026-10-09T18:12:46.000Z"
+  },
+  {
+    "id": "73216fcb1b0c306eb9dcbce5b5b68c37f13ef52c",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "ChatGPT Dots Is WAY More Powerful Than You Think",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/WXhOxfPECnM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=WXhOxfPECnM",
+    "published": "2026-10-09T16:08:49.000Z"
+  },
+  {
+    "id": "5ae2fb1a0ad6b31f78fe0e57d79c8a0b8f170271",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/899109a86688eb7e3a7c0b9435975c422bedcd25",
+    "published": "2026-10-09T15:09:45.000Z"
+  },
+  {
+    "id": "8c9077e7ebaff49374edc9389c123e95208cab50",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Matthew Green",
+    "summary": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+    "published": "2026-10-09T15:02:29.000Z"
+  },
+  {
+    "id": "95fd0fb1a7d9fd7465cd2ec13fabfde053c09db3",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "A new feature for my blog, built using my voice",
+    "summary": "I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+    "published": "2026-10-09T12:54:06.000Z"
   },
   {
     "id": "04c559990405be8716f1675c64eb44df69832905",
@@ -46,66 +178,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ffc01ddff5497fa994dbdae940f6be07a026b309",
     "published": "2026-10-09T12:15:05.000Z"
-  },
-  {
-    "id": "cf642714f9d589363e26e6dd3103dffa7dcf7389",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #15341 from pad01g/add-proxy-shopping",
-    "summary": "Merge pull request #15341 from pad01g/add-proxy-shopping Add proxy-shopping MCP server 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/ece41331a6ed4c6c5e3f42c239abaab115f5fb06",
-    "published": "2026-10-09T12:14:41.000Z"
-  },
-  {
-    "id": "fdf089ece2c91e96a58dd9e81fda8c477331820e",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #14028 from inth3shadows/add-runecho",
-    "summary": "Merge pull request #14028 from inth3shadows/add-runecho Add inth3shadows/runecho to Developer Tools 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/69355d823ecdf63e5600f1d1e2278456848f408b",
-    "published": "2026-10-09T12:05:07.000Z"
-  },
-  {
-    "id": "a899dc9ed558d2fd8f41a8ec0dd0c0b7dc277ad9",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #15448 from alexbottom/add-finology-mcp",
-    "summary": "Merge pull request #15448 from alexbottom/add-finology-mcp Add Finology-tech/finology-mcp (Finance & Fintech) 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/712602325ef9696b9d8ddf3ca3f4ab3efc089380",
-    "published": "2026-10-09T11:53:31.000Z"
-  },
-  {
-    "id": "9ec5de9aef0d04499ca0c695443190539417b0f7",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #14310 from dockndevai/add-mcp-grafana",
-    "summary": "Merge pull request #14310 from dockndevai/add-mcp-grafana Add mcp-grafana (safe-by-default Grafana control) to Monitoring 🤖🤖🤖",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/0bec5cc29483f7a6278635396fd722fd981a3ad7",
-    "published": "2026-10-09T11:48:41.000Z"
-  },
-  {
-    "id": "ada5d3467dba544be5be6d277be3bae0e6ff5b07",
-    "source": "awesome-mcp-servers",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Merge pull request #15471 from bourhaouta/add-tailwindshades",
-    "summary": "Merge pull request #15471 from bourhaouta/add-tailwindshades Add bourhaouta/vscode-tailwindshades",
-    "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/4306e2f62201912f93c74e7c3750e61e87ed9659",
-    "published": "2026-10-09T11:44:07.000Z"
   },
   {
     "id": "f5f0d65fe02ce3176923ed7d309786dbc2bac276",
@@ -216,18 +288,6 @@
     "published": "2026-10-08T23:29:43.000Z"
   },
   {
-    "id": "f7137152197f5163f497c32b578a8a58aa63428e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d46918adf017958be1f17d711cace2b7e826ee02",
-    "published": "2026-10-08T21:09:48.000Z"
-  },
-  {
     "id": "f55b626ec460a20bccc86f5039fc66353d2e07b1",
     "source": "Simon Willison",
     "type": "blog",
@@ -238,18 +298,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
     "published": "2026-10-08T21:05:44.000Z"
-  },
-  {
-    "id": "d31cf9a739590a03c97e41c35c740ff74cb41436",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3ee4639c37e8c822bf56fdaa6617da414a073928",
-    "published": "2026-10-08T18:13:06.000Z"
   },
   {
     "id": "b5590cdb9727901591be6398ab90221950bedb95",
@@ -286,18 +334,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/iedereen_krijgt_nu_gratis_gpt-6_ai_lost_in_een_klap_honderden_wiskundige_raadsels_op",
     "published": "2026-10-08T16:04:46.000Z"
-  },
-  {
-    "id": "03ec9dd1284b22085f6bae1a73edde66d1feba85",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/04756249c5ae4102e78681f5dcfee6bf31b35820",
-    "published": "2026-10-08T15:09:50.000Z"
   },
   {
     "id": "d52167838f81173166d1214bff943ea00ae40276",
@@ -382,30 +418,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!3_fH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf69e441-6f07-47c9-ba4d-3cd64a85fb49_1224x1255.png",
     "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
     "published": "2026-10-07T04:55:44.000Z"
-  },
-  {
-    "id": "544da1e9a61fc2a9939377fbeefbd3419b48b7bf",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Jake Boggan",
-    "summary": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
-    "published": "2026-10-07T04:47:55.000Z"
-  },
-  {
-    "id": "40c4d27cba8694954344439dacddfe45096913ff",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
-    "summary": "OpenAI “rogue” agent activities found on Wikimedia projects Given how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that activity once...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
-    "published": "2026-10-07T00:16:45.000Z"
   },
   {
     "id": "659ba4f1519617658958f83deaa0f0acf6703492",
@@ -730,18 +742,6 @@
     "thumbnail": "https://i.ytimg.com/vi/959RFRspIIc/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=959RFRspIIc",
     "published": "2026-09-27T23:15:08.000Z"
-  },
-  {
-    "id": "49b0f014c9ac775eb8f7d3f31024736c52a44a10",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Claude Opus 5.5 Is Insane… But Muse is EVEN Bigger",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/_NRuT_d1PZE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=_NRuT_d1PZE",
-    "published": "2026-09-25T17:00:16.000Z"
   },
   {
     "id": "1f2dbfeedfe34b0f898e9ead30e3585534c55b2f",
