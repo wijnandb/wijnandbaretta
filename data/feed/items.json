@@ -1,15 +1,147 @@
 [
   {
-    "id": "080a8c83e0b02d37f6844a129dc6e840dcc6990c",
+    "id": "97909dd228f5be4b751f80e13f97544d58920f0d",
     "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/678f599c36c3eefa63d604ca944f99254cb712a7",
-    "published": "2026-10-09T21:09:15.000Z"
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c03348f7e30e08de70891c45c9fec47a17c851c4",
+    "published": "2026-10-10T12:12:03.000Z"
+  },
+  {
+    "id": "3d3cc10606d893d7cbf917e5257e5fe6772bb442",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: Charrette (#3138)",
+    "summary": "Add resource: Charrette (#3138) Category: Agent Orchestration Author: Stefan Teofanovic From issue: #3059 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/000c0a94b91b10f164a74f297d52f417f4b88e71",
+    "published": "2026-10-10T12:11:43.000Z"
+  },
+  {
+    "id": "aa682d723f7b1d42c0dca2c1fdadc0d5875512f6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e9219c6e90666f2780c2ff95990eddc86928e4ab",
+    "published": "2026-10-10T12:06:08.000Z"
+  },
+  {
+    "id": "051714272f1a0d31a710469116dde9a585207637",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: wattop (#3137)",
+    "summary": "Add resource: wattop (#3137) Category: Observability & Monitoring Author: Jasonm4130 From issue: #2972 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ca94c7f6939d0a4efadabafc2920a6ccc9e678ac",
+    "published": "2026-10-10T12:05:49.000Z"
+  },
+  {
+    "id": "9949ffebdcc4ed4383dc09b2b0e779735c77cfe1",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ac84ab861918c304e77598b2edb4db457d7dc80a",
+    "published": "2026-10-10T12:04:17.000Z"
+  },
+  {
+    "id": "fcae9b622366d9f5399d404ab4f477c036b6f515",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: OctoShell (#3136)",
+    "summary": "Add resource: OctoShell (#3136) Category: Agent Orchestration Author: savvasioakeim From issue: #2990 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a7fea63f2629515676e38ce406c3597ce14f203f",
+    "published": "2026-10-10T12:03:56.000Z"
+  },
+  {
+    "id": "14174be02dd067eae9881ecffe2af4800723d469",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8ea13f8520b57dc21547b17a75625a830c596f5e",
+    "published": "2026-10-10T11:48:32.000Z"
+  },
+  {
+    "id": "326242893fb7a13c39b478c78223ca6afce61c84",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: mirrord (#3135)",
+    "summary": "Add resource: mirrord (#3135) Category: Infrastructure & DevOps Author: MetalBear From issue: #3007 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/530d16c8b6ebebf8a534d6807787d1e55235829e",
+    "published": "2026-10-10T11:48:13.000Z"
+  },
+  {
+    "id": "368f80aabb67a0d5477e37f826f16652f919f986",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+    "summary": "Wow.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!JxMf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2108594586310631424.jpg",
+    "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+    "published": "2026-10-10T06:45:57.000Z"
+  },
+  {
+    "id": "5528ba1d9cba341e8ead84dad060913016d1d22f",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting The New York Times",
+    "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+    "published": "2026-10-10T02:04:12.000Z"
+  },
+  {
+    "id": "d2e5912a3db67930ae0585039d21d40cc89dab2f",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+    "summary": "From the Bitter Lesson of AI scaling to the unsolved mysteries of protein folding, Google DeepMind’s Pushmeet Kohli and Biohub’s Sal Candido are rethinking what it takes to build AI that truly...",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/biohub-deepmind",
+    "published": "2026-10-10T00:31:26.000Z"
+  },
+  {
+    "id": "8506d75553e5b95867c84def0a65dba2716dbae8",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Deno is joining Cloudflare",
+    "summary": "Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers. Today,...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+    "published": "2026-10-09T22:48:37.000Z"
   },
   {
     "id": "77e43434b5c813e6f4e6eca39911bf4b9f1fb521",
@@ -108,18 +240,6 @@
     "published": "2026-10-09T19:03:25.000Z"
   },
   {
-    "id": "fd0e0890743d1eddac39c0ff3235869078ce927b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/794b2dcaf3ee65aaded06a5150cbf8902b645031",
-    "published": "2026-10-09T18:12:46.000Z"
-  },
-  {
     "id": "73216fcb1b0c306eb9dcbce5b5b68c37f13ef52c",
     "source": "Riley Brown",
     "type": "video",
@@ -130,18 +250,6 @@
     "thumbnail": "https://i.ytimg.com/vi/WXhOxfPECnM/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=WXhOxfPECnM",
     "published": "2026-10-09T16:08:49.000Z"
-  },
-  {
-    "id": "5ae2fb1a0ad6b31f78fe0e57d79c8a0b8f170271",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/899109a86688eb7e3a7c0b9435975c422bedcd25",
-    "published": "2026-10-09T15:09:45.000Z"
   },
   {
     "id": "8c9077e7ebaff49374edc9389c123e95208cab50",
@@ -168,30 +276,6 @@
     "published": "2026-10-09T12:54:06.000Z"
   },
   {
-    "id": "04c559990405be8716f1675c64eb44df69832905",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ffc01ddff5497fa994dbdae940f6be07a026b309",
-    "published": "2026-10-09T12:15:05.000Z"
-  },
-  {
-    "id": "f5f0d65fe02ce3176923ed7d309786dbc2bac276",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/487590c0a11043455fa68732a46e4ad275d48bd3",
-    "published": "2026-10-09T09:14:27.000Z"
-  },
-  {
     "id": "3b699ad519f3b8d0d36b7492792dbb639c79cb6c",
     "source": "antfu/skills",
     "type": "repo",
@@ -216,30 +300,6 @@
     "published": "2026-10-09T06:27:10.000Z"
   },
   {
-    "id": "cb6cf5c60bdf03511d41462613c2759de647c531",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/35fadbcb0e8b7fe2c84ee6a01cf19c223c1deafb",
-    "published": "2026-10-09T06:18:26.000Z"
-  },
-  {
-    "id": "d24b5eb8560dd8ab6fe0476aebb834079282919d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7eddf4aaebeba52820f6a050650106b5177d0474",
-    "published": "2026-10-09T03:16:03.000Z"
-  },
-  {
     "id": "40466bc21512f32b5b2f0beadfd3c8e3208e6b9e",
     "source": "Simon Willison",
     "type": "blog",
@@ -250,18 +310,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Oct/9/ttok/",
     "published": "2026-10-09T00:34:43.000Z"
-  },
-  {
-    "id": "93a6e2d8140593795b09886edad3a50270e47b9c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6154cdd4bc43cdd3029819bab53b5b0397f93c0f",
-    "published": "2026-10-09T00:30:40.000Z"
   },
   {
     "id": "e0a9b95e176410632474ff1428b9461d752c5d12",
@@ -360,18 +408,6 @@
     "published": "2026-10-07T23:14:58.000Z"
   },
   {
-    "id": "6dcb3088ac59686b378e31099d1b4074b50b8bae",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Claude Haiku 5.5",
-    "summary": "As previously promised, here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5. The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago, and was...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-    "published": "2026-10-07T20:56:21.000Z"
-  },
-  {
     "id": "c2e92180363e5e1067a050d842d6d9a119fe6109",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -382,18 +418,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!AlJu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e3d3c6f-6a37-411e-aa1a-dfcefc979af3_1600x140.png",
     "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
     "published": "2026-10-07T17:19:58.000Z"
-  },
-  {
-    "id": "dd551f425089cbdd482b20052f014f8a3156fe8d",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Anti-Patterns in Software Blogging",
-    "summary": "Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
-    "published": "2026-10-07T14:53:51.000Z"
   },
   {
     "id": "f2c199a6dd88e539052f91082496fc84f24b9ac8",
@@ -468,18 +492,6 @@
     "published": "2026-10-03T16:03:29.000Z"
   },
   {
-    "id": "85c4629bdb1183bbcf9d84fbb1f604a2717ef0b9",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] not much happened today",
-    "summary": "a quiet day.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
-    "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
-    "published": "2026-10-03T08:45:15.000Z"
-  },
-  {
     "id": "62f66b34e760855701b9ba43541cae98c9215e96",
     "source": "ElevenLabs",
     "type": "video",
@@ -526,18 +538,6 @@
     "thumbnail": "https://i.ytimg.com/vi/kmo9Mk_gIUk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=kmo9Mk_gIUk",
     "published": "2026-10-02T17:53:34.000Z"
-  },
-  {
-    "id": "d81483cb0de808760f643b83021e406f33ae9456",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
-    "summary": "After leading Meta’s Llama models, Ahmad Al-Dahle is now transforming Airbnb with AI — from how its teams develop products to how it serves guests.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!-kaR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ac92b22-c007-487c-b80f-f031f36596db_2560x1440.png",
-    "url": "https://www.latent.space/p/airbnb",
-    "published": "2026-10-02T14:04:49.000Z"
   },
   {
     "id": "0d0d23fdcd9cb325c1996986e4e63cb47f950902",
