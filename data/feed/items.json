@@ -1,6 +1,42 @@
 [
   {
-    "id": "97909dd228f5be4b751f80e13f97544d58920f0d",
+    "id": "8b083484e48fc2b19a7119f6a6f29ea095039715",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/96e665262a8b886f9bc9854f23b51aa92e01086a",
+    "published": "2026-10-10T21:09:09.000Z"
+  },
+  {
+    "id": "5b421e61d1a394c9a2c0dec344f4c9b7a20e7a3a",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Claude's New Updates Are Insane… But Grok Bot Is EVEN Bigger",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/UFa8pXW9A3k/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=UFa8pXW9A3k",
+    "published": "2026-10-10T20:03:25.000Z"
+  },
+  {
+    "id": "29deb28fe4c9ad4fba6ffbb4ce74557b9bdcdf0f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/68a3e0c3e4b2e85688bf9279d32ec957942031a7",
+    "published": "2026-10-10T18:12:15.000Z"
+  },
+  {
+    "id": "f440d70c5826794f9f077302c98e8b51403b8642",
     "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
@@ -8,47 +44,23 @@
     "title": "chore: regenerate README + carousel from CSV [skip ci]",
     "summary": "chore: regenerate README + carousel from CSV [skip ci]",
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c03348f7e30e08de70891c45c9fec47a17c851c4",
-    "published": "2026-10-10T12:12:03.000Z"
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f8d0bd1ac22b0771e77100b8eddc6237d8e4614f",
+    "published": "2026-10-10T16:12:47.000Z"
   },
   {
-    "id": "3d3cc10606d893d7cbf917e5257e5fe6772bb442",
+    "id": "b660b273fc82dc12519043684bc64c188ca813cf",
     "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Add resource: Charrette (#3138)",
-    "summary": "Add resource: Charrette (#3138) Category: Agent Orchestration Author: Stefan Teofanovic From issue: #3059 Co-authored-by: github-actions[bot]",
+    "title": "Add resource: cc-semaphore (#3144)",
+    "summary": "Add resource: cc-semaphore (#3144) Category: Observability & Monitoring Author: patakuti From issue: #2826 Signed-off-by: Really Him Co-authored-by: github-actions[bot] Co-authored-by: Really Him",
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/000c0a94b91b10f164a74f297d52f417f4b88e71",
-    "published": "2026-10-10T12:11:43.000Z"
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a2c7f6cf524ff41ec3a8c206a17d30afcd1aa736",
+    "published": "2026-10-10T16:12:30.000Z"
   },
   {
-    "id": "aa682d723f7b1d42c0dca2c1fdadc0d5875512f6",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e9219c6e90666f2780c2ff95990eddc86928e4ab",
-    "published": "2026-10-10T12:06:08.000Z"
-  },
-  {
-    "id": "051714272f1a0d31a710469116dde9a585207637",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: wattop (#3137)",
-    "summary": "Add resource: wattop (#3137) Category: Observability & Monitoring Author: Jasonm4130 From issue: #2972 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ca94c7f6939d0a4efadabafc2920a6ccc9e678ac",
-    "published": "2026-10-10T12:05:49.000Z"
-  },
-  {
-    "id": "9949ffebdcc4ed4383dc09b2b0e779735c77cfe1",
+    "id": "132cd16e632f374abc1e1438849eae947ed678f4",
     "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
@@ -56,23 +68,35 @@
     "title": "chore: regenerate README + carousel from CSV [skip ci]",
     "summary": "chore: regenerate README + carousel from CSV [skip ci]",
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ac84ab861918c304e77598b2edb4db457d7dc80a",
-    "published": "2026-10-10T12:04:17.000Z"
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7dedacc0b6c7cb6c3aef31e1666ef9ae6b8e5ae9",
+    "published": "2026-10-10T15:25:56.000Z"
   },
   {
-    "id": "fcae9b622366d9f5399d404ab4f477c036b6f515",
+    "id": "e333823302bec1462beeeec232c31a8649950267",
     "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Add resource: OctoShell (#3136)",
-    "summary": "Add resource: OctoShell (#3136) Category: Agent Orchestration Author: savvasioakeim From issue: #2990 Co-authored-by: github-actions[bot]",
+    "title": "Add resource: Claude Code Local (#3145)",
+    "summary": "Add resource: Claude Code Local (#3145) Category: Providers, Runtime & Integration Infrastructure Author: Matt Macosko From issue: #2881 Co-authored-by: github-actions[bot] Co-authored-by: Really Him",
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a7fea63f2629515676e38ce406c3597ce14f203f",
-    "published": "2026-10-10T12:03:56.000Z"
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4aaeefec992ede49c4ee4444a8eafe62e170916e",
+    "published": "2026-10-10T15:25:37.000Z"
   },
   {
-    "id": "14174be02dd067eae9881ecffe2af4800723d469",
+    "id": "40ae628003de43db5469aaee93611d55fff8f6d4",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/099b1f6e6f2b4528fe3dea24e5cd6f9c1fb8666d",
+    "published": "2026-10-10T15:09:37.000Z"
+  },
+  {
+    "id": "c01a19e142f400ca31f6abd14711df69e0dfd43a",
     "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
@@ -80,20 +104,20 @@
     "title": "chore: regenerate README + carousel from CSV [skip ci]",
     "summary": "chore: regenerate README + carousel from CSV [skip ci]",
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8ea13f8520b57dc21547b17a75625a830c596f5e",
-    "published": "2026-10-10T11:48:32.000Z"
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c2739f66a521bfe90328ffab1276050dc8f3e10a",
+    "published": "2026-10-10T14:52:28.000Z"
   },
   {
-    "id": "326242893fb7a13c39b478c78223ca6afce61c84",
-    "source": "awesome-claude-code",
-    "type": "repo",
+    "id": "37d5b84c7a91448cf6af588f0f74c96474772da6",
+    "source": "Latent Space",
+    "type": "podcast",
     "category": "ai",
     "lang": "en",
-    "title": "Add resource: mirrord (#3135)",
-    "summary": "Add resource: mirrord (#3135) Category: Infrastructure & DevOps Author: MetalBear From issue: #3007 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/530d16c8b6ebebf8a534d6807787d1e55235829e",
-    "published": "2026-10-10T11:48:13.000Z"
+    "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+    "summary": "Inside Standard Bots’ AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!yzyh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe58f7268-94a0-42f5-b0fc-9ecf300bb03d_2560x1440.png",
+    "url": "https://www.latent.space/p/standard-bots",
+    "published": "2026-10-10T14:04:11.000Z"
   },
   {
     "id": "368f80aabb67a0d5477e37f826f16652f919f986",
@@ -456,18 +480,6 @@
     "published": "2026-10-06T16:25:03.000Z"
   },
   {
-    "id": "75046b1c8fede7eefa71400e2bb947d38b8c8dfa",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-    "summary": "A small win for US open source",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!eDub!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92c7acf0-990a-45f0-b3ee-b1d7702184bd_874x894.png",
-    "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-    "published": "2026-10-06T06:28:43.000Z"
-  },
-  {
     "id": "856c086d8921fbacf01cad7d0f34446be223773c",
     "source": "Riley Brown",
     "type": "video",
@@ -730,18 +742,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/291667613?s=30&amp;v=4",
     "url": "https://github.com/antfu/skills/commit/d02c48452d782231e4c32d7069cde731a4c7db42",
     "published": "2026-09-28T01:50:54.000Z"
-  },
-  {
-    "id": "8be6db4079c4f5f958da5e7eb05b03ea885f9121",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "Opus 5.5 Is JUST the Beginning. Everything Is About to Change.",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/959RFRspIIc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=959RFRspIIc",
-    "published": "2026-09-27T23:15:08.000Z"
   },
   {
     "id": "1f2dbfeedfe34b0f898e9ead30e3585534c55b2f",
