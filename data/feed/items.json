@@ -1,5 +1,101 @@
 [
   {
+    "id": "db73a25e8546067bf3765cf82ddcd2728842ee44",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7d1e0afe3f945050dd7d3ef92b8e6d61afdeeb3d",
+    "published": "2026-10-11T12:15:18.000Z"
+  },
+  {
+    "id": "a5fb20577a4644b8d235c2f0fb809fc6deb095c9",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/edf44422da91e897a4d8c7ce983f9dc70e5a9191",
+    "published": "2026-10-11T09:10:19.000Z"
+  },
+  {
+    "id": "96d33e8e9a167f72db7aba62244149092367ae38",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/cc79677944191b94f2fd08160d449a425ef9cb87",
+    "published": "2026-10-11T06:17:13.000Z"
+  },
+  {
+    "id": "5a8f6ed5a2b6d79d4972224541fc61eb1c98feef",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c1065e715e8a8cb01b705cbef668919d2bc569d3",
+    "published": "2026-10-11T03:17:17.000Z"
+  },
+  {
+    "id": "a786585932c30cce10271ca55deac2d51b3662a2",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Dwarf Fortress uses version control now",
+    "summary": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+    "published": "2026-10-11T00:52:37.000Z"
+  },
+  {
+    "id": "cd1dc9fc32ba334a5ae94eb867a65dffdfbc6c1b",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6d5288371e91acbc47d5ad5f230ad1a4b2a752bb",
+    "published": "2026-10-11T00:32:38.000Z"
+  },
+  {
+    "id": "ffe9771dd0f2e8694938bcec96836bb9a0a2f1fa",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Python 3.15.0 added to actions/python-versions",
+    "summary": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+    "published": "2026-10-10T23:58:04.000Z"
+  },
+  {
+    "id": "fee9bab748db3442e6c4c9f4e0115779e34984d4",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+    "summary": "Tomorrow and Tuesday. If you see this you’re in!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!_nLY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e5a4f6f-c772-404a-b4cd-1d7a17df970e_800x800.jpeg",
+    "url": "https://www.latent.space/p/nyc2026",
+    "published": "2026-10-10T22:07:17.000Z"
+  },
+  {
     "id": "8b083484e48fc2b19a7119f6a6f29ea095039715",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -46,66 +142,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f8d0bd1ac22b0771e77100b8eddc6237d8e4614f",
     "published": "2026-10-10T16:12:47.000Z"
-  },
-  {
-    "id": "b660b273fc82dc12519043684bc64c188ca813cf",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: cc-semaphore (#3144)",
-    "summary": "Add resource: cc-semaphore (#3144) Category: Observability & Monitoring Author: patakuti From issue: #2826 Signed-off-by: Really Him Co-authored-by: github-actions[bot] Co-authored-by: Really Him",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/a2c7f6cf524ff41ec3a8c206a17d30afcd1aa736",
-    "published": "2026-10-10T16:12:30.000Z"
-  },
-  {
-    "id": "132cd16e632f374abc1e1438849eae947ed678f4",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7dedacc0b6c7cb6c3aef31e1666ef9ae6b8e5ae9",
-    "published": "2026-10-10T15:25:56.000Z"
-  },
-  {
-    "id": "e333823302bec1462beeeec232c31a8649950267",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: Claude Code Local (#3145)",
-    "summary": "Add resource: Claude Code Local (#3145) Category: Providers, Runtime & Integration Infrastructure Author: Matt Macosko From issue: #2881 Co-authored-by: github-actions[bot] Co-authored-by: Really Him",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4aaeefec992ede49c4ee4444a8eafe62e170916e",
-    "published": "2026-10-10T15:25:37.000Z"
-  },
-  {
-    "id": "40ae628003de43db5469aaee93611d55fff8f6d4",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/099b1f6e6f2b4528fe3dea24e5cd6f9c1fb8666d",
-    "published": "2026-10-10T15:09:37.000Z"
-  },
-  {
-    "id": "c01a19e142f400ca31f6abd14711df69e0dfd43a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c2739f66a521bfe90328ffab1276050dc8f3e10a",
-    "published": "2026-10-10T14:52:28.000Z"
   },
   {
     "id": "37d5b84c7a91448cf6af588f0f74c96474772da6",
@@ -360,18 +396,6 @@
     "published": "2026-10-08T23:29:43.000Z"
   },
   {
-    "id": "f55b626ec460a20bccc86f5039fc66353d2e07b1",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Carson Gross",
-    "summary": "Computer programming is, fundamentally, about two things: Problem-solving using computers Learning to control complexity while solving these problems I have a hard time imagining a future where...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
-    "published": "2026-10-08T21:05:44.000Z"
-  },
-  {
     "id": "b5590cdb9727901591be6398ab90221950bedb95",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -420,18 +444,6 @@
     "published": "2026-10-08T07:27:51.000Z"
   },
   {
-    "id": "0f47a943c04a6d3c9578b7257bcf12c409916c09",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Ben Affleck",
-    "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-    "published": "2026-10-07T23:14:58.000Z"
-  },
-  {
     "id": "c2e92180363e5e1067a050d842d6d9a119fe6109",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -454,18 +466,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!r55R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1c3cd3d-2682-47cb-9be6-74302c1ca8ea_2560x1440.png",
     "url": "https://www.latent.space/p/stacklok",
     "published": "2026-10-07T14:10:45.000Z"
-  },
-  {
-    "id": "ad87805b0366b7171fc55a254bb4be5307c07e5b",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
-    "summary": "Our head hurts.",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!3_fH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf69e441-6f07-47c9-ba4d-3cd64a85fb49_1224x1255.png",
-    "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
-    "published": "2026-10-07T04:55:44.000Z"
   },
   {
     "id": "659ba4f1519617658958f83deaa0f0acf6703492",
