@@ -1,5 +1,53 @@
 [
   {
+    "id": "dee148b9797efc910bb95e278f6910f728af4326",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3aaade9f21f15520154bc35b7c7fe0f0b15d4fbb",
+    "published": "2026-10-11T21:09:04.000Z"
+  },
+  {
+    "id": "ff73375717978682200690ee1e5ad2b85b771137",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ab189a2523a138c82a798aa4aecd4bdd84b55b90",
+    "published": "2026-10-11T18:12:42.000Z"
+  },
+  {
+    "id": "625de5129e3ec3307a05885075232957a2762fda",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Graduate From Claude... To Claude Code",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/FAQj3rFdnbs/mqdefault.jpg",
+    "url": "https://www.youtube.com/shorts/FAQj3rFdnbs",
+    "published": "2026-10-11T17:43:47.000Z"
+  },
+  {
+    "id": "11faed8aa3d97e91a808d663a9e8c8ac5e7e4d48",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7af93c819131bee00c2c9c80c968d34db55e7a56",
+    "published": "2026-10-11T15:08:56.000Z"
+  },
+  {
     "id": "db73a25e8546067bf3765cf82ddcd2728842ee44",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -96,18 +144,6 @@
     "published": "2026-10-10T22:07:17.000Z"
   },
   {
-    "id": "8b083484e48fc2b19a7119f6a6f29ea095039715",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/96e665262a8b886f9bc9854f23b51aa92e01086a",
-    "published": "2026-10-10T21:09:09.000Z"
-  },
-  {
     "id": "5b421e61d1a394c9a2c0dec344f4c9b7a20e7a3a",
     "source": "Riley Brown",
     "type": "video",
@@ -118,30 +154,6 @@
     "thumbnail": "https://i.ytimg.com/vi/UFa8pXW9A3k/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=UFa8pXW9A3k",
     "published": "2026-10-10T20:03:25.000Z"
-  },
-  {
-    "id": "29deb28fe4c9ad4fba6ffbb4ce74557b9bdcdf0f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/68a3e0c3e4b2e85688bf9279d32ec957942031a7",
-    "published": "2026-10-10T18:12:15.000Z"
-  },
-  {
-    "id": "f440d70c5826794f9f077302c98e8b51403b8642",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f8d0bd1ac22b0771e77100b8eddc6237d8e4614f",
-    "published": "2026-10-10T16:12:47.000Z"
   },
   {
     "id": "37d5b84c7a91448cf6af588f0f74c96474772da6",
@@ -694,18 +706,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!panJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e81fa2d-ad02-4b51-aca4-62b9a99fcd8b_1394x1284.png",
     "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
     "published": "2026-09-29T15:53:19.000Z"
-  },
-  {
-    "id": "29591ef0088a3fb65c775ad62bdf96dd433bac03",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "How to Set Up Your Windows PC for AI (Full Guide)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/A8ptWsvM3cw/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=A8ptWsvM3cw",
-    "published": "2026-09-29T15:02:53.000Z"
   },
   {
     "id": "00473164bd42a0b8cdbffb3f84cb4c6d86f27e53",
