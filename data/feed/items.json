@@ -1,5 +1,89 @@
 [
   {
+    "id": "56c3a3c0e70467adf51985a27bc004cfea8af0cc",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/21529a15352f3e50755148332e3b47dcb9268203",
+    "published": "2026-10-14T21:09:08.000Z"
+  },
+  {
+    "id": "ecfb2d56ace4033f87c546784e155ddd1731f515",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
+    "summary": "How Leash Bio tamed DELs, the assay that traumatizes everyone, and used the data to catch cheating models. And why that same data is perfect for AI agents learning to think like chemists.",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
+    "published": "2026-10-14T20:35:09.000Z"
+  },
+  {
+    "id": "5866f7ddc60c26fb5402997fa2a9e86b85fd9f51",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d2a7b64bd0a7c576c5948be0fc92b12903d634ec",
+    "published": "2026-10-14T18:12:26.000Z"
+  },
+  {
+    "id": "bc6f7d6d13e5ee6fe31c5b5082ee72488c5b161d",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "Uber’s AI infra, from the inside",
+    "summary": "Uber Distinguished Engineer Uday Kiran Medisetty shares how Uber builds internal developer tools, integrates AI agents into engineering workflows, and measures their impact on productivity.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Qhi0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1228ff6a-514b-4643-9360-02cda14dc5ac_800x70.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
+    "published": "2026-10-14T17:06:56.000Z"
+  },
+  {
+    "id": "8560636ebc000f33b2c90ac3aa1d5bf2cfb2080f",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "AI is mass decompiling games. That's both awesome and scary.",
+    "summary": "AI is mass decompiling games. That's both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+    "published": "2026-10-14T16:26:53.000Z"
+  },
+  {
+    "id": "da5cc8461036c2aa0414be0001d2fa77f7a8c1c7",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/964d4d64536b7e45e0ad1bcc7faf36aee7a714f0",
+    "published": "2026-10-14T15:10:32.000Z"
+  },
+  {
+    "id": "ca5a43c364f307e126e64bfb4fa0b8e2fcdcaddf",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f51b5f338c8ea34adff134002a8d8eb59658e891",
+    "published": "2026-10-14T12:15:03.000Z"
+  },
+  {
     "id": "45c83bf951fc1c3cf322e1d02de8c23cb40306fe",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -96,30 +180,6 @@
     "published": "2026-10-13T22:25:55.000Z"
   },
   {
-    "id": "8f67e1e75c7b27dbaaf566b18f02cd8b4a92f8af",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b6063e9ecd1506c7420dec4c0e0948e2d89decf8",
-    "published": "2026-10-13T21:08:01.000Z"
-  },
-  {
-    "id": "7950c6ed6d59b9d18774273ab20b43711ac1af6e",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fd316b649933f6bd457ac934467247269d72546b",
-    "published": "2026-10-13T18:14:43.000Z"
-  },
-  {
     "id": "837e840d6faec8c28a0e46dbcd25a79e66e85d1a",
     "source": "Pragmatic Engineer",
     "type": "blog",
@@ -132,18 +192,6 @@
     "published": "2026-10-13T16:03:33.000Z"
   },
   {
-    "id": "8df29126ed8be5d4745a90550e062ff2cee0f841",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/82ed6f2eab51587602fcedd10874dca2da08921e",
-    "published": "2026-10-13T15:11:14.000Z"
-  },
-  {
     "id": "87e22abf54d8b62861d4d05c87f88be35472b659",
     "source": "Simon Willison",
     "type": "blog",
@@ -154,18 +202,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
     "published": "2026-10-13T13:32:00.000Z"
-  },
-  {
-    "id": "945a9d791f20c21867f1f8a8283c6f0562d4b275",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/8678b306dd965b4abe7abeb6e9b977b2b8b8d3ba",
-    "published": "2026-10-13T12:16:59.000Z"
   },
   {
     "id": "ec132ecc411f087e67783cb847c6e8360c05e005",
@@ -240,18 +276,6 @@
     "published": "2026-10-12T16:58:00.000Z"
   },
   {
-    "id": "93062c67d6f00e7665b3d44b0e5971f90928e29c",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "web-edit 0.1a0",
-    "summary": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
-    "published": "2026-10-12T15:54:36.000Z"
-  },
-  {
     "id": "625de5129e3ec3307a05885075232957a2762fda",
     "source": "Riley Brown",
     "type": "video",
@@ -310,18 +334,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!JxMf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2108594586310631424.jpg",
     "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
     "published": "2026-10-10T06:45:57.000Z"
-  },
-  {
-    "id": "d2e5912a3db67930ae0585039d21d40cc89dab2f",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
-    "summary": "From the Bitter Lesson of AI scaling to the unsolved mysteries of protein folding, Google DeepMind’s Pushmeet Kohli and Biohub’s Sal Candido are rethinking what it takes to build AI that truly...",
-    "thumbnail": null,
-    "url": "https://www.latent.space/p/biohub-deepmind",
-    "published": "2026-10-10T00:31:26.000Z"
   },
   {
     "id": "77e43434b5c813e6f4e6eca39911bf4b9f1fb521",
@@ -790,18 +802,6 @@
     "thumbnail": null,
     "url": "https://www.aireport.nl/podcast/s/aireport/openai-agent_breekt_in_bij_australische_overheid_zuckerberg_wil_je_leven_regelen_met_een_ai-tamagotchi",
     "published": "2026-09-24T20:35:58.000Z"
-  },
-  {
-    "id": "53a9cbbf31427d0ef17cf1333a283f7e50e487ea",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "The Pulse: RoR creator sparks new “death of coding by hand” debate",
-    "summary": "37signals – the creator of Ruby on Rails (RoR) – moves over to agents generating nearly all its code. Also: Amazon and Meta struggle to hire engineers, code reviews will probably also go away and more",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!7sIY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b1f3030-db5b-4563-9948-4652537fe20d_1456x831.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand",
-    "published": "2026-09-24T16:44:27.000Z"
   },
   {
     "id": "cb4e42d4d067c65958e1aecb2596e1a4ae791ce0",
