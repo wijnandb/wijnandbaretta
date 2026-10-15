@@ -1,5 +1,149 @@
 [
   {
+    "id": "d4218f2abf3a58fd17df489f1a5096f3588d9c30",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/62b322a2f7cd92e59a39d174427e03d289a694e1",
+    "published": "2026-10-15T20:11:35.000Z"
+  },
+  {
+    "id": "2d54353d6264159988e302be446456bd2faa8919",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: funes (#3179)",
+    "summary": "Add resource: funes (#3179) Category: Memory & Context Persistence Author: David Corvoysier From issue: #2767 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/936b0f4744e9a42bfa4086229bb5bb7f07c71316",
+    "published": "2026-10-15T20:11:10.000Z"
+  },
+  {
+    "id": "08c79764230e6e3c00b2a92d38de4cd37476bb83",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Chirp Pong",
+    "summary": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+    "published": "2026-10-15T19:47:52.000Z"
+  },
+  {
+    "id": "a33cd1b8aebca16259cef58497a0d0bcd40fa5f3",
+    "source": "ElevenLabs",
+    "type": "video",
+    "category": "voice",
+    "lang": "en",
+    "title": "Introducing Video to Music API",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/dAfDxcJxkBc/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=dAfDxcJxkBc",
+    "published": "2026-10-15T19:02:41.000Z"
+  },
+  {
+    "id": "1b90342decf24a97f0a94be17e32bca8459e2cee",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "You’re Using The Wrong Claude.",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/fDE5R4fSq2w/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=fDE5R4fSq2w",
+    "published": "2026-10-15T18:24:45.000Z"
+  },
+  {
+    "id": "417381d21454da9f1ac0ef7a687b8135da89ad57",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2d657f198d41ee658ac69da61de61109635e732e",
+    "published": "2026-10-15T18:12:19.000Z"
+  },
+  {
+    "id": "0e4f8374803f0b7c68099515797f014d4488fcba",
+    "source": "Pragmatic Engineer",
+    "type": "blog",
+    "category": "systems",
+    "lang": "en",
+    "title": "The Pulse: OpenAI software engineer accused of spying",
+    "summary": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!I8Qf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F722b7b9e-4a5d-412c-9aa3-22019bcf0c2d_2048x1444.png",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+    "published": "2026-10-15T16:55:18.000Z"
+  },
+  {
+    "id": "f449c4b179692640d76850fb31848f05c15434dc",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f882ae41036cdce0ee3278002aec4ea2929a3b34",
+    "published": "2026-10-15T15:10:03.000Z"
+  },
+  {
+    "id": "3470083eb3b6c65214c266c241732b5e4d95cdf3",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/eb40c09e982ee343d094871fc01d5e66c026dbc4",
+    "published": "2026-10-15T13:20:14.000Z"
+  },
+  {
+    "id": "c0a2b6b33846820b0b5f5c8fca78fd3a392397ab",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: LinkedIn Skills (#3177)",
+    "summary": "Add resource: LinkedIn Skills (#3177) Category: Skills Author: Serge Bulaev From issue: #2824 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aed2f6ba59e37360882bd30fdc5f5b4dfcad5cbe",
+    "published": "2026-10-15T13:19:52.000Z"
+  },
+  {
+    "id": "6702d1aaf0afce3a0dfd6fd72022bf7a56660fcd",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+    "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+    "published": "2026-10-15T13:04:03.000Z"
+  },
+  {
+    "id": "ab213e3aee11c7c8255ec26184e01bdb121f85ec",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e5df6776a08fc63f9d117defd240dccfb9b178cf",
+    "published": "2026-10-15T12:15:00.000Z"
+  },
+  {
     "id": "0c6f09c40e01f05364db1cc731c15d0705562324",
     "source": "Latent Space",
     "type": "podcast",
@@ -22,30 +166,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
     "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/30ec3281cb869a37dd6180e5c4b463cf24b585e3",
     "published": "2026-10-15T09:10:49.000Z"
-  },
-  {
-    "id": "3f2ecf70e908c70097b169d92a118c53638b89d1",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/fb865f5f549f99da8b7d9684f2e89f486363c044",
-    "published": "2026-10-15T07:32:15.000Z"
-  },
-  {
-    "id": "1bcb66d99d6da0c3aaa2953e4b81391bd125692b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: mcu-skills (#3176)",
-    "summary": "Add resource: mcu-skills (#3176) Category: Skills Author: Alex New From issue: #2855 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c0a71b349102eb07ad71d8b8fdbbe5343c1c1abb",
-    "published": "2026-10-15T07:31:54.000Z"
   },
   {
     "id": "7d1dc0be0b5b056808fdab5f5d829c661137c471",
@@ -82,18 +202,6 @@
     "thumbnail": "https://avatars.githubusercontent.com/u/108313943?s=30&amp;v=4",
     "url": "https://github.com/punkpeye/awesome-mcp-servers/commit/f60709658f746835ac184e3d84fd7611f7d0b928",
     "published": "2026-10-15T06:27:29.000Z"
-  },
-  {
-    "id": "b74b41b795a26d083dcacbd84262a4d555556d5a",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/123c23eb2833b8cc0be277d4cf938681aec581e4",
-    "published": "2026-10-15T06:17:20.000Z"
   },
   {
     "id": "27a3ecb965435389ae134dead46fa79f9e7338cc",
@@ -156,28 +264,16 @@
     "published": "2026-10-15T05:52:43.000Z"
   },
   {
-    "id": "885d0277eeb7f6d539fe328fba8c4ea34e2a4287",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
+    "id": "88824e0cb1ca83230c852f58032be58e04f251bd",
+    "source": "Astro",
+    "type": "blog",
+    "category": "astro",
     "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/4bebc12d1032e5425715a42c852efeacbcc381a0",
-    "published": "2026-10-15T03:11:35.000Z"
-  },
-  {
-    "id": "9ceceda5b22d014b79274ef7865e9c3417820e4f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d0dfd7e741a4f5c393f686c089054b59d0f94d58",
-    "published": "2026-10-15T00:24:25.000Z"
+    "title": "Astro 7.4",
+    "summary": "Astro 7.4 adds a --timings flag that shows where your build spends its time, separate build and runtime image services, a notFound() handler for custom entrypoints, and experimental parallel...",
+    "thumbnail": null,
+    "url": "https://astro.build/blog/astro-740/",
+    "published": "2026-10-15T00:00:00.000Z"
   },
   {
     "id": "5f0e4286e522ac24507ff642516011d13be3d95b",
@@ -204,18 +300,6 @@
     "published": "2026-10-14T21:23:01.000Z"
   },
   {
-    "id": "56c3a3c0e70467adf51985a27bc004cfea8af0cc",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/21529a15352f3e50755148332e3b47dcb9268203",
-    "published": "2026-10-14T21:09:08.000Z"
-  },
-  {
     "id": "ecfb2d56ace4033f87c546784e155ddd1731f515",
     "source": "Latent Space",
     "type": "podcast",
@@ -226,18 +310,6 @@
     "thumbnail": null,
     "url": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
     "published": "2026-10-14T20:35:09.000Z"
-  },
-  {
-    "id": "5866f7ddc60c26fb5402997fa2a9e86b85fd9f51",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d2a7b64bd0a7c576c5948be0fc92b12903d634ec",
-    "published": "2026-10-14T18:12:26.000Z"
   },
   {
     "id": "bc6f7d6d13e5ee6fe31c5b5082ee72488c5b161d",
@@ -360,18 +432,6 @@
     "published": "2026-10-13T01:40:05.000Z"
   },
   {
-    "id": "ef47cf6a028c4b745eef499a858f316104eda198",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "llm-meta-ai 0.2",
-    "summary": "Release: llm-meta-ai 0.2 Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look like they may be Meta's first Fable class models - Artificial Analysis scores...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
-    "published": "2026-10-12T23:58:46.000Z"
-  },
-  {
     "id": "728a22683c3ed7dcc48a41c2ebc23a978083d7ad",
     "source": "Latent Space",
     "type": "podcast",
@@ -382,18 +442,6 @@
     "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/dda42c05-6ce1-4e54-b544-f7d1557f04b2_1280x720.jpeg",
     "url": "https://www.latent.space/p/claude-dynamic-workflows",
     "published": "2026-10-12T18:18:17.000Z"
-  },
-  {
-    "id": "92f57cbc8464c25650cda8c39927eeb412a50b82",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-    "summary": "Python 3.15 is here! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-    "published": "2026-10-12T18:15:38.000Z"
   },
   {
     "id": "625de5129e3ec3307a05885075232957a2762fda",
@@ -588,18 +636,6 @@
     "published": "2026-10-02T17:53:34.000Z"
   },
   {
-    "id": "0d0d23fdcd9cb325c1996986e4e63cb47f950902",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "The iPhone Duo Needs Apps (AI Can Build Them)",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/t0ZwER9Y99c/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=t0ZwER9Y99c",
-    "published": "2026-10-02T01:43:15.000Z"
-  },
-  {
     "id": "96153fb4d095701762dd22d7a02244e4b363ebc2",
     "source": "Jonny Burger",
     "type": "video",
@@ -718,18 +754,6 @@
     "thumbnail": null,
     "url": "https://astro.build/blog/whats-new-september-2026/",
     "published": "2026-09-30T00:00:00.000Z"
-  },
-  {
-    "id": "04392c500debfe1859ca0ea015f9ed84adf1a290",
-    "source": "Pragmatic Engineer",
-    "type": "blog",
-    "category": "systems",
-    "lang": "en",
-    "title": "Why has Shopify dropped React Native?",
-    "summary": "It’s only been a year since the e-commerce platform declared it was very happy with React Native, but now Shopify is dumping it – and the reason, unsurprisingly, is AI",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!panJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e81fa2d-ad02-4b51-aca4-62b9a99fcd8b_1394x1284.png",
-    "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
-    "published": "2026-09-29T15:53:19.000Z"
   },
   {
     "id": "00473164bd42a0b8cdbffb3f84cb4c6d86f27e53",
@@ -1116,18 +1140,6 @@
     "published": "2026-08-25T00:00:00.000Z"
   },
   {
-    "id": "399f82584fa8c1088a2c5b6a3dbc186a5e0b2c37",
-    "source": "ElevenLabs",
-    "type": "video",
-    "category": "voice",
-    "lang": "en",
-    "title": "Introducing ElevenLabs CLI v1",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/MuORAEVtJIQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=MuORAEVtJIQ",
-    "published": "2026-08-24T15:48:12.000Z"
-  },
-  {
     "id": "2019b247822b54fc37e22842a1ceb21bc9a2e8ab",
     "source": "AI Report",
     "type": "podcast",
@@ -1186,17 +1198,5 @@
     "thumbnail": "https://i.ytimg.com/vi/iF5IWjOWcA4/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=iF5IWjOWcA4",
     "published": "2026-08-10T14:30:52.000Z"
-  },
-  {
-    "id": "14f1fc809dd9ad4391604729dc570450e347ee83",
-    "source": "Coding in Public",
-    "type": "video",
-    "category": "design",
-    "lang": "en",
-    "title": "Firebase Crash Course (Auth & Firestore) #13 - Firestore Rules",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/kenfgIaK_sQ/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=kenfgIaK_sQ",
-    "published": "2026-08-10T07:44:14.000Z"
   }
 ]
