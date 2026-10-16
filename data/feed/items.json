@@ -1,5 +1,53 @@
 [
   {
+    "id": "7ea0c6ee0370abee21598ce18b17742f14db7157",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2b9ec0b1cd964596d1e47c375feb184abc0edef9",
+    "published": "2026-10-16T18:11:52.000Z"
+  },
+  {
+    "id": "3f8c6db05fb3adc195307a2c92f2bbb67bd588a9",
+    "source": "Riley Brown",
+    "type": "video",
+    "category": "ai",
+    "lang": "en",
+    "title": "Gemini 4 and Muse Wonder Dropped… But Fable 5.5 Is TERRIFYING",
+    "summary": "",
+    "thumbnail": "https://i.ytimg.com/vi/1d7P3ewd9AA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=1d7P3ewd9AA",
+    "published": "2026-10-16T17:30:21.000Z"
+  },
+  {
+    "id": "24e19b190f67100c252003fa2d57315fa0edb4a7",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/caa0aa821db545596477278836c7587836971779",
+    "published": "2026-10-16T15:09:13.000Z"
+  },
+  {
+    "id": "3d99a83c6c177a9e3ee01027bbbc32df3295afa7",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7b7c9ecc22475e5253ca97fa260c8069cc051e5d",
+    "published": "2026-10-16T12:14:41.000Z"
+  },
+  {
     "id": "ca0fa69a9cd1b13ae54f0c9bedf4fd1e840b6592",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -72,42 +120,6 @@
     "published": "2026-10-15T23:05:38.000Z"
   },
   {
-    "id": "bf578fa2021d6bb272c95be41d8f3f1d612f0197",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: Mycelium (#3180)",
-    "summary": "Add resource: Mycelium (#3180) Category: Agent Orchestration Author: Håvard Bartnes From issue: #2766 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c57b440b25a5c2a5a96bd06d6f42da89fc1486bb",
-    "published": "2026-10-15T23:05:16.000Z"
-  },
-  {
-    "id": "4c631959a0250aa0ac0f051104c63f03ab13690c",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/eafe3e27ddff567b6376f2d571faeb8d2bd0cbf4",
-    "published": "2026-10-15T22:56:58.000Z"
-  },
-  {
-    "id": "786b97f7dee99adff38741c753efa035a36e71da",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: pstack-claude (#3178)",
-    "summary": "Add resource: pstack-claude (#3178) Category: Agent Orchestration Author: Michael Denyer From issue: #2786 Signed-off-by: Really Him Co-authored-by: github-actions[bot] Co-authored-by: Really Him",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/62b9b435e82d30bfa56c82eab0a1f663d0bdb025",
-    "published": "2026-10-15T22:56:38.000Z"
-  },
-  {
     "id": "08c79764230e6e3c00b2a92d38de4cd37476bb83",
     "source": "Simon Willison",
     "type": "blog",
@@ -137,7 +149,7 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "Claude Code Makes Regular Claude Feel Dumb",
+    "title": "Why You Should Use Claude Code (For Everything)",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/fDE5R4fSq2w/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=fDE5R4fSq2w",
@@ -449,7 +461,7 @@
     "type": "podcast",
     "category": "ai",
     "lang": "en",
-    "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+    "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents (Updated with video!)",
     "summary": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
     "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/dda42c05-6ce1-4e54-b544-f7d1557f04b2_1280x720.jpeg",
     "url": "https://www.latent.space/p/claude-dynamic-workflows",
@@ -622,18 +634,6 @@
     "thumbnail": "https://i.ytimg.com/vi/0LsQcnZpyQs/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=0LsQcnZpyQs",
     "published": "2026-10-02T20:18:06.000Z"
-  },
-  {
-    "id": "fee5d477f9d9d1ad028a22844055569ecd11234e",
-    "source": "Riley Brown",
-    "type": "video",
-    "category": "ai",
-    "lang": "en",
-    "title": "ChatGPT Dots Is Insane... But Gemini’s NEW Argon Is EVEN Bigger",
-    "summary": "",
-    "thumbnail": "https://i.ytimg.com/vi/kmo9Mk_gIUk/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=kmo9Mk_gIUk",
-    "published": "2026-10-02T17:53:34.000Z"
   },
   {
     "id": "96153fb4d095701762dd22d7a02244e4b363ebc2",
