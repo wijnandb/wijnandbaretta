@@ -1,6 +1,66 @@
 [
   {
-    "id": "d4218f2abf3a58fd17df489f1a5096f3588d9c30",
+    "id": "ca0fa69a9cd1b13ae54f0c9bedf4fd1e840b6592",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/33dabfae31944359b6c668051a1f459bc6f6750a",
+    "published": "2026-10-16T09:10:40.000Z"
+  },
+  {
+    "id": "fda0be49be89fc64c8e44a659a5f36d407b262d6",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/20714c01d868f4143d4b83af9f8f46d39abdccd0",
+    "published": "2026-10-16T06:16:34.000Z"
+  },
+  {
+    "id": "6def1af444f0bb8af1334b4e3fae1c8ec0879d26",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+    "summary": "Nick Cammarata out of nowhere with some major claims!",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!riZI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50483d29-b6d4-485b-b93a-5b6a14e29ce6_2028x1228.png",
+    "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+    "published": "2026-10-16T04:16:45.000Z"
+  },
+  {
+    "id": "03babfb44d708eae8fa4d241fdb3753bf8945a6f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/541fc410a6ee0e73a813474fadaad10664a2b89f",
+    "published": "2026-10-16T03:11:41.000Z"
+  },
+  {
+    "id": "1b5f1e921ecaf88e42be866dc4a624d158d08ca9",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/21372d9e2dfb8bbeadff2b3a9907ee4c41569044",
+    "published": "2026-10-16T00:23:57.000Z"
+  },
+  {
+    "id": "25101b8ef5f22a3c2d3ba9ec1d54c08f79807b46",
     "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
@@ -8,20 +68,44 @@
     "title": "chore: regenerate README + carousel from CSV [skip ci]",
     "summary": "chore: regenerate README + carousel from CSV [skip ci]",
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/62b322a2f7cd92e59a39d174427e03d289a694e1",
-    "published": "2026-10-15T20:11:35.000Z"
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c5966638b83a2b6a0d0c646b31874d27400f0fcf",
+    "published": "2026-10-15T23:05:38.000Z"
   },
   {
-    "id": "2d54353d6264159988e302be446456bd2faa8919",
+    "id": "bf578fa2021d6bb272c95be41d8f3f1d612f0197",
     "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
     "lang": "en",
-    "title": "Add resource: funes (#3179)",
-    "summary": "Add resource: funes (#3179) Category: Memory & Context Persistence Author: David Corvoysier From issue: #2767 Co-authored-by: github-actions[bot]",
+    "title": "Add resource: Mycelium (#3180)",
+    "summary": "Add resource: Mycelium (#3180) Category: Agent Orchestration Author: Håvard Bartnes From issue: #2766 Co-authored-by: github-actions[bot]",
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/936b0f4744e9a42bfa4086229bb5bb7f07c71316",
-    "published": "2026-10-15T20:11:10.000Z"
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c57b440b25a5c2a5a96bd06d6f42da89fc1486bb",
+    "published": "2026-10-15T23:05:16.000Z"
+  },
+  {
+    "id": "4c631959a0250aa0ac0f051104c63f03ab13690c",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/eafe3e27ddff567b6376f2d571faeb8d2bd0cbf4",
+    "published": "2026-10-15T22:56:58.000Z"
+  },
+  {
+    "id": "786b97f7dee99adff38741c753efa035a36e71da",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: pstack-claude (#3178)",
+    "summary": "Add resource: pstack-claude (#3178) Category: Agent Orchestration Author: Michael Denyer From issue: #2786 Signed-off-by: Really Him Co-authored-by: github-actions[bot] Co-authored-by: Really Him",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/62b9b435e82d30bfa56c82eab0a1f663d0bdb025",
+    "published": "2026-10-15T22:56:38.000Z"
   },
   {
     "id": "08c79764230e6e3c00b2a92d38de4cd37476bb83",
@@ -53,23 +137,11 @@
     "type": "video",
     "category": "ai",
     "lang": "en",
-    "title": "You’re Using The Wrong Claude.",
+    "title": "Claude Code Makes Regular Claude Feel Dumb",
     "summary": "",
     "thumbnail": "https://i.ytimg.com/vi/fDE5R4fSq2w/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=fDE5R4fSq2w",
     "published": "2026-10-15T18:24:45.000Z"
-  },
-  {
-    "id": "417381d21454da9f1ac0ef7a687b8135da89ad57",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2d657f198d41ee658ac69da61de61109635e732e",
-    "published": "2026-10-15T18:12:19.000Z"
   },
   {
     "id": "0e4f8374803f0b7c68099515797f014d4488fcba",
@@ -84,42 +156,6 @@
     "published": "2026-10-15T16:55:18.000Z"
   },
   {
-    "id": "f449c4b179692640d76850fb31848f05c15434dc",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/f882ae41036cdce0ee3278002aec4ea2929a3b34",
-    "published": "2026-10-15T15:10:03.000Z"
-  },
-  {
-    "id": "3470083eb3b6c65214c266c241732b5e4d95cdf3",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/eb40c09e982ee343d094871fc01d5e66c026dbc4",
-    "published": "2026-10-15T13:20:14.000Z"
-  },
-  {
-    "id": "c0a2b6b33846820b0b5f5c8fca78fd3a392397ab",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: LinkedIn Skills (#3177)",
-    "summary": "Add resource: LinkedIn Skills (#3177) Category: Skills Author: Serge Bulaev From issue: #2824 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/aed2f6ba59e37360882bd30fdc5f5b4dfcad5cbe",
-    "published": "2026-10-15T13:19:52.000Z"
-  },
-  {
     "id": "6702d1aaf0afce3a0dfd6fd72022bf7a56660fcd",
     "source": "Simon Willison",
     "type": "blog",
@@ -132,18 +168,6 @@
     "published": "2026-10-15T13:04:03.000Z"
   },
   {
-    "id": "ab213e3aee11c7c8255ec26184e01bdb121f85ec",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e5df6776a08fc63f9d117defd240dccfb9b178cf",
-    "published": "2026-10-15T12:15:00.000Z"
-  },
-  {
     "id": "0c6f09c40e01f05364db1cc731c15d0705562324",
     "source": "Latent Space",
     "type": "podcast",
@@ -154,18 +178,6 @@
     "thumbnail": null,
     "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
     "published": "2026-10-15T10:08:08.000Z"
-  },
-  {
-    "id": "348db8370e92e179e207c44cdbacb314f94a169b",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/30ec3281cb869a37dd6180e5c4b463cf24b585e3",
-    "published": "2026-10-15T09:10:49.000Z"
   },
   {
     "id": "7d1dc0be0b5b056808fdab5f5d829c661137c471",
@@ -454,18 +466,6 @@
     "thumbnail": "https://i.ytimg.com/vi/FAQj3rFdnbs/mqdefault.jpg",
     "url": "https://www.youtube.com/shorts/FAQj3rFdnbs",
     "published": "2026-10-11T17:43:47.000Z"
-  },
-  {
-    "id": "fee9bab748db3442e6c4c9f4e0115779e34984d4",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
-    "summary": "Tomorrow and Tuesday. If you see this you’re in!",
-    "thumbnail": "https://substackcdn.com/image/fetch/$s_!_nLY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e5a4f6f-c772-404a-b4cd-1d7a17df970e_800x800.jpeg",
-    "url": "https://www.latent.space/p/nyc2026",
-    "published": "2026-10-10T22:07:17.000Z"
   },
   {
     "id": "5b421e61d1a394c9a2c0dec344f4c9b7a20e7a3a",
