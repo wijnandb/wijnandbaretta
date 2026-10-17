@@ -1,5 +1,41 @@
 [
   {
+    "id": "83e9adec055b6d1a678795dce940a8f3412cc04a",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/ec755017a22d8c87ba9ac1429b7abd0deb79d7f4",
+    "published": "2026-10-17T18:09:48.000Z"
+  },
+  {
+    "id": "0097889dc70165b056fe665b7bed56801e73dc7e",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/1366b34e00a7ab4590036bdfc1d5593ed57a38c2",
+    "published": "2026-10-17T15:08:07.000Z"
+  },
+  {
+    "id": "6281d67f77036784e14532de4d1e9c6cba23ac1f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/6f5ff53df06b518c6a68be9c5783cbfb22339bb1",
+    "published": "2026-10-17T12:12:45.000Z"
+  },
+  {
     "id": "b45c6840722d8a2123fc99220d123a0eeb4f80a1",
     "source": "awesome-claude-code",
     "type": "repo",
@@ -72,18 +108,6 @@
     "published": "2026-10-16T22:32:01.000Z"
   },
   {
-    "id": "43bb4895a63a46cfee2d75cda03496858c3a4e4d",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "Add resource: geoai-skills (#3183)",
-    "summary": "Add resource: geoai-skills (#3183) Category: Research & Scientific Inquiry Author: muend From issue: #2730 Co-authored-by: github-actions[bot]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/cc4ed59c35675a44bd1a108fd89a6de3bd7a0348",
-    "published": "2026-10-16T22:31:41.000Z"
-  },
-  {
     "id": "e946af68fd7dbe0ee8bcb88db54b31dfc511d4c1",
     "source": "Simon Willison",
     "type": "blog",
@@ -94,30 +118,6 @@
     "thumbnail": null,
     "url": "https://simonwillison.net/2026/Oct/16/code-review/",
     "published": "2026-10-16T22:06:37.000Z"
-  },
-  {
-    "id": "d2dddcdec0cd9a64c07ffb94c9488588f1aaa20f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b46173b23f5217f1a44f5b4f0cfb8841db03f574",
-    "published": "2026-10-16T21:08:13.000Z"
-  },
-  {
-    "id": "0efaa5f9c6a52e3013776445df27f498298b8a64",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3b8b308d75f2b9a1bc7fa1eab436a5406f08b4bd",
-    "published": "2026-10-16T20:51:21.000Z"
   },
   {
     "id": "3f8c6db05fb3adc195307a2c92f2bbb67bd588a9",
