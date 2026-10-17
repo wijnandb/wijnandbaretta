@@ -1,6 +1,6 @@
 [
   {
-    "id": "7ea0c6ee0370abee21598ce18b17742f14db7157",
+    "id": "b45c6840722d8a2123fc99220d123a0eeb4f80a1",
     "source": "awesome-claude-code",
     "type": "repo",
     "category": "ai",
@@ -8,8 +8,116 @@
     "title": "chore: update repo ticker data and SVGs [skip ci]",
     "summary": "chore: update repo ticker data and SVGs [skip ci]",
     "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2b9ec0b1cd964596d1e47c375feb184abc0edef9",
-    "published": "2026-10-16T18:11:52.000Z"
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/2f4c992ab9ede8e7d523adf435e1528141daaabc",
+    "published": "2026-10-17T09:09:21.000Z"
+  },
+  {
+    "id": "25f370b6a2f3e6415f2fac1d67d724124f1b5112",
+    "source": "Latent Space",
+    "type": "podcast",
+    "category": "ai",
+    "lang": "en",
+    "title": "[AINews] High Taste Testers Ep. 1",
+    "summary": "a quiet day lets us pilot a new show",
+    "thumbnail": null,
+    "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+    "published": "2026-10-17T07:47:38.000Z"
+  },
+  {
+    "id": "c2efa7c4de0d4fa58d251b9a6eb88cf04569d479",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/d9b87c22985ee0a24ab775d94e3ffc78c9ff179c",
+    "published": "2026-10-17T06:14:44.000Z"
+  },
+  {
+    "id": "8bc30bc72123f245d975bb47b214d8d09e04e8bb",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3dde39b3da27beb613f9ffbe1fbc4e62d8a0cd4b",
+    "published": "2026-10-17T03:10:48.000Z"
+  },
+  {
+    "id": "bf46e942c9cefc33a9ccff06a8e2838cb7eaba7f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/51230b9c70e2b5307597036715eb6d68fcf13593",
+    "published": "2026-10-17T00:24:56.000Z"
+  },
+  {
+    "id": "97c564d8383c349dfd7f7f44bbea195b453921f1",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/e507f1333d309c97e49f81e5a2683a51ec357a83",
+    "published": "2026-10-16T22:32:01.000Z"
+  },
+  {
+    "id": "43bb4895a63a46cfee2d75cda03496858c3a4e4d",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "Add resource: geoai-skills (#3183)",
+    "summary": "Add resource: geoai-skills (#3183) Category: Research & Scientific Inquiry Author: muend From issue: #2730 Co-authored-by: github-actions[bot]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/cc4ed59c35675a44bd1a108fd89a6de3bd7a0348",
+    "published": "2026-10-16T22:31:41.000Z"
+  },
+  {
+    "id": "e946af68fd7dbe0ee8bcb88db54b31dfc511d4c1",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+    "summary": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking that question also...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+    "published": "2026-10-16T22:06:37.000Z"
+  },
+  {
+    "id": "d2dddcdec0cd9a64c07ffb94c9488588f1aaa20f",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: update repo ticker data and SVGs [skip ci]",
+    "summary": "chore: update repo ticker data and SVGs [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/b46173b23f5217f1a44f5b4f0cfb8841db03f574",
+    "published": "2026-10-16T21:08:13.000Z"
+  },
+  {
+    "id": "0efaa5f9c6a52e3013776445df27f498298b8a64",
+    "source": "awesome-claude-code",
+    "type": "repo",
+    "category": "ai",
+    "lang": "en",
+    "title": "chore: regenerate README + carousel from CSV [skip ci]",
+    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
+    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/3b8b308d75f2b9a1bc7fa1eab436a5406f08b4bd",
+    "published": "2026-10-16T20:51:21.000Z"
   },
   {
     "id": "3f8c6db05fb3adc195307a2c92f2bbb67bd588a9",
@@ -24,54 +132,6 @@
     "published": "2026-10-16T17:30:21.000Z"
   },
   {
-    "id": "24e19b190f67100c252003fa2d57315fa0edb4a7",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/caa0aa821db545596477278836c7587836971779",
-    "published": "2026-10-16T15:09:13.000Z"
-  },
-  {
-    "id": "3d99a83c6c177a9e3ee01027bbbc32df3295afa7",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/7b7c9ecc22475e5253ca97fa260c8069cc051e5d",
-    "published": "2026-10-16T12:14:41.000Z"
-  },
-  {
-    "id": "ca0fa69a9cd1b13ae54f0c9bedf4fd1e840b6592",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/33dabfae31944359b6c668051a1f459bc6f6750a",
-    "published": "2026-10-16T09:10:40.000Z"
-  },
-  {
-    "id": "fda0be49be89fc64c8e44a659a5f36d407b262d6",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/20714c01d868f4143d4b83af9f8f46d39abdccd0",
-    "published": "2026-10-16T06:16:34.000Z"
-  },
-  {
     "id": "6def1af444f0bb8af1334b4e3fae1c8ec0879d26",
     "source": "Latent Space",
     "type": "podcast",
@@ -82,42 +142,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!riZI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50483d29-b6d4-485b-b93a-5b6a14e29ce6_2028x1228.png",
     "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
     "published": "2026-10-16T04:16:45.000Z"
-  },
-  {
-    "id": "03babfb44d708eae8fa4d241fdb3753bf8945a6f",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/541fc410a6ee0e73a813474fadaad10664a2b89f",
-    "published": "2026-10-16T03:11:41.000Z"
-  },
-  {
-    "id": "1b5f1e921ecaf88e42be866dc4a624d158d08ca9",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: update repo ticker data and SVGs [skip ci]",
-    "summary": "chore: update repo ticker data and SVGs [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/21372d9e2dfb8bbeadff2b3a9907ee4c41569044",
-    "published": "2026-10-16T00:23:57.000Z"
-  },
-  {
-    "id": "25101b8ef5f22a3c2d3ba9ec1d54c08f79807b46",
-    "source": "awesome-claude-code",
-    "type": "repo",
-    "category": "ai",
-    "lang": "en",
-    "title": "chore: regenerate README + carousel from CSV [skip ci]",
-    "summary": "chore: regenerate README + carousel from CSV [skip ci]",
-    "thumbnail": "https://avatars.githubusercontent.com/in/15368?s=30&amp;v=4",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code/commit/c5966638b83a2b6a0d0c646b31874d27400f0fcf",
-    "published": "2026-10-15T23:05:38.000Z"
   },
   {
     "id": "08c79764230e6e3c00b2a92d38de4cd37476bb83",
@@ -288,6 +312,18 @@
     "published": "2026-10-15T05:52:43.000Z"
   },
   {
+    "id": "e3274600bfe5739a9a413a6d7122a0e1f5994d65",
+    "source": "Simon Willison",
+    "type": "blog",
+    "category": "ai",
+    "lang": "en",
+    "title": "LaTeX renderer",
+    "summary": "Tool: LaTeX renderer Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office, which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder,...",
+    "thumbnail": null,
+    "url": "https://simonwillison.net/2026/Oct/15/latex/",
+    "published": "2026-10-15T02:07:28.000Z"
+  },
+  {
     "id": "88824e0cb1ca83230c852f58032be58e04f251bd",
     "source": "Astro",
     "type": "blog",
@@ -420,18 +456,6 @@
     "published": "2026-10-13T16:03:33.000Z"
   },
   {
-    "id": "87e22abf54d8b62861d4d05c87f88be35472b659",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "Quoting Geoffrey Huntley",
-    "summary": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for...",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
-    "published": "2026-10-13T13:32:00.000Z"
-  },
-  {
     "id": "ec132ecc411f087e67783cb847c6e8360c05e005",
     "source": "Latent Space",
     "type": "podcast",
@@ -442,30 +466,6 @@
     "thumbnail": "https://substackcdn.com/image/fetch/$s_!RofT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHUck_odaQAA3OF2.jpg",
     "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
     "published": "2026-10-13T09:37:04.000Z"
-  },
-  {
-    "id": "9512e72db4bde2c642527e022a72a3ed7684e8aa",
-    "source": "Simon Willison",
-    "type": "blog",
-    "category": "ai",
-    "lang": "en",
-    "title": "web-edit 0.1a1",
-    "summary": "Release: web-edit 0.1a1 Includes performance optimizations written by Claude Opus 5.5 after I fed it this Python 3.15 profiling report generated by GPT-6 Astra. Tags: profiling, projects",
-    "thumbnail": null,
-    "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
-    "published": "2026-10-13T01:40:05.000Z"
-  },
-  {
-    "id": "728a22683c3ed7dcc48a41c2ebc23a978083d7ad",
-    "source": "Latent Space",
-    "type": "podcast",
-    "category": "ai",
-    "lang": "en",
-    "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents (Updated with video!)",
-    "summary": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
-    "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/dda42c05-6ce1-4e54-b544-f7d1557f04b2_1280x720.jpeg",
-    "url": "https://www.latent.space/p/claude-dynamic-workflows",
-    "published": "2026-10-12T18:18:17.000Z"
   },
   {
     "id": "625de5129e3ec3307a05885075232957a2762fda",
