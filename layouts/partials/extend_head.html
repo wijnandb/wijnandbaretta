@@ -30,12 +30,14 @@
   "url": "{{ .Site.BaseURL }}",
   "author": {
     "@type": "Person",
+    "@id": "https://wijnandbaretta.nl/#person",
     "name": "Wijnand Baretta",
-    "url": "{{ .Site.BaseURL }}about/",
+    "url": "https://wijnandbaretta.nl/",
     "sameAs": [
-      "https://github.com/wijnandb/",
+      "https://wijnandbaretta.com/",
       "https://www.linkedin.com/in/wijnandbaretta/",
-      "https://x.com/wijnandb/"
+      "https://github.com/wijnandb",
+      "https://x.com/wijnandb"
     ]
   },
   "potentialAction": {
@@ -58,10 +60,12 @@
   "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
   "author": {
     "@type": "Person",
+    "@id": "https://wijnandbaretta.nl/#person",
     "name": "Wijnand Baretta"
   },
   "publisher": {
     "@type": "Person",
+    "@id": "https://wijnandbaretta.nl/#person",
     "name": "Wijnand Baretta"
   }{{ with .Description }},
   "description": "{{ . }}"{{ end }}
